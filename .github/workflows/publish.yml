@@ -1,0 +1,49 @@
+name: Publish data.json
+
+# Publishes data.json to https://nicos0351.github.io/then-and-now-data/data.json
+# every time main changes - but only after the same checks as "Check data.json"
+# pass, so a broken file is never published.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check data.json
+        run: |
+          git show HEAD~1:data.json > /tmp/base.json 2>/dev/null || echo '{}' > /tmp/base.json
+          python validate.py data.json --base /tmp/base.json
+      - name: Prepare the site (data.json only)
+        run: |
+          mkdir _site
+          cp data.json _site/data.json
+          touch _site/.nojekyll
+          printf '<!doctype html><meta charset="utf-8"><title>Then &amp; Now data</title><p>Town data for the Then &amp; Now: SA Town Names app: <a href="data.json">data.json</a></p>\n' > _site/index.html
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

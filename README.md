@@ -57,8 +57,10 @@ A town looks like this:
 2. **You review.** Open the pull request, read the sources, and check the
    **"Check data.json"** result at the bottom: green means the file is
    valid.
-3. **Merge to publish.** Click *Merge*. GitHub Pages republishes within a
-   few minutes and phones pick it up on their next check.
+3. **Merge to publish.** Click *Merge*. The **"Publish data.json"** step
+   checks the file again and republishes it within a few minutes; phones
+   pick it up on their next check. If the check fails, nothing is
+   published and the previous data stays live.
 
 You can also edit `data.json` yourself in GitHub's web editor (pencil
 icon). Raise `dataVersion`, add a `changes` entry, and commit. The same
