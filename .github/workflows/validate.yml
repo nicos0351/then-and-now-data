@@ -27,3 +27,6 @@ jobs:
           fi
       - name: Validate
         run: python validate.py data.json --base /tmp/base.json
+      - name: Validate the Offline Maps pack list (if there is one)
+        run: |
+          if [ -f offline/packs.json ]; then python validate_packs.py offline/packs.json; else echo "No offline/packs.json - skipped"; fi

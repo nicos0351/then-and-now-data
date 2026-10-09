@@ -83,6 +83,22 @@ check runs.
 
 Run the check yourself with `python validate.py data.json`.
 
+## Offline Maps packs (optional)
+
+The app's paid **Offline Maps** add-on reads its list of downloadable map
+packs from `offline/packs.json` in this repository, published at
+`https://nicos0351.github.io/then-and-now-data/offline/packs.json`. Until
+that file exists, nothing is published and the add-on stays hidden in
+the app.
+
+- The `.mbtiles` map files themselves are **not** stored here. Attach them
+  to a GitHub **Release** of this repository and put each download link in
+  `packs.json`.
+- `validate_packs.py` checks the list on every pull request and before
+  publishing (format, https links, exact sizes, zoom ranges).
+- The format, how to make packs legally and the size estimates are in the
+  app's README ("Offline Maps add-on").
+
 ## Licences
 
 Town names, positions and populations come from

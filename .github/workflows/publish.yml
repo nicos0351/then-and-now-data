@@ -1,6 +1,7 @@
 name: Publish data.json
 
 # Publishes data.json to https://nicos0351.github.io/then-and-now-data/data.json
+# (and offline/packs.json, when it exists, to .../offline/packs.json)
 # every time main changes - but only after the same checks as "Check data.json"
 # pass, so a broken file is never published.
 
@@ -35,10 +36,12 @@ jobs:
         run: |
           git show HEAD~1:data.json > /tmp/base.json 2>/dev/null || echo '{}' > /tmp/base.json
           python validate.py data.json --base /tmp/base.json
-      - name: Prepare the site (data.json only)
+          if [ -f offline/packs.json ]; then python validate_packs.py offline/packs.json; fi
+      - name: Prepare the site (data.json, plus the Offline Maps pack list if there is one)
         run: |
           mkdir _site
           cp data.json _site/data.json
+          if [ -f offline/packs.json ]; then mkdir _site/offline && cp offline/packs.json _site/offline/packs.json; fi
           touch _site/.nojekyll
           printf '<!doctype html><meta charset="utf-8"><title>Then &amp; Now data</title><p>Town data for the Then &amp; Now: SA Town Names app: <a href="data.json">data.json</a></p>\n' > _site/index.html
       - uses: actions/configure-pages@v5
