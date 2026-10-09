@@ -1,0 +1,29 @@
+name: Check data.json
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Get the currently published version to compare against
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git show "origin/${{ github.base_ref }}:data.json" > /tmp/base.json 2>/dev/null || echo '{}' > /tmp/base.json
+          else
+            git show HEAD~1:data.json > /tmp/base.json 2>/dev/null || echo '{}' > /tmp/base.json
+          fi
+      - name: Validate
+        run: python validate.py data.json --base /tmp/base.json
