@@ -18,7 +18,7 @@ map. Users get new renames without an app update.
 | `dataVersion` | **Raise by 1 every time you change anything.** Phones only update when this goes up. |
 | `updated` | Date of this version, e.g. `"2026-11-03"`. |
 | `changes` | List of `{version, date, summary}`. Add one per version; the app shows the summaries under "What's new". |
-| `towns` | Every town on the map (same format as `assets/towns.json` in the app). |
+| `towns` | Every place on the map: towns, plus renamed airports, dams and mountain passes (same format as `assets/towns.json` in the app). |
 | `stories` | Name meanings and pronunciation guides (same format as `assets/name_stories.json`). |
 
 A town looks like this:
@@ -40,6 +40,9 @@ A town looks like this:
 }
 ```
 
+- `kind` is `"airport"`, `"dam"` or `"pass"` for those places; leave it
+  out for towns. The app gives each kind its own pin, and only towns count
+  for "Where am I?".
 - **Never change a town's `key`.** It's how phones recognise the town, even
   after its name changes. For a brand-new town, invent a new unique key
   starting with `asset:`.

@@ -1,12 +1,17 @@
 {
  "format": 1,
- "dataVersion": 3,
+ "dataVersion": 4,
  "updated": "2026-10-09",
  "changes": [
   {
    "version": 3,
    "date": "2026-10-09",
    "summary": "First published data: 986 towns, 79 with a documented name history, with name stories and pronunciation guides."
+  },
+  {
+   "version": 4,
+   "date": "2026-10-09",
+   "summary": "Renamed airports, dams and a mountain pass are now on the map, e.g. Jan Smuts → O. R. Tambo International Airport and Hendrik Verwoerd Dam → Gariep Dam."
   }
  ],
  "towns": [
@@ -1221,6 +1226,21 @@
    "population": 4772846
   },
   {
+   "key": "asset:cape town international airport:-33.969:18.597",
+   "kind": "airport",
+   "name": "Cape Town International Airport",
+   "oldName": "D. F. Malan Airport",
+   "hasKnownRename": true,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": "Opened in 1954 as Bellville Airport and soon named after prime minister D. F. Malan; renamed Cape Town International in the early 1990s.",
+   "province": "Western Cape",
+   "latitude": -33.96944,
+   "longitude": 18.59722,
+   "population": 0,
+   "source": "https://en.wikipedia.org/wiki/Cape_Town_International_Airport"
+  },
+  {
    "key": "asset:carletonville:-26.361:27.398",
    "name": "Carletonville",
    "oldName": "Carletonville",
@@ -1402,6 +1422,21 @@
    "latitude": -33.54778,
    "longitude": 18.58201,
    "population": 4854
+  },
+  {
+   "key": "asset:chief dawid stuurman international airport:-33.985:25.610",
+   "kind": "airport",
+   "name": "Chief Dawid Stuurman International Airport",
+   "oldName": "H. F. Verwoerd Airport",
+   "hasKnownRename": true,
+   "renamedYear": 2021,
+   "reverted": false,
+   "notes": "Later known as Port Elizabeth (International) Airport; renamed Chief Dawid Stuurman International Airport in February 2021.",
+   "province": "Eastern Cape",
+   "latitude": -33.98472,
+   "longitude": 25.61028,
+   "population": 0,
+   "source": "https://en.wikipedia.org/wiki/Chief_Dawid_Stuurman_International_Airport"
   },
   {
    "key": "asset:chrissiesmeer:-26.280:30.214",
@@ -3485,6 +3520,21 @@
    "population": 1878
   },
   {
+   "key": "asset:gariep dam:-30.624:25.507",
+   "kind": "dam",
+   "name": "Gariep Dam",
+   "oldName": "Hendrik Verwoerd Dam",
+   "hasKnownRename": true,
+   "renamedYear": 1996,
+   "reverted": false,
+   "notes": "Renamed on 4 October 1996. South Africa's largest reservoir, on the Orange River.",
+   "province": "Free State",
+   "latitude": -30.6237306,
+   "longitude": 25.5066139,
+   "population": 0,
+   "source": "https://en.wikipedia.org/wiki/Gariep_Dam"
+  },
+  {
    "key": "asset:garies:-30.562:17.989",
    "name": "Garies",
    "oldName": "Garies",
@@ -5254,6 +5304,21 @@
    "latitude": -28.73226,
    "longitude": 24.76232,
    "population": 142089
+  },
+  {
+   "key": "asset:king phalo airport:-33.035:27.821",
+   "kind": "airport",
+   "name": "King Phalo Airport",
+   "oldName": "Ben Schoeman Airport",
+   "hasKnownRename": true,
+   "renamedYear": 2021,
+   "reverted": false,
+   "notes": "Called East London Airport from 1994; renamed King Phalo Airport in February 2021.",
+   "province": "Eastern Cape",
+   "latitude": -33.035,
+   "longitude": 27.82139,
+   "population": 0,
+   "source": "https://en.wikipedia.org/wiki/King_Phalo_Airport"
   },
   {
    "key": "asset:kinross:-26.417:29.087",
@@ -7168,6 +7233,21 @@
    "population": 110159
   },
   {
+   "key": "asset:mbombo pass:-31.236:27.842",
+   "kind": "pass",
+   "name": "Mbombo Pass",
+   "oldName": "Barkly Pass",
+   "hasKnownRename": true,
+   "renamedYear": 2026,
+   "reverted": false,
+   "notes": "Gazetted 6 Feb 2026 with the other Eastern Cape renames, which are under review after more than 38,000 objections (as of May 2026).",
+   "province": "Eastern Cape",
+   "latitude": -31.235667,
+   "longitude": 27.841889,
+   "population": 0,
+   "source": "https://atta.travel/resource/south-africa-gazettes-new-names-for-key-tourism-towns-and-routes.html"
+  },
+  {
    "key": "asset:mcgregor:-33.947:19.829",
    "name": "McGregor",
    "oldName": "McGregor",
@@ -8604,6 +8684,21 @@
    "longitude": 25.61918,
    "population": 43936,
    "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+  },
+  {
+   "key": "asset:o. r. tambo international airport:-26.133:28.250",
+   "kind": "airport",
+   "name": "O. R. Tambo International Airport",
+   "oldName": "Jan Smuts International Airport",
+   "hasKnownRename": true,
+   "renamedYear": 2006,
+   "reverted": false,
+   "notes": "Called Johannesburg International Airport from 1994 until 2006.",
+   "province": "Gauteng",
+   "latitude": -26.1333,
+   "longitude": 28.25,
+   "population": 0,
+   "source": "https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport"
   },
   {
    "key": "asset:oakglen:-31.051:24.433",
@@ -11916,6 +12011,21 @@
    "population": 246754
   },
   {
+   "key": "asset:vanderkloof dam:-29.992:24.732",
+   "kind": "dam",
+   "name": "Vanderkloof Dam",
+   "oldName": "P. K. le Roux Dam",
+   "hasKnownRename": true,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": "On the Orange River, between the Northern Cape and the Free State.",
+   "province": "Northern Cape",
+   "latitude": -29.99222,
+   "longitude": 24.73167,
+   "population": 0,
+   "source": "https://en.wikipedia.org/wiki/Vanderkloof_Dam"
+  },
+  {
    "key": "asset:vanrhynsdorp:-31.609:18.740",
    "name": "Vanrhynsdorp",
    "oldName": "Vanrhynsdorp",
@@ -12919,6 +13029,17 @@
    ]
   },
   {
+   "key": "asset:cape town international airport:-33.969:18.597",
+   "name": "Cape Town International Airport",
+   "say": null,
+   "sounds": [],
+   "meaning": null,
+   "formerNameOrigin": "Named after D. F. Malan, prime minister when the airport opened in 1954.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cape_Town_International_Airport"
+   ]
+  },
+  {
    "key": "asset:centane:-32.506:28.316",
    "name": "Centane",
    "say": "c·ehn-TAH-neh",
@@ -12940,6 +13061,17 @@
    "formerNameOrigin": "Verwoerdburg (1967) was named after prime minister Hendrik Verwoerd, regarded as the architect of apartheid.",
    "sources": [
     "https://en.wikipedia.org/wiki/Centurion,_Gauteng"
+   ]
+  },
+  {
+   "key": "asset:chief dawid stuurman international airport:-33.985:25.610",
+   "name": "Chief Dawid Stuurman International Airport",
+   "say": null,
+   "sounds": [],
+   "meaning": null,
+   "formerNameOrigin": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chief_Dawid_Stuurman_International_Airport"
    ]
   },
   {
@@ -13202,6 +13334,17 @@
    "sources": []
   },
   {
+   "key": "asset:gariep dam:-30.624:25.507",
+   "name": "Gariep Dam",
+   "say": null,
+   "sounds": [],
+   "meaning": "Gariep is Khoekhoe for ‘river’ – the original name of the Orange River, which the dam holds back.",
+   "formerNameOrigin": "Originally named after prime minister Hendrik Verwoerd.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gariep_Dam"
+   ]
+  },
+  {
    "key": "asset:butterworth:-32.331:28.150",
    "name": "Gcuwa",
    "say": "gc·OO-wah",
@@ -13274,6 +13417,19 @@
    "formerNameOrigin": "Elliot was named after Sir Henry George Elliot, chief magistrate of the Transkeian territories from 1891 to 1902.",
    "sources": [
     "https://en.wikipedia.org/wiki/Elliot,_Eastern_Cape"
+   ]
+  },
+  {
+   "key": "asset:king phalo airport:-33.035:27.821",
+   "name": "King Phalo Airport",
+   "say": "king PAH-law",
+   "sounds": [
+    "aspirated"
+   ],
+   "meaning": null,
+   "formerNameOrigin": "Named after Ben Schoeman, the minister of transport at the time.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/King_Phalo_Airport"
    ]
   },
   {
@@ -13477,6 +13633,20 @@
    "formerNameOrigin": "Nelspruit was named after the Nel family who grazed cattle here, with spruit, an Afrikaans word for a stream.",
    "sources": [
     "https://en.wikipedia.org/wiki/Mbombela"
+   ]
+  },
+  {
+   "key": "asset:mbombo pass:-31.236:27.842",
+   "name": "Mbombo Pass",
+   "say": "m-BOM-baw",
+   "sounds": [
+    "m"
+   ],
+   "meaning": null,
+   "formerNameOrigin": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Barkly_Pass",
+    "https://atta.travel/resource/south-africa-gazettes-new-names-for-key-tourism-towns-and-routes.html"
    ]
   },
   {
@@ -13688,6 +13858,18 @@
    ]
   },
   {
+   "key": "asset:o. r. tambo international airport:-26.133:28.250",
+   "name": "O. R. Tambo International Airport",
+   "say": null,
+   "sounds": [],
+   "meaning": "Honours Oliver Reginald Tambo (1917–1993), anti-apartheid leader and president of the ANC from 1967 to 1991.",
+   "formerNameOrigin": "Opened in 1952 as Jan Smuts International Airport, after the former prime minister.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport",
+    "https://en.wikipedia.org/wiki/Oliver_Tambo"
+   ]
+  },
+  {
    "key": "asset:tongaat:-29.574:31.116",
    "name": "oThongathi",
    "say": "aw-taw-NGAH-tee",
@@ -13782,6 +13964,17 @@
    "formerNameOrigin": "Ladysmith (1850) was named after Juana María de los Dolores de León Smith, wife of governor Sir Harry Smith.",
    "sources": [
     "https://en.wikipedia.org/wiki/Ladysmith,_KwaZulu-Natal"
+   ]
+  },
+  {
+   "key": "asset:vanderkloof dam:-29.992:24.732",
+   "name": "Vanderkloof Dam",
+   "say": null,
+   "sounds": [],
+   "meaning": null,
+   "formerNameOrigin": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vanderkloof_Dam"
    ]
   },
   {

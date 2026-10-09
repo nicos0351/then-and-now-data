@@ -14,6 +14,7 @@ PROVINCES = {
     "Eastern Cape", "Free State", "Gauteng", "KwaZulu-Natal", "Limpopo",
     "Mpumalanga", "North West", "Northern Cape", "Western Cape",
 }
+KINDS = {"town", "airport", "dam", "pass"}   # the app ignores files with other kinds
 MIN_TOWNS = 900          # the app refuses files with fewer towns than this
 FORMAT = 1               # bump only together with an app release that understands the new format
 SOUND_CODES = {"c", "q", "x", "gc", "gq", "nc", "nq", "nx", "ngc", "ngq", "rh", "hl", "dl",
@@ -58,6 +59,8 @@ def check(path, base_path=None):
                             ("longitude", (int, float)), ("population", int)]:
             if not isinstance(t.get(field), kind):
                 err(f"{where}: '{field}' is missing or the wrong type")
+        if t.get("kind", "town") not in KINDS:
+            err(f"{where}: kind must be one of {sorted(KINDS)} (or left out for a town)")
         if t.get("renamedYear") is not None and not isinstance(t.get("renamedYear"), int):
             err(f"{where}: renamedYear must be a year or null")
         if t.get("notes") is not None and not isinstance(t.get("notes"), str):
