@@ -1,7 +1,7 @@
 {
  "format": 1,
- "dataVersion": 4,
- "updated": "2026-10-09",
+ "dataVersion": 5,
+ "updated": "2026-10-12",
  "changes": [
   {
    "version": 3,
@@ -12,6 +12,11 @@
    "version": 4,
    "date": "2026-10-09",
    "summary": "Renamed airports, dams and a mountain pass are now on the map, e.g. Jan Smuts → O. R. Tambo International Airport and Hendrik Verwoerd Dam → Gariep Dam."
+  },
+  {
+   "version": 5,
+   "date": "2026-10-12",
+   "summary": "Clearer wording in three town notes (Louis Trichardt, Vaalwater and Reitz)."
   }
  ],
  "towns": [
@@ -6347,7 +6352,7 @@
    "hasKnownRename": true,
    "renamedYear": 2007,
    "reverted": true,
-   "notes": "Renamed Makhado in 2003; the change was set aside and the town reverted to Louis Trichardt in 2007. Its pre-1994 name is the same as today's.",
+   "notes": "Renamed Makhado in 2003; the change was set aside and the town reverted to Louis Trichardt in 2007, so its previous name is the same as today's.",
    "province": "Limpopo",
    "latitude": -23.04385,
    "longitude": 29.90319,
@@ -9853,7 +9858,7 @@
    "hasKnownRename": true,
    "renamedYear": null,
    "reverted": false,
-   "notes": "Founded as Singer's Post, then called Amsterdam, and renamed Reitz in the late 1880s after Free State president F. W. Reitz - so it was already Reitz long before 1994.",
+   "notes": "Founded as Singer's Post, then called Amsterdam, and renamed Reitz in the late 1880s after Free State president F. W. Reitz - so it has been Reitz for well over a century.",
    "province": "Free State",
    "latitude": -27.80138,
    "longitude": 28.42726,
@@ -11964,7 +11969,7 @@
    "hasKnownRename": true,
    "renamedYear": 2007,
    "reverted": true,
-   "notes": "Renamed Mabatlane in 2006 and reverted to Vaalwater in 2007. Its pre-1994 name is the same as today's.",
+   "notes": "Renamed Mabatlane in 2006 and reverted to Vaalwater in 2007, so its previous name is the same as today's.",
    "province": "Limpopo",
    "latitude": -24.2957,
    "longitude": 28.11415,

@@ -46,8 +46,8 @@ A town looks like this:
 - **Never change a town's `key`.** It's how phones recognise the town, even
   after its name changes. For a brand-new town, invent a new unique key
   starting with `asset:`.
-- To record a rename: put the new name in `name`, the name it had before
-  1994 in `oldName`, set `hasKnownRename` to `true`, and fill in
+- To record a rename: put the new name in `name`, the previous name in
+  `oldName`, set `hasKnownRename` to `true`, and fill in
   `renamedYear` and `source`.
 - If a rename has a story entry, update the story's `name` to match.
 
