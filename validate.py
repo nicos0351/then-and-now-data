@@ -106,7 +106,7 @@ def check(path, base_path=None):
     for t in towns:
         if t.get("hasKnownRename") and str(t.get("oldName", "")).lower() != str(t.get("name", "")).lower():
             if t.get("key") not in story_keys:
-                warnings.append(f"{t.get('name')}: renamed, but has no story/pronunciation entry yet")
+                warnings.append(f"{t.get('name')}: renamed, but has no name story yet (optional)")
 
     if base_path:
         try:

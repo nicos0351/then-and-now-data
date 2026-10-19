@@ -1,0 +1,274 @@
+# Mountain passes with coordinates from Wikipedia's "List of mountain passes of <province>"
+# pages (19 Oct 2026). Format: name;latitude;longitude. Added where OpenStreetMap has no pin
+# for the same pass nearby.
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_Mpumalanga
+Bothasnek;-25.7525;30.8584
+Caspersnek Pass;-24.7322;30.7173
+Crossroads Pass;-25.5971;30.2919
+De Berg Pass;-25.2156;30.1725
+Elands Pass;-25.6477;30.3612
+Hennings Pass;-25.5042;30.2262
+Jaap-se-Hoogte;-25.1459;30.2914
+Kaapsehoop Pass;-25.5988;30.7656
+Kowyn Pass;-24.9624;30.8576
+Kranspoort Pass;-25.4506;29.4592
+Long Tom Pass;-25.1508;30.6239
+Mokobulaan Pass;-25.2711;30.5258
+Montrose Pass;-25.4438;30.7225
+Mpageni Pass;-25.5543;31.2024
+Nelshoogte;-25.8530;30.7616
+Nylshoogte Pass;-25.7569;30.8408
+Robbers Pass;-24.8711;30.6922
+Santa Pass;-25.3395;30.1747
+Schoemanskloof Pass;-25.3870;30.5246
+Skurweberg Pass;-25.7955;30.3717
+Sudwala Pass;-25.3399;30.7338
+Veraaiersnek Pass;-24.8958;30.5492
+Watervalsrivier Pass;-24.9382;30.3677
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_Limpopo
+Abel Erasmus Pass;-24.4469;30.6119
+Chuniespoort;-24.2505;29.5387
+Jack's Pass;-22.3230;30.9303
+Magoebaskloof Pass;-23.8638;30.0068
+Masekwaspoort;-22.8841;29.8744
+Orris Baragwanath Pass;-24.1097;30.1426
+Rankin's Pass;-24.5044;27.8635
+Van Collers Pass;-22.9190;29.6095
+Wyllie's Poort;-22.9236;29.9326
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_the_Western_Cape
+Akkedisberg Pass;-34.4096;19.5976
+Attakwaskloof Pass;-33.8425;21.9832
+Bainskloof Pass;-33.6024;19.1117
+Blinkberg Pass;-32.7027;19.4189
+Bloukrans Pass;-33.9542;23.6447
+Bosluiskloof Pass;-33.3422;21.4852
+Bothmanskloof Pass;-33.4060;18.8767
+Burgers Pass;-33.6891;19.9207
+Chapman's Peak Drive;-34.0761;18.3641
+Cloete's Pass;-33.9587;21.7980
+Dasklip Pass;-32.9037;19.0384
+De Jagers Pass;-32.0766;22.7474
+Du Plessis Pass;-34.0774;21.7718
+Du Toitskloof Pass;-33.7247;19.1466
+Dwarskloof Pass;-34.1002;19.6147
+Eselbank Pass;-32.30034;19.21946
+Floorshoogte Pass;-34.1538;19.3010
+Franschhoek Pass;-33.9163;19.1584
+Gamkaskloof;-33.3415;21.8768
+Garcia's Pass;-33.9683;21.2196
+Gifberg Pass;-31.7441;18.7792
+Grootrivier Pass;-33.9657;23.5616
+Gydo Pass;-33.2339;19.3308
+Gysmanshoek Pass;-33.9374;21.0542
+Helshoogte Pass;-33.9192;18.9202
+Hex River Pass;-33.4017;19.7597
+Hex River Poort;-33.5512;19.5215
+Hoek se Berg Pass;-32.1209;19.1792
+Homtini Pass;-33.9497;22.9187
+Hoogekraal Pass;-33.9324;22.7811
+Houwhoek Pass;-34.2137;19.1672
+Huisrivier Pass;-33.5026;21.5961
+Kaaimans River Pass;-33.9711;22.5462
+Karatera Pass;-33.9248;22.8499
+Kareedouwberg Pass;-33.2777;22.2782
+Karelskraal Pass;-32.5001;21.1910
+Katbakkies Pass;-32.8976;19.5545
+Cogmanskloof Pass;-33.8132;20.0900
+Kouberg Pass;-32.25346;19.18700
+Langkloof Pass;-33.7323;20.2569
+Meiringspoort;-33.4163;22.5497
+Middelberg Pass;-32.6280;19.1421
+Michell's Pass;-33.3788;19.2965
+Molteno Pass;-32.2262;22.5622
+Montagu Pass;-33.8826;22.4351
+Nieuwoudt Pass;-32.3472;19.0133
+Nuwekloof Pass;-33.3125;19.0739
+Ouberg Pass;-33.6952;20.2442
+Oudekloof Pass;-33.2662;19.0633
+Outeniqua Pass;-33.8864;22.3991
+Pakhuis Pass;-32.1457;19.0341
+Phantom Pass;-34.0017;22.9950
+Piekenierskloof Pass;-32.6429;18.9475
+Potjiesberg Pass;-33.7125;23.0475
+Prince Alfred Pass;-33.7698;23.1434
+Rammelkop Pass;-32.5306;21.1819
+Robinson Pass;-33.8810;22.0262
+Rooiberg Pass;-33.6501;21.6430
+Rooihoogte Pass;-33.6094;19.8407
+Rooinek Pass;-33.3247;20.9226
+Rooiwalspoort;-30.7950;18.4509
+Roseberg Pass;-32.2613;22.5680
+Schoemanspoort;-33.4229;22.2459
+Seweweekspoort;-33.4136;21.4069
+Shaws Mountain Pass;-34.3112;19.4154
+Silver River Pass;-33.9653;22.5618
+Sir Lowry's Pass;-34.1497;18.9283
+Skitterykloof Pass;-32.8783;19.7228
+Stokoe's Pass;-34.0754;18.9964
+Swaarmoed Pass;-33.3427;19.5070
+Swartberg Pass;-33.3166;22.0435
+Theronsberg Pass;-33.2805;19.4941
+Touws River Pass;-33.9466;22.6129
+Tradouw Pass;-33.9717;20.7016
+Uitkyk Pass;-32.4037;19.0923
+Uniondale Poort;-33.6812;23.1487
+Van der Stel Pass;-34.1547;19.2317
+Versveld Pass;-32.8533;18.7423
+Viljoen's Pass;-34.0946;19.0504
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_the_Eastern_Cape
+All Saints Nek;-31.6767;28.0127
+Baster Voetslaan Pass;-31.1748;27.9795
+Baviaanskloof;-33.6464;24.4554
+Bidstone Pass;-30.7150;27.8307
+Blaauwkrantz Pass;-33.3853;26.7051
+Boesmanshoek Pass;-31.4982;26.4854
+Bruintjieshoogte Pass;-32.6795;25.3458
+Buffalo Pass;-33.0353;27.7979
+Buffelshoek Pass;-32.4864;25.2340
+Bulhoek Pass;-31.2395;25.7065
+Buyspoort;-33.3499;23.4344
+Cala Pass;-31.4737;27.7234
+Carlislehoekspruit Pass;-30.7188;27.9568
+Cats Pass;-32.4281;28.4352
+Colonanek;-30.6463;29.0480
+Combrink's Pass;-33.6529;24.5013
+Daggaboers Nek;-32.5356;25.8431
+De Beer's Pass;-32.3150;26.1857
+Devil's Bellows;-32.4163;26.6667
+Dontsa Pass;-32.6132;27.2437
+Doringnek;-33.3806;25.7112
+Ecca Pass;-33.2006;26.6185
+Fonteinkloof Pass;-33.5947;26.1224
+Fuller's Hoek Pass;-32.6885;26.5195
+Ghwarriepoort;-33.3881;23.3918
+Grasnek Pass;-33.6490;24.3433
+Greylings Pass;-31.1188;27.2999
+Groot-Doringhoek Pass;-31.3795;26.0736
+Hankey Pass;-33.8821;24.8401
+Helspoort Pass;-33.1701;26.3209
+Hogsback Pass;-32.6136;26.9134
+Holgat Pass;-33.6403;24.4563
+Joubert's Pass;-30.7167;27.2440
+Kareedouw Pass;-33.9621;24.2667
+Katberg Pass;-32.4561;26.6547
+Killian's Pass;-31.1832;27.2953
+Kumajaba Pass;-31.2840;28.5357
+Kwaaiman Pass;-31.7253;27.6956
+Lehana's Pass;-30.6787;28.2007
+Lootsberg Pass;-31.8272;24.8555
+Lundin's Nek;-30.6471;27.7422
+Michel's Pass;-32.5621;26.8610
+Mlengana Pass;-31.5449;29.1814
+Moordenaarsnek;-30.8397;28.5440
+Munnikspoort;-32.2980;24.5243
+Naudeberg Pass;-31.9682;24.7190
+Naude's Nek Pass;-30.7600;28.0761
+Nico Malan Pass;-32.4807;26.8361
+Nonesis Nek Pass;-31.8416;26.9883
+Nuwekloof Pass;-33.5160;23.6460
+Olifantskop Pass;-33.3189;25.9465
+Otto du Plessis Pass;-31.2346;27.5305
+Ouberg Pass;-32.1212;24.4077
+Pefferskop Pass;-32.6501;26.8827
+Penhoek Pass;-31.4626;26.7015
+Perdepoort;-33.1888;23.4314
+Pitseng Pass;-30.7573;28.3057
+Pot River Pass;-30.9326;28.2103
+Potter's Pass;-33.0406;27.8695
+Red Hill Pass;-32.7116;27.1836
+Satansnek;-31.5984;27.9433
+Smuts Pass;-31.4070;26.7920
+Soutpansnek;-32.8733;24.7137
+Stormsrivier Pass;-33.9888;23.9118
+Suurberg Pass;-33.2835;25.7202
+Swaershoek Pass;-32.3468;25.4611
+Swanepoelspoort;-33.1143;23.8940
+Tarka Pass;-32.4719;25.6666
+Van Stadens Pass;-33.9128;25.2025
+Wapadsberg Pass;-31.9311;24.8837
+Witnek Pass;-31.8811;24.6954
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_KwaZulu-Natal
+Ape's Pass;-29.133;29.350
+Bannerman's Pass;-29.25417;29.42139
+Bezuidenhouts Pass;-28.5485;29.2138
+Botha's Pass;-27.617;29.717
+Brandon's Pass;-28.15917;29.66306
+Burger's Pass;-27.6024;30.3810
+Bushman's Nek Pass;-29.8735;29.1611
+Cecil Macks Pass;-27.0735;32.0010
+Colling's Pass;-28.2171;29.6395
+De Beer's Pass;-28.3174;29.4993
+Endoumeni Pass;-28.2299;30.1955
+Giant's Castle Pass;-29.34056;29.46778
+Goodoo Pass;-28.68722;28.90889
+Gray's Pass;-29.07167;29.32361
+Griffin's Hill;-29.0932;29.9663
+Hela Hela Pass;-29.9096;30.0772
+Ikhupe Pass;-28.1541;29.9687
+Knight's Pass;-27.6564;30.3725
+Laing's Nek Pass;-27.4814;29.8724
+Middledale Pass;-28.4804;29.3233
+Mike's Pass;-28.9609;29.2317
+Muller's Pass;-27.8667;29.7103
+Nicholson's Nek Pass;-28.4743;29.7627
+Normandien Pass;-27.9759;29.7005
+Oliviershoek Pass;-28.5693;29.0717
+Sabana Pass;-27.1622;31.9780
+Sandspruit Pass;-28.4706;29.3715
+Sani Pass;-29.5882;29.2927
+Soutar's Hill;-29.4200;29.8116
+The Devil's Pass;-27.7128;30.9323
+Van Reenen's Pass;-28.4069;29.3971
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_the_Northern_Cape
+Amandelnek;-32.6258;20.3511
+Anenous Pass;-29.2259;17.6074
+Bailey's Pass;-30.1634;18.1972
+Bastersnek;-30.6360;25.0349
+Bergenaarspad Pass;-28.4898;22.6012
+Bloukrans Pass;-31.6694;19.7496
+Blounek;-30.9941;22.0407
+Bloupoort;-32.4000;20.9333
+Botterkloof Pass;-31.8273;19.2663
+Burke's Pass;-29.8820;17.8791
+Charles' Pass;-29.0063;19.1854
+Gannaga Pass;-32.1285;20.1142
+Kareebospoort;-30.9059;22.2588
+Keikamaspoort;-29.8120;22.8733
+Keiskie se Poort;-31.5904;19.8585
+Komsberg Pass;-32.6795;20.7580
+Langkloof Pass;-27.9031;22.6388
+Langkloof Pass;-30.4845;18.1370
+Mekataanspoort;-30.6161;22.2356
+Messelpad Pass;-29.9066;17.6565
+Moordenaarspoort;-31.3262;19.9357
+Ottaspoort;-30.7356;18.2446
+Ouberg Pass;-32.4092;20.3537
+Oukloof Pass;-32.1799;21.7840
+Oupoort Pass;-32.1673;20.3789
+Oupoort Pass;-32.2107;20.4158
+Prieskapoort;-29.7436;22.6993
+Quaggasfontein Poort;-31.5871;20.8455
+Renosterpoort;-30.7349;22.3366
+Rooikloof Pass;-32.5004;20.6401
+Rooipoort;-32.3746;20.9345
+Snyders Poort;-31.9953;20.6881
+Studer's Pass;-30.4004;18.0650
+Teekloof Pass;-32.2013;21.6207
+Vanrhyns Pass;-31.3836;19.0227
+Verlatekloof Pass;-32.5436;20.6133
+Volstruispoort;-30.6445;22.7139
+Wildeperdehoek Pass;-29.9415;17.6219
+Windpoort;-29.2638;17.4184
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_the_Free_State
+Bell's Pass;-28.5504;26.9641
+Lichen's Pass;-28.5324;28.6662
+Noupoortsnek;-28.4979;28.4213
+# https://en.wikipedia.org/wiki/List_of_mountain_passes_of_Gauteng
+Baviaanspoort;-25.67659;28.34587
+Donkerpoort;-25.77737;28.48258
+Hekpoort;-25.94712;27.66781
+Horns Nek;-25.6830;28.0687
+Paardekraal Pass;-26.06464;27.81394
+Poeiernek;-25.91610;27.71070
+Sylvia's Pass;-26.16913;28.08898
+Theo Martin's Poort;-25.68635;28.12124
