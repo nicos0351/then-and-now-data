@@ -1,7 +1,7 @@
 {
  "format": 1,
- "dataVersion": 5,
- "updated": "2026-10-12",
+ "dataVersion": 6,
+ "updated": "2026-10-19",
  "changes": [
   {
    "version": 3,
@@ -17,6 +17,11 @@
    "version": 5,
    "date": "2026-10-12",
    "summary": "Clearer wording in three town notes (Louis Trichardt, Vaalwater and Reitz)."
+  },
+  {
+   "version": 6,
+   "date": "2026-10-19",
+   "summary": "Eight more renamed towns (e.g. Brandfort → Winnie Mandela, Mount Fletcher → Tlokoeng, Melmoth → eMthonjaneni), rename years corrected to the official gazette dates, the spelling Bela-Bela, and the full Louis Trichardt story."
   }
  ],
  "towns": [
@@ -529,7 +534,7 @@
   },
   {
    "key": "asset:bela bela:-24.883:28.283",
-   "name": "Bela Bela",
+   "name": "Bela-Bela",
    "oldName": "Warmbad",
    "hasKnownRename": true,
    "renamedYear": 2002,
@@ -688,13 +693,14 @@
    "name": "Bhisho",
    "oldName": "Bisho",
    "hasKnownRename": true,
-   "renamedYear": 2004,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": "Former capital of the Ciskei homeland.",
    "province": "Eastern Cape",
    "latitude": -32.84721,
    "longitude": 27.44218,
-   "population": 137287
+   "population": 137287,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:blinkpan:-26.083:29.433",
@@ -1341,14 +1347,14 @@
    "name": "Centane",
    "oldName": "Kentane",
    "hasKnownRename": true,
-   "renamedYear": 2004,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": null,
    "province": "Eastern Cape",
    "latitude": -32.50598,
    "longitude": 28.31578,
    "population": 1744,
-   "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:centurion:-25.859:28.186",
@@ -2346,13 +2352,14 @@
    "name": "Dutywa",
    "oldName": "Idutywa",
    "hasKnownRename": true,
-   "renamedYear": 2004,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": null,
    "province": "Eastern Cape",
    "latitude": -32.09618,
    "longitude": 28.30489,
-   "population": 13270
+   "population": 13270,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:dwarsloop:-24.795:31.103",
@@ -2738,13 +2745,14 @@
    "name": "eManzimtoti",
    "oldName": "Amanzimtoti",
    "hasKnownRename": true,
-   "renamedYear": null,
+   "renamedYear": 2010,
    "reverted": false,
    "notes": null,
    "province": "KwaZulu-Natal",
    "latitude": -30.05219,
    "longitude": 30.88527,
-   "population": 13813
+   "population": 13813,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:emaqeleni:-28.926:31.707",
@@ -2817,14 +2825,14 @@
    "name": "eMdloti",
    "oldName": "Umdloti",
    "hasKnownRename": true,
-   "renamedYear": null,
+   "renamedYear": 2010,
    "reverted": false,
    "notes": null,
    "province": "KwaZulu-Natal",
    "latitude": -29.66319,
    "longitude": 31.12103,
    "population": 2130,
-   "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:emgwenya:-25.637:30.324",
@@ -2885,13 +2893,14 @@
    "name": "eMkhuze",
    "oldName": "Mkuze",
    "hasKnownRename": true,
-   "renamedYear": null,
+   "renamedYear": 2011,
    "reverted": false,
    "notes": null,
    "province": "KwaZulu-Natal",
    "latitude": -27.62051,
    "longitude": 32.03385,
-   "population": 5288
+   "population": 5288,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:emona:-29.554:31.097",
@@ -2964,14 +2973,14 @@
    "name": "eMuziwezinto",
    "oldName": "Umzinto",
    "hasKnownRename": true,
-   "renamedYear": null,
+   "renamedYear": 2013,
    "reverted": false,
    "notes": null,
    "province": "KwaZulu-Natal",
    "latitude": -30.31002,
    "longitude": 30.66275,
    "population": 19415,
-   "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:emvelo:-26.625:30.662",
@@ -4414,15 +4423,16 @@
   {
    "key": "asset:hlohlolwane:-28.916:27.570",
    "name": "Hlohlolwane",
-   "oldName": "Hlohlolwane",
-   "hasKnownRename": false,
-   "renamedYear": null,
+   "oldName": "Clocolan",
+   "hasKnownRename": true,
+   "renamedYear": 2015,
    "reverted": false,
    "notes": null,
    "province": "Free State",
    "latitude": -28.91588,
    "longitude": 27.56957,
-   "population": 21089
+   "population": 21089,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:hluhluwe:-28.019:32.268",
@@ -5775,13 +5785,14 @@
    "name": "KwaDukuza",
    "oldName": "Stanger",
    "hasKnownRename": true,
-   "renamedYear": null,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": "Historic capital of the Zulu kingdom under Shaka.",
    "province": "KwaZulu-Natal",
    "latitude": -29.32816,
    "longitude": 31.28954,
-   "population": 161177
+   "population": 161177,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:kwaggafontein:-25.327:28.942",
@@ -6350,14 +6361,14 @@
    "name": "Louis Trichardt",
    "oldName": "Louis Trichardt",
    "hasKnownRename": true,
-   "renamedYear": 2007,
+   "renamedYear": 2014,
    "reverted": true,
-   "notes": "Renamed Makhado in 2003; the change was set aside and the town reverted to Louis Trichardt in 2007, so its previous name is the same as today's.",
+   "notes": "Renamed Makhado in 2003; the Supreme Court of Appeal set this aside in 2007. It was renamed Makhado again in 2011, and the High Court set that aside in 2014, so its official name is Louis Trichardt.",
    "province": "Limpopo",
    "latitude": -23.04385,
    "longitude": 29.90319,
    "population": 86854,
-   "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+   "source": "https://www.iol.co.za/news/public-to-have-say-in-makhado-name-change-1773802"
   },
   {
    "key": "asset:louis trichardt airforce base:-23.153:29.704",
@@ -6809,15 +6820,16 @@
   {
    "key": "asset:mamafubedu:-27.666:28.131",
    "name": "Mamafubedu",
-   "oldName": "Mamafubedu",
-   "hasKnownRename": false,
-   "renamedYear": null,
+   "oldName": "Petrus Steyn",
+   "hasKnownRename": true,
+   "renamedYear": 2012,
    "reverted": false,
    "notes": null,
    "province": "Free State",
    "latitude": -27.66606,
    "longitude": 28.13132,
-   "population": 15447
+   "population": 15447,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:mamello:-26.872:28.253",
@@ -7319,16 +7331,17 @@
   },
   {
    "key": "asset:melmoth:-28.587:31.398",
-   "name": "Melmoth",
+   "name": "eMthonjaneni",
    "oldName": "Melmoth",
-   "hasKnownRename": false,
-   "renamedYear": null,
+   "hasKnownRename": true,
+   "renamedYear": 2017,
    "reverted": false,
    "notes": null,
    "province": "KwaZulu-Natal",
    "latitude": -28.58664,
    "longitude": 31.39783,
-   "population": 9362
+   "population": 9362,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:memel:-27.682:29.567",
@@ -7556,28 +7569,28 @@
    "name": "Modjadjiskloof",
    "oldName": "Duiwelskloof",
    "hasKnownRename": true,
-   "renamedYear": 2004,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": null,
    "province": "Limpopo",
    "latitude": -23.69339,
    "longitude": 30.14002,
    "population": 24572,
-   "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:dendron:-23.367:29.324",
    "name": "Mogwadi",
    "oldName": "Dendron",
    "hasKnownRename": true,
-   "renamedYear": null,
+   "renamedYear": 2002,
    "reverted": false,
    "notes": null,
    "province": "Limpopo",
    "latitude": -23.36669,
    "longitude": 29.32371,
    "population": 4846,
-   "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:mogwase:-25.277:27.216",
@@ -7623,13 +7636,14 @@
    "name": "Mokopane",
    "oldName": "Potgietersrus",
    "hasKnownRename": true,
-   "renamedYear": 2003,
+   "renamedYear": 2002,
    "reverted": false,
    "notes": null,
    "province": "Limpopo",
    "latitude": -24.19436,
    "longitude": 29.00974,
-   "population": 101090
+   "population": 101090,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:moloro:-24.612:30.980",
@@ -7987,13 +8001,14 @@
    "name": "Mthatha",
    "oldName": "Umtata",
    "hasKnownRename": true,
-   "renamedYear": 2004,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": "Former capital of the Transkei homeland.",
    "province": "Eastern Cape",
    "latitude": -31.58893,
    "longitude": 28.78443,
-   "population": 164848
+   "population": 164848,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:mtititi:-23.093:30.899",
@@ -8078,13 +8093,14 @@
    "name": "Musina",
    "oldName": "Messina",
    "hasKnownRename": true,
-   "renamedYear": 2003,
+   "renamedYear": 2002,
    "reverted": false,
    "notes": null,
    "province": "Limpopo",
    "latitude": -22.34881,
    "longitude": 30.04074,
-   "population": 51132
+   "population": 51132,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:mutale:-22.470:30.875",
@@ -8312,13 +8328,14 @@
    "name": "Ngcobo",
    "oldName": "Engcobo",
    "hasKnownRename": true,
-   "renamedYear": 2004,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": null,
    "province": "Eastern Cape",
    "latitude": -31.6754,
    "longitude": 27.99664,
-   "population": 11783
+   "population": 11783,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:ngema tribal trust:-27.073:30.542",
@@ -8351,14 +8368,14 @@
    "name": "Ngqamakhwe",
    "oldName": "Nqamakwe",
    "hasKnownRename": true,
-   "renamedYear": 2004,
+   "renamedYear": 2006,
    "reverted": false,
    "notes": null,
    "province": "Eastern Cape",
    "latitude": -32.19648,
    "longitude": 27.93807,
    "population": 1866,
-   "source": "https://en.wikipedia.org/wiki/List_of_renamed_places_in_South_Africa"
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:ngqeleni:-31.673:29.033",
@@ -9452,13 +9469,14 @@
    "name": "Polokwane",
    "oldName": "Pietersburg",
    "hasKnownRename": true,
-   "renamedYear": 2005,
+   "renamedYear": 2002,
    "reverted": false,
    "notes": "Provincial capital of Limpopo.",
    "province": "Limpopo",
    "latitude": -23.90449,
    "longitude": 29.46885,
-   "population": 272461
+   "population": 272461,
+   "source": "https://pmg.org.za/committee-question/16041/"
   },
   {
    "key": "asset:pomfret:-25.816:23.524",
@@ -10715,15 +10733,16 @@
   {
    "key": "asset:solomon linda:-28.554:30.426",
    "name": "Solomon Linda",
-   "oldName": "Solomon Linda",
-   "hasKnownRename": false,
-   "renamedYear": null,
+   "oldName": "Pomeroy",
+   "hasKnownRename": true,
+   "renamedYear": 2022,
    "reverted": false,
    "notes": null,
    "province": "KwaZulu-Natal",
    "latitude": -28.55393,
    "longitude": 30.42642,
-   "population": 1942
+   "population": 1942,
+   "source": "https://businesstech.co.za/news/?p=620143"
   },
   {
    "key": "asset:somaroboro:-25.346:28.834",
@@ -11509,15 +11528,16 @@
   {
    "key": "asset:tlokoeng:-30.693:28.506",
    "name": "Tlokoeng",
-   "oldName": "Tlokoeng",
-   "hasKnownRename": false,
-   "renamedYear": null,
+   "oldName": "Mount Fletcher",
+   "hasKnownRename": true,
+   "renamedYear": 2022,
    "reverted": false,
    "notes": null,
    "province": "Eastern Cape",
    "latitude": -30.69268,
    "longitude": 28.5061,
-   "population": 15884
+   "population": 15884,
+   "source": "https://businesstech.co.za/news/?p=569096"
   },
   {
    "key": "asset:tokoza:-26.360:28.129",
@@ -12774,15 +12794,16 @@
   {
    "key": "asset:winnie mandela:-28.700:26.458",
    "name": "Winnie Mandela",
-   "oldName": "Winnie Mandela",
-   "hasKnownRename": false,
-   "renamedYear": null,
+   "oldName": "Brandfort",
+   "hasKnownRename": true,
+   "renamedYear": 2021,
    "reverted": false,
    "notes": null,
    "province": "Free State",
    "latitude": -28.70025,
    "longitude": 26.4581,
-   "population": 15454
+   "population": 15454,
+   "source": "https://www.timeslive.co.za/politics/2021-08-06-free-state-town-of-brandfort-renamed-winnie-mandela/"
   },
   {
    "key": "asset:winterton:-28.812:29.541",
@@ -12993,12 +13014,40 @@
    "latitude": -33.4956,
    "longitude": 21.44373,
    "population": 5582
+  },
+  {
+   "key": "asset:morgan's bay:-32.704:28.336",
+   "name": "Gxarha",
+   "oldName": "Morgan's Bay",
+   "hasKnownRename": true,
+   "renamedYear": 2022,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -32.704,
+   "longitude": 28.336,
+   "population": 321,
+   "source": "https://businesstech.co.za/news/?p=620143"
+  },
+  {
+   "key": "asset:adendorp:-32.303:24.547",
+   "name": "Bishop Limba",
+   "oldName": "Adendorp",
+   "hasKnownRename": true,
+   "renamedYear": 2026,
+   "reverted": false,
+   "notes": "Gazetted 6 Feb 2026 with the other Eastern Cape renames, which are under review after more than 38,000 objections (as of May 2026).",
+   "province": "Eastern Cape",
+   "latitude": -32.303,
+   "longitude": 24.547,
+   "population": 401,
+   "source": "https://businesstech.co.za/news/government/850166/east-london-and-graaff-reinet-are-officially-no-more/"
   }
  ],
  "stories": [
   {
    "key": "asset:bela bela:-24.883:28.283",
-   "name": "Bela Bela",
+   "name": "Bela-Bela",
    "say": "BEH-lah BEH-lah",
    "sounds": [],
    "meaning": "Setswana for ‘the pot that boils’ – after the hot springs the town was built around.",
@@ -14003,6 +14052,101 @@
    "meaning": null,
    "formerNameOrigin": null,
    "sources": []
+  },
+  {
+   "key": "asset:mamafubedu:-27.666:28.131",
+   "name": "Mamafubedu",
+   "say": "mah-mah-foo-BEH-doo",
+   "sounds": [],
+   "meaning": null,
+   "formerNameOrigin": "The town was to be called Concordia, but Petrus Paulus Steyn's widow sold the land on condition that it was named after her late husband.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Petrus_Steyn"
+   ]
+  },
+  {
+   "key": "asset:hlohlolwane:-28.916:27.570",
+   "name": "Hlohlolwane",
+   "say": "hloh-hloh-LWAH-neh",
+   "sounds": [
+    "hl"
+   ],
+   "meaning": "From Sesotho words meaning 'get up and fight', after a dispute between the Bakwena and Baphuthi over a maize harvest.",
+   "formerNameOrigin": "Clocolan is how newer residents said 'Hlohlolwane'.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Clocolan"
+   ]
+  },
+  {
+   "key": "asset:winnie mandela:-28.700:26.458",
+   "name": "Winnie Mandela",
+   "say": "WIN-ee man-DEH-lah",
+   "sounds": [],
+   "meaning": "Honours Winnie Madikizela-Mandela, who was banished to the town in 1977. Her house there is now a museum.",
+   "formerNameOrigin": "Brandfort was named after Johannes Brand, President of the Orange Free State, who visited soon after the town was founded in 1874.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brandfort"
+   ]
+  },
+  {
+   "key": "asset:tlokoeng:-30.693:28.506",
+   "name": "Tlokoeng",
+   "say": "tloh-KWENG",
+   "sounds": [],
+   "meaning": "Sesotho for 'place of the Tlokoa clan'.",
+   "formerNameOrigin": "Mount Fletcher was named after the nearby mountain, probably after Reverend John Fletcher, a friend of John Wesley.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tlokoeng"
+   ]
+  },
+  {
+   "key": "asset:morgan's bay:-32.704:28.336",
+   "name": "Gxarha",
+   "say": "gx·AH-rhah",
+   "sounds": [
+    "x",
+    "rh"
+   ],
+   "meaning": null,
+   "formerNameOrigin": "Morgan's Bay was named in 1822 after A. F. Morgan, master of the survey ship Barracouta.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Morgan_Bay"
+   ]
+  },
+  {
+   "key": "asset:solomon linda:-28.554:30.426",
+   "name": "Solomon Linda",
+   "say": "SOL-oh-mon LIN-dah",
+   "sounds": [],
+   "meaning": "Honours Solomon Linda, the musician born here, a pioneer of isicathamiya choral music.",
+   "formerNameOrigin": "Pomeroy was named after Sir George Pomeroy Colley, the British commander at the Battle of Majuba Hill in 1881.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pomeroy,_South_Africa"
+   ]
+  },
+  {
+   "key": "asset:adendorp:-32.303:24.547",
+   "name": "Bishop Limba",
+   "say": "BISH-op LEEM-bah",
+   "sounds": [],
+   "meaning": null,
+   "formerNameOrigin": "Adendorp was named after N. J. Adendorff, who owned the farm and divided it into smallholdings around 1858.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Adendorp"
+   ]
+  },
+  {
+   "key": "asset:melmoth:-28.587:31.398",
+   "name": "eMthonjaneni",
+   "say": "eh-m-toh-njah-NEH-nee",
+   "sounds": [
+    "m"
+   ],
+   "meaning": null,
+   "formerNameOrigin": "Melmoth was named after Sir Melmoth Osborn, the British resident commissioner of Zululand.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Melmoth,_South_Africa"
+   ]
   }
  ]
 }
