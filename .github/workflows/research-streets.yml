@@ -3,13 +3,14 @@ name: "Research: renamed streets (OpenStreetMap)"
 # Manual only: downloads South African streets that OpenStreetMap records
 # with a previous name, for research into the street names add-on. It makes
 # one query to the public Overpass API, so please don't put it on a schedule.
-# The results are attached to the run as an artifact (nothing is published).
+# The results are saved to the separate "research-streets" branch (never to
+# main, so nothing is published).
 
 on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   fetch:
@@ -22,7 +23,15 @@ jobs:
           python-version: "3.12"
       - name: Query OpenStreetMap
         run: python tools/streets/fetch_osm_renamed_streets.py
-      - uses: actions/upload-artifact@v4
-        with:
-          name: osm-renamed-streets
-          path: out/
+      - name: Save results to the research-streets branch
+        run: |
+          mkdir -p /tmp/research && cp out/* /tmp/research/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan research-streets
+          git rm -rq --cached . && git clean -fdq -e out
+          mkdir -p research && cp /tmp/research/* research/
+          printf 'Research data only (not published). Street data (c) OpenStreetMap contributors, ODbL.\n' > research/README.md
+          git add research
+          git commit -qm "Renamed streets from OpenStreetMap ($(date -u +%F))"
+          git push -f origin research-streets
