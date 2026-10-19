@@ -1,0 +1,28 @@
+name: "Research: renamed streets (OpenStreetMap)"
+
+# Manual only: downloads South African streets that OpenStreetMap records
+# with a previous name, for research into the street names add-on. It makes
+# one query to the public Overpass API, so please don't put it on a schedule.
+# The results are attached to the run as an artifact (nothing is published).
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Query OpenStreetMap
+        run: python tools/streets/fetch_osm_renamed_streets.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: osm-renamed-streets
+          path: out/
