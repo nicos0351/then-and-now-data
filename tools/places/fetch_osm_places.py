@@ -26,6 +26,9 @@ QUERIES = {
              " nwr(area.za)[waterway=dam][name];);"),
     "passes": ("(node(area.za)[mountain_pass=yes][name]; node(area.za)[natural=saddle][name];"
                " way(area.za)[mountain_pass=yes][name];);"),
+    # Many passes are only named on the road itself ("Magoebaskloof Pass").
+    "pass_roads": ('way(area.za)[highway~"^(motorway|trunk|primary|secondary|tertiary|unclassified|track)$"]'
+                   '[name~"([Pp]ass|pas|[Pp]oort|[Nn]ek|hoogte)$"];'),
 }
 USER_AGENT = "then-and-now-data research (github.com/nicos0351/then-and-now-data)"
 
