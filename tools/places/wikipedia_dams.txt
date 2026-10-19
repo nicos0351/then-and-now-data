@@ -1,0 +1,213 @@
+# Dams listed on https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa (19 Oct 2026).
+# A named reservoir in OpenStreetMap is always included when it matches one
+# of these, however small it looks on the map.
+Albasini Dam
+Albert Falls Dam
+Alexandra Dam
+Allemanskraal Dam
+Alphen Dam
+Arieskraal Dam
+Armenia Dam
+Beervlei Dam
+Bedford Dam
+Berg River Dam
+Binfield Park Dam
+Bivane Dam (Paris Dam)
+Bloemhoek Dam
+Bloemhof Dam (Oppermansdrif)
+Blyderivierpoort Dam
+Boegoeberg Dam
+Bon Accord Dam
+Bongolo Dam (Bonkolo)
+Boskop Dam
+Boschmanskop No 1 Dam
+Bospoort Dam
+Bramhoek Dam
+Brandvlei Dam
+Bridle Drift Dam
+Bronkhorstspruit Dam
+Buffeljags Dam
+Buffelspoort Dam
+Ceres Koekedouw Dam
+Churchill Dam (Krom River Dam)
+Clanwilliam Dam
+Craigie Burn Dam
+Dap Naudé Dam
+Da Gama Dam
+Damani Dam (Mvuwe Dame)
+Darlington Dam (Lake Mentz)
+De Bos Dam
+De Hoop Dam
+De Villiers Dam
+Disaneng Dam
+Doorndraai Dam
+Doring River Dam
+Douglas Weir
+Driekloof Dam
+Driekoppies Dam
+Driel Barrage
+Ebenezer Dam
+Egmont Dam
+Eikenhof Dam
+Elandskloof Dam
+Elandskuil Dam
+Emmarentia Dam
+Engelhard Dam
+Erfenis Dam
+Fika-Patso Dam
+Flag Boshielo Dam
+Floriskraal Dam
+Gamkapoort Dam
+Garden Route Dam
+Gariep Dam (Hendrik Verwoerd Dam)
+Glen Alpine Dam
+Glen Melville Dam
+Goedertrouw Dam
+Grassridge Dam
+Grey Dam
+Groendal Dam
+Grootdraai Dam
+Gubu Dam
+Hartbeespoort Dam
+Hazelmere Dam
+Hellsgate Dam
+Hely-Hutchinson Dam
+Heyshope Dam
+Hluhluwe Dam
+Holo Hlahatse Dam
+Howieson's Poort Dam (Howison's Poort)
+Impofu Dam
+Inanda Dam
+Injaka Dam
+Jericho Dam
+J.L. de Bruin Dam
+Kalkfontein Dam
+Kammanassie Dam
+Katrivier Dam
+Keerom Dam
+Kettingspruit Dam
+Kilburn Dam
+Kleinplaats Dam
+Klerkskraal Dam
+Klipberg Dam
+Klipdrif Dam
+Klipfontein Dam
+Klipkoppie Dam
+Klipvoor Dam
+Knellpoort Dam
+Kogelberg Dam
+Kommandodrif Dam
+Koppies Dam
+Korintepoort Dam
+Kouga Dam (Paul Sauer Dam)
+Krugersdrift
+Kruismansrivier Dam
+Kwaggaskloof Dam
+Kwene Dam (Braam Raubenheimer Dam)
+Lady Grey Dam
+Laing Dam
+Lake Arthur Dam
+Lake Mzingazi Dam
+Lakenvallei Dam
+Land-en-Zeezicht Dam
+Leeu-Gamka Dam
+Lewis Gay Dam
+Lindleyspoort Dam
+Loskop Dam
+Lubisi Dam
+Luphephe Dam
+Madikwe Dam
+Makuleke Dam
+Marico-Bosveld Dam
+Metz Dam
+Middelburg Dam
+Middle Letaba Dam
+Midmar Dam
+Misverstand Dam
+Modderpoort Dam
+Mokolo Dam (Hans Strijdom Dam)
+Molatedi Dam
+Molteno Dam
+Morgenstond Dam
+Moutloatsi Setlogelo Dam (Groothoek)
+Mthatha Dam
+Mutshedzi Dam
+Nagle Dam
+Nahoon Dam
+Nandoni Dam
+Ncora Dam
+Ngodwana Dam
+Ngotwane Dam
+Nooitgedacht Dam (Vygeboom)
+Nsami Dam (Hudson Ntsanwisi Dam)
+Nqweba Dam (Previously Vanryneveld's Pass Dam)
+Nwanedi Dam
+Ntshingwayo Dam (Chelmsford Dam)
+Nzhelele Dam
+Ohrigstad Dam
+Olifantsnek Dam
+Oliphantskop Dam
+Osplaas Dam
+Oudebaaskraal Dam
+Oxkraal Dam
+Phiphidi Dam
+Pietersfontein Dam
+Pongolapoort Dam
+Poortjieskloof Dam
+Potchefstroom Dam
+Qedusizi Dam
+Rhenosterkop Dam
+Rietvlei Dam
+Rockview Dam
+Roode Els Berg Dam
+Roodekoppies Dam
+Roodeplaat Dam
+Rust de Winter Dam
+Rustfontein Dam
+Sandile Dam
+Settlers Dam
+Setumo Dam
+Shongweni Dam (Ntshongweni Dam)
+Silvermine Dam
+Slangdraai Dam
+Smartt Dam
+Sol Plaatje Dam (Previously Saulspoort Dam)
+Spioenkop Dam
+Spitskop Dam
+Spring Grove Dam
+Steenbras Dam (lower)
+Steenbras Upper Dam
+Sterkfontein Dam
+Stettynskloof Dam
+Stompdrift Dam
+Taung Dam
+Theewaterskloof Dam
+Tierpoort Dam
+Trichardtsfontein Dam
+Tsojana Dam
+Tweedraai Dam
+Tzaneen Dam (previously Fanie Botha Dam)
+Vaal Barrage
+Vaal Dam
+Vaalharts Storage Weir
+Vaalkop Dam
+Vanderkloof Dam (previously P.K. Le Roux Dam)
+Vanwyksvlei Dam
+Victoria Dam
+Voëlvlei Dam
+Vondo Dam
+Vygeboom Dam
+Wagendrift Dam
+Waterdown Dam
+Welbedacht Dam
+Wemmershoek Dam
+Westoe Dam
+Witbank Dam
+Witklip Dam
+Wolwedans Dam
+Woodhead Dam
+Woodstock Dam
+Wriggleswade Dam
+Xilinxa Dam
+Xonxa Dam
+Zaaihoek Dam
