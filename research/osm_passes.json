@@ -1,0 +1,2678 @@
+{
+ "source": "OpenStreetMap contributors (ODbL)",
+ "passes": [
+  {
+   "osm": "node/26585827",
+   "lat": -34.2172674,
+   "lon": 19.1727251,
+   "bounds": null,
+   "tags": {
+    "ele": "340",
+    "mountain_pass": "yes",
+    "name": "Houwhoek Pass",
+    "wikidata": "Q11056933",
+    "wikipedia": "en:Houwhoek Pass"
+   }
+  },
+  {
+   "osm": "node/26586101",
+   "lat": -34.2154963,
+   "lon": 19.1713947,
+   "bounds": null,
+   "tags": {
+    "ele": "340",
+    "mountain_pass": "yes",
+    "name": "Houwhoek Pass",
+    "wikidata": "Q11056933",
+    "wikipedia": "en:Houwhoek Pass"
+   }
+  },
+  {
+   "osm": "node/34981574",
+   "lat": -31.2837475,
+   "lon": 24.9442703,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Carlton Heights top"
+   }
+  },
+  {
+   "osm": "node/36307960",
+   "lat": -33.6963006,
+   "lon": 19.074026,
+   "bounds": null,
+   "tags": {
+    "ele": "820",
+    "mountain_pass": "yes",
+    "name": "Du Toitskloof Pass",
+    "name:af": "Du Toitskloofpas"
+   }
+  },
+  {
+   "osm": "node/39593352",
+   "lat": -33.8792219,
+   "lon": 20.1752986,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Remhoogte",
+    "sagns_id": "58771",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/48687083",
+   "lat": -32.3473492,
+   "lon": 19.0131451,
+   "bounds": null,
+   "tags": {
+    "ele": "570",
+    "mountain_pass": "yes",
+    "name": "Nieuwoudts Pass",
+    "name:af": "Nieuwoudtspas",
+    "sagns_id": "111439"
+   }
+  },
+  {
+   "osm": "node/71214790",
+   "lat": -33.9210273,
+   "lon": 20.5135543,
+   "bounds": null,
+   "tags": {
+    "ele": "730",
+    "mountain_pass": "yes",
+    "name": "Op de Tradouw Pass"
+   }
+  },
+  {
+   "osm": "node/146423609",
+   "lat": -33.2163944,
+   "lon": 26.6272196,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Ecca Pass",
+    "wikidata": "Q1280176",
+    "wikipedia": "en:Ecca Pass"
+   }
+  },
+  {
+   "osm": "node/240366744",
+   "lat": -33.3181704,
+   "lon": 19.0834625,
+   "bounds": null,
+   "tags": {
+    "ele": "125",
+    "mountain_pass": "yes",
+    "name": "Nuwe Kloof Pass"
+   }
+  },
+  {
+   "osm": "node/240372342",
+   "lat": -33.3786075,
+   "lon": 19.29826,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Mitchell`s Pass"
+   }
+  },
+  {
+   "osm": "node/248143467",
+   "lat": -31.3764915,
+   "lon": 19.0188888,
+   "bounds": null,
+   "tags": {
+    "ele": "825",
+    "mountain_pass": "yes",
+    "name": "Van Rhyn's Pass",
+    "name:af": "Vanrhynspas",
+    "wikidata": "Q13036269",
+    "wikimedia_commons": "Category:Van Rhyn's Pass",
+    "wikipedia": "af:Van Rhynspas"
+   }
+  },
+  {
+   "osm": "node/248846301",
+   "lat": -33.9674697,
+   "lon": 21.2199254,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Garcia's Pass",
+    "natural": "saddle",
+    "wikidata": "Q13034759",
+    "wikimedia_commons": "Category:Garcia's Pass",
+    "wikipedia": "en:Garcia's Pass"
+   }
+  },
+  {
+   "osm": "node/258949998",
+   "lat": -33.3522535,
+   "lon": 22.0461434,
+   "bounds": null,
+   "tags": {
+    "ele": "1585",
+    "mountain_pass": "yes",
+    "name": "Swartberg Pass",
+    "natural": "saddle",
+    "wikidata": "Q3506452",
+    "wikimedia_commons": "Category:Swartberg Pass",
+    "wikipedia": "en:Swartberg Pass"
+   }
+  },
+  {
+   "osm": "node/259091476",
+   "lat": -29.5851984,
+   "lon": 29.2870241,
+   "bounds": null,
+   "tags": {
+    "ele": "2876",
+    "mountain_pass": "yes",
+    "name": "Sani Pass",
+    "name:af": "Sanipas",
+    "name:ceb": "Sani Pass",
+    "name:de": "Sanipass",
+    "name:en": "Sani Pass",
+    "name:fr": "Col Sani",
+    "name:it": "Sani Pass",
+    "name:nl": "Sanipas",
+    "name:pt": "Passo Sani",
+    "name:sv": "Sanipasset",
+    "wikidata": "Q127968",
+    "wikimedia_commons": "Category:Sani Pass",
+    "wikipedia": "en:Sani Pass"
+   }
+  },
+  {
+   "osm": "node/261677375",
+   "lat": -33.6104505,
+   "lon": 19.1103398,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Bain's Kloof Pass",
+    "sagns_id": "96259",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/262427686",
+   "lat": -33.2168819,
+   "lon": 19.7168388,
+   "bounds": null,
+   "tags": {
+    "ele": "763",
+    "mountain_pass": "yes",
+    "name": "Karoopoort",
+    "sagns_id": "78731",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/268712096",
+   "lat": -33.2244487,
+   "lon": 19.323884,
+   "bounds": null,
+   "tags": {
+    "ele": "1000",
+    "mountain_pass": "yes",
+    "name": "Gydo Pass"
+   }
+  },
+  {
+   "osm": "node/268712896",
+   "lat": -32.7876897,
+   "lon": 20.2418199,
+   "bounds": null,
+   "tags": {
+    "ele": "966",
+    "mountain_pass": "yes",
+    "name": "Thyshoogte"
+   }
+  },
+  {
+   "osm": "node/324414475",
+   "lat": -33.8802883,
+   "lon": 20.1153253,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Skilpadhoogte",
+    "sagns_id": "69883",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/331922865",
+   "lat": -32.1491249,
+   "lon": 19.0281443,
+   "bounds": null,
+   "tags": {
+    "ele": "905",
+    "mountain_pass": "yes",
+    "name": "Pakhuis Pass"
+   }
+  },
+  {
+   "osm": "node/336455440",
+   "lat": -33.4881427,
+   "lon": 23.6262429,
+   "bounds": null,
+   "tags": {
+    "ele": "1090",
+    "mountain_pass": "yes",
+    "name": "Nuwekloof Pass"
+   }
+  },
+  {
+   "osm": "node/370177522",
+   "lat": -25.8654759,
+   "lon": 27.4431919,
+   "bounds": null,
+   "tags": {
+    "alt_name": "Maanhaarrand Pass",
+    "mountain_pass": "yes",
+    "name": "Breedt's Nek Pass",
+    "tourism": "viewpoint"
+   }
+  },
+  {
+   "osm": "node/487217959",
+   "lat": -33.7641544,
+   "lon": 19.8801667,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Dassieshoekpas",
+    "natural": "saddle",
+    "wikidata": "Q13034547",
+    "wikipedia": "af:Dassieshoekpas"
+   }
+  },
+  {
+   "osm": "node/503866317",
+   "lat": -33.9536036,
+   "lon": 20.7074853,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Tradouw Pass"
+   }
+  },
+  {
+   "osm": "node/522939314",
+   "lat": -32.2654579,
+   "lon": 19.2049183,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Kleinhoog",
+    "natural": "saddle",
+    "sagns_id": "77342",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/523054961",
+   "lat": -32.285711,
+   "lon": 19.2189416,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Die Poort",
+    "sagns_id": "89577",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/600118312",
+   "lat": -33.8861348,
+   "lon": 22.3993472,
+   "bounds": null,
+   "tags": {
+    "ele": "800",
+    "mountain_pass": "yes",
+    "name": "Outeniqua Pass",
+    "name:af": "Outeniekwapas",
+    "name:en": "Outeniqua Pass",
+    "natural": "saddle",
+    "sagns_id": "114526",
+    "wikidata": "Q3358610",
+    "wikimedia_commons": "Category:Outeniqua Pass",
+    "wikipedia": "en:Outeniqua Pass"
+   }
+  },
+  {
+   "osm": "node/621153076",
+   "lat": -32.6128992,
+   "lon": 26.9184835,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Hogsback Pass",
+    "wikidata": "Q5877385",
+    "wikimedia_commons": "Category:Hogsback Pass",
+    "wikipedia": "en:Hogsback Pass"
+   }
+  },
+  {
+   "osm": "node/646826425",
+   "lat": -32.8457043,
+   "lon": 18.731187,
+   "bounds": null,
+   "tags": {
+    "ele": "689",
+    "mountain_pass": "yes",
+    "name": "Versveldpas",
+    "name:af": "Versveldpas",
+    "name:en": "Versveld Pass",
+    "wikidata": "Q13036281"
+   }
+  },
+  {
+   "osm": "node/650006373",
+   "lat": -33.3478803,
+   "lon": 21.4711989,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Bosluiskloofpas",
+    "name:af": "Bosluiskloofpas",
+    "sagns_id": "93246",
+    "wikidata": "Q4947307",
+    "wikipedia": "en:Bosluiskloof Pass"
+   }
+  },
+  {
+   "osm": "node/652630404",
+   "lat": -33.6813719,
+   "lon": 20.2522538,
+   "bounds": null,
+   "tags": {
+    "ele": "990",
+    "mountain_pass": "yes",
+    "name": "Ouberg Pass"
+   }
+  },
+  {
+   "osm": "node/712699332",
+   "lat": -30.7645017,
+   "lon": 28.1058861,
+   "bounds": null,
+   "tags": {
+    "ele": "2566",
+    "mountain_pass": "yes",
+    "name": "Naudé's Nek (highest point)"
+   }
+  },
+  {
+   "osm": "node/712701434",
+   "lat": -30.7321932,
+   "lon": 28.13697,
+   "bounds": null,
+   "tags": {
+    "ele": "2500",
+    "mountain_pass": "yes",
+    "name": "Naudé's Nek (official sign)"
+   }
+  },
+  {
+   "osm": "node/726466357",
+   "lat": -32.4566048,
+   "lon": 26.6526228,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Katbergpas",
+    "wikidata": "Q6375293",
+    "wikimedia_commons": "Category:Katberg Pass",
+    "wikipedia": "en:Katberg Pass"
+   }
+  },
+  {
+   "osm": "node/726467545",
+   "lat": -32.3784596,
+   "lon": 26.6718623,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Katbergpas"
+   }
+  },
+  {
+   "osm": "node/729812563",
+   "lat": -32.4093286,
+   "lon": 20.35685,
+   "bounds": null,
+   "tags": {
+    "ele": "1406",
+    "mountain_pass": "yes",
+    "name": "Ouberg Pass"
+   }
+  },
+  {
+   "osm": "node/804458464",
+   "lat": -32.1139184,
+   "lon": 24.6083913,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Goliatskraalkop se Hoogte"
+   }
+  },
+  {
+   "osm": "node/1175130546",
+   "lat": -31.4956412,
+   "lon": 26.480925,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Bosmanshoekpas"
+   }
+  },
+  {
+   "osm": "node/1234177157",
+   "lat": -29.6189399,
+   "lon": 29.2871599,
+   "bounds": null,
+   "tags": {
+    "name": "Giant's Cup",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/1234179247",
+   "lat": -28.7870599,
+   "lon": 28.9382899,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Ifidi Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/1279437721",
+   "lat": -29.9443092,
+   "lon": 17.6330145,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Wildeperdehoek Pass"
+   }
+  },
+  {
+   "osm": "node/1290003374",
+   "lat": -31.7484074,
+   "lon": 18.7897834,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Gifbergpas",
+    "sagns_id": "84565",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/1398809704",
+   "lat": -28.5537549,
+   "lon": 29.0761274,
+   "bounds": null,
+   "tags": {
+    "ele": "1730",
+    "mountain_pass": "yes",
+    "name": "Oliviershoek Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/1401455109",
+   "lat": -29.7711432,
+   "lon": 29.2735077,
+   "bounds": null,
+   "tags": {
+    "name": "Black Eagle Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/1402832113",
+   "lat": -28.7552544,
+   "lon": 28.8659465,
+   "bounds": null,
+   "tags": {
+    "ele": "3082",
+    "mountain_pass": "yes",
+    "name": "Namahadi Pass"
+   }
+  },
+  {
+   "osm": "node/1410077759",
+   "lat": -33.4885171,
+   "lon": 21.8879717,
+   "bounds": null,
+   "tags": {
+    "ele": "448",
+    "mountain_pass": "yes",
+    "name": "Coetzeespoort Pass"
+   }
+  },
+  {
+   "osm": "node/1632874085",
+   "lat": -33.6915656,
+   "lon": 19.9190864,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Burgerspas",
+    "sagns_id": "91742",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/1633758841",
+   "lat": -30.7168265,
+   "lon": 27.2428987,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Joubertpas",
+    "wikidata": "Q3186677",
+    "wikipedia": "en:Joubert's Pass"
+   }
+  },
+  {
+   "osm": "node/1739475829",
+   "lat": -32.5617338,
+   "lon": 26.8591776,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Michel's Pass",
+    "source": "ngi"
+   }
+  },
+  {
+   "osm": "node/1911816338",
+   "lat": -31.979459,
+   "lon": 26.2678707,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Skaapkraalpoort",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/2001375275",
+   "lat": -33.949228,
+   "lon": 23.6308907,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Bloukranspas",
+    "sagns_id": "94136",
+    "source": "sagns",
+    "wikidata": "Q4803888",
+    "wikimedia_commons": "Category:Bloukrans Pass",
+    "wikipedia": "en:Bloukrans Pass (Western Cape)"
+   }
+  },
+  {
+   "osm": "node/2054475774",
+   "lat": -33.6498967,
+   "lon": 21.6429317,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Rooibergpas",
+    "sagns_id": "73210",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2092379965",
+   "lat": -32.610642,
+   "lon": 19.3675452,
+   "bounds": null,
+   "tags": {
+    "ele": "980",
+    "mountain_pass": "yes",
+    "name": "Grootrivierhoogte Pass",
+    "name:af": "Grootrivierhoogtepas",
+    "name:en": "Grootrivierhoogte Pass"
+   }
+  },
+  {
+   "osm": "node/2166867933",
+   "lat": -33.3306584,
+   "lon": 22.1153336,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Luiperdnek",
+    "natural": "saddle",
+    "sagns_id": "101289",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2172422237",
+   "lat": -28.8951647,
+   "lon": 29.0130419,
+   "bounds": null,
+   "tags": {
+    "ele": "2887",
+    "mountain_pass": "yes",
+    "name": "Mnweni Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/2278254181",
+   "lat": -32.2537015,
+   "lon": 19.1519809,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Klippoort",
+    "sagns_id": "76950",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2278254419",
+   "lat": -32.256888,
+   "lon": 19.1656065,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Sandpoort",
+    "sagns_id": "71927",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2317087827",
+   "lat": -32.4681923,
+   "lon": 19.128889,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Noordpoort",
+    "sagns_id": "112143",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2319821723",
+   "lat": -32.5196185,
+   "lon": 19.1746346,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Kokspoort",
+    "natural": "saddle",
+    "sagns_id": "76263",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2320741887",
+   "lat": -32.2062654,
+   "lon": 19.0604205,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Krakadoupas",
+    "sagns_id": "75846",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2320770339",
+   "lat": -32.3273896,
+   "lon": 19.1128901,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Vanzylsgatpoort",
+    "sagns_id": "63192",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2320770608",
+   "lat": -32.2946284,
+   "lon": 19.1277549,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Skerpioenspoort",
+    "sagns_id": "69978",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2320770686",
+   "lat": -32.2816585,
+   "lon": 19.1050044,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Klein-Koupoort",
+    "sagns_id": "77758",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2320831857",
+   "lat": -32.4064775,
+   "lon": 19.0391881,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Sewegat se Nek",
+    "natural": "saddle",
+    "sagns_id": "71111",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2348069631",
+   "lat": -33.3383981,
+   "lon": 22.1393713,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Bushman's Nek",
+    "natural": "saddle",
+    "sagns_id": "91767",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/2355968015",
+   "lat": -29.2532841,
+   "lon": 29.420067,
+   "bounds": null,
+   "tags": {
+    "direction": "75",
+    "ele": "3068",
+    "mountain_pass": "yes",
+    "name": "Bannerman's Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/2356993242",
+   "lat": -29.7600107,
+   "lon": 30.8330206,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Nkonka Crack"
+   }
+  },
+  {
+   "osm": "node/2400588899",
+   "lat": -33.8726346,
+   "lon": 22.0312475,
+   "bounds": null,
+   "tags": {
+    "ele": "860",
+    "mountain_pass": "yes",
+    "name": "Robinson Pass",
+    "name:af": "Robinsonpas",
+    "name:en": "Robinson Pass",
+    "wikidata": "Q3437189",
+    "wikimedia_commons": "Category:Robinson Pass",
+    "wikipedia": "af:Robinsonpas"
+   }
+  },
+  {
+   "osm": "node/2519079563",
+   "lat": -34.3183414,
+   "lon": 19.0088532,
+   "bounds": null,
+   "tags": {
+    "name": "Spooknek",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/2632601299",
+   "lat": -31.1187817,
+   "lon": 27.2992491,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Greylingspas"
+   }
+  },
+  {
+   "osm": "node/2633313340",
+   "lat": -29.7585988,
+   "lon": 30.8578311,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "The Wall"
+   }
+  },
+  {
+   "osm": "node/2808520110",
+   "lat": -31.8360201,
+   "lon": 24.8589001,
+   "bounds": null,
+   "tags": {
+    "ele": "1787",
+    "mountain_pass": "yes",
+    "name": "Lootsberg Pass",
+    "name:af": "Lootsbergpas",
+    "name:en": "Lootsberg Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/2915817020",
+   "lat": -31.9542204,
+   "lon": 24.7267102,
+   "bounds": null,
+   "tags": {
+    "ele": "1446",
+    "mountain_pass": "yes",
+    "name": "Naudesberg Pass"
+   }
+  },
+  {
+   "osm": "node/2963886188",
+   "lat": -32.5241508,
+   "lon": 20.6363958,
+   "bounds": null,
+   "tags": {
+    "ele": "1600",
+    "mountain_pass": "yes",
+    "name": "Verlatenkloof Pass",
+    "name:af": "Verlatenkloofpas",
+    "name:en": "Verlatenkloof Pass"
+   }
+  },
+  {
+   "osm": "node/3007358700",
+   "lat": -30.155809,
+   "lon": 28.4457267,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Khamokha Pass",
+    "natural": "saddle",
+    "source": "LSPP"
+   }
+  },
+  {
+   "osm": "node/3038471767",
+   "lat": -33.4027601,
+   "lon": 18.8688013,
+   "bounds": null,
+   "tags": {
+    "ele": "348",
+    "mountain_pass": "yes",
+    "name": "Bothmaskloof Pass"
+   }
+  },
+  {
+   "osm": "node/3077259775",
+   "lat": -33.880412,
+   "lon": 19.1616464,
+   "bounds": null,
+   "tags": {
+    "ele": "1100",
+    "name": "Uitkyk",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/3077260381",
+   "lat": -33.9071448,
+   "lon": 19.1569694,
+   "bounds": null,
+   "tags": {
+    "ele": "736",
+    "mountain_pass": "yes",
+    "name": "Franschhoek Pass",
+    "source": "ngi"
+   }
+  },
+  {
+   "osm": "node/3326202792",
+   "lat": -33.4742849,
+   "lon": 21.5530649,
+   "bounds": null,
+   "tags": {
+    "ele": "661",
+    "mountain_pass": "yes",
+    "name": "Huisrivier Pass"
+   }
+  },
+  {
+   "osm": "node/3326205689",
+   "lat": -33.495197,
+   "lon": 21.5825711,
+   "bounds": null,
+   "tags": {
+    "ele": "660",
+    "mountain_pass": "yes",
+    "name": "Huisrivier Pass"
+   }
+  },
+  {
+   "osm": "node/3411985734",
+   "lat": -30.5605011,
+   "lon": 28.1609903,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Tsatsane Pass",
+    "natural": "saddle",
+    "source": "LSPP"
+   }
+  },
+  {
+   "osm": "node/3452006965",
+   "lat": -25.1412714,
+   "lon": 30.6195553,
+   "bounds": null,
+   "tags": {
+    "ele": "2150",
+    "mountain_pass": "yes",
+    "name": "Long Tom Pass",
+    "natural": "saddle",
+    "wikidata": "Q2982296",
+    "wikimedia_commons": "Category:Long Tom Pass",
+    "wikipedia": "en:Long Tom Pass"
+   }
+  },
+  {
+   "osm": "node/3468371683",
+   "lat": -29.0715996,
+   "lon": 29.3231297,
+   "bounds": null,
+   "tags": {
+    "ele": "3105",
+    "mountain_pass": "yes",
+    "name": "Grays Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/3546860834",
+   "lat": -24.4524108,
+   "lon": 30.6132933,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Abel Erasmus Pass",
+    "wikidata": "Q4666558",
+    "wikimedia_commons": "Category:Abel Erasmus Pass",
+    "wikipedia": "en:Abel Erasmus Pass"
+   }
+  },
+  {
+   "osm": "node/3569907104",
+   "lat": -28.8614815,
+   "lon": 28.9401844,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Fangs Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/3670815021",
+   "lat": -33.3954418,
+   "lon": 19.8024049,
+   "bounds": null,
+   "tags": {
+    "ele": "965",
+    "mountain_pass": "yes",
+    "name": "Hex River Pass",
+    "name:af": "Hexrivierpas",
+    "name:en": "Hex River Pass",
+    "sagns_id": "81598",
+    "source": "survey",
+    "wikidata": "Q5748609",
+    "wikipedia": "en:Hex River Pass"
+   }
+  },
+  {
+   "osm": "node/3768704413",
+   "lat": -32.6997465,
+   "lon": 19.4164742,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Blinkbergpas",
+    "sagns_id": "94552",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/3813563535",
+   "lat": -32.4069586,
+   "lon": 19.1080098,
+   "bounds": null,
+   "tags": {
+    "ele": "1010",
+    "mountain_pass": "yes",
+    "name": "Uitkyk Pass",
+    "name:af": "Uitkykpas"
+   }
+  },
+  {
+   "osm": "node/3813750239",
+   "lat": -33.6493441,
+   "lon": 24.3477004,
+   "bounds": null,
+   "tags": {
+    "ele": "430",
+    "mountain_pass": "yes",
+    "name": "Grassneck Pass"
+   }
+  },
+  {
+   "osm": "node/3814152642",
+   "lat": -33.9756043,
+   "lon": 20.7018685,
+   "bounds": null,
+   "tags": {
+    "ele": "351",
+    "mountain_pass": "yes",
+    "name": "Tradouw Pass",
+    "sagns_id": "65244"
+   }
+  },
+  {
+   "osm": "node/3963537725",
+   "lat": -28.8131907,
+   "lon": 17.6820972,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Vyfmylpoort"
+   }
+  },
+  {
+   "osm": "node/4040589896",
+   "lat": -33.5119258,
+   "lon": 25.0775463,
+   "bounds": null,
+   "tags": {
+    "ele": "363",
+    "mountain_pass": "yes",
+    "name": "Adolphus Poort Pass"
+   }
+  },
+  {
+   "osm": "node/4172878673",
+   "lat": -33.9584803,
+   "lon": 18.4338015,
+   "bounds": null,
+   "tags": {
+    "ele": "690",
+    "name": "Die Saal",
+    "name:af": "Die Saal",
+    "name:en": "The Saddle",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/4177936835",
+   "lat": -28.4929774,
+   "lon": 22.6040955,
+   "bounds": null,
+   "tags": {
+    "elevation": "1414",
+    "mountain_pass": "yes",
+    "name": "Bergenaarspad Pass",
+    "wikipedia": "en:Bergenaarspad Pass"
+   }
+  },
+  {
+   "osm": "node/4318613173",
+   "lat": -32.2902808,
+   "lon": 25.5115419,
+   "bounds": null,
+   "tags": {
+    "ele": "1616",
+    "mountain_pass": "yes",
+    "name": "Swaershoek Pass",
+    "wikidata": "Q7652920",
+    "wikipedia": "en:Swaershoek Pass"
+   }
+  },
+  {
+   "osm": "node/4454895612",
+   "lat": -33.9969849,
+   "lon": 19.0122703,
+   "bounds": null,
+   "tags": {
+    "ele": "1100",
+    "name": "Bergriviernek",
+    "natural": "saddle",
+    "sagns_id": "95150"
+   }
+  },
+  {
+   "osm": "node/4466260849",
+   "lat": -34.0749782,
+   "lon": 18.9964982,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Stokoe's Pass",
+    "sagns_id": "67842",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/4798944663",
+   "lat": -27.0954554,
+   "lon": 31.9976458,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Cecil Mack's Pass",
+    "natural": "saddle",
+    "wikidata": "Q5056203",
+    "wikipedia": "en:Cecil Macks Pass"
+   }
+  },
+  {
+   "osm": "node/5075948866",
+   "lat": -34.1486362,
+   "lon": 18.9285602,
+   "bounds": null,
+   "tags": {
+    "ele": "452",
+    "mountain_pass": "yes",
+    "name": "Sir Lowry's Pass",
+    "wikidata": "Q3031524",
+    "wikimedia_commons": "Category:Sir Lowry's Pass",
+    "wikipedia": "en:Sir Lowry's Pass"
+   }
+  },
+  {
+   "osm": "node/5075948867",
+   "lat": -34.1484956,
+   "lon": 18.9285274,
+   "bounds": null,
+   "tags": {
+    "ele": "452",
+    "mountain_pass": "yes",
+    "name": "Sir Lowry's Pass",
+    "wikidata": "Q3031524",
+    "wikimedia_commons": "Category:Sir Lowry's Pass",
+    "wikipedia": "en:Sir Lowry's Pass"
+   }
+  },
+  {
+   "osm": "node/5211024273",
+   "lat": -33.7867448,
+   "lon": 19.0390491,
+   "bounds": null,
+   "tags": {
+    "ele": "720",
+    "name": "Drakensteinnek",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5337590279",
+   "lat": -33.7247091,
+   "lon": 23.0546839,
+   "bounds": null,
+   "tags": {
+    "ele": "910",
+    "mountain_pass": "yes",
+    "name": "Potjiesberg Pass",
+    "name:af": "Potjiesbergpas",
+    "name:en": "Potjiesberg Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5426910581",
+   "lat": -29.3486371,
+   "lon": 29.4643654,
+   "bounds": null,
+   "tags": {
+    "alt_name_1": "Giant's Castle Pass",
+    "ele": "3097",
+    "mountain_pass": "yes",
+    "name": "Giant's Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5431255638",
+   "lat": -33.8832051,
+   "lon": 22.4312157,
+   "bounds": null,
+   "tags": {
+    "name": "Montagu Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5459629740",
+   "lat": -29.8206054,
+   "lon": 29.1331048,
+   "bounds": null,
+   "tags": {
+    "ele": "2544",
+    "name": "Thamathu Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5464338536",
+   "lat": -29.6204843,
+   "lon": 29.2839611,
+   "bounds": null,
+   "tags": {
+    "ele": "3088",
+    "mountain_pass": "yes",
+    "name": "Masubasuba Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5568375471",
+   "lat": -29.2220596,
+   "lon": 29.4105184,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Judge Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5568375472",
+   "lat": -29.1757303,
+   "lon": 29.3463738,
+   "bounds": null,
+   "tags": {
+    "name": "Injasuti Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/5754617875",
+   "lat": -33.2752078,
+   "lon": 22.2834679,
+   "bounds": null,
+   "tags": {
+    "ele": "1090",
+    "mountain_pass": "yes",
+    "name": "Kareedouw Pass",
+    "name:af": "Kareedouwpas",
+    "name:en": "Kareedouw Pass",
+    "natural": "saddle",
+    "sagns_id": "78582",
+    "source": "ngi"
+   }
+  },
+  {
+   "osm": "node/6109363222",
+   "lat": -28.6274756,
+   "lon": 28.9571634,
+   "bounds": null,
+   "tags": {
+    "name": "Rustler's Gap",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/6126443804",
+   "lat": -29.0137479,
+   "lon": 29.1874357,
+   "bounds": null,
+   "tags": {
+    "ele": "3100",
+    "mountain_pass": "yes",
+    "name": "Thuthumi Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/6171089781",
+   "lat": -32.2619393,
+   "lon": 22.5673936,
+   "bounds": null,
+   "tags": {
+    "ele": "1574",
+    "mountain_pass": "yes",
+    "name": "Molteno Pass",
+    "start_date": "1880",
+    "wikidata": "Q6896867",
+    "wikipedia": "en:Molteno Pass"
+   }
+  },
+  {
+   "osm": "node/6243542289",
+   "lat": -33.5152608,
+   "lon": 19.3903952,
+   "bounds": null,
+   "tags": {
+    "ele": "1638",
+    "name": "Pulpit Nek",
+    "natural": "saddle",
+    "sagns_id": "116591"
+   }
+  },
+  {
+   "osm": "node/6270080407",
+   "lat": -33.8677319,
+   "lon": 22.7999675,
+   "bounds": null,
+   "tags": {
+    "ele": "750",
+    "name": "Windmeulnek",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/6314101863",
+   "lat": -34.0109371,
+   "lon": 18.3494709,
+   "bounds": null,
+   "tags": {
+    "ele": "154.1",
+    "mountain_pass": "yes",
+    "name": "Houtbaainek",
+    "natural": "saddle",
+    "sagns_id": "80803",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/6388933134",
+   "lat": -28.6337227,
+   "lon": 28.9415168,
+   "bounds": null,
+   "tags": {
+    "name": "Sugarloaf gap",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/6612451188",
+   "lat": -32.4153206,
+   "lon": 26.6647705,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Devil's Bellows Nek",
+    "wikidata": "Q5267066",
+    "wikipedia": "en:Devil's Bellows"
+   }
+  },
+  {
+   "osm": "node/6852084315",
+   "lat": -28.4068106,
+   "lon": 29.3969986,
+   "bounds": null,
+   "tags": {
+    "ele": "1690",
+    "mountain_pass": "yes",
+    "name": "Van Reenen's Pass",
+    "wikidata": "Q3554431",
+    "wikipedia": "en:Van Reenen's Pass"
+   }
+  },
+  {
+   "osm": "node/6934304357",
+   "lat": -33.3889086,
+   "lon": 21.7763593,
+   "bounds": null,
+   "tags": {
+    "ele": "1523",
+    "name": "Wyenek",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/6938773220",
+   "lat": -29.1532948,
+   "lon": 29.3439986,
+   "bounds": null,
+   "tags": {
+    "ele": "3066",
+    "mountain_pass": "yes",
+    "name": "Leslies Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/6957968181",
+   "lat": -25.7020189,
+   "lon": 27.8985192,
+   "bounds": null,
+   "tags": {
+    "alt_name": "Zilkaat's Nek",
+    "mountain_pass": "yes",
+    "name": "Silkaatsnek Pass",
+    "natural": "saddle",
+    "sagns_id": "70422"
+   }
+  },
+  {
+   "osm": "node/7017097788",
+   "lat": -33.9222451,
+   "lon": 18.9103532,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Helshoogte",
+    "natural": "saddle",
+    "sagns_id": "81757",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7112858710",
+   "lat": -28.866766,
+   "lon": 17.9661942,
+   "bounds": null,
+   "tags": {
+    "description": "Do not enter without help. Extreme 4x4 trail. No turnaround on road. Can only turn at the bottom.",
+    "mountain_pass": "yes",
+    "name": "Road To Hell"
+   }
+  },
+  {
+   "osm": "node/7112966344",
+   "lat": -28.8662822,
+   "lon": 17.9664685,
+   "bounds": null,
+   "tags": {
+    "description": "Extreme 4x4 Track towards river -",
+    "mountain_pass": "yes",
+    "name": "Road To Hell"
+   }
+  },
+  {
+   "osm": "node/7151059871",
+   "lat": -33.7644444,
+   "lon": 19.8877778,
+   "bounds": null,
+   "tags": {
+    "name": "Blouhoogtenek",
+    "natural": "saddle",
+    "sagns_id": "94403",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7153309549",
+   "lat": -33.2078127,
+   "lon": 20.15137,
+   "bounds": null,
+   "tags": {
+    "name": "Bruidegomshoogte",
+    "natural": "saddle",
+    "sagns_id": "92116",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7166990103",
+   "lat": -32.8089246,
+   "lon": 20.1618235,
+   "bounds": null,
+   "tags": {
+    "ele": "865",
+    "name": "Jukhoogte",
+    "natural": "saddle",
+    "sagns_id": "79354",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7171960746",
+   "lat": -32.7768947,
+   "lon": 20.0685241,
+   "bounds": null,
+   "tags": {
+    "ele": "823",
+    "name": "Ounek",
+    "natural": "saddle",
+    "sagns_id": "114495",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7193734175",
+   "lat": -32.1272222,
+   "lon": 20.0941667,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Gannagapas",
+    "sagns_id": "85133",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7199503857",
+   "lat": -31.7036072,
+   "lon": 19.8920673,
+   "bounds": null,
+   "tags": {
+    "name": "Brakfontein se Hoogte",
+    "natural": "saddle",
+    "sagns_id": "92734",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7222292049",
+   "lat": -34.2562472,
+   "lon": 18.4411088,
+   "bounds": null,
+   "tags": {
+    "name": "Arnoldsnek",
+    "natural": "saddle",
+    "sagns_id": "96003",
+    "source": "sagns",
+    "wikidata": "Q31872138"
+   }
+  },
+  {
+   "osm": "node/7222727019",
+   "lat": -33.4770664,
+   "lon": 19.3121087,
+   "bounds": null,
+   "tags": {
+    "ele": "1664",
+    "name": "Foucheshoek",
+    "name:af": "Foucheshoek",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/7223344598",
+   "lat": -33.6027778,
+   "lon": 19.11,
+   "bounds": null,
+   "tags": {
+    "name": "Bain's Kloof Pass",
+    "natural": "saddle",
+    "sagns_id": "96259",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7223344605",
+   "lat": -33.4716667,
+   "lon": 19.3080556,
+   "bounds": null,
+   "tags": {
+    "name": "Foucheshoek",
+    "natural": "saddle",
+    "sagns_id": "85873",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7224358183",
+   "lat": -33.907039,
+   "lon": 19.1569196,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Franschhoekpas",
+    "natural": "saddle",
+    "sagns_id": "85539",
+    "source": "sagns",
+    "wikidata": "Q5492432",
+    "wikipedia": "en:Franschhoek Pass"
+   }
+  },
+  {
+   "osm": "node/7226986738",
+   "lat": -34.0804799,
+   "lon": 18.9722667,
+   "bounds": null,
+   "tags": {
+    "description": "Place of stones",
+    "name": "Klein-Waainek",
+    "natural": "saddle",
+    "sagns_id": "77581",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7226986739",
+   "lat": -34.0196866,
+   "lon": 18.9096029,
+   "bounds": null,
+   "tags": {
+    "name": "Kleinnek",
+    "natural": "saddle",
+    "sagns_id": "77376",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7226986741",
+   "lat": -34.0230716,
+   "lon": 18.9020076,
+   "bounds": null,
+   "tags": {
+    "ele": "529",
+    "name": "The Neck",
+    "natural": "saddle",
+    "sagns_id": "82973",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7232777020",
+   "lat": -32.2069481,
+   "lon": 19.0607061,
+   "bounds": null,
+   "tags": {
+    "name": "Krakadoupoort",
+    "natural": "saddle",
+    "sagns_id": "75848",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7232777028",
+   "lat": -32.2619798,
+   "lon": 19.0993118,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Groot-Koupoort",
+    "sagns_id": "83347",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7232777036",
+   "lat": -32.1539768,
+   "lon": 19.0165208,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Amon se Poort",
+    "sagns_id": "95781",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7238346895",
+   "lat": -33.7213889,
+   "lon": 19.0727778,
+   "bounds": null,
+   "tags": {
+    "name": "Dutoitskloofpas",
+    "natural": "saddle",
+    "sagns_id": "88122",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7238346897",
+   "lat": -33.7121107,
+   "lon": 19.0758595,
+   "bounds": null,
+   "tags": {
+    "name": "Bynespoort",
+    "natural": "saddle",
+    "sagns_id": "91857",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7239471089",
+   "lat": -32.4008333,
+   "lon": 19.1022222,
+   "bounds": null,
+   "tags": {
+    "name": "Ou-uitkykpas",
+    "natural": "saddle",
+    "sagns_id": "114364",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7239471099",
+   "lat": -32.3806042,
+   "lon": 19.0438854,
+   "bounds": null,
+   "tags": {
+    "ele": "803",
+    "name": "Groothoekpoort",
+    "natural": "saddle",
+    "sagns_id": "83180",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7239471103",
+   "lat": -32.4027778,
+   "lon": 19.0930556,
+   "bounds": null,
+   "tags": {
+    "name": "Cederbergpas",
+    "natural": "saddle",
+    "sagns_id": "91385",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7240701636",
+   "lat": -32.4386111,
+   "lon": 19.2380556,
+   "bounds": null,
+   "tags": {
+    "name": "Gabriëlspas",
+    "natural": "saddle",
+    "sagns_id": "85015",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7241576329",
+   "lat": -32.7062396,
+   "lon": 19.1389273,
+   "bounds": null,
+   "tags": {
+    "name": "Grysboknek",
+    "natural": "saddle",
+    "sagns_id": "82727",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7241848543",
+   "lat": -33.1694739,
+   "lon": 19.1351026,
+   "bounds": null,
+   "tags": {
+    "name": "Kleinpoort se Nek",
+    "natural": "saddle",
+    "sagns_id": "77397",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7242823990",
+   "lat": -34.0978917,
+   "lon": 19.0489076,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Viljoenspas",
+    "sagns_id": "62898",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7242823991",
+   "lat": -34.018247,
+   "lon": 19.0768481,
+   "bounds": null,
+   "tags": {
+    "name": "Pofaddernek",
+    "natural": "saddle",
+    "sagns_id": "116120",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7242823993",
+   "lat": -34.0971671,
+   "lon": 18.9657787,
+   "bounds": null,
+   "tags": {
+    "description": "Place of stones",
+    "name": "Groot-Waainek",
+    "natural": "saddle",
+    "sagns_id": "83039",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7242823995",
+   "lat": -33.987834,
+   "lon": 19.0916942,
+   "bounds": null,
+   "tags": {
+    "name": "Fortsnek",
+    "natural": "saddle",
+    "sagns_id": "85866",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7247143458",
+   "lat": -33.4645624,
+   "lon": 21.5149321,
+   "bounds": null,
+   "tags": {
+    "name": "Kroningshoogte",
+    "natural": "saddle",
+    "sagns_id": "75385",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7249144353",
+   "lat": -33.7329259,
+   "lon": 25.2040176,
+   "bounds": null,
+   "tags": {
+    "name": "Nounek",
+    "natural": "saddle",
+    "sagns_id": "112281",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7249144354",
+   "lat": -33.6826865,
+   "lon": 25.2423057,
+   "bounds": null,
+   "tags": {
+    "name": "Chase's Kloof Nek",
+    "natural": "saddle",
+    "sagns_id": "91503",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7252705876",
+   "lat": -28.6870896,
+   "lon": 28.8976466,
+   "bounds": null,
+   "tags": {
+    "name": "Gudu Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/7261000245",
+   "lat": -33.9263889,
+   "lon": 20.4461111,
+   "bounds": null,
+   "tags": {
+    "name": "Wildehondskloofhoogte",
+    "natural": "saddle",
+    "sagns_id": "61304",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7261000248",
+   "lat": -33.9941667,
+   "lon": 20.3477778,
+   "bounds": null,
+   "tags": {
+    "name": "Leeuriviershoogte",
+    "natural": "saddle",
+    "sagns_id": "100049",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7261000255",
+   "lat": -33.9875,
+   "lon": 20.3130556,
+   "bounds": null,
+   "tags": {
+    "name": "Bakoondshoogte",
+    "natural": "saddle",
+    "sagns_id": "96552",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7280749850",
+   "lat": -34.2291667,
+   "lon": 19.2727778,
+   "bounds": null,
+   "tags": {
+    "name": "Langhoogte",
+    "natural": "saddle",
+    "sagns_id": "99499",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7282025837",
+   "lat": -33.9583333,
+   "lon": 19.0983333,
+   "bounds": null,
+   "tags": {
+    "name": "Keerwedernek",
+    "natural": "saddle",
+    "sagns_id": "78532",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7282376848",
+   "lat": -34.0117968,
+   "lon": 18.4049179,
+   "bounds": null,
+   "tags": {
+    "name": "Constantianek",
+    "natural": "saddle",
+    "sagns_id": "91074",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7299184918",
+   "lat": -31.6009672,
+   "lon": 18.9874542,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Koebeepas",
+    "sagns_id": "76821",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7299185199",
+   "lat": -31.5513167,
+   "lon": 18.984772,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Ou Dooppoort",
+    "sagns_id": "114324",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7299185494",
+   "lat": -31.5214606,
+   "lon": 18.9807004,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Klein-Koebeepas",
+    "sagns_id": "77746",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7299185689",
+   "lat": -31.3852778,
+   "lon": 19.0252778,
+   "bounds": null,
+   "tags": {
+    "name": "Vanrhynspas",
+    "natural": "saddle",
+    "sagns_id": "63212",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7299379810",
+   "lat": -32.3259059,
+   "lon": 19.2014177,
+   "bounds": null,
+   "tags": {
+    "name": "Uitkyk",
+    "natural": "saddle",
+    "sagns_id": "64205",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7301234459",
+   "lat": -33.7928165,
+   "lon": 20.165872,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Wolfiespoort",
+    "sagns_id": "60380",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7312082103",
+   "lat": -34.1010027,
+   "lon": 23.3828967,
+   "bounds": null,
+   "tags": {
+    "ele": "24",
+    "name": "Grasnek",
+    "natural": "saddle",
+    "sagns_id": "83410",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7329960416",
+   "lat": -32.5720218,
+   "lon": 20.3737018,
+   "bounds": null,
+   "tags": {
+    "name": "Safbreeknek",
+    "natural": "saddle",
+    "sagns_id": "72267",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7329960431",
+   "lat": -32.6406483,
+   "lon": 20.305135,
+   "bounds": null,
+   "tags": {
+    "ele": "665",
+    "name": "Amandelnek",
+    "natural": "saddle",
+    "sagns_id": "95729",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7385760859",
+   "lat": -33.8047484,
+   "lon": 19.8136845,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Goreeshoogte",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/7637845180",
+   "lat": -33.7451347,
+   "lon": 20.5869486,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Sandfonteinspoort",
+    "sagns_id": "72111",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7642539509",
+   "lat": -32.8926251,
+   "lon": 19.548117,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Katbakkies Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/7679575749",
+   "lat": -33.6094444,
+   "lon": 19.8422222,
+   "bounds": null,
+   "tags": {
+    "name": "Rooihoogtepas",
+    "natural": "saddle",
+    "sagns_id": "73113",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7679575752",
+   "lat": -33.3505556,
+   "lon": 19.8877778,
+   "bounds": null,
+   "tags": {
+    "name": "Hugosnek",
+    "natural": "saddle",
+    "sagns_id": "80515",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7679575753",
+   "lat": -33.3950563,
+   "lon": 19.801622,
+   "bounds": null,
+   "tags": {
+    "name": "Hexrivierpas",
+    "natural": "saddle",
+    "sagns_id": "81598",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7742856973",
+   "lat": -33.2309594,
+   "lon": 22.2560479,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Boesmanspoort",
+    "natural": "saddle",
+    "sagns_id": "93806",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7742856974",
+   "lat": -33.3202778,
+   "lon": 22.2616667,
+   "bounds": null,
+   "tags": {
+    "name": "Blounek",
+    "natural": "saddle",
+    "sagns_id": "94153",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/7784338431",
+   "lat": -33.965,
+   "lon": 23.5622222,
+   "bounds": null,
+   "tags": {
+    "name": "Grootrivierpas",
+    "natural": "saddle",
+    "sagns_id": "82632",
+    "source": "sagns"
+   }
+  },
+  {
+   "osm": "node/8248496091",
+   "lat": -33.8699743,
+   "lon": 19.7744347,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Sandbergpas",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/8414895522",
+   "lat": -29.3025577,
+   "lon": 29.4419249,
+   "bounds": null,
+   "tags": {
+    "ele": "3124",
+    "name": "Jareteng Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/8414895523",
+   "lat": -29.3711239,
+   "lon": 29.4489416,
+   "bounds": null,
+   "tags": {
+    "ele": "2893",
+    "name": "Ntubeni Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/8414895524",
+   "lat": -29.3647284,
+   "lon": 29.4446715,
+   "bounds": null,
+   "tags": {
+    "ele": "2960",
+    "name": "Lotheni Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/8414895525",
+   "lat": -29.4361,
+   "lon": 29.4005,
+   "bounds": null,
+   "tags": {
+    "ele": "2850",
+    "name": "Nhlawathimbe Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/8414895526",
+   "lat": -29.4330333,
+   "lon": 29.4248333,
+   "bounds": null,
+   "tags": {
+    "ele": "2935",
+    "name": "Butress Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/8414895527",
+   "lat": -29.4517803,
+   "lon": 29.3921324,
+   "bounds": null,
+   "tags": {
+    "ele": "2894",
+    "name": "Mlahlangubo Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/9222924292",
+   "lat": -25.8319649,
+   "lon": 27.2927469,
+   "bounds": null,
+   "tags": {
+    "name": "Hole in the Wall",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/9222924293",
+   "lat": -25.8311643,
+   "lon": 27.3136372,
+   "bounds": null,
+   "tags": {
+    "name": "Footloose Gully",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/9222974470",
+   "lat": -25.8313416,
+   "lon": 27.3161178,
+   "bounds": null,
+   "tags": {
+    "name": "Chain Ladder",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/9233018876",
+   "lat": -25.8132312,
+   "lon": 27.3179631,
+   "bounds": null,
+   "tags": {
+    "name": "Camp Gully",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/9801783354",
+   "lat": -32.6429361,
+   "lon": 18.947551,
+   "bounds": null,
+   "tags": {
+    "ele": "519",
+    "mountain_pass": "yes",
+    "name": "Piekenierskloof Pass",
+    "name:af": "Piekenierskloofpas",
+    "source": "https://af.wikipedia.org/wiki/Piekenierskloofpas",
+    "wikidata": "Q13035776",
+    "wikipedia": "af:Piekenierskloofpas"
+   }
+  },
+  {
+   "osm": "node/10790154240",
+   "lat": -33.2177696,
+   "lon": 24.3970461,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Pienaarspoort Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/10998115920",
+   "lat": -30.0800682,
+   "lon": 28.8609123,
+   "bounds": null,
+   "tags": {
+    "name": "Cold Side",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11002318097",
+   "lat": -30.0477733,
+   "lon": 28.9436531,
+   "bounds": null,
+   "tags": {
+    "name": "Ramats'eliso's Nek",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11028838577",
+   "lat": -29.0677047,
+   "lon": 29.2601323,
+   "bounds": null,
+   "tags": {
+    "name": "Ndedema's Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11031928297",
+   "lat": -29.0959739,
+   "lon": 29.3258572,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Cathikin Mountain Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11462504162",
+   "lat": -29.6429274,
+   "lon": 29.2883416,
+   "bounds": null,
+   "tags": {
+    "ele": "2812",
+    "mountain_pass": "yes",
+    "name": "Amakehla Pass"
+   }
+  },
+  {
+   "osm": "node/11476896820",
+   "lat": -34.0113234,
+   "lon": 19.0004946,
+   "bounds": null,
+   "tags": {
+    "ele": "1000",
+    "name": "Kurktrekkersnek",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11478551319",
+   "lat": -29.6483534,
+   "lon": 29.2214231,
+   "bounds": null,
+   "tags": {
+    "ele": "2812",
+    "mountain_pass": "yes",
+    "name": "Sandleni Pass",
+    "place": "locality"
+   }
+  },
+  {
+   "osm": "node/11479146080",
+   "lat": -29.575084,
+   "lon": 29.3258903,
+   "bounds": null,
+   "tags": {
+    "ele": "2925",
+    "mountain_pass": "yes",
+    "name": "Phinong Pass"
+   }
+  },
+  {
+   "osm": "node/11573653524",
+   "lat": -29.1376013,
+   "lon": 29.3540798,
+   "bounds": null,
+   "tags": {
+    "ele": "2990",
+    "name": "Ape's Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11573653526",
+   "lat": -29.0805035,
+   "lon": 29.3478009,
+   "bounds": null,
+   "tags": {
+    "ele": "2950",
+    "name": "Cowl Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11753676899",
+   "lat": -30.3383227,
+   "lon": 28.2520334,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Ongeluks Nek",
+    "natural": "saddle",
+    "source": "LSPP"
+   }
+  },
+  {
+   "osm": "node/11904923891",
+   "lat": -30.135455,
+   "lon": 28.6198465,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Mohlabaphoho Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/11916005381",
+   "lat": -30.1442687,
+   "lon": 28.5042648,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Three-Sisters Pass",
+    "natural": "saddle",
+    "source": "LSPP"
+   }
+  },
+  {
+   "osm": "node/11933425109",
+   "lat": -30.204098,
+   "lon": 28.3489323,
+   "bounds": null,
+   "tags": {
+    "alt_name": "Pack Ox Nek",
+    "mountain_pass": "yes",
+    "name": "Nene Pass",
+    "natural": "saddle",
+    "source": "LSPP"
+   }
+  },
+  {
+   "osm": "node/12206998436",
+   "lat": -33.8030322,
+   "lon": 20.0945802,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Cogmanskloof Pass",
+    "wikidata": "Q13035202",
+    "wikipedia": "en:Cogmanskloof Pass"
+   }
+  },
+  {
+   "osm": "node/12336670722",
+   "lat": -32.2083779,
+   "lon": 22.2367956,
+   "bounds": null,
+   "tags": {
+    "name": "Charlies Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/12530044271",
+   "lat": -32.6678886,
+   "lon": 20.7639338,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Komsberg Pass"
+   }
+  },
+  {
+   "osm": "node/13075575355",
+   "lat": -29.1490363,
+   "lon": 25.9721228,
+   "bounds": null,
+   "tags": {
+    "name": "Laingsnek",
+    "natural": "saddle",
+    "sagns_id": "99214"
+   }
+  },
+  {
+   "osm": "node/13738210586",
+   "lat": -30.8645982,
+   "lon": 27.8707726,
+   "bounds": null,
+   "tags": {
+    "ele": "2587",
+    "name": "Naude's Neck Pass",
+    "natural": "saddle"
+   }
+  },
+  {
+   "osm": "node/14220079088",
+   "lat": -33.9889654,
+   "lon": 21.0607041,
+   "bounds": null,
+   "tags": {
+    "mountain_pass": "yes",
+    "name": "Plattekloof Pass"
+   }
+  },
+  {
+   "osm": "way/209187000",
+   "lat": null,
+   "lon": null,
+   "bounds": {
+    "minlat": -29.8740187,
+    "minlon": 29.1458299,
+    "maxlat": -29.8569207,
+    "maxlon": 29.1810324
+   },
+   "tags": {
+    "highway": "path",
+    "mountain_pass": "yes",
+    "name": "Bushman's Nek Pass Trail",
+    "source": "GPX Survey"
+   }
+  },
+  {
+   "osm": "way/271243478",
+   "lat": null,
+   "lon": null,
+   "bounds": {
+    "minlat": -29.157819,
+    "minlon": 29.343959,
+    "maxlat": -29.1508639,
+    "maxlon": 29.3956528
+   },
+   "tags": {
+    "highway": "path",
+    "mountain_pass": "yes",
+    "name": "Leslie's Pass",
+    "resource": "Vertical Endeavour",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground"
+   }
+  },
+  {
+   "osm": "way/361375117",
+   "lat": null,
+   "lon": null,
+   "bounds": {
+    "minlat": -33.6494132,
+    "minlon": 24.3420868,
+    "maxlat": -33.6493384,
+    "maxlon": 24.3421914
+   },
+   "tags": {
+    "4wd_only": "yes",
+    "ele": "451",
+    "highway": "tertiary",
+    "mountain_pass": "yes",
+    "name": "Grasnek Pass",
+    "note": "svr_Kaart_confirmed_202304",
+    "ref": "R332",
+    "surface": "unpaved",
+    "wikipedia": "en:List of mountain passes of the Eastern Cape"
+   }
+  },
+  {
+   "osm": "way/715284590",
+   "lat": null,
+   "lon": null,
+   "bounds": {
+    "minlat": -27.9652566,
+    "minlon": 29.6370146,
+    "maxlat": -27.9564201,
+    "maxlon": 29.677651
+   },
+   "tags": {
+    "highway": "tertiary",
+    "mountain_pass": "yes",
+    "name": "Normandien Pass",
+    "ref": "P270",
+    "surface": "gravel"
+   }
+  },
+  {
+   "osm": "way/715698279",
+   "lat": null,
+   "lon": null,
+   "bounds": {
+    "minlat": -28.0136582,
+    "minlon": 29.677651,
+    "maxlat": -27.95894,
+    "maxlon": 29.7303611
+   },
+   "tags": {
+    "highway": "tertiary",
+    "mountain_pass": "yes",
+    "name": "Normandien Pass",
+    "ref": "P270",
+    "surface": "compacted"
+   }
+  },
+  {
+   "osm": "way/719370538",
+   "lat": null,
+   "lon": null,
+   "bounds": {
+    "minlat": -27.8724026,
+    "minlon": 29.6878049,
+    "maxlat": -27.8607022,
+    "maxlon": 29.7221455
+   },
+   "tags": {
+    "highway": "tertiary",
+    "mountain_pass": "yes",
+    "name": "Mullers Pass",
+    "ref": "P207",
+    "surface": "compacted"
+   }
+  }
+ ]
+}
