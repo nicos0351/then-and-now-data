@@ -1,6 +1,6 @@
 {
  "format": 1,
- "dataVersion": 10,
+ "dataVersion": 11,
  "updated": "2026-10-20",
  "changes": [
   {
@@ -42,6 +42,11 @@
    "version": 10,
    "date": "2026-10-20",
    "summary": "Road surface for about 180 mountain passes (tarred, gravel, dirt track or footpath only), with the road number where there is one."
+  },
+  {
+   "version": 11,
+   "date": "2026-10-20",
+   "summary": "Road surface for more mountain passes, e.g. Van Reenen's Pass (N3), Magoebaskloof Pass (R71) and Chapman's Peak Drive (M6)."
   }
  ],
  "towns": [
@@ -38155,6 +38160,22 @@
    ]
   },
   {
+   "key": "asset:goliatskraalkop se hoogte:-32.114:24.608",
+   "facts": [
+    [
+     "Road",
+     "N9 / R61"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": [
+    "https://www.openstreetmap.org/node/804458464"
+   ]
+  },
+  {
    "key": "asset:wildeperdehoek pass:-29.944:17.633",
    "facts": [
     [
@@ -38213,6 +38234,24 @@
    ],
    "sources": [
     "https://www.openstreetmap.org/node/1410077759"
+   ]
+  },
+  {
+   "key": "asset:burgerspas:-33.692:19.919",
+   "facts": [
+    [
+     "Road",
+     "R318"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Burgers_Pass",
+    "https://www.wikidata.org/entity/Q4998568",
+    "https://www.openstreetmap.org/node/1632874085"
    ]
   },
   {
@@ -38387,6 +38426,22 @@
    ]
   },
   {
+   "key": "asset:greylingspas:-31.119:27.299",
+   "facts": [
+    [
+     "Road",
+     "R396"
+    ],
+    [
+     "Road surface",
+     "Gravel"
+    ]
+   ],
+   "sources": [
+    "https://www.openstreetmap.org/node/2632601299"
+   ]
+  },
+  {
    "key": "asset:the wall:-29.759:30.858",
    "facts": [
     [
@@ -38404,6 +38459,14 @@
     [
      "Height at the top",
      "1,983 m"
+    ],
+    [
+     "Road",
+     "N9"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -38470,6 +38533,14 @@
     [
      "Height at the top",
      "348 m"
+    ],
+    [
+     "Road",
+     "R46"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -38504,6 +38575,14 @@
     [
      "Height at the top",
      "397 m"
+    ],
+    [
+     "Road",
+     "R62"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -38822,6 +38901,14 @@
     [
      "Height at the top",
      "910 m"
+    ],
+    [
+     "Road",
+     "N9"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -39070,6 +39157,14 @@
     [
      "Mountain range",
      "Drakensberg"
+    ],
+    [
+     "Road",
+     "N3"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -39224,6 +39319,22 @@
    ]
   },
   {
+   "key": "asset:bynespoort:-33.712:19.076",
+   "facts": [
+    [
+     "Road",
+     "R101"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": [
+    "https://www.openstreetmap.org/node/7238346897"
+   ]
+  },
+  {
    "key": "asset:ou-uitkykpas:-32.401:19.102",
    "facts": [
     [
@@ -39300,6 +39411,22 @@
    ]
   },
   {
+   "key": "asset:kroningshoogte:-33.465:21.515",
+   "facts": [
+    [
+     "Road",
+     "R62"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": [
+    "https://www.openstreetmap.org/node/7247143458"
+   ]
+  },
+  {
    "key": "asset:leeuriviershoogte:-33.994:20.348",
    "facts": [
     [
@@ -39355,6 +39482,18 @@
     "https://en.wikipedia.org/wiki/Constantia_Nek",
     "https://www.wikidata.org/entity/Q5163682",
     "https://www.openstreetmap.org/node/7282376848"
+   ]
+  },
+  {
+   "key": "asset:wolfiespoort:-33.793:20.166",
+   "facts": [
+    [
+     "Road surface",
+     "Gravel"
+    ]
+   ],
+   "sources": [
+    "https://www.openstreetmap.org/node/7301234459"
    ]
   },
   {
@@ -40575,6 +40714,58 @@
    ]
   },
   {
+   "key": "asset:elands pass:-25.648:30.361",
+   "facts": [
+    [
+     "Road",
+     "N4"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:kaapsehoop pass:-25.599:30.766",
+   "facts": [
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:kowyn pass:-24.962:30.858",
+   "facts": [
+    [
+     "Road",
+     "R533"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:montrose pass:-25.444:30.723",
+   "facts": [
+    [
+     "Road",
+     "N4 / R539"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
    "key": "asset:nelshoogte:-25.853:30.762",
    "facts": [
     [
@@ -40597,6 +40788,14 @@
     [
      "Mountain range",
      "Drakensberg"
+    ],
+    [
+     "Road",
+     "R533"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -40605,11 +40804,89 @@
    ]
   },
   {
+   "key": "asset:santa pass:-25.340:30.175",
+   "facts": [
+    [
+     "Road",
+     "R540"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:skurweberg pass:-25.796:30.372",
+   "facts": [
+    [
+     "Road",
+     "R541"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:sudwala pass:-25.340:30.734",
+   "facts": [
+    [
+     "Road",
+     "R539"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:veraaiersnek pass:-24.896:30.549",
+   "facts": [
+    [
+     "Road",
+     "R36"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:chuniespoort:-24.250:29.539",
+   "facts": [
+    [
+     "Road",
+     "R37"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
    "key": "asset:magoebaskloof pass:-23.864:30.007",
    "facts": [
     [
      "Height at the top",
      "909 m"
+    ],
+    [
+     "Road",
+     "R71"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -40618,11 +40895,29 @@
    ]
   },
   {
+   "key": "asset:rankin's pass:-24.504:27.863",
+   "facts": [
+    [
+     "Road surface",
+     "Gravel"
+    ]
+   ],
+   "sources": []
+  },
+  {
    "key": "asset:wyllie's poort:-22.924:29.933",
    "facts": [
     [
      "Height at the top",
      "957 m"
+    ],
+    [
+     "Road",
+     "N1"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -40644,15 +40939,99 @@
    ]
   },
   {
+   "key": "asset:chapman's peak drive:-34.076:18.364",
+   "facts": [
+    [
+     "Road",
+     "M6"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:du plessis pass:-34.077:21.772",
+   "facts": [
+    [
+     "Road",
+     "R327"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:hex river poort:-33.551:19.521",
+   "facts": [
+    [
+     "Road",
+     "N1"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hex_River_Poort_Pass",
+    "https://www.wikidata.org/entity/Q5748603"
+   ]
+  },
+  {
    "key": "asset:homtini pass:-33.950:22.919",
    "facts": [
     [
      "Height at the top",
      "75 m"
+    ],
+    [
+     "Road surface",
+     "Gravel"
     ]
    ],
    "sources": [
     "https://www.wikidata.org/entity/Q31920196"
+   ]
+  },
+  {
+   "key": "asset:hoogekraal pass:-33.932:22.781",
+   "facts": [
+    [
+     "Road surface",
+     "Gravel"
+    ]
+   ],
+   "sources": [
+    "https://www.wikidata.org/entity/Q124077939"
+   ]
+  },
+  {
+   "key": "asset:kaaimans river pass:-33.971:22.546",
+   "facts": [
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:karatera pass:-33.925:22.850",
+   "facts": [
+    [
+     "Road surface",
+     "Partly tarred, partly gravel"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Karatara_Pass",
+    "https://www.wikidata.org/entity/Q6368780"
    ]
   },
   {
@@ -40733,6 +41112,14 @@
     [
      "Height at the top",
      "804 m"
+    ],
+    [
+     "Road",
+     "R339"
+    ],
+    [
+     "Road surface",
+     "Tarred"
     ]
    ],
    "sources": [
@@ -40803,8 +41190,50 @@
    ]
   },
   {
+   "key": "asset:cats pass:-32.428:28.435",
+   "facts": [
+    [
+     "Road",
+     "R349"
+    ],
+    [
+     "Road surface",
+     "Gravel"
+    ]
+   ],
+   "sources": []
+  },
+  {
    "key": "asset:colonanek:-30.646:29.048",
    "facts": [
+    [
+     "Road surface",
+     "Gravel"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:daggaboers nek:-32.536:25.843",
+   "facts": [
+    [
+     "Road",
+     "N10"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
+  },
+  {
+   "key": "asset:dontsa pass:-32.613:27.244",
+   "facts": [
+    [
+     "Road",
+     "R352"
+    ],
     [
      "Road surface",
      "Gravel"
@@ -40985,6 +41414,16 @@
    "sources": []
   },
   {
+   "key": "asset:colling's pass:-28.217:29.640",
+   "facts": [
+    [
+     "Road surface",
+     "Gravel"
+    ]
+   ],
+   "sources": []
+  },
+  {
    "key": "asset:de beer's pass:-28.317:29.499",
    "facts": [
     [
@@ -41052,6 +41491,20 @@
     "https://en.wikipedia.org/wiki/Laingsnek_Pass",
     "https://www.wikidata.org/entity/Q6473997"
    ]
+  },
+  {
+   "key": "asset:kareebospoort:-30.906:22.259",
+   "facts": [
+    [
+     "Road",
+     "R384"
+    ],
+    [
+     "Road surface",
+     "Tarred"
+    ]
+   ],
+   "sources": []
   },
   {
    "key": "asset:keiskie se poort:-31.590:19.858",
