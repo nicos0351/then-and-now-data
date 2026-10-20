@@ -51,6 +51,23 @@ A town looks like this:
   `renamedYear` and `source`.
 - If a rename has a story entry, update the story's `name` to match.
 
+### Facts and dam levels (Then & Now Plus)
+
+- `facts`: one entry per airport, dam or pass with facts:
+  `{"key": ..., "facts": [["River", "Vaal River"], ...], "sources": [...]}`.
+  Rebuilt with `tools/places/build_facts.py` from Wikidata, OpenStreetMap
+  and Wikipedia (see the script for the research branches it reads).
+- `damStations`: links a dam to its station in the Department of Water and
+  Sanitation's weekly "State of Dams" report:
+  `{"key": ..., "region": "WC", "station": "H6R001"}`. The app reads the
+  level on the phone from
+  `https://www.dws.gov.za/Hydrology/Weekly/ProvinceWeek.aspx?region=<region>`
+  (the site doesn't answer GitHub's servers). To refresh the list of
+  stations (only needed when the department adds or renames dams): save the
+  nine provincial pages from South Africa (region codes EC FS G KN LP M NC NW
+  WC, "Webpage, HTML only", named `<code>.html`), then run
+  `tools/places/parse_dws.py` and `tools/places/match_dws.py`.
+
 ## How updates happen
 
 1. **Monthly check.** On the 1st of each month a scheduled Claude task

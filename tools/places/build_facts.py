@@ -226,15 +226,7 @@ for p in places:
     entries.append({"key": p["key"], "facts": facts, "sources": list(dict.fromkeys(sources))})
 
 data["facts"] = entries
-data["dataVersion"] = 8
-data["updated"] = "2026-10-20"
+json.dump(data, open(data_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 counts = {k: sum(1 for e in entries for p in places if p["key"] == e["key"] and p["kind"] == k)
           for k in ("airport", "dam", "pass")}
-data["changes"].append({
-    "version": 8,
-    "date": "2026-10-20",
-    "summary": f"Facts for {counts['airport']} airports, {counts['dam']} dams and {counts['pass']} mountain passes "
-               "(e.g. airport codes, a dam's river and capacity, a pass's height), shown with Then & Now Plus.",
-})
-json.dump(data, open(data_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(counts, "of", {k: sum(1 for p in places if p["kind"] == k) for k in ("airport", "dam", "pass")})
