@@ -8,6 +8,11 @@ name: "Research: roads at passes (OpenStreetMap)"
 
 on:
   workflow_dispatch:
+    inputs:
+      wide:
+        description: "Wider search (900 m, main roads) for passes with no surface yet"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,16 +28,18 @@ jobs:
           python-version: "3.12"
       - name: Query OpenStreetMap
         run: python tools/places/fetch_pass_roads_near.py
+        env:
+          WIDE: ${{ inputs.wide && '1' || '0' }}
       - name: Save results to the research-pass-roads branch
         if: always()
         run: |
           mkdir -p /tmp/research && cp out/* /tmp/research/
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout --orphan research-pass-roads
+          git checkout --orphan research-pass-roads${{ inputs.wide && '-wide' || '' }}
           git rm -rq --cached . && git clean -fdq -e out
           mkdir -p research && cp /tmp/research/* research/
           printf 'Research data only (not published). Data (c) OpenStreetMap contributors, ODbL.\n' > research/README.md
           git add research
           git commit -qm "Roads at passes from OpenStreetMap ($(date -u +%F))"
-          git push -f origin research-pass-roads
+          git push -f origin research-pass-roads${{ inputs.wide && '-wide' || '' }}

@@ -20,9 +20,14 @@ import urllib.request
 
 ENDPOINTS = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"]
 USER_AGENT = "then-and-now-data research (github.com/nicos0351/then-and-now-data)"
-RADIUS = 300  # metres around the pass point
+# WIDE=1: a second, wider search (900 m, main roads only) for the passes
+# that still have no road surface, written to osm_main_roads_near_passes.json.
+WIDE = os.environ.get("WIDE") == "1"
+RADIUS = 900 if WIDE else 300  # metres around the pass point
 BATCH = 25
-HIGHWAYS = "motorway|trunk|primary|secondary|tertiary|unclassified|residential|service|track|path|footway|bridleway"
+HIGHWAYS = ("motorway|trunk|primary|secondary|tertiary" if WIDE else
+            "motorway|trunk|primary|secondary|tertiary|unclassified|residential|service|track|path|footway|bridleway")
+OUT = "out/osm_main_roads_near_passes.json" if WIDE else "out/osm_roads_at_passes.json"
 
 
 def km(a, b, c, d):
@@ -49,6 +54,10 @@ def fetch(query):
 def main():
     data = json.load(open("data.json", encoding="utf-8"))
     passes = [t for t in data["towns"] if t.get("kind") == "pass"]
+    if WIDE:
+        known = {e["key"] for e in data.get("facts", []) if any(f[0] == "Road surface" for f in e["facts"])}
+        passes = [p for p in passes if p["key"] not in known]
+    print("passes to check:", len(passes), flush=True)
     os.makedirs("out", exist_ok=True)
     out = {}
     for start in range(0, len(passes), BATCH):
@@ -66,7 +75,7 @@ def main():
                 near = min(batch, key=lambda p: km(c["lat"], c["lon"], p["latitude"], p["longitude"]))
                 if km(c["lat"], c["lon"], near["latitude"], near["longitude"]) <= 0.6 + RADIUS / 1000:
                     out[near["key"]].append({"tags": el.get("tags", {}), "lat": c["lat"], "lon": c["lon"]})
-        json.dump(out, open("out/osm_roads_at_passes.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        json.dump(out, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         print("passes done:", min(start + BATCH, len(passes)), "with roads:", sum(1 for v in out.values() if v),
               flush=True)
         time.sleep(5)
