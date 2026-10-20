@@ -188,8 +188,15 @@ for el in load("dams"):
     if best is None or score > best["score"]:
         dams[key] = {"name": tidy(name), "lat": lat, "lon": lon, "osm": el["osm"], "score": score,
                      "match": key.split("@")[0]}
+def dam_already_there(d):
+    # Big dams are long: the same dam can be mapped far from an existing pin.
+    return already_there("dam", d["lat"], d["lon"], 20) or any(
+        t.get("kind") == "dam" and dam_key(t["name"]) == d["match"]
+        and km(d["lat"], d["lon"], t["latitude"], t["longitude"]) < 80 for t in existing)
+
+
 for d in dams.values():
-    if not already_there("dam", d["lat"], d["lon"], 20):
+    if not dam_already_there(d):
         picked.append(("dam", d["name"], d["lat"], d["lon"], d["osm"], d["match"]))
 
 # Passes: named pass points first, then roads named as passes where no
