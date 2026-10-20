@@ -100,6 +100,65 @@ def airport_tags(place):
     return min(near, key=lambda n: n[0])[1]["tags"] if near else {}
 osm_passes = {e["osm"]: e["tags"] for e in load(osm_dir, "osm_passes.json", "passes")}
 osm_roads = {e["osm"]: e["tags"] for e in load(osm_dir, "osm_pass_roads.json", "pass_roads")}
+# Roads and paths within 400 m of each pass (research-pass-roads branch).
+_roads_path = os.path.join(osm_dir, "osm_roads_at_passes.json")
+roads_at_passes = json.load(open(_roads_path, encoding="utf-8")) if os.path.exists(_roads_path) else {}
+
+PAVED = {"asphalt", "paved", "concrete", "chipseal", "concrete:plates", "concrete:lanes", "paving_stones", "sett",
+         "metal"}
+UNPAVED = {"gravel", "unpaved", "compacted", "fine_gravel", "pebblestone", "rock", "dirt", "ground", "earth",
+           "sand", "mud", "grass"}
+ROAD_RANK = ["motorway", "trunk", "primary", "secondary", "tertiary", "unclassified", "residential", "service",
+             "track", "bridleway", "path", "footway"]
+# Main roads in South Africa are tarred unless mapped otherwise.
+TARRED_BY_DEFAULT = {"motorway", "trunk", "primary"}
+
+
+def road_kind(tags):
+    """'tar', 'gravel', 'track', 'foot' or None (unknown) for one way."""
+    surface = tags.get("surface", "")
+    highway = tags.get("highway", "")
+    if surface in PAVED:
+        return "tar"
+    if highway in ("path", "footway", "bridleway"):
+        return "foot"
+    if surface in UNPAVED:
+        return "track" if highway == "track" else "gravel"
+    if highway == "track":
+        return "track"
+    if highway in TARRED_BY_DEFAULT:
+        return "tar"
+    return None
+
+
+def pass_route(place):
+    """(road number, surface label) for the road or path over a pass."""
+    ways = [w for w in roads_at_passes.get(place["key"], []) if w["tags"].get("highway") in ROAD_RANK]
+    if not ways:
+        return None, None
+    k = key(place["name"], "pass")
+    named = [w for w in ways if w["tags"].get("name") and key(w["tags"]["name"], "pass") == k]
+    if named:
+        route = named
+    else:
+        best = min(ROAD_RANK.index(w["tags"]["highway"]) for w in ways)
+        route = [w for w in ways if ROAD_RANK.index(w["tags"]["highway"]) == best]
+    kinds = {road_kind(w["tags"]) for w in route} - {None}
+    refs = [w["tags"]["ref"] for w in route if w["tags"].get("ref")]
+    ref = max(set(refs), key=refs.count).replace(";", " / ") if refs else None
+    if not kinds:
+        label = None
+    elif kinds == {"foot"}:
+        label = "Footpath only (hiking)"
+    elif kinds == {"tar"}:
+        label = "Tarred"
+    elif "tar" in kinds:
+        label = "Partly tarred, partly gravel"
+    elif kinds <= {"track", "foot"}:
+        label = "Dirt track"
+    else:
+        label = "Gravel"
+    return ref, label
 wd_airports = {r["icao"]: r for r in load(wd_dir, "wikidata_airports.json", "airports") if r.get("icao")}
 wd_dams = load(wd_dir, "wikidata_dams.json", "dams")
 wd_passes = load(wd_dir, "wikidata_passes.json", "passes")
@@ -208,13 +267,15 @@ for p in places:
                 pass
         if wd and wd.get("range"):
             facts.append(["Mountain range", wd["range"]])
-        if tags.get("ref"):
-            facts.append(["Road", tags["ref"].replace(";", " / ")])
-        surface = tags.get("surface")
+        ref, surface = pass_route(p)
+        ref = ref or (tags.get("ref") or "").replace(";", " / ") or None
+        if ref:
+            facts.append(["Road", ref])
+        if surface is None and tags.get("surface"):
+            surface = {"tar": "Tarred", "gravel": "Gravel", "track": "Dirt track", "foot": "Footpath only (hiking)"}.get(
+                road_kind(tags))
         if surface:
-            facts.append(["Road surface", "Tarred" if surface in ("asphalt", "paved", "concrete") else
-                          "Gravel" if surface in ("gravel", "unpaved", "dirt", "ground", "compacted",
-                                                  "fine_gravel") else surface.replace("_", " ").capitalize()])
+            facts.append(["Road surface", surface])
     if not facts:
         continue
     if wd and wd.get("enwiki"):
