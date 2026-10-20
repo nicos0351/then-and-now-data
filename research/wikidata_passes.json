@@ -1,0 +1,1605 @@
+{
+ "source": "Wikidata (CC0)",
+ "passes": [
+  {
+   "item": "http://www.wikidata.org/entity/Q136682201",
+   "name": "Hoek se Berg Pass",
+   "coord": "Point(19.183333333 -32.116666666)",
+   "place": "Western Cape",
+   "range": "Cederberg"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q127968",
+   "name": "Sani Pass",
+   "coord": "Point(29.2927 -29.5881)",
+   "place": "KwaZulu-Natal",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Sani_Pass",
+   "elevation": "2677",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2982296",
+   "name": "Long Tom Pass",
+   "coord": "Point(30.6049 -25.1413)",
+   "place": "Mpumalanga",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Long_Tom_Pass",
+   "elevation": "2150",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3216368",
+   "name": "Laing's Nek",
+   "coord": "Point(29.88333 -27.46667)",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Laing%27s_Nek",
+   "elevation": "1630",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3337939",
+   "name": "Nelshoogte",
+   "coord": "Point(30.7616 -25.853)",
+   "place": "Mpumalanga",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Nelshoogte"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3351487",
+   "name": "Oliviershoek Pass",
+   "coord": "Point(29.075 -28.55)",
+   "range": "Drakensberg",
+   "elevation": "1735",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3434269",
+   "name": "Robbers Pass",
+   "coord": "Point(30.6922 -24.8711)",
+   "place": "Mpumalanga",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Robbers_Pass",
+   "elevation": "1770",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3554431",
+   "name": "Van Reenen's Pass",
+   "coord": "Point(29.372 -28.3715)",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Van_Reenen%27s_Pass",
+   "elevation": "1680",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4666558",
+   "name": "Abel Erasmus Pass",
+   "coord": "Point(30.6075 -24.4517)",
+   "place": "Limpopo",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Abel_Erasmus_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5001531",
+   "name": "Bushman's Nek Pass",
+   "coord": "Point(29.1611 -29.8735)",
+   "place": "KwaZulu-Natal",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Bushman%27s_Nek_Pass",
+   "elevation": "2356",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7431944",
+   "name": "Schoemans Kloof",
+   "coord": "Point(30.42166667 -25.45444444)",
+   "place": "Mpumalanga",
+   "range": "Drakensberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Schoemans_Kloof",
+   "elevation": "1013",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034759",
+   "name": "Garcia's Pass",
+   "coord": "Point(21.222424 -33.940576)",
+   "place": "Hessequa Local Municipality",
+   "range": "Langeberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Garcia%27s_Pass",
+   "elevation": "545",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623280",
+   "name": "Gifberg mountain pass",
+   "coord": "Point(18.764722222 -31.773611111)",
+   "place": "Matzikama Local Municipality",
+   "range": "Matsikammaberge"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035676",
+   "name": "Ongeluksnek",
+   "coord": "Point(28.26229 -30.33747)",
+   "place": "Eastern Cape",
+   "range": "Drakensberg",
+   "elevation": "2334",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20612943",
+   "name": "Duivelskop",
+   "coord": "Point(22.64675 -33.83995)",
+   "place": "Western Cape",
+   "range": "Outeniqua Mountains"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q505944",
+   "name": "Montagu Pass",
+   "coord": "Point(22.420277777 -33.894722222)",
+   "place": "Western Cape",
+   "range": "Outeniqua Mountains",
+   "enwiki": "https://en.wikipedia.org/wiki/Montagu_Pass",
+   "elevation": "455",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3304740",
+   "name": "Meiringspoort",
+   "coord": "Point(22.5497 -33.4163)",
+   "place": "Western Cape",
+   "range": "Swartberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Meiringspoort",
+   "elevation": "780",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3358610",
+   "name": "Outeniqua Pass",
+   "coord": "Point(22.401111111 -33.89)",
+   "place": "Western Cape",
+   "range": "Outeniqua Mountains",
+   "enwiki": "https://en.wikipedia.org/wiki/Outeniqua_Pass",
+   "elevation": "730",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3437189",
+   "name": "Robinson Pass",
+   "coord": "Point(22.0262 -33.881)",
+   "place": "Western Cape",
+   "range": "Outeniqua Mountains",
+   "elevation": "860",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3480859",
+   "name": "Seweweekspoort",
+   "coord": "Point(21.4069 -33.4136)",
+   "place": "Western Cape",
+   "range": "Swartberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Seweweekspoort",
+   "elevation": "848",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3506452",
+   "name": "Swartberg Pass",
+   "coord": "Point(22.0458 -33.3522)",
+   "place": "Western Cape",
+   "range": "Swartberg",
+   "enwiki": "https://en.wikipedia.org/wiki/Swartberg_Pass",
+   "elevation": "1572",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4818077",
+   "name": "Attakwaskloof Pass",
+   "coord": "Point(21.9832 -33.8425)",
+   "place": "Western Cape",
+   "range": "Outeniqua Mountains",
+   "enwiki": "https://en.wikipedia.org/wiki/Attakwaskloof_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3267484",
+   "name": "Lundin's Neck",
+   "coord": "Point(27.74272 -30.64918)",
+   "place": "Eastern Cape",
+   "range": "Witteberge",
+   "elevation": "2132",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1280176",
+   "name": "Ecca Pass",
+   "coord": "Point(26.6186 -33.2006)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Ecca_Pass",
+   "elevation": "470",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2422542",
+   "name": "Bain's Kloof Pass",
+   "coord": "Point(19.1117 -33.6024)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Bainskloof_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3031524",
+   "name": "Sir Lowry's Pass",
+   "coord": "Point(18.9283 -34.1497)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Sir_Lowry%27s_Pass",
+   "elevation": "420",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3186677",
+   "name": "Joubert's Pass",
+   "coord": "Point(27.2319 -30.7122)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Joubert%27s_Pass",
+   "elevation": "2148",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4701362",
+   "name": "Akkedisberg Pass",
+   "coord": "Point(19.5976 -34.4096)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Akkedisberg_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4803888",
+   "name": "Bloukrans Pass",
+   "coord": "Point(23.6347 -33.9525)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Bloukrans_Pass_(Western_Cape)",
+   "elevation": "92",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4804047",
+   "name": "Blaauwkrantz Pass",
+   "coord": "Point(26.705 -33.3853)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Blaauwkrantz_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4868255",
+   "name": "Baster Voetslaan Pass",
+   "coord": "Point(27.9795 -31.1748)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Baster_Voetslaan_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4883067",
+   "name": "Bell's Pass",
+   "coord": "Point(26.95 -28.53333)",
+   "place": "Free State",
+   "enwiki": "https://en.wikipedia.org/wiki/Bell%27s_Pass",
+   "elevation": "1399",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4900390",
+   "name": "Bezuidenhouts Pass",
+   "coord": "Point(29.2138 -28.5485)",
+   "place": "KwaZulu-Natal",
+   "enwiki": "https://en.wikipedia.org/wiki/Bezuidenhouts_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4904265",
+   "name": "Bidstone Pass",
+   "coord": "Point(27.8307 -30.715)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Bidstone_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4926759",
+   "name": "Blinkberg Pass",
+   "coord": "Point(19.4189 -32.7027)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Blinkberg_Pass",
+   "elevation": "765",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4937236",
+   "name": "Boesmanshoek Pass",
+   "coord": "Point(26.4854 -31.4982)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Boesmanshoek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4947307",
+   "name": "Bosluiskloof Pass",
+   "coord": "Point(21.4852 -33.3422)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Bosluiskloof_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4985804",
+   "name": "Buffalo Pass",
+   "coord": "Point(27.7979 -33.0353)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Buffalo_Pass_(South_Africa)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4998568",
+   "name": "Burgers Pass",
+   "coord": "Point(19.92 -33.6911)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Burgers_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5003397",
+   "name": "Buyspoort",
+   "coord": "Point(23.43646 -33.35242)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Buyspoort",
+   "elevation": "990",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5018260",
+   "name": "Cala Pass",
+   "coord": "Point(27.72276 -31.47385)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Cala_Pass",
+   "elevation": "1368",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5056203",
+   "name": "Cecil Macks Pass",
+   "coord": "Point(32.001 -27.0734)",
+   "place": "KwaZulu-Natal",
+   "enwiki": "https://en.wikipedia.org/wiki/Cecil_Macks_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5134874",
+   "name": "Cloete's Pass",
+   "coord": "Point(21.7979 -33.9587)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Cloete%27s_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5163682",
+   "name": "Constantia Nek",
+   "coord": "Point(18.4056 -34.0119)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Constantia_Nek"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5188845",
+   "name": "Crossroads Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Crossroads_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5244239",
+   "name": "De Beer's Pass",
+   "coord": "Point(26.1857 -32.3149)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/De_Beer%27s_Pass_(Eastern_Cape)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5244240",
+   "name": "De Beer's Pass",
+   "coord": "Point(29.4993 -28.3174)",
+   "place": "KwaZulu-Natal",
+   "enwiki": "https://en.wikipedia.org/wiki/De_Beer%27s_Pass,_KwaZulu-Natal",
+   "elevation": "1720",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5244248",
+   "name": "De Berg Pass",
+   "coord": "Point(30.16 -25.23)",
+   "enwiki": "https://en.wikipedia.org/wiki/De_Berg_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5310085",
+   "name": "Du Toitskloof Pass",
+   "coord": "Point(19.1467 -33.7248)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Du_Toitskloof_Pass",
+   "elevation": "820",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5353426",
+   "name": "Elands Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Elands_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5376562",
+   "name": "Endoumeni Pass",
+   "coord": "Point(30.1961 -28.2299)",
+   "place": "KwaZulu-Natal",
+   "enwiki": "https://en.wikipedia.org/wiki/Endoumeni_Pass",
+   "elevation": "1375",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5460197",
+   "name": "Floorshoogte Pass",
+   "coord": "Point(19.301 -34.1538)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Floorshoogte_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5465168",
+   "name": "Fonteinkloof Pass",
+   "coord": "Point(26.1224 -33.5947)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Fonteinkloof_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5492432",
+   "name": "Franschhoek Pass",
+   "coord": "Point(19.1584 -33.9162)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Franschhoek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5508229",
+   "name": "Fuller's Hoek Pass",
+   "coord": "Point(26.5195 -32.6884)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Fuller%27s_Hoek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5610281",
+   "name": "Groot-Doringhoek Pass",
+   "coord": "Point(26.0736 -31.3795)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Groot-Doringhoek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5610293",
+   "name": "Grootrivier Pass",
+   "coord": "Point(23.5667 -33.95)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Grootrivier_Pass",
+   "elevation": "50",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5625548",
+   "name": "Gysmanshoek Pass",
+   "coord": "Point(21.0528 -33.9411)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Gysmanshoek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5701397",
+   "name": "Hela Hela Pass",
+   "coord": "Point(30.0772 -29.9096)",
+   "place": "KwaZulu-Natal",
+   "enwiki": "https://en.wikipedia.org/wiki/Hela_Hela_Pass",
+   "elevation": "1199",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5715084",
+   "name": "Hennings Pass",
+   "coord": "Point(30.2333 -25.5167)",
+   "place": "Mpumalanga",
+   "enwiki": "https://en.wikipedia.org/wiki/Hennings_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5748603",
+   "name": "Hex River Poort Pass",
+   "coord": "Point(19.5215 -33.5512)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Hex_River_Poort_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5877385",
+   "name": "Hogsback Pass",
+   "coord": "Point(26.9134 -32.6136)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Hogsback_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5904468",
+   "name": "Horns Nek",
+   "coord": "Point(28.06872222 -25.68302778)",
+   "enwiki": "https://en.wikipedia.org/wiki/Horns_Nek"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5995934",
+   "name": "Ikhupe Pass",
+   "coord": "Point(29.9687 -28.1541)",
+   "place": "KwaZulu-Natal",
+   "enwiki": "https://en.wikipedia.org/wiki/Ikhupe_Pass",
+   "elevation": "1469",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6110853",
+   "name": "Jack's Pass",
+   "coord": "Point(30.9303 -22.323)",
+   "place": "Limpopo",
+   "enwiki": "https://en.wikipedia.org/wiki/Jack%27s_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6343291",
+   "name": "Kaaimans River Pass",
+   "coord": "Point(22.3246 -33.5816)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Kaaimans_River_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6343455",
+   "name": "Kaapsehoop Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Kaapsehoop_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6368780",
+   "name": "Karatera Pass",
+   "coord": "Point(22.8499 -33.9248)",
+   "place": "Knysna Local Municipality",
+   "enwiki": "https://en.wikipedia.org/wiki/Karatara_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6375293",
+   "name": "Katberg Pass",
+   "coord": "Point(26.6547 -32.4561)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Katberg_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6436113",
+   "name": "Kranspoort Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Kranspoort_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6473997",
+   "name": "Laingsnek Pass",
+   "coord": "Point(29.8656 -27.4767)",
+   "place": "KwaZulu-Natal",
+   "enwiki": "https://en.wikipedia.org/wiki/Laingsnek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6676078",
+   "name": "Lootsberg Pass",
+   "coord": "Point(24.8555 -31.8272)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Lootsberg_Pass",
+   "elevation": "1983",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6721119",
+   "name": "Maanhaarrand Pass",
+   "coord": "Point(27.4432 -25.86555)",
+   "enwiki": "https://en.wikipedia.org/wiki/Maanhaarrand_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6732278",
+   "name": "Magoebaskloof",
+   "coord": "Point(30.0333 -23.85)",
+   "place": "Limpopo",
+   "enwiki": "https://en.wikipedia.org/wiki/Magoebaskloof",
+   "elevation": "909",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6895371",
+   "name": "Mokobulaan Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Mokobulaan_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6896867",
+   "name": "Molteno Pass",
+   "coord": "Point(22.562222222 -32.226111111)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Molteno_Pass",
+   "elevation": "1179",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6906498",
+   "name": "Montrose Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Montrose_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6928185",
+   "name": "Mpageni Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Mpageni_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7049298",
+   "name": "Nonesis Nek Pass",
+   "coord": "Point(26.9883 -31.8416)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Nonesis_Nek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7070680",
+   "name": "Nuwekloof Pass",
+   "coord": "Point(23.646 -33.516)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Nuwekloof_Pass_(Eastern_Cape)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7070681",
+   "name": "Nuwekloof Pass",
+   "coord": "Point(19.0833 -33.3167)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Nuwekloof_Pass_(Western_Cape)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7086784",
+   "name": "Olifantskop Pass",
+   "coord": "Point(25.9464 -33.3189)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Olifantskop_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7104096",
+   "name": "Orrie Baragwanath Pass",
+   "coord": "Point(30.224722222 -24.161944444)",
+   "enwiki": "https://en.wikipedia.org/wiki/Orrie_Baragwanath_Pass",
+   "elevation": "1172",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7109574",
+   "name": "Otto Du Plessis Pass",
+   "coord": "Point(27.5304 -31.2346)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Otto_Du_Plessis_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7110233",
+   "name": "Ouberg Pass",
+   "coord": "Point(24.4077 -32.1212)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Ouberg_Pass",
+   "elevation": "1096",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7160499",
+   "name": "Pefferskop Pass",
+   "coord": "Point(26.8827 -32.6501)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Pefferskop_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7162829",
+   "name": "Penhoek Pass",
+   "coord": "Point(26.69946 -31.46045)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Penhoek_Pass",
+   "elevation": "1719",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7234579",
+   "name": "Pot River Pass",
+   "coord": "Point(28.2103 -30.9326)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Pot_River_Pass",
+   "elevation": "1636",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7537079",
+   "name": "Skurweberg Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Skurweberg_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7546678",
+   "name": "Smuts Pass",
+   "coord": "Point(26.792 -31.407)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Smuts_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7633970",
+   "name": "Sudwala Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Sudwala_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7652920",
+   "name": "Swaershoek Pass",
+   "coord": "Point(25.4611 -32.3468)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Swaershoek_Pass",
+   "elevation": "1519",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7653578",
+   "name": "Swanepoelspoort",
+   "coord": "Point(23.894 -33.1143)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Swanepoelspoort",
+   "elevation": "669",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7686239",
+   "name": "Tarka Pass",
+   "coord": "Point(25.6666 -32.4719)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Tarka_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7913670",
+   "name": "Van Stadens Pass",
+   "coord": "Point(25.2025 -33.9128)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Van_Stadens_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7920849",
+   "name": "Veraaiersnek Pass",
+   "place": "Mpumalanga",
+   "enwiki": "https://en.wikipedia.org/wiki/Verraaiersnek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7940143",
+   "name": "Volenteershoek Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Volenteershoek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7968221",
+   "name": "Wapadsberg Pass",
+   "coord": "Point(24.8837 -31.9311)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Wapadsberg_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7974528",
+   "name": "Watervalsrivier Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Watervalsrivier_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8028366",
+   "name": "Witnek Pass",
+   "coord": "Point(24.6954 -31.8811)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Witnek_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8039955",
+   "name": "Wyllie's Poort",
+   "coord": "Point(29.92853 -22.92179)",
+   "place": "Limpopo",
+   "enwiki": "https://en.wikipedia.org/wiki/Wyllie%27s_Poort",
+   "elevation": "957",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034203",
+   "name": "Akkedispas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034253",
+   "name": "Anenouspas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034435",
+   "name": "Bruintjieshoogte",
+   "coord": "Point(25.3458 -32.6794)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Bruintjieshoogte_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034523",
+   "name": "Cradocks Pass",
+   "coord": "Point(22.437222222 -33.896944444)",
+   "place": "Western Cape",
+   "elevation": "827",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034566",
+   "name": "De Waalskloof"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034586",
+   "name": "Die Bergpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034843",
+   "coord": "Point(27.29611111 -31.12666667)",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034857",
+   "name": "Grootvleipas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034896",
+   "name": "Helskloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034903",
+   "name": "Helspoortpas",
+   "coord": "Point(26.3205 -33.17068)",
+   "elevation": "562",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13034981",
+   "name": "Huis River Pass",
+   "coord": "Point(21.585 -33.499166666)",
+   "place": "Kannaland Local Municipality",
+   "enwiki": "https://en.wikipedia.org/wiki/Huis_River_Pass",
+   "elevation": "397",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035126",
+   "name": "Kamiesbergpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035168",
+   "name": "Killianspas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035202",
+   "name": "Cogmanskloof Pass",
+   "coord": "Point(20.094 -33.808)",
+   "enwiki": "https://en.wikipedia.org/wiki/Cogmanskloof_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035206",
+   "name": "Komsbergpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035243",
+   "name": "Kwaggasnek",
+   "coord": "Point(28.67627778 -30.13944444)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035448",
+   "name": "Mitchell's Pass",
+   "coord": "Point(19.2862 -33.40436)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Michell%27s_Pass",
+   "elevation": "490",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035453",
+   "name": "Middelbergpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035497",
+   "name": "Mthlenagana"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035620",
+   "name": "Naudespas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035710",
+   "name": "Oukloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035714",
+   "name": "Ouhoogte"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035719",
+   "name": "Padkloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035727",
+   "name": "Pakhuis Pass",
+   "coord": "Point(19.03361 -32.13321)",
+   "enwiki": "https://en.wikipedia.org/wiki/Pakhuis_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035738",
+   "name": "Papkuilsnekpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035758",
+   "name": "Peerboomskloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035776",
+   "name": "Piekenierskloof Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Piekenierskloof_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035857",
+   "name": "Potjiesberg"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035914"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035952",
+   "name": "Rooihoogte Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035962"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036013",
+   "name": "Schoemanspoort",
+   "coord": "Point(22.255 -33.45)",
+   "place": "Western Cape",
+   "elevation": "470",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036027",
+   "name": "Seven Passes Road",
+   "enwiki": "https://en.wikipedia.org/wiki/Seven_Passes_Road"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036030",
+   "name": "Shaw's Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036079",
+   "name": "Spektakel pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036115",
+   "name": "Storms River Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Storms_River_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036122"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036121"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036147",
+   "name": "Suurberg mountain pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036148"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036169"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036213",
+   "name": "Tradoupas",
+   "coord": "Point(20.701833333 -33.975611111)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Tradouw_Pass",
+   "elevation": "351",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036253",
+   "name": "Uniondale Poort",
+   "coord": "Point(23.148888888 -33.6825)",
+   "place": "Western Cape",
+   "elevation": "804",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036258"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036266",
+   "name": "Van Ryneveld Pass",
+   "coord": "Point(24.415 -32.13055556)",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036267",
+   "name": "Van der Stel-pas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036271",
+   "name": "Van Stadenspas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036269",
+   "name": "Van Rhynspas",
+   "coord": "Point(19.016388888 -31.374166666)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036281",
+   "name": "Versfeld Pass",
+   "coord": "Point(18.74 -32.856111111)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Versfeld_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036294",
+   "coord": "Point(19.05038889 -34.09455556)",
+   "place": "Western Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036331",
+   "coord": "Point(17.66277778 -28.79416667)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036377",
+   "coord": "Point(17.62194444 -29.94138889)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036415",
+   "name": "Witelskloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13036416",
+   "coord": "Point(26.53666667 -31.07)",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15223542",
+   "name": "Helspoort Pass",
+   "coord": "Point(26.32086111 -33.17008333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Helspoort_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15240752",
+   "name": "Kumajaba Pass",
+   "coord": "Point(28.53572222 -31.28394444)",
+   "enwiki": "https://en.wikipedia.org/wiki/Kumajaba_Pass",
+   "elevation": "1432",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15262303",
+   "name": "Nico Malan Pass",
+   "coord": "Point(26.83611111 -32.48072222)",
+   "place": "Eastern Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Nico_Malan_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q16878532",
+   "name": "Suurberg Pass",
+   "coord": "Point(25.7203 -33.2833)",
+   "enwiki": "https://en.wikipedia.org/wiki/Suurberg_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q18129041",
+   "name": "Ou Kaapse Weg",
+   "coord": "Point(18.4214 -34.0874)",
+   "enwiki": "https://en.wikipedia.org/wiki/Ou_Kaapse_Weg",
+   "elevation": "315",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623152",
+   "name": "Botterkloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623218",
+   "name": "Diepkloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623271",
+   "name": "Gannaga pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623344",
+   "name": "Katbakkiespas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623603",
+   "name": "Rooibergpas",
+   "coord": "Point(21.642777777 -33.650277777)",
+   "place": "Western Cape",
+   "elevation": "472",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623628",
+   "name": "Skitterypas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623726",
+   "name": "Theronsbergpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623810",
+   "coord": "Point(20.61333333 -32.54361111)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20612719",
+   "name": "Clarence Drive",
+   "enwiki": "https://en.wikipedia.org/wiki/Clarence_Drive"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20614259",
+   "name": "Karoopoort",
+   "coord": "Point(19.717222222 -33.216666666)",
+   "place": "Witzenberg Local Municipality",
+   "elevation": "774",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20615223"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20616598",
+   "name": "Oupoortpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20616626",
+   "name": "Outeniqua Railroad Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Outeniqua_Railroad_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20617583",
+   "name": "Skurwebergpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20618135",
+   "name": "Thyshoogtepas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31408500",
+   "name": "Bakenshoogte",
+   "coord": "Point(20.6431 -32.8793)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31534732",
+   "name": "Burkes Pass",
+   "coord": "Point(17.8992 -29.8692)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31736397",
+   "coord": "Point(22.09694444 -33.36638889)",
+   "place": "Western Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31736417",
+   "coord": "Point(22.71394444 -30.64452778)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31883728",
+   "name": "Brook's Nek",
+   "coord": "Point(29.4725 -30.622222222)",
+   "place": "KwaZulu-Natal",
+   "elevation": "1613",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31884222",
+   "name": "Buffalo Nek",
+   "coord": "Point(28.859444444 -30.799166666)",
+   "place": "Eastern Cape",
+   "elevation": "1652",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31885335",
+   "name": "Bulhoekpas",
+   "coord": "Point(25.705555555 -31.243055555)",
+   "place": "Eastern Cape",
+   "elevation": "1543",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31910722",
+   "name": "Didima",
+   "coord": "Point(29.283333333 -29.0)",
+   "place": "KwaZulu-Natal",
+   "elevation": "1803",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31911063",
+   "name": "Die Venster",
+   "coord": "Point(19.721111111 -33.270833333)",
+   "place": "Western Cape",
+   "elevation": "964",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31912557",
+   "name": "Dulcie's Nek",
+   "coord": "Point(27.448055555 -30.456666666)",
+   "place": "Eastern Cape",
+   "elevation": "1641",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31918628",
+   "name": "Grootrivierhoogte",
+   "coord": "Point(19.3675 -32.610277777)",
+   "place": "Western Cape",
+   "elevation": "996",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31920196",
+   "name": "Homtini Pass",
+   "coord": "Point(22.919166666 -33.949444444)",
+   "place": "Western Cape",
+   "elevation": "75",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31920310",
+   "name": "Hornsnek",
+   "coord": "Point(28.068611111 -25.682222222)",
+   "place": "Gauteng",
+   "elevation": "1444",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31920481",
+   "name": "Howison's Poort",
+   "coord": "Point(26.498611111 -33.351944444)",
+   "place": "Eastern Cape",
+   "elevation": "461",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31930655",
+   "name": "Keiskie se Poort",
+   "coord": "Point(19.862777777 -31.590555555)",
+   "place": "Northern Cape",
+   "elevation": "1180",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31934279",
+   "name": "Kommandonek",
+   "coord": "Point(27.821111111 -25.733888888)",
+   "place": "North West",
+   "elevation": "1249",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31972471",
+   "name": "Noupoortsnek",
+   "coord": "Point(28.421388888 -28.496944444)",
+   "place": "Free State",
+   "elevation": "1837",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31981658",
+   "name": "Oubergspas",
+   "coord": "Point(20.246111111 -33.696944444)",
+   "place": "Western Cape",
+   "elevation": "860",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31982960",
+   "name": "Papstraat",
+   "coord": "Point(28.38 -24.331111111)",
+   "elevation": "1565",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31986941",
+   "name": "Phantom Pass",
+   "coord": "Point(22.995277777 -34.001666666)",
+   "place": "Western Cape",
+   "elevation": "113",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31995753",
+   "name": "Pienaarspoort",
+   "coord": "Point(24.397222222 -33.221944444)",
+   "place": "Eastern Cape",
+   "elevation": "600",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31995760",
+   "name": "Pienaarspoort",
+   "coord": "Point(20.164166666 -33.174166666)",
+   "place": "Western Cape",
+   "elevation": "824",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31999682",
+   "name": "Prince Alfred's Pass",
+   "coord": "Point(23.166666666 -33.833333333)",
+   "place": "Western Cape",
+   "enwiki": "https://en.wikipedia.org/wiki/Prince_Alfred%27s_Pass",
+   "elevation": "656",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32007276",
+   "name": "Retiefsnek",
+   "coord": "Point(28.219722222 -28.398611111)",
+   "place": "Free State",
+   "elevation": "1798",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32018608",
+   "name": "Ships Prow Pass",
+   "coord": "Point(29.327222222 -29.096388888)",
+   "elevation": "3271",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32020253",
+   "name": "Silkaatsnek",
+   "coord": "Point(27.897777777 -25.701111111)",
+   "place": "North West",
+   "elevation": "1328",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32027512",
+   "name": "Tarentaalstraat",
+   "coord": "Point(28.368333333 -24.369444444)",
+   "elevation": "1385",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32027537",
+   "name": "Tarkapas",
+   "coord": "Point(25.665833333 -32.472222222)",
+   "place": "Eastern Cape",
+   "elevation": "1071",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32037297",
+   "name": "Uitkyk Pass",
+   "coord": "Point(19.178888888 -32.121388888)",
+   "place": "Western Cape",
+   "elevation": "648",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32041273",
+   "name": "Wasbank pass",
+   "coord": "Point(27.383333333 -31.366666666)",
+   "place": "Eastern Cape",
+   "elevation": "1456",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32042944",
+   "name": "Witnekpas",
+   "coord": "Point(24.696111111 -31.880833333)",
+   "place": "Eastern Cape",
+   "elevation": "1637",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q48789834",
+   "name": "Witklip Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Witklip_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q48790780",
+   "name": "Kiepersol Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q48790817",
+   "name": "Hilltop Pass",
+   "enwiki": "https://en.wikipedia.org/wiki/Hilltop_Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61355547"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q65040503",
+   "name": "Munro Drive",
+   "coord": "Point(28.060269444 -26.17375)",
+   "enwiki": "https://en.wikipedia.org/wiki/Munro_Drive"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q66083101",
+   "name": "Breedtsnek Pass",
+   "coord": "Point(27.443055555 -25.863888888)",
+   "place": "North West"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q105406402",
+   "name": "Lichen's Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q106318376",
+   "name": "Kloof Pass",
+   "coord": "Point(28.543611111 -23.971944444)",
+   "place": "Mogalakwena Local Municipality",
+   "elevation": "1394",
+   "elevationUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q108293258",
+   "name": "Cundycleugh pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q108572162",
+   "name": "Krakadouw pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q108805937",
+   "name": "Jukhoogte"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q108810905",
+   "name": "Muishondberg pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q109316735",
+   "name": "Turck se pas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q109325570",
+   "name": "Rooikloof pass",
+   "coord": "Point(20.65 -32.45)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q109381677",
+   "name": "Kromrivier pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q109381688",
+   "name": "Droëlandskloof pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q109381816",
+   "name": "Varsbokkraal pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q109802711",
+   "name": "Kraaiberg pass",
+   "coord": "Point(19.2 -32.18333333)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q111179817",
+   "name": "Karretjies pass",
+   "coord": "Point(19.46666667 -32.25)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q111744888",
+   "name": "Bobbejaanhoek pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q111908454",
+   "name": "Aapberg pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q111908467",
+   "name": "Rammelkop pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q111964700",
+   "name": "Grey's Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q112192812",
+   "name": "Koebee Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q112192895",
+   "name": "Klein Koebee Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q112192995",
+   "name": "Hel se Pad Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q112245103",
+   "name": "Tierberg Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q112470156",
+   "name": "Nardouwskloof Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q112967596",
+   "name": "Klipfonteinrant Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113282740",
+   "coord": "Point(19.216666666 -32.3)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113322124",
+   "name": "Rietvlei se Hoogte"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113374607",
+   "name": "Haarwegskloof Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113374747",
+   "name": "Diepkloofpas"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q117662617",
+   "name": "Kraaibosberg Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q121701001",
+   "name": "Kransvleikloof Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q121701125",
+   "name": "Brand se Berg Pass",
+   "coord": "Point(18.68333333 -31.86666667)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q123135082",
+   "name": "Uitkyk Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q124077939",
+   "name": "Hoogekraal Pass",
+   "coord": "Point(22.801222222 -33.927833333)",
+   "place": "Knysna Local Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q124078000",
+   "name": "Touw River Pass",
+   "coord": "Point(22.612444444 -33.946583333)",
+   "place": "Knysna Local Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q124078151",
+   "name": "Silver River Pass",
+   "coord": "Point(22.56547 -33.9648518)",
+   "place": "George Local Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q124246848",
+   "name": "Kouberg Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q125463812",
+   "name": "Grootdoornhoek Pass",
+   "coord": "Point(26.061666666 -31.3975)",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q130288448",
+   "name": "Rooikranshoogte"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q130288476",
+   "name": "Voetpadhoogte"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q135112009",
+   "name": "Klipspringer pass",
+   "coord": "Point(22.455277777 -32.3075)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q135183431",
+   "name": "Pienaars Pass"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q136031837",
+   "name": "Ouberg Pass",
+   "coord": "Point(20.3475 -32.407777777)",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q138028960",
+   "name": "Kloof Nek",
+   "coord": "Point(18.394532872 -33.941983758)",
+   "place": "Western Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q140137024",
+   "name": "Sneeuberg pass"
+  }
+ ]
+}

@@ -1,0 +1,3321 @@
+{
+ "source": "Wikidata (CC0)",
+ "dams": [
+  {
+   "item": "http://www.wikidata.org/entity/Q31885540",
+   "name": "Bulshoek Barrage",
+   "coord": "Point(18.786944444 -31.996111111)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31925605",
+   "name": "J.L. de Bruin Dam",
+   "coord": "Point(26.62361 -31.02889)",
+   "type": "dam",
+   "height": "15",
+   "heightUnit": "metre",
+   "volume": "1696",
+   "volumeUnit": "megalitre",
+   "area": "0.06",
+   "areaUnit": "square kilometre",
+   "service": "1982-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31935720",
+   "name": "Kromellenboogdam",
+   "coord": "Point(26.3475 -25.456388888)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31942261",
+   "name": "Lanti Weir",
+   "coord": "Point(27.415555555 -31.855555555)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32010297",
+   "name": "Rosherville Dam",
+   "coord": "Point(28.105555555 -26.225)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32016843",
+   "name": "Seligman Dam",
+   "coord": "Point(25.016111111 -31.461944444)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6421105",
+   "name": "Klipdrif Dam",
+   "coord": "Point(27.31138889 -26.60888889)",
+   "type": "dam",
+   "height": "12",
+   "heightUnit": "metre",
+   "service": "1918-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Klipdrif_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6421116",
+   "name": "Klipkoppie Dam",
+   "coord": "Point(30.99833333 -25.20694444)",
+   "type": "dam",
+   "height": "20",
+   "heightUnit": "metre",
+   "service": "1960-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Klipkopjes_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q908661",
+   "name": "Hartbeespoort Dam",
+   "coord": "Point(27.848377777 -25.725630555)",
+   "type": "dam",
+   "height": "59",
+   "heightUnit": "metre",
+   "service": "1925-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Hartbeespoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q978936",
+   "name": "Vaal Dam",
+   "coord": "Point(28.1159 -26.882380555)",
+   "type": "dam",
+   "height": "63",
+   "heightUnit": "metre",
+   "service": "1939-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Vaal_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1009306",
+   "name": "Engelhard Dam",
+   "coord": "Point(31.63777778 -23.83694444)",
+   "type": "dam",
+   "service": "1975-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Engelhard_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1009315",
+   "name": "Bronkhorstspruit Dam",
+   "coord": "Point(28.72083333 -25.8875)",
+   "type": "dam",
+   "height": "35",
+   "heightUnit": "metre",
+   "service": "1950-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bronkhorstspruit_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1009318",
+   "name": "Witbank Dam",
+   "coord": "Point(29.3054 -25.8909)",
+   "type": "dam",
+   "height": "44",
+   "heightUnit": "metre",
+   "service": "1971-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Witbank_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1009341",
+   "name": "Boskop Dam",
+   "coord": "Point(27.111444444 -26.561830555)",
+   "type": "dam",
+   "height": "33",
+   "heightUnit": "metre",
+   "service": "1959-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Boskop_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1009342",
+   "name": "Potchefstroom Dam",
+   "coord": "Point(27.09722222 -26.67)",
+   "type": "dam",
+   "height": "8",
+   "heightUnit": "metre",
+   "service": "1950-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Potchefstroom_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1166375",
+   "name": "Darlington Dam",
+   "coord": "Point(25.148691666 -33.206197222)",
+   "type": "dam",
+   "height": "48",
+   "heightUnit": "metre",
+   "service": "1922-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Darlington_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1494266",
+   "name": "Gariep Dam",
+   "coord": "Point(25.50638889 -30.62277778)",
+   "type": "dam",
+   "height": "88",
+   "heightUnit": "metre",
+   "service": "1971-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Gariep_Dam",
+   "river": "Orange River",
+   "length": "914",
+   "lengthUnit": "metre",
+   "operator": "Eskom"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1767203",
+   "name": "Bloemhof Dam",
+   "coord": "Point(25.619022222 -27.665205555)",
+   "type": "dam",
+   "height": "33",
+   "heightUnit": "metre",
+   "service": "1970-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bloemhof_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2005221",
+   "name": "Binfield Park Dam",
+   "coord": "Point(26.901775 -32.686841666)",
+   "type": "dam",
+   "height": "60",
+   "heightUnit": "metre",
+   "service": "1986-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Binfield_Park_Dam",
+   "inception": "1986-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2082039",
+   "name": "Albert Falls Dam",
+   "coord": "Point(30.424488888 -29.433802777)",
+   "type": "dam",
+   "height": "33",
+   "heightUnit": "metre",
+   "volume": "288100",
+   "volumeUnit": "megalitre",
+   "service": "1976-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Albert_Falls_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2099404",
+   "name": "Allemanskraal Dam",
+   "coord": "Point(27.146133333 -28.287872222)",
+   "type": "dam",
+   "height": "38",
+   "heightUnit": "metre",
+   "service": "1960-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Allemanskraal_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2103566",
+   "name": "Pongolapoort Dam",
+   "coord": "Point(32.071086111 -27.419127777)",
+   "type": "dam",
+   "height": "89",
+   "heightUnit": "metre",
+   "service": "1973-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Pongolapoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2118329",
+   "name": "Rust de Winter Dam",
+   "coord": "Point(28.517552777 -25.233927777)",
+   "type": "dam",
+   "height": "31",
+   "heightUnit": "metre",
+   "service": "1934-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Rust_de_Winter_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2276243",
+   "name": "Tzaneen Dam",
+   "coord": "Point(30.1633 -23.7936)",
+   "type": "dam",
+   "height": "50",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Tzaneen_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2402457",
+   "name": "Voëlvlei Dam",
+   "coord": "Point(19.0301 -33.338738888)",
+   "type": "dam",
+   "height": "10",
+   "heightUnit": "metre",
+   "service": "1971-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Vo%C3%ABlvlei_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2565491",
+   "name": "Waterdown Dam",
+   "coord": "Point(26.8622 -32.285)",
+   "type": "dam",
+   "height": "44",
+   "heightUnit": "metre",
+   "service": "1958-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Waterdown_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2657155",
+   "name": "Blyderivierpoort Dam",
+   "coord": "Point(30.798002777 -24.536386111)",
+   "type": "dam",
+   "height": "71",
+   "heightUnit": "metre",
+   "service": "1974-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Blyderivierpoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2782084",
+   "name": "Oxkraal Dam",
+   "coord": "Point(26.75333333 -32.21194444)",
+   "type": "dam",
+   "height": "30",
+   "heightUnit": "metre",
+   "service": "1989-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Oxkraal_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2782091",
+   "name": "Rietvlei Dam",
+   "coord": "Point(28.265308333 -25.876819444)",
+   "type": "dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "service": "1933-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Rietvlei_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2885319",
+   "coord": "Point(26.77583 -27.0972)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2992323",
+   "name": "Bridle Drift Dam",
+   "coord": "Point(27.730422222 -32.989225)",
+   "type": "dam",
+   "height": "55",
+   "heightUnit": "metre",
+   "service": "1969-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bridle_Drift_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2992350",
+   "name": "Wriggleswade Dam",
+   "coord": "Point(27.5531 -32.5936)",
+   "type": "dam",
+   "height": "35",
+   "heightUnit": "metre",
+   "service": "1991-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Wriggleswade_Dam",
+   "inception": "1991-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3134137",
+   "name": "Bongolo Dam",
+   "coord": "Point(26.915247222 -31.877325)",
+   "type": "dam",
+   "height": "24",
+   "heightUnit": "metre",
+   "service": "1908-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bongolo_Dam_(South_Africa)",
+   "inception": "1908-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3445613",
+   "name": "Berg River Dam",
+   "coord": "Point(19.057513888 -33.908880555)",
+   "type": "dam",
+   "height": "68",
+   "heightUnit": "metre",
+   "service": "2007-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Berg_River_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3445636",
+   "name": "Vanderkloof Dam",
+   "coord": "Point(24.7317 -29.9922)",
+   "type": "dam",
+   "height": "108",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Vanderkloof_Dam",
+   "river": "Orange River",
+   "length": "770",
+   "lengthUnit": "metre",
+   "operator": "Eskom",
+   "inception": "1971-01-01T00:00:00Z",
+   "owner": "Eskom"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3643764",
+   "name": "Midmar Dam",
+   "coord": "Point(30.203161111 -29.495588888)",
+   "type": "dam",
+   "height": "32",
+   "heightUnit": "metre",
+   "service": "1965-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Midmar_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4200493",
+   "name": "Inanda Dam",
+   "coord": "Point(30.867847222 -29.709336111)",
+   "type": "dam",
+   "height": "65",
+   "heightUnit": "metre",
+   "service": "1989-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Inanda_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4316385",
+   "name": "Nagle Dam",
+   "coord": "Point(30.626661111 -29.591444444)",
+   "type": "dam",
+   "height": "46",
+   "heightUnit": "metre",
+   "service": "1950-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Nagle_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4709429",
+   "name": "Albasini Dam",
+   "coord": "Point(30.13 -23.10833)",
+   "type": "dam",
+   "height": "34",
+   "heightUnit": "metre",
+   "area": "3.498",
+   "areaUnit": "square kilometre",
+   "service": "1952-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Albasini_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4735298",
+   "name": "Alphen Dam",
+   "coord": "Point(18.87361111 -34.01166667)",
+   "type": "dam",
+   "height": "18.3",
+   "heightUnit": "metre",
+   "service": "1990-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Alphen_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4756915",
+   "name": "Andrew F.C. Turpin Dam",
+   "coord": "Point(26.07166667 -32.65222222)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Andrew_F.C._Turpin_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4793121",
+   "name": "Armenia Dam",
+   "coord": "Point(27.128922222 -29.364344444)",
+   "type": "dam",
+   "height": "22",
+   "heightUnit": "metre",
+   "service": "1954-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Armenia_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4825079",
+   "name": "Clanwilliam Dam",
+   "coord": "Point(18.874527777 -32.184719444)",
+   "type": "dam",
+   "height": "43",
+   "heightUnit": "metre",
+   "service": "1935-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Clanwilliam_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4880096",
+   "name": "Beervlei Dam",
+   "coord": "Point(23.491430555 -33.076727777)",
+   "type": "dam",
+   "height": "31",
+   "heightUnit": "metre",
+   "service": "1957-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Beervlei_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4919219",
+   "name": "Bivane Dam",
+   "coord": "Point(31.05416667 -27.51944444)",
+   "type": "dam",
+   "height": "72",
+   "heightUnit": "metre",
+   "service": "2000-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bivane_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4927334",
+   "name": "Bloemhoek Dam",
+   "coord": "Point(27.274416666 -27.647475)",
+   "type": "dam",
+   "height": "28",
+   "heightUnit": "metre",
+   "service": "1976-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bloemhoek_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4937091",
+   "name": "Boegoeberg Dam",
+   "coord": "Point(22.20361111 -29.04166667)",
+   "type": "dam",
+   "height": "12",
+   "heightUnit": "metre",
+   "service": "1929-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Boegoeberg_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4940932",
+   "name": "Bon Accord Dam",
+   "coord": "Point(28.189713888 -25.622177777)",
+   "type": "dam",
+   "height": "18",
+   "heightUnit": "metre",
+   "service": "1925-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bon_Accord_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4947156",
+   "name": "Boschmanskop No 1 Dam",
+   "coord": "Point(29.63055556 -26.01833333)",
+   "type": "dam",
+   "height": "22",
+   "heightUnit": "metre",
+   "service": "1995-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Boschmanskop_No_1_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4947458",
+   "name": "Bospoort Dam",
+   "coord": "Point(27.3499 -25.563483333)",
+   "type": "dam",
+   "height": "28",
+   "heightUnit": "metre",
+   "service": "1933-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Bospoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4957207",
+   "name": "Brandvlei Dam",
+   "coord": "Point(19.41583333 -33.7125)",
+   "type": "dam",
+   "volume": "303800000",
+   "volumeUnit": "cubic metre",
+   "enwiki": "https://en.wikipedia.org/wiki/Brandvlei_Dam",
+   "inception": "1983-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4985936",
+   "name": "Buffeljags Dam",
+   "coord": "Point(20.53278 -34.01861)",
+   "type": "dam",
+   "height": "24",
+   "heightUnit": "metre",
+   "service": "1967-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Buffeljags_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4985939",
+   "name": "Buffelspoort Dam",
+   "coord": "Point(27.485 -25.781111111)",
+   "type": "dam",
+   "height": "34",
+   "heightUnit": "metre",
+   "service": "1934-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Buffelspoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5064197",
+   "name": "Ceres Koekedouw Dam",
+   "coord": "Point(19.27527778 -33.3625)",
+   "type": "dam",
+   "height": "60",
+   "heightUnit": "metre",
+   "service": "2001-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Ceres_Koekedouw_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5181688",
+   "name": "Craigie Burn Dam",
+   "coord": "Point(30.28388889 -29.16305556)",
+   "type": "dam",
+   "height": "38",
+   "heightUnit": "metre",
+   "service": "1963-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Craigie_Burn_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5207236",
+   "name": "Da Gama Dam",
+   "coord": "Point(31.020713888 -25.142125)",
+   "type": "dam",
+   "height": "38",
+   "heightUnit": "metre",
+   "service": "1971-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Da_Gama_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5211961",
+   "name": "Damani Dam",
+   "coord": "Point(30.51556 -22.85083)",
+   "type": "dam",
+   "height": "28",
+   "heightUnit": "metre",
+   "service": "1991-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Damani_Dam",
+   "inception": "1991-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5217650",
+   "name": "Xilinxa Dam",
+   "coord": "Point(28.0802 -32.1299)",
+   "type": "dam",
+   "height": "25",
+   "heightUnit": "metre",
+   "service": "1972-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Xilinxa_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5220169",
+   "name": "Rooikrantz Dam",
+   "coord": "Point(27.31861111 -32.75055556)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Rooikrantz_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5221552",
+   "name": "Dap Naudé Dam",
+   "coord": "Point(29.966113888 -23.813969444)",
+   "type": "dam",
+   "height": "23",
+   "heightUnit": "metre",
+   "service": "1958-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Dap_Naud%C3%A9_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5244449",
+   "name": "De Hoop Dam",
+   "coord": "Point(24.417777777 -32.450277777)",
+   "type": "dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "service": "1938-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/De_Hoop_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5281237",
+   "name": "Disaneng Dam",
+   "coord": "Point(25.313697222 -25.823686111)",
+   "type": "dam",
+   "height": "17",
+   "heightUnit": "metre",
+   "service": "1980-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Disaneng_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5297239",
+   "name": "Doorndraai Dam",
+   "coord": "Point(28.776583333 -24.279861111)",
+   "type": "dam",
+   "height": "25",
+   "heightUnit": "metre",
+   "service": "1952-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Doorndraai_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5297862",
+   "name": "Doring River Dam",
+   "coord": "Point(27.330508333 -31.512702777)",
+   "type": "dam",
+   "height": "35",
+   "heightUnit": "metre",
+   "service": "1971-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Doring_River_Dam",
+   "river": "Doring River"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5302092",
+   "name": "Douglas Weir",
+   "coord": "Point(23.83639 -29.04361)",
+   "type": "dam",
+   "height": "10",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Douglas_Weir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5307402",
+   "name": "Driekloof Dam",
+   "coord": "Point(29.0635 -28.5165)",
+   "type": "dam",
+   "height": "47",
+   "heightUnit": "metre",
+   "service": "1979-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Driekloof_Dam",
+   "river": "Sterkfontein Reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5307403",
+   "name": "Driekloof Dam",
+   "type": "dam",
+   "height": "15",
+   "heightUnit": "metre",
+   "service": "1989-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Driekloof_Dam_(Western_Cape)"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5307404",
+   "name": "Driekoppies Dam",
+   "coord": "Point(31.530922222 -25.712644444)",
+   "type": "dam",
+   "height": "50",
+   "heightUnit": "metre",
+   "service": "1998-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Driekoppies_Dam",
+   "river": "Lomati River"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5331675",
+   "name": "Ebenezer Dam",
+   "coord": "Point(29.984908333 -23.941238888)",
+   "type": "dam",
+   "height": "61",
+   "heightUnit": "metre",
+   "service": "1959-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Ebenezer_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5348117",
+   "name": "Egmont Dam",
+   "coord": "Point(27.027363888 -30.052611111)",
+   "type": "dam",
+   "height": "25",
+   "heightUnit": "metre",
+   "service": "1937-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Egmont_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5349255",
+   "name": "Eikenhof Dam",
+   "coord": "Point(19.0347 -34.1294)",
+   "type": "dam",
+   "height": "46",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Eikenhof_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5353431",
+   "name": "Elandskloof Dam",
+   "coord": "Point(19.2847 -33.952116666)",
+   "type": "dam",
+   "height": "69",
+   "heightUnit": "metre",
+   "service": "1976-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Elandskloof_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5353432",
+   "name": "Elandskuil Dam",
+   "coord": "Point(26.777666666 -26.348444444)",
+   "type": "dam",
+   "height": "11",
+   "heightUnit": "metre",
+   "service": "1969-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Elandskuil_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5373390",
+   "name": "Emmarentia Dam",
+   "coord": "Point(28.005833333 -26.150277777)",
+   "type": "dam",
+   "height": "11",
+   "heightUnit": "metre",
+   "service": "1912-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Emmarentia_Dam",
+   "inception": "1912-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5376549",
+   "name": "Theewaterskloof Dam",
+   "coord": "Point(19.2892 -34.0781)",
+   "type": "dam",
+   "height": "38",
+   "heightUnit": "metre",
+   "service": "1978-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Theewaterskloof_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5385757",
+   "name": "Erfenis Dam",
+   "coord": "Point(26.77722222 -28.51083333)",
+   "type": "dam",
+   "height": "46",
+   "heightUnit": "metre",
+   "service": "1960-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Erfenis_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5448219",
+   "name": "Fika-Patso Dam",
+   "coord": "Point(28.85667 -28.67222)",
+   "type": "dam",
+   "height": "65",
+   "heightUnit": "metre",
+   "service": "1987-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Fika-Patso_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5456616",
+   "name": "Flag Boshielo Dam",
+   "coord": "Point(29.425077777 -24.780863888)",
+   "type": "dam",
+   "height": "36",
+   "heightUnit": "metre",
+   "service": "1987-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Flag_Boshielo_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5461903",
+   "name": "Floriskraal Dam",
+   "coord": "Point(20.990716666 -33.291652777)",
+   "type": "dam",
+   "height": "33",
+   "heightUnit": "metre",
+   "service": "1957-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Floriskraal_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5520227",
+   "name": "Gamkapoort Dam",
+   "coord": "Point(21.633727777 -33.309361111)",
+   "type": "dam",
+   "height": "42",
+   "heightUnit": "metre",
+   "service": "1969-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Gamkapoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5567568",
+   "name": "Glen Alpine Dam",
+   "coord": "Point(28.697755555 -23.19185)",
+   "type": "dam",
+   "height": "28",
+   "heightUnit": "metre",
+   "service": "1968-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Glen_Alpine_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5577121",
+   "name": "Goedertrouw Dam",
+   "coord": "Point(31.470163888 -28.772925)",
+   "type": "dam",
+   "height": "88",
+   "heightUnit": "metre",
+   "service": "1982-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Goedertrouw_Dam",
+   "river": "Mhlatuze River",
+   "inception": "1982-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5597573",
+   "name": "Grassridge Dam",
+   "coord": "Point(25.468455555 -31.768394444)",
+   "type": "dam",
+   "height": "24",
+   "heightUnit": "metre",
+   "service": "1924-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Grassridge_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5600473",
+   "name": "Greater Brandvlei Dam",
+   "coord": "Point(19.450691666 -33.702991666)",
+   "type": "dam",
+   "height": "14",
+   "heightUnit": "metre",
+   "service": "1983-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Greater_Brandvlei_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5610091",
+   "name": "Groendal Dam",
+   "coord": "Point(25.27305556 -33.70027778)",
+   "type": "dam",
+   "height": "51",
+   "heightUnit": "metre",
+   "service": "1934-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Groendal_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5610289",
+   "name": "Grootdraai Dam",
+   "coord": "Point(29.2948 -26.9185)",
+   "type": "dam",
+   "height": "42",
+   "heightUnit": "metre",
+   "service": "1981-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Grootdraai_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5688096",
+   "name": "Hazelmere Dam",
+   "coord": "Point(31.042694444 -29.5982)",
+   "type": "dam",
+   "height": "50",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Hazelmere_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5709036",
+   "name": "Hellsgate Dam",
+   "type": "dam",
+   "height": "26",
+   "heightUnit": "metre",
+   "service": "1910-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Hellsgate_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5749800",
+   "name": "Heyshope Dam",
+   "coord": "Point(30.523741666 -26.994144444)",
+   "type": "dam",
+   "height": "29",
+   "heightUnit": "metre",
+   "service": "1983-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Heyshope_Dam",
+   "river": "Assegaai River"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6007370",
+   "name": "Impofu Dam",
+   "coord": "Point(24.690891666 -34.094658333)",
+   "type": "dam",
+   "height": "75",
+   "heightUnit": "metre",
+   "service": "1982-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Impofu_Dam",
+   "inception": "1982-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6034257",
+   "name": "Injaka Dam",
+   "coord": "Point(31.08472222 -24.88444444)",
+   "type": "dam",
+   "height": "53",
+   "heightUnit": "metre",
+   "service": "2002-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Injaka_Dam",
+   "inception": "2002-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6182150",
+   "name": "Jericho Dam",
+   "coord": "Point(30.48611111 -26.65416667)",
+   "type": "dam",
+   "height": "22",
+   "heightUnit": "metre",
+   "service": "1966-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Jericho_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6353387",
+   "name": "Kalkfontein Dam",
+   "coord": "Point(25.22222222 -29.49583333)",
+   "type": "dam",
+   "height": "36",
+   "heightUnit": "metre",
+   "service": "1938-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kalkfontein_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6357077",
+   "name": "Kamfers Dam",
+   "coord": "Point(24.763333333 -28.672777777)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Kamfers_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6395489",
+   "name": "Kettingspruit Dam",
+   "coord": "Point(30.525 -24.16944444)",
+   "type": "dam",
+   "height": "8.5",
+   "heightUnit": "metre",
+   "service": "2006-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kettingspruit_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6406611",
+   "name": "Kilburn Dam",
+   "coord": "Point(29.102566666 -28.592244444)",
+   "type": "dam",
+   "height": "51",
+   "heightUnit": "metre",
+   "service": "1981-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kilburn_Dam",
+   "inception": "1981-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6420640",
+   "name": "Klerkskraal Dam",
+   "coord": "Point(27.14861111 -26.23305556)",
+   "type": "dam",
+   "height": "15",
+   "heightUnit": "metre",
+   "service": "1965-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Klerkskraal_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131573428",
+   "name": "Piet Grobler Dam",
+   "coord": "Point(31.633333333 -24.230555555)",
+   "type": "dam",
+   "inception": "1988-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q138336748",
+   "name": "Rooiberg dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q138566265",
+   "name": "Klipdrift dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q138621425",
+   "name": "Karee dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6421943",
+   "name": "Knellpoort Dam",
+   "coord": "Point(26.88611111 -29.78361111)",
+   "type": "dam",
+   "height": "50",
+   "heightUnit": "metre",
+   "service": "1988-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Knellpoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6425780",
+   "name": "Kogelberg Dam",
+   "coord": "Point(18.9753 -34.2158)",
+   "type": "dam",
+   "height": "54",
+   "heightUnit": "metre",
+   "service": "1986-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kogelberg_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6428390",
+   "name": "Kommandodrif Dam",
+   "coord": "Point(26.042333333 -32.108463888)",
+   "type": "dam",
+   "height": "39",
+   "heightUnit": "metre",
+   "service": "1956-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kommandodrif_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6431184",
+   "name": "Koppies Dam",
+   "coord": "Point(27.67083333 -27.25694444)",
+   "type": "dam",
+   "height": "25",
+   "heightUnit": "metre",
+   "service": "1911-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Koppies_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6438854",
+   "name": "Kromfonteinlower (Wilge) Cofferdam",
+   "coord": "Point(29.25833333 -26.08333333)",
+   "type": "dam",
+   "height": "17",
+   "heightUnit": "metre",
+   "service": "1992-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kromfonteinlower_(Wilge)_Cofferdam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6439227",
+   "name": "Krugersdrift Dam",
+   "coord": "Point(25.956258333 -28.884219444)",
+   "type": "dam",
+   "height": "26",
+   "heightUnit": "metre",
+   "service": "1970-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Krugersdrift_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6439245",
+   "name": "Kruismansrivier Dam",
+   "coord": "Point(18.83611111 -32.74305556)",
+   "type": "dam",
+   "height": "18",
+   "heightUnit": "metre",
+   "service": "1997-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kruismansrivier_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6477053",
+   "name": "Lake Mzingazi Dam",
+   "coord": "Point(32.08361111 -28.76694444)",
+   "type": "dam",
+   "height": "8",
+   "heightUnit": "metre",
+   "service": "1942-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Lake_Mzingazi_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6478887",
+   "name": "Lakenvallei Dam",
+   "coord": "Point(19.580836111 -33.366625)",
+   "type": "dam",
+   "height": "56",
+   "heightUnit": "metre",
+   "service": "1974-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Lakenvallei_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6516525",
+   "name": "Leeu-Gamka Dam",
+   "coord": "Point(22.004397222 -32.622875)",
+   "type": "dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "service": "1958-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Leeu-Gamka_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6683697",
+   "name": "Loskop Dam",
+   "coord": "Point(29.3586 -25.4181)",
+   "type": "dam",
+   "height": "54",
+   "heightUnit": "metre",
+   "service": "1939-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Loskop_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6695344",
+   "name": "Lubisi Dam",
+   "coord": "Point(27.430261111 -31.795836111)",
+   "type": "dam",
+   "height": "52",
+   "heightUnit": "metre",
+   "service": "1968-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Lubisi_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6740446",
+   "name": "Makuleke Dam",
+   "coord": "Point(30.905 -22.8675)",
+   "type": "dam",
+   "height": "22",
+   "heightUnit": "metre",
+   "service": "1990-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Makuleke_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6762579",
+   "name": "Marico-Bosveld Dam",
+   "coord": "Point(26.394208333 -25.469725)",
+   "type": "dam",
+   "height": "34",
+   "heightUnit": "metre",
+   "service": "1933-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Marico-Bosveld_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6825551",
+   "name": "Metz Dam",
+   "coord": "Point(30.45222282 -24.25527763)",
+   "type": "dam",
+   "height": "18",
+   "heightUnit": "metre",
+   "enwiki": "https://en.wikipedia.org/wiki/Metz_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6841155",
+   "name": "Middelburg Dam",
+   "coord": "Point(29.55 -25.76694444)",
+   "type": "dam",
+   "height": "36",
+   "heightUnit": "metre",
+   "service": "1978-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Middelburg_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6888076",
+   "name": "Modderpoort Dam",
+   "coord": "Point(22.143658333 -31.945372222)",
+   "type": "dam",
+   "height": "15",
+   "heightUnit": "metre",
+   "service": "1953-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Modderpoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6895381",
+   "name": "Mokolo Dam",
+   "coord": "Point(27.72035 -23.984016666)",
+   "type": "dam",
+   "height": "57",
+   "heightUnit": "metre",
+   "service": "1980-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Mokolo_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6895704",
+   "name": "Molatedi Dam",
+   "coord": "Point(26.453211111 -24.86985)",
+   "type": "dam",
+   "height": "23",
+   "heightUnit": "metre",
+   "service": "1986-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Molatedi_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6912028",
+   "name": "Morgenstond Dam",
+   "coord": "Point(30.5437903 -26.7106346)",
+   "type": "dam",
+   "height": "43",
+   "heightUnit": "metre",
+   "service": "1978-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Morgenstond_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6959317",
+   "name": "Nahoon Dam",
+   "coord": "Point(27.81111111 -32.91083333)",
+   "type": "dam",
+   "height": "44",
+   "heightUnit": "metre",
+   "service": "1966-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Nahoon_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6963372",
+   "name": "Nandoni Dam",
+   "coord": "Point(30.598063888 -22.981033333)",
+   "type": "dam",
+   "height": "47",
+   "heightUnit": "metre",
+   "service": "2004-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Nandoni_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7022480",
+   "name": "Ngodwana Dam",
+   "coord": "Point(30.66805556 -25.58361111)",
+   "type": "dam",
+   "height": "47",
+   "heightUnit": "metre",
+   "service": "1984-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Ngodwana_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7022591",
+   "name": "Ngotwane Dam",
+   "coord": "Point(25.80027778 -25.19777778)",
+   "type": "dam",
+   "height": "19",
+   "heightUnit": "metre",
+   "service": "1982-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Ngotwane_Dam",
+   "inception": "1982-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7067524",
+   "name": "Nqweba Dam",
+   "coord": "Point(24.52777778 -32.23555556)",
+   "type": "dam",
+   "height": "42",
+   "heightUnit": "metre",
+   "service": "1925-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Nqweba_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7067657",
+   "name": "Ntshingwayo Dam",
+   "coord": "Point(29.95027778 -27.95416667)",
+   "type": "dam",
+   "height": "28",
+   "heightUnit": "metre",
+   "service": "1961-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Ntshingwayo_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7081154",
+   "name": "Ohrigstad Dam",
+   "coord": "Point(30.61694444 -24.91694444)",
+   "type": "dam",
+   "height": "52",
+   "heightUnit": "metre",
+   "service": "1955-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Ohrigstad_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7110258",
+   "name": "Oudebaaskraal",
+   "coord": "Point(19.90138889 -32.38361111)",
+   "type": "dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "service": "1969-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Oudebaaskraal_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7186402",
+   "name": "Phiphidi Dam",
+   "type": "dam",
+   "height": "16",
+   "heightUnit": "metre",
+   "service": "1971-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Phiphidi_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7267363",
+   "name": "Qedusizi Dam",
+   "coord": "Point(29.74472222 -28.54194444)",
+   "type": "dam",
+   "height": "24",
+   "heightUnit": "metre",
+   "service": "1998-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Qedusizi_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7320405",
+   "name": "Rhenosterkop Dam",
+   "coord": "Point(28.918105555 -25.098783333)",
+   "type": "dam",
+   "height": "36",
+   "heightUnit": "metre",
+   "service": "1984-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Rhenosterkop_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7333186",
+   "name": "Rietspruit Dam",
+   "coord": "Point(26.81055556 -26.40972222)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Rietspruit_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7355619",
+   "name": "Rockview Dam",
+   "coord": "Point(18.9503 -34.1978)",
+   "type": "dam",
+   "height": "48",
+   "heightUnit": "metre",
+   "service": "1986-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Rockview_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7366119",
+   "name": "Roode Els Berg Dam",
+   "coord": "Point(19.5686 -33.435530555)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Roode_Els_Berg_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7416360",
+   "name": "Sandile Dam",
+   "coord": "Point(27.10111111 -32.71666667)",
+   "type": "dam",
+   "height": "61",
+   "heightUnit": "metre",
+   "service": "1983-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Sandile_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7456944",
+   "name": "Settlers Dam",
+   "coord": "Point(26.50944444 -33.41166667)",
+   "type": "dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "service": "1962-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Settlers_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7464302",
+   "name": "Kwena Dam",
+   "coord": "Point(30.386486111 -25.360583333)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Kwena_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7538642",
+   "name": "Slangdraai Dam",
+   "coord": "Point(29.75027778 -28.25027778)",
+   "type": "dam",
+   "height": "15",
+   "heightUnit": "metre",
+   "service": "1986-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Slangdraai_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7555568",
+   "name": "Sol Plaatjie Dam",
+   "coord": "Point(28.3629 -28.2171)",
+   "type": "dam",
+   "height": "24",
+   "heightUnit": "metre",
+   "service": "1968-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Sol_Plaatje_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7577685",
+   "name": "Spioenkop Dam",
+   "coord": "Point(29.517 -28.681)",
+   "type": "dam",
+   "height": "53",
+   "heightUnit": "metre",
+   "service": "1973-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Spioenkop_Dam",
+   "operator": "Umgeni Water Amanzi"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7578309",
+   "name": "Spitskop Dam",
+   "coord": "Point(24.502 -28.1232)",
+   "type": "dam",
+   "height": "18",
+   "heightUnit": "metre",
+   "service": "1974-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Spitskop_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7605879",
+   "name": "Steenbras Upper Dam",
+   "coord": "Point(18.90138889 -34.16805556)",
+   "type": "dam",
+   "height": "37",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Steenbras_Upper_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7605880",
+   "name": "Steenbras Dam",
+   "coord": "Point(18.852452777 -34.187025)",
+   "type": "dam",
+   "height": "37",
+   "heightUnit": "metre",
+   "service": "1921-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Steenbras_Dam",
+   "inception": "1975-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7611342",
+   "name": "Sterkfontein Dam",
+   "coord": "Point(29.024161111 -28.386227777)",
+   "type": "dam",
+   "height": "93",
+   "heightUnit": "metre",
+   "service": "1980-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Sterkfontein_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7618771",
+   "name": "Stompdrift Dam",
+   "coord": "Point(22.5856 -33.5125)",
+   "type": "dam",
+   "height": "49",
+   "heightUnit": "metre",
+   "service": "1965-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Stompdrift_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7840640",
+   "name": "Trichardtsfontein Dam",
+   "coord": "Point(29.23361111 -26.49805556)",
+   "type": "dam",
+   "height": "26",
+   "heightUnit": "metre",
+   "service": "1981-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Trichardtsfontein_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7849833",
+   "name": "Tsojana Dam",
+   "coord": "Point(27.63361111 -31.88333333)",
+   "type": "dam",
+   "height": "23",
+   "heightUnit": "metre",
+   "service": "1978-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Tsojana_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7857495",
+   "name": "Tweedraai Dam",
+   "coord": "Point(29.21666667 -26.42916667)",
+   "type": "dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "service": "1991-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Tweedraai_Dam",
+   "inception": "1991-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7907816",
+   "name": "Vaalkop Dam",
+   "coord": "Point(27.47583333 -25.31027778)",
+   "type": "dam",
+   "height": "33",
+   "heightUnit": "metre",
+   "service": "2010-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Vaalkop_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7915277",
+   "name": "Vanwyksvlei Dam",
+   "coord": "Point(21.810672222 -30.379463888)",
+   "type": "dam",
+   "height": "15",
+   "heightUnit": "metre",
+   "service": "1884-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Vanwyksvlei_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7941574",
+   "name": "Vondo Dam",
+   "coord": "Point(30.352080555 -22.950272222)",
+   "type": "dam",
+   "height": "47",
+   "heightUnit": "metre",
+   "service": "1982-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Vondo_Dam",
+   "inception": "1982-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7982205",
+   "name": "Wemmershoek Dam",
+   "coord": "Point(19.082352777 -33.832991666)",
+   "type": "dam",
+   "height": "53",
+   "heightUnit": "metre",
+   "service": "1957-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Wemmershoek_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8024590",
+   "name": "Windsor Dam",
+   "coord": "Point(29.738 -28.502)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Windsor_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8028320",
+   "name": "Witklip Dam",
+   "coord": "Point(30.90027809 -25.23611069)",
+   "type": "dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "service": "1969-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Witklip_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8030609",
+   "name": "Wolwedans Dam",
+   "coord": "Point(22.2167 -34.0136)",
+   "type": "dam",
+   "height": "70",
+   "heightUnit": "metre",
+   "service": "1990-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Wolwedans_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8032723",
+   "name": "Woodhead Dam",
+   "coord": "Point(18.4022 -33.9764)",
+   "type": "dam",
+   "height": "38",
+   "heightUnit": "metre",
+   "service": "1897-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Woodhead_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8033418",
+   "name": "Woodstock Dam",
+   "coord": "Point(29.2458 -28.76)",
+   "type": "dam",
+   "height": "49",
+   "heightUnit": "metre",
+   "service": "1983-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Woodstock_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8044922",
+   "name": "Xonxa Dam",
+   "coord": "Point(27.180905555 -31.838497222)",
+   "type": "dam",
+   "height": "49",
+   "heightUnit": "metre",
+   "service": "1974-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Xonxa_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q10955981",
+   "name": "Vaal Barrage",
+   "coord": "Point(27.6917 -26.7647)",
+   "type": "dam",
+   "height": "10",
+   "heightUnit": "metre",
+   "service": "1923-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Vaal_Barrage",
+   "river": "Vaal River"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q11161408",
+   "name": "Mthatha Dam",
+   "coord": "Point(28.74 -31.55055556)",
+   "type": "dam",
+   "height": "18",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Mthatha_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035446",
+   "coord": "Point(27.82674167 -28.86512222)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q13035468",
+   "name": "Misverstand Dam",
+   "coord": "Point(18.79333333 -33.02888889)",
+   "type": "dam",
+   "height": "26",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Misverstand_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15240491",
+   "name": "Kromfontein Middle Cofferdam",
+   "coord": "Point(29.25555556 -26.11666667)",
+   "type": "dam",
+   "height": "16",
+   "heightUnit": "metre",
+   "service": "1990-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kromfontein_Middle_Cofferdam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15240958",
+   "name": "Kwaggaskloof Dam",
+   "coord": "Point(19.472577777 -33.766697222)",
+   "type": "dam",
+   "height": "18",
+   "heightUnit": "metre",
+   "service": "1975-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kwaggaskloof_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15243481",
+   "name": "Madikwe Dam",
+   "coord": "Point(26.5975 -25.39333333)",
+   "type": "dam",
+   "height": "17",
+   "heightUnit": "metre",
+   "service": "1976-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Madikwe_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15253334",
+   "name": "Middle Letaba Dam",
+   "coord": "Point(30.404597222 -23.274188888)",
+   "type": "dam",
+   "height": "34",
+   "heightUnit": "metre",
+   "service": "1984-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Middle_Letaba_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15262447",
+   "name": "Nooitgedacht Dam",
+   "coord": "Point(30.08361111 -25.95027778)",
+   "type": "dam",
+   "height": "42",
+   "heightUnit": "metre",
+   "service": "1962-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Nooitgedacht_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15276509",
+   "name": "Setumo Dam",
+   "coord": "Point(25.50027778 -25.85833333)",
+   "type": "dam",
+   "height": "17",
+   "heightUnit": "metre",
+   "service": "1995-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Setumo_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15278228",
+   "name": "Smartt Dam",
+   "coord": "Point(23.30444444 -30.62916667)",
+   "type": "dam",
+   "height": "28",
+   "heightUnit": "metre",
+   "service": "1912-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Smartt_Dam",
+   "inception": "1912-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q16900703",
+   "name": "Stettynskloof Dam",
+   "coord": "Point(19.251919444 -33.836666666)",
+   "type": "dam",
+   "height": "48",
+   "heightUnit": "metre",
+   "service": "1955-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Stettynskloof_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q17248663",
+   "name": "De Hoop Dam",
+   "coord": "Point(29.95638889 -24.9575)",
+   "type": "dam",
+   "height": "81",
+   "heightUnit": "metre",
+   "service": "2014-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/De_Hoop_Dam_(Limpopo)",
+   "inception": "2014-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623121",
+   "name": "Bedford Dam",
+   "coord": "Point(29.584977777 -28.238236111)",
+   "type": "dam",
+   "service": "2011-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q19623157",
+   "name": "Bramhoek Dam",
+   "coord": "Point(29.579061111 -28.311783333)",
+   "type": "dam",
+   "height": "41",
+   "heightUnit": "metre",
+   "service": "2011-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20618472",
+   "coord": "Point(19.86888889 -33.32777778)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q25614981",
+   "coord": "Point(19.23111111 -33.19527778)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31881709",
+   "name": "Bo-Langvlei",
+   "coord": "Point(22.67921 -33.98707)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31882345",
+   "name": "Bon Accord Reservoir",
+   "coord": "Point(28.1893 -25.62802)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31882658",
+   "name": "Boskop Dam Reservoir",
+   "coord": "Point(27.118611111 -26.551944444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31882702",
+   "name": "Bospoort Reservoir",
+   "coord": "Point(27.3325 -25.571388888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31883527",
+   "name": "Bridle Drift Reservoir",
+   "coord": "Point(27.70673 -32.98007)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31883714",
+   "name": "Bronkhorstspruit Reservoir",
+   "coord": "Point(28.69686 -25.89738)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31884400",
+   "name": "Buffelspoort Reservoir",
+   "coord": "Point(27.488333333 -25.791388888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31890446",
+   "name": "Cashel Dam",
+   "coord": "Point(25.108333333 -26.133888888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31903081",
+   "name": "Ntshingwayo Reservoir",
+   "coord": "Point(29.929444444 -28.012777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31906544",
+   "name": "Kromme Dam Reservoir",
+   "coord": "Point(24.478888888 -33.991666666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31907365",
+   "name": "Cinderella Dam",
+   "coord": "Point(28.239722222 -26.239444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31907823",
+   "name": "Clanwilliam Reservoir",
+   "coord": "Point(18.89581 -32.21376)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31908605",
+   "name": "Cowles Dam",
+   "coord": "Point(28.459444444 -26.21)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31911551",
+   "name": "Donald McHardy Dam",
+   "coord": "Point(30.183333333 -28.183333333)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31912012",
+   "name": "Douglas Dam",
+   "coord": "Point(29.945277777 -26.470277777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31912452",
+   "name": "Dudley Pringle Dam",
+   "coord": "Point(31.141944444 -29.528055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31912544",
+   "name": "Duiwenhoksrivierdam",
+   "coord": "Point(20.951111111 -33.991111111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31913175",
+   "name": "Egmont Dam Reservoir",
+   "coord": "Point(27.03715 -30.0486)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31913194",
+   "name": "Eikenhof Reservoir",
+   "coord": "Point(19.0325 -34.121666666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31914118",
+   "name": "Erfenis Dam Reservoir",
+   "coord": "Point(26.843055555 -28.558611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31916290",
+   "name": "Floriskraal Reservoir",
+   "coord": "Point(20.987222222 -33.278055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31916660",
+   "name": "Gamkapoort Reservoir",
+   "coord": "Point(21.637222222 -33.299722222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31918331",
+   "name": "Grootdraai Dam Reservoir",
+   "coord": "Point(29.356388888 -26.934444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31918656",
+   "name": "Grootvleidam",
+   "coord": "Point(28.523888888 -26.797777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31918766",
+   "name": "Gubu Reservoir",
+   "coord": "Point(27.274444444 -32.605277777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31919262",
+   "name": "Mokolo Reservoir",
+   "coord": "Point(27.758055555 -23.9825)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31919469",
+   "name": "Hartbeespoort Reservoir",
+   "coord": "Point(27.853333333 -25.75)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31919595",
+   "name": "Hazelmere dam reservoir",
+   "coord": "Point(31.038888888 -29.587777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31919680",
+   "name": "Gariep Reservoir",
+   "coord": "Point(25.695833333 -30.691111111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31919845",
+   "name": "Heyshope Dam Reservoir",
+   "coord": "Point(30.51064 -27.02308)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31919953",
+   "name": "Hluhluwe Reservoir",
+   "coord": "Point(32.168888888 -28.118888888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31920542",
+   "name": "Hudson Ntsanwisi Reservoir",
+   "coord": "Point(30.763333333 -23.243888888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31928333",
+   "name": "Jan Wassenaardam",
+   "coord": "Point(31.065 -24.528611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31928544",
+   "name": "Jonkersdam",
+   "coord": "Point(29.171388888 -26.8675)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31930438",
+   "name": "Katrivier Dam Reservoir",
+   "coord": "Point(26.775 -32.571111111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31930618",
+   "name": "Keerom Reservoir",
+   "coord": "Point(19.705 -33.582222222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31931374",
+   "name": "Kilburn Reservoir",
+   "coord": "Point(29.09781 -28.58889)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31932672",
+   "name": "Klein-Maricopoortdam",
+   "coord": "Point(26.131111111 -25.53)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31933276",
+   "name": "Klipdrifdam",
+   "coord": "Point(27.306944444 -26.609722222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31934271",
+   "name": "Kommandodrift Reservoir",
+   "coord": "Point(26.035277777 -32.0875)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q116870236",
+   "name": "Grassridge Reservoir",
+   "coord": "Point(25.46 -31.7475)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q116870252",
+   "name": "Glen Alpine Reservoir",
+   "coord": "Point(28.690277777 -23.204166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q123681404",
+   "name": "Sable Dam",
+   "coord": "Point(31.235833333 -23.9375)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q123840740",
+   "name": "Westdene Dam",
+   "coord": "Point(27.9894941 -26.1808012)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q124692102",
+   "name": "Sunset Dam",
+   "coord": "Point(31.911944444 -25.116111111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q125503495",
+   "name": "Maden Dam",
+   "coord": "Point(27.298629023 -32.73742814)",
+   "type": "reservoir",
+   "inception": "1910-06-03T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131429578",
+   "name": "Kumana Dam",
+   "coord": "Point(31.795555555 -24.618611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131429754",
+   "name": "Orpen Dam",
+   "coord": "Point(31.898055555 -24.791944444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131430510",
+   "name": "Shitlhave Dam",
+   "coord": "Point(31.324444444 -25.144166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131430525",
+   "name": "Nyamundwa Dam",
+   "coord": "Point(31.333888888 -25.024166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131430665",
+   "name": "Transport Dam",
+   "coord": "Point(31.491388888 -25.118611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131430840",
+   "name": "N'watimhiri Dam",
+   "coord": "Point(31.801944444 -25.054166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131467898",
+   "name": "Nsemani Dam",
+   "coord": "Point(31.718055555 -24.392222222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q138283696",
+   "name": "Ennerdale / Lawley Reservoir",
+   "coord": "Point(27.837049806 -26.430691596)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31934678",
+   "name": "Koos Raubenheimer Reservoir",
+   "coord": "Point(22.283888888 -33.406388888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31934808",
+   "name": "Koppies Dam Reservoir",
+   "coord": "Point(27.683888888 -27.243888888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31935058",
+   "name": "Kosterdam",
+   "coord": "Point(26.900833333 -25.710555555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31935852",
+   "name": "Krugersdrift Dam Reservoir",
+   "coord": "Point(25.9625 -28.863611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31939290",
+   "name": "Lace Mine Dam",
+   "coord": "Point(27.115833333 -27.451944444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31941286",
+   "name": "Laing Dam Reservoir",
+   "coord": "Point(27.49962 -32.95591)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31941543",
+   "name": "Lakenvallei Reservoir",
+   "coord": "Point(19.579166666 -33.360277777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31942458",
+   "name": "Leeu Gamka Reservoir",
+   "coord": "Point(22.006666666 -32.611111111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31942532",
+   "name": "Leeukuildam",
+   "coord": "Point(27.892222222 -26.686388888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31942972",
+   "name": "Lindleyspoort Reservoir",
+   "coord": "Point(26.691111111 -25.5175)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31943254",
+   "name": "Loch Lomond",
+   "coord": "Point(28.311388888 -28.178888888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31943323",
+   "name": "Lola Montes Dam",
+   "coord": "Point(29.493888888 -24.82)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31943518",
+   "name": "Longmere Dam",
+   "coord": "Point(31.006111111 -25.265277777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31944403",
+   "name": "Lubisi Dam Reservoir",
+   "coord": "Point(27.42117 -31.78511)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31947057",
+   "name": "Magoebaskloof Reservoir",
+   "coord": "Point(30.050555555 -23.819722222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31950257",
+   "name": "Marico-Bosveld Reservoir",
+   "coord": "Point(26.39161 -25.48025)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31954736",
+   "name": "Mhlangazanedam",
+   "coord": "Point(31.975277777 -25.233055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31954878",
+   "name": "Middle Letaba Reservoir",
+   "coord": "Point(30.39031 -23.29527)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31955253",
+   "name": "Midmar Dam Reservoir",
+   "coord": "Point(30.18198 -29.51302)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31956417",
+   "name": "Modderpoort Reservoir",
+   "coord": "Point(22.144444444 -31.949444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31956708",
+   "name": "Molatedi Reservoir",
+   "coord": "Point(26.4489 -24.9094)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31959763",
+   "name": "Mtata Dam",
+   "coord": "Point(28.7125 -31.518055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31963649",
+   "name": "Mushroom Valley Dam",
+   "coord": "Point(27.177777777 -28.728333333)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31964422",
+   "name": "Mvunyana Dam",
+   "coord": "Point(30.770277777 -28.032222222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31966178",
+   "name": "Nagle Reservoir",
+   "coord": "Point(30.643055555 -29.593611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31966211",
+   "name": "Nahoon Dam Reservoir",
+   "coord": "Point(27.797222222 -32.914444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31969508",
+   "name": "Newington Dam",
+   "coord": "Point(30.429166666 -29.349444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31971344",
+   "name": "Nkumpidamme",
+   "coord": "Point(29.314166666 -24.2925)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31971625",
+   "name": "Nooitgedachtdam",
+   "coord": "Point(30.075833333 -25.974166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31971630",
+   "name": "Nooitgedagdam",
+   "coord": "Point(28.030277777 -25.515555555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31972016",
+   "name": "North End Lake",
+   "coord": "Point(25.5942 -33.93382)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31975148",
+   "name": "Nzhelele Reservoir",
+   "coord": "Point(30.10183 -22.73658)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31980139",
+   "name": "Olifantsnek Reservoir",
+   "coord": "Point(27.253611111 -25.790555555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31981018",
+   "name": "Orinoco Dam",
+   "coord": "Point(31.094444444 -24.7225)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31982172",
+   "name": "Vanderkloof Dam Reservoir",
+   "coord": "Point(24.80164 -30.04651)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31982938",
+   "name": "Papdam",
+   "coord": "Point(22.628611111 -32.393611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31995767",
+   "name": "Roodeplaat Reservoir",
+   "coord": "Point(28.37 -25.625555555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31995861",
+   "name": "Pietersfontein Reservoir",
+   "coord": "Point(20.0124 -33.66804)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31999189",
+   "name": "Poortjieskloof Reservoir",
+   "coord": "Point(20.371944444 -33.862777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31999615",
+   "name": "Preston Pan",
+   "coord": "Point(30.190833333 -28.167777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31999668",
+   "name": "Primkopdam",
+   "coord": "Point(31.070277777 -25.382777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31999776",
+   "name": "Prins River Reservoir",
+   "coord": "Point(20.752222222 -33.513611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32007177",
+   "name": "Rhenosterkop Reservoir",
+   "coord": "Point(28.890277777 -25.099722222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32007661",
+   "name": "Rietfonteindam",
+   "coord": "Point(29.216666666 -26.364166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32007957",
+   "name": "Rietvlei Reservoir",
+   "coord": "Point(28.271944444 -25.8775)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32008935",
+   "name": "Roodepoortdam",
+   "coord": "Point(27.521388888 -27.221666666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32009388",
+   "name": "Rooidam",
+   "coord": "Point(21.209166666 -29.413055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32009807",
+   "name": "Rooikraaldam",
+   "coord": "Point(29.649722222 -25.293888888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32010947",
+   "name": "Rust de Winter Reservoir",
+   "coord": "Point(28.51139 -25.23722)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32016579",
+   "name": "Sedibadam",
+   "coord": "Point(26.956111111 -29.031666666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32017139",
+   "name": "Serfontein Reservoir",
+   "coord": "Point(27.306111111 -27.7025)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32018720",
+   "name": "Shiyalongubo",
+   "coord": "Point(31.2675 -25.756944444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32021292",
+   "name": "Skuinsdam",
+   "coord": "Point(25.851388888 -24.763333333)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32023483",
+   "name": "Spioenkop Reservoir",
+   "coord": "Point(29.490833333 -28.689166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32041047",
+   "name": "Walkers Dam",
+   "coord": "Point(22.545 -32.348611111)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q59868378",
+   "name": "Vygeboom Dam",
+   "coord": "Point(30.61917 -25.88139)",
+   "type": "dam",
+   "height": "45",
+   "heightUnit": "metre",
+   "service": "1971-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360242",
+   "coord": "Point(30.71666667 -29.85)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360265",
+   "coord": "Point(18.82472222 -32.04888889)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360281",
+   "coord": "Point(21.13055556 -33.83055556)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360351",
+   "coord": "Point(22.09194444 -33.24666667)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360361",
+   "coord": "Point(20.96111111 -33.98638889)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360375",
+   "coord": "Point(22.59111111 -32.34138889)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360383",
+   "coord": "Point(25.05027778 -33.85638889)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360446",
+   "coord": "Point(21.99888889 -34.09194444)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360650",
+   "coord": "Point(21.15838889 -33.99730556)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360653",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360661",
+   "name": "Gubu Dam",
+   "coord": "Point(27.27805556 -32.60972222)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61360729",
+   "coord": "Point(22.14619444 -34.05341667)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61361209",
+   "coord": "Point(19.40388889 -33.43416667)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q61361248",
+   "coord": "Point(25.75625 -32.53005556)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q62667677",
+   "name": "Klipfontein dam",
+   "coord": "Point(30.81416667 -27.83638889)",
+   "type": "dam",
+   "height": "28",
+   "heightUnit": "metre",
+   "service": "1983-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q65303735",
+   "name": "Hluhluwe Dam",
+   "coord": "Point(32.179569444 -28.121733333)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q66715842",
+   "name": "Newbury Dam",
+   "coord": "Point(27.224833333 -29.230361111)",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Newbury_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q66715858",
+   "name": "Lake Arthur Dam",
+   "coord": "Point(25.818055555 -32.216944444)",
+   "type": "dam",
+   "height": "38",
+   "heightUnit": "metre",
+   "service": "1924-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Lake_Arthur_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q85757387",
+   "name": "Donaldson Dam",
+   "type": "dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Donaldson_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q85802740",
+   "name": "Spring Grove Dam",
+   "coord": "Point(29.97 -29.32)",
+   "type": "dam",
+   "height": "32",
+   "heightUnit": "metre",
+   "service": "2013-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Spring_Grove_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q94740482",
+   "name": "Kraaibosch dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q94740565",
+   "name": "Buffelsrivier dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q94740697",
+   "name": "De Bos Dam",
+   "coord": "Point(19.23361 -34.36806)",
+   "type": "dam",
+   "height": "24",
+   "heightUnit": "metre",
+   "service": "1994-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q94987768",
+   "name": "Calitzdorp dam",
+   "coord": "Point(21.70472222 -33.48861111)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q98681660",
+   "name": "Roodefontein dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q98681673",
+   "name": "Haarlem dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q99337585",
+   "name": "Ernst Robertson dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q99713539",
+   "name": "Nuweberg dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q105093541",
+   "name": "Kriegerspoortdam",
+   "coord": "Point(24.545 -31.2875)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q105104177",
+   "name": "Mlondozi Dam",
+   "coord": "Point(31.934166666 -25.034722222)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q105179164",
+   "name": "Kanniedood Dam",
+   "coord": "Point(31.4625 -23.143611111)",
+   "type": "dam",
+   "inception": "1978-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q106554814",
+   "name": "Ertjieskloof dam",
+   "coord": "Point(18.87388889 -33.94333333)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113561097",
+   "name": "Shongweni Dam and Nature Reserve",
+   "coord": "Point(30.72222 -29.85694)",
+   "type": "dam",
+   "height": "39",
+   "heightUnit": "metre",
+   "service": "1927-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Shongweni_Dam_and_Nature_Reserve"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q114598817",
+   "name": "Hudson Ntsanwisi Dam",
+   "coord": "Point(30.770733333 -23.254736111)",
+   "type": "dam",
+   "height": "24",
+   "heightUnit": "metre",
+   "service": "1976-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q114638083",
+   "name": "Koos Raubenheimer Dam",
+   "coord": "Point(22.281686111 -33.409894444)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q114638164",
+   "name": "Magoebaskloof Dam",
+   "coord": "Point(30.055525 -23.817458333)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q114660203",
+   "name": "Prins River Dam",
+   "coord": "Point(20.752933333 -33.517008333)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q114660303",
+   "name": "Serfontein Dam",
+   "coord": "Point(27.301547222 -27.702563888)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q114660375",
+   "name": "Tierpoort Dam",
+   "coord": "Point(26.136063888 -29.421755555)",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012187",
+   "name": "Alexandra Dam",
+   "coord": "Point(18.41167 -33.98806)",
+   "type": "dam",
+   "height": "12.1",
+   "heightUnit": "metre",
+   "service": "1903-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012431",
+   "name": "Arieskraal Dam",
+   "coord": "Point(18.98417 -34.24444)",
+   "type": "dam",
+   "service": "1987-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012570",
+   "name": "De Villiers Dam",
+   "coord": "Point(18.40972 -33.99194)",
+   "type": "dam",
+   "service": "1910-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012611",
+   "name": "Driel Barrage",
+   "coord": "Point(29.29083 -28.76278)",
+   "type": "dam",
+   "height": "22",
+   "heightUnit": "metre",
+   "service": "1973-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012662",
+   "name": "Garden Route Dam",
+   "coord": "Point(22.51417 -33.96417)",
+   "type": "dam",
+   "service": "1984-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012672",
+   "name": "Glen Melville Dam",
+   "coord": "Point(26.6552 -33.196)",
+   "type": "dam",
+   "service": "1992-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Glen_Melville_Reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012681",
+   "name": "Grey Dam",
+   "coord": "Point(26.52778 -33.32472)",
+   "type": "dam",
+   "service": "1859-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012693",
+   "name": "Hely-Hutchinson Dam",
+   "coord": "Point(18.40778 -33.97722)",
+   "type": "dam",
+   "service": "1904-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115012700",
+   "name": "Holo Hlahatse Dam",
+   "coord": "Point(27.36972 -30.63667)",
+   "type": "dam",
+   "height": "30",
+   "heightUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115038606",
+   "name": "Howieson's Poort Dam",
+   "coord": "Point(26.48306 -33.38583)",
+   "type": "dam",
+   "volume": "227",
+   "volumeUnit": "megalitre",
+   "service": "1931-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115038656",
+   "name": "Kleinplaats Dam",
+   "type": "dam",
+   "volume": "1368",
+   "volumeUnit": "megalitre",
+   "area": "0.24",
+   "areaUnit": "square kilometre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115038681",
+   "name": "Korintepoort Dam",
+   "coord": "Point(21.16556 -34.00472)",
+   "type": "dam",
+   "height": "16",
+   "heightUnit": "metre",
+   "service": "1966-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115038703",
+   "name": "Kwene Dam",
+   "coord": "Point(30.375 -25.3625)",
+   "type": "dam",
+   "height": "52",
+   "heightUnit": "metre",
+   "service": "1987-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115038704",
+   "name": "Lady Grey Dam",
+   "coord": "Point(27.24056 -30.71139)",
+   "type": "dam",
+   "height": "23",
+   "heightUnit": "metre",
+   "service": "1925-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115038908",
+   "name": "Land-en-Zeezicht Dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115038914",
+   "name": "Lewis Gay Dam",
+   "type": "dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115039091",
+   "name": "Moutloatsi Setlogelo Dam",
+   "coord": "Point(26.84694 -29.30333)",
+   "type": "dam",
+   "height": "29",
+   "heightUnit": "metre",
+   "service": "1981-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115039164",
+   "name": "Silvermine Dam",
+   "coord": "Point(18.39889 -34.07528)",
+   "type": "dam",
+   "height": "9",
+   "heightUnit": "metre",
+   "service": "1898-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115039176",
+   "name": "Steenbras Hydro-Electric Lower Dam",
+   "coord": "Point(18.9 -34.14722)",
+   "type": "dam",
+   "height": "31",
+   "heightUnit": "metre",
+   "service": "1977-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q115039308",
+   "name": "Victoria Dam",
+   "coord": "Point(18.40806 -33.98639)",
+   "type": "dam",
+   "height": "6",
+   "heightUnit": "metre",
+   "service": "1895-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32023715",
+   "name": "Spitskop Dam Reservoir",
+   "coord": "Point(24.53505 -28.09157)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32024299",
+   "name": "Steenbras Dam Reservoir",
+   "coord": "Point(18.863888888 -34.181944444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32024505",
+   "name": "Stettynskloof Reservoir",
+   "coord": "Point(19.24 -33.839722222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32024695",
+   "name": "Stompdrift Reservoir",
+   "coord": "Point(22.6125 -33.514166666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32026486",
+   "name": "Taaibosspruitdam",
+   "coord": "Point(26.371111111 -26.339444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32028699",
+   "name": "Theewaterskloof Reservoir",
+   "coord": "Point(19.162777777 -34.016388888)",
+   "type": "reservoir",
+   "area": "50",
+   "areaUnit": "square kilometre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32033856",
+   "name": "Tierpoort Reservoir",
+   "coord": "Point(26.15038 -29.40954)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32034299",
+   "name": "Tom Worthington Dam",
+   "coord": "Point(30.135833333 -28.078055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32036500",
+   "name": "Turfloopdam",
+   "coord": "Point(29.772222222 -23.885277777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32036862",
+   "name": "Twyfelspoortdam",
+   "coord": "Point(26.508333333 -25.65)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32037724",
+   "name": "Uniefeesdam",
+   "coord": "Point(27.981388888 -27.288333333)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32038565",
+   "name": "Vaalkop Dam Reservoir",
+   "coord": "Point(27.470277777 -25.310555555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32039055",
+   "name": "Van Graan se Dam",
+   "coord": "Point(31.631388888 -25.439444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32039150",
+   "name": "Vanryndam",
+   "coord": "Point(28.353888888 -26.153055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32039183",
+   "name": "Vanwyksvlei Reservoir",
+   "coord": "Point(21.8025 -30.4125)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32039392",
+   "name": "Verdrukdam",
+   "coord": "Point(30.147777777 -28.085)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32041371",
+   "name": "Waterdown Dam Reservoir",
+   "coord": "Point(26.866666666 -32.3)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32041730",
+   "name": "Weltevrededam",
+   "coord": "Point(27.575555555 -27.216388888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32041738",
+   "name": "Wemmershoek Dam Reservoir",
+   "coord": "Point(19.093611111 -33.824444444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32041987",
+   "name": "Westoe Dam Reservoir",
+   "coord": "Point(30.607777777 -26.493333333)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32042346",
+   "name": "Willem Brummerdam",
+   "coord": "Point(29.923055555 -26.457777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32042799",
+   "name": "Witklip Reservoir",
+   "coord": "Point(30.896944444 -25.225555555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32043659",
+   "name": "Woodstock Dam Reservoir",
+   "coord": "Point(29.20592 -28.73825)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32043792",
+   "name": "Xonxa Reservoir",
+   "coord": "Point(27.1401 -31.82249)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32561396",
+   "name": "Voëlvlei Reservoir",
+   "coord": "Point(19.041944444 -33.365277777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q46479427",
+   "name": "Bongolo Reservoir",
+   "coord": "Point(26.92083333 -31.86777778)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q55712909",
+   "name": "Wagenaer Reservoir",
+   "coord": "Point(18.4228 -33.922)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q98270584",
+   "name": "Lake Panic",
+   "coord": "Point(31.566111111 -24.981388888)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113614675",
+   "name": "Vaal Dam Reservoir",
+   "coord": "Point(28.14555 -26.894719444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113615529",
+   "name": "Bloemhof Reservoir",
+   "coord": "Point(25.672777777 -27.693611111)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113620539",
+   "name": "Sterkfontein Reservoir",
+   "coord": "Point(29.0228 -28.4484)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113622063",
+   "name": "Lake Mentz",
+   "coord": "Point(25.142777777 -33.157777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113632115",
+   "name": "Mthatha Reservoir",
+   "coord": "Point(28.718333333 -31.517777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113632132",
+   "name": "Ncora Reservoir",
+   "coord": "Point(27.648888888 -31.778333333)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113719037",
+   "name": "Pongolapoort Reservoir",
+   "coord": "Point(31.95861111 -27.40222222)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113720187",
+   "name": "Windsor Reservoir",
+   "coord": "Point(29.7425 -28.496944444)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q113975553",
+   "name": "Blyderivierpoort Reservoir",
+   "coord": "Point(30.802222222 -24.5475)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q114032690",
+   "name": "Kwena Reservoir",
+   "coord": "Point(30.375 -25.3625)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6552561",
+   "name": "Lindleyspoort Dam",
+   "coord": "Point(26.690086111 -25.497655555)",
+   "type": "arch dam",
+   "height": "39",
+   "heightUnit": "metre",
+   "service": "1943-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Lindleyspoort_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7070731",
+   "name": "Nwanedi Dam",
+   "coord": "Point(30.40819444 -22.64333333)",
+   "type": "arch dam",
+   "height": "36",
+   "heightUnit": "metre",
+   "service": "1964-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Nwanedi_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7071346",
+   "name": "Nzhelele Dam",
+   "coord": "Point(30.09583333 -22.725)",
+   "type": "arch dam",
+   "height": "47",
+   "heightUnit": "metre",
+   "service": "1948-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Nzhelele_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7086782",
+   "name": "Olifantsnek Dam",
+   "coord": "Point(27.259188888 -25.785511111)",
+   "type": "arch dam",
+   "height": "31",
+   "heightUnit": "metre",
+   "service": "1932-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Olifantsnek_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7192871",
+   "name": "Pietersfontein Dam",
+   "coord": "Point(20.016541666 -33.670022222)",
+   "type": "arch dam",
+   "height": "18",
+   "heightUnit": "metre",
+   "service": "1968-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Pietersfontein_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7228872",
+   "name": "Poortjieskloof Dam",
+   "coord": "Point(20.37111111 -33.85805556)",
+   "type": "arch dam",
+   "height": "38",
+   "heightUnit": "metre",
+   "service": "1955-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Poortjieskloof_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7959507",
+   "name": "Wagendrift Dam",
+   "coord": "Point(29.8353 -29.0483)",
+   "type": "arch dam",
+   "height": "41",
+   "heightUnit": "metre",
+   "service": "1963-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Wagendrift_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q15243135",
+   "name": "Luphephe Dam",
+   "coord": "Point(30.40833333 -22.63333333)",
+   "type": "arch dam",
+   "height": "42",
+   "heightUnit": "metre",
+   "service": "1963-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Luphephe_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31869816",
+   "name": "Albasini Reservoir",
+   "coord": "Point(30.11055 -23.10636)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31870127",
+   "name": "Allemanskraal Reservoir",
+   "coord": "Point(27.20648 -28.29428)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31870249",
+   "name": "Altenzur Dam",
+   "coord": "Point(30.020277777 -23.676666666)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31872770",
+   "name": "Aspelingdam",
+   "coord": "Point(22.772777777 -31.442777777)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31872954",
+   "name": "Athlone Dam",
+   "coord": "Point(29.447777777 -25.798055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31879138",
+   "name": "Beaufort West Dam",
+   "coord": "Point(22.588888888 -32.343055555)",
+   "type": "reservoir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6896860",
+   "name": "Molteno Dam",
+   "coord": "Point(18.412 -33.9385)",
+   "type": "embankment dam",
+   "height": "21",
+   "heightUnit": "metre",
+   "area": "2.85",
+   "areaUnit": "hectare",
+   "service": "1881-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Molteno_Dam",
+   "length": "285",
+   "lengthUnit": "metre"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q24233898",
+   "name": "Tshakhuma Dam",
+   "coord": "Point(30.281845 -23.032789)",
+   "type": "embankment dam",
+   "enwiki": "https://en.wikipedia.org/wiki/Tshakhuma_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6473976",
+   "name": "Laing Dam",
+   "coord": "Point(27.493319444 -32.9689)",
+   "type": "gravity dam",
+   "height": "45",
+   "heightUnit": "metre",
+   "service": "1951-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Laing_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6944020",
+   "name": "Mutshedzi Dam",
+   "coord": "Point(30.16111111 -22.94861111)",
+   "type": "gravity dam",
+   "height": "25",
+   "heightUnit": "metre",
+   "service": "1990-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Mutshedzi_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7366120",
+   "name": "Roodekoppies Dam",
+   "coord": "Point(27.59138889 -25.40416667)",
+   "type": "gravity dam",
+   "height": "25",
+   "heightUnit": "metre",
+   "service": "1984-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Roodekoppies_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7382478",
+   "name": "Rustfontein Dam",
+   "coord": "Point(26.61694444 -29.27083333)",
+   "type": "gravity dam",
+   "height": "36",
+   "heightUnit": "metre",
+   "service": "1955-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Rustfontein_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7980513",
+   "name": "Welbedacht Dam",
+   "coord": "Point(26.860466666 -29.909402777)",
+   "type": "gravity dam",
+   "height": "32",
+   "heightUnit": "metre",
+   "service": "1973-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Welbedacht_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7989338",
+   "name": "Westoe Dam",
+   "coord": "Point(30.62599 -26.505038)",
+   "type": "gravity dam",
+   "height": "26",
+   "heightUnit": "metre",
+   "service": "1968-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Westoe_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8063396",
+   "name": "Zaaihoek Dam",
+   "coord": "Point(30.059569444 -27.439297222)",
+   "type": "gravity dam",
+   "height": "46",
+   "heightUnit": "metre",
+   "service": "1988-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Zaaihoek_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q11040622",
+   "name": "Ncora Dam",
+   "coord": "Point(27.677488888 -31.786166666)",
+   "type": "gravity dam",
+   "height": "44",
+   "heightUnit": "metre",
+   "service": "1975-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Ncora_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q17092243",
+   "name": "Taung Dam",
+   "coord": "Point(24.865 -27.525)",
+   "type": "gravity dam",
+   "height": "44",
+   "heightUnit": "metre",
+   "service": "1993-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Taung_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2562175",
+   "name": "Katrivier Dam",
+   "coord": "Point(26.75888889 -32.57166667)",
+   "type": "arch dam",
+   "height": "55",
+   "heightUnit": "metre",
+   "service": "1969-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Katrivier_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2739130",
+   "name": "Roodeplaat Dam",
+   "coord": "Point(28.37138 -25.62083)",
+   "type": "arch dam",
+   "height": "59",
+   "heightUnit": "metre",
+   "service": "1959-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Roodeplaat_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3445670",
+   "name": "Kouga Dam",
+   "coord": "Point(24.5877 -33.7406)",
+   "type": "arch dam",
+   "height": "81",
+   "heightUnit": "metre",
+   "service": "1969-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kouga_Dam",
+   "inception": "1969-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5118172",
+   "name": "Kromme Dam",
+   "coord": "Point(24.49280556 -34.00094444)",
+   "type": "arch dam",
+   "height": "43",
+   "heightUnit": "metre",
+   "service": "1943-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kromme_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6383302",
+   "name": "Keerom Dam",
+   "coord": "Point(19.707705555 -33.586269444)",
+   "type": "arch dam",
+   "height": "40",
+   "heightUnit": "metre",
+   "service": "1954-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Keerom_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6421103",
+   "name": "Klipberg Dam",
+   "coord": "Point(19.78916667 -33.94166667)",
+   "type": "arch dam",
+   "height": "29",
+   "heightUnit": "metre",
+   "service": "1964-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Klipberg_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6405029",
+   "name": "Kidson Weir",
+   "coord": "Point(28.064833333 -26.549388888)",
+   "type": "weir",
+   "enwiki": "https://en.wikipedia.org/wiki/Kidson_Weir"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2782118",
+   "name": "Klipvoor Dam",
+   "coord": "Point(27.80833333 -25.13277778)",
+   "type": "gravity dam",
+   "height": "30",
+   "heightUnit": "metre",
+   "service": "1970-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Klipvoor_Dam"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6358814",
+   "name": "Kammanassie Dam",
+   "coord": "Point(22.41694444 -33.66694444)",
+   "type": "gravity dam",
+   "height": "41",
+   "heightUnit": "metre",
+   "service": "1923-01-01T00:00:00Z",
+   "enwiki": "https://en.wikipedia.org/wiki/Kammanassie_Dam"
+  }
+ ]
+}

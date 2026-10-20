@@ -1,0 +1,1440 @@
+{
+ "source": "Wikidata (CC0)",
+ "airports": [
+  {
+   "item": "http://www.wikidata.org/entity/Q15278121",
+   "name": "Skukuza Airport",
+   "coord": "Point(31.58861111 -24.96083333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Skukuza_Airport",
+   "icao": "FASZ",
+   "iata": "SZK",
+   "elevation": "311",
+   "elevationUnit": "metre",
+   "place": "Ehlanzeni District Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20447377",
+   "name": "H.M.S.Bastard Memorial Airport",
+   "coord": "Point(29.504167 -30.546667)",
+   "icao": "FAHU",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20448157",
+   "name": "Harmony Airport",
+   "coord": "Point(26.861178 -28.078693)",
+   "icao": "FAHA",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20449674",
+   "name": "Adelaide Airport",
+   "coord": "Point(26.300007 -32.683327)",
+   "icao": "FAAD",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20449718",
+   "name": "Reitz Airport",
+   "coord": "Point(28.45 -27.783333)",
+   "icao": "FARZ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20449725",
+   "name": "Reivilo Airport",
+   "coord": "Point(24.166667 -27.554167)",
+   "icao": "FARI",
+   "iata": "RVO",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20451237",
+   "name": "Idutywa Airport",
+   "coord": "Point(28.316667 -32.1)",
+   "icao": "FAID",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20452213",
+   "name": "Syferfontein Airport",
+   "coord": "Point(27.784155 -26.353313)",
+   "icao": "FASY",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20452885",
+   "name": "Mossel Bay Airport",
+   "coord": "Point(22.055408 -34.16094)",
+   "enwiki": "https://en.wikipedia.org/wiki/Mossel_Bay_Airport",
+   "icao": "FAMO",
+   "iata": "MZY",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20452928",
+   "name": "Sace Airport",
+   "coord": "Point(29.211112 -25.955555)",
+   "icao": "FASU",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20453547",
+   "name": "Lydenburg Airport",
+   "coord": "Point(30.414203 -25.103395)",
+   "icao": "FALL",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20453988",
+   "name": "Mafikeng North Airport",
+   "coord": "Point(25.61199 -25.752857)",
+   "icao": "FAMK",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20455266",
+   "name": "Malmesbury Airport",
+   "coord": "Point(18.7 -33.466667)",
+   "icao": "FAMY",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20455844",
+   "name": "Schweizer Reneke Airport",
+   "coord": "Point(25.3 -27.166667)",
+   "icao": "FASG",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20456113",
+   "name": "Arnot Power Station Airport",
+   "coord": "Point(29.810138 -25.943778)",
+   "icao": "FAAP",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20459376",
+   "name": "Fort Beaufort Airport",
+   "coord": "Point(26.583333 -32.783333)",
+   "icao": "FAFO",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20459565",
+   "name": "Postmasburg Airport",
+   "coord": "Point(23.083333 -28.333333)",
+   "icao": "FAPT",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20461532",
+   "name": "Gifvlei Airport",
+   "coord": "Point(20.033333 -30.383333)",
+   "icao": "FAGJ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20462301",
+   "name": "Grahamstown Airport",
+   "coord": "Point(26.5 -33.283333)",
+   "icao": "FAGT",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20462522",
+   "name": "Tommy Airport",
+   "coord": "Point(23.0 -28.266667)",
+   "icao": "FATF",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20463118",
+   "name": "Tswalu Game Reserve Airport",
+   "coord": "Point(22.477778 -27.225)",
+   "icao": "FATW",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20463359",
+   "name": "Benoni Airport",
+   "coord": "Point(28.305833 -26.238055)",
+   "icao": "FABB",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20463631",
+   "name": "Bethal Airport",
+   "coord": "Point(29.450022 -26.483352)",
+   "icao": "FABH",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20463653",
+   "name": "Tutuka Power Station Airport",
+   "coord": "Point(29.338778 -26.776557)",
+   "icao": "FATT",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20464434",
+   "name": "Somersveld Airport",
+   "coord": "Point(18.482778 -33.248057)",
+   "icao": "FALS",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20464793",
+   "name": "Bothaville Airport",
+   "coord": "Point(26.633333 -27.366667)",
+   "icao": "FABO",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20464804",
+   "name": "Utrecht Airport",
+   "coord": "Point(30.322592 -27.675982)",
+   "icao": "FAUR",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20465566",
+   "name": "Volksrust Airport",
+   "coord": "Point(29.849747 -27.362127)",
+   "icao": "FAVU",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20466197",
+   "name": "Kitty Hawk Aero Estate Airport",
+   "coord": "Point(28.451612 -25.860827)",
+   "icao": "FAKT",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20466542",
+   "name": "Komati Power Station Airport",
+   "coord": "Point(29.455083 -26.093583)",
+   "icao": "FAKG",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20466544",
+   "name": "Komatipoort Airport",
+   "coord": "Point(31.933333 -25.433333)",
+   "icao": "FAKP",
+   "iata": "KOF",
+   "elevation": "541",
+   "elevationUnit": "foot",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7352086",
+   "name": "Robertson Airfield",
+   "coord": "Point(19.899918 -33.812355)",
+   "enwiki": "https://en.wikipedia.org/wiki/Robertson_Airfield",
+   "icao": "FARS",
+   "iata": "ROD",
+   "elevation": "195",
+   "elevationUnit": "metre",
+   "place": "South Africa",
+   "website": "http://www.robertsonflyingclub.wix.com/fars"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12691943",
+   "name": "Bizana Airport",
+   "coord": "Point(29.866667 -30.866667)",
+   "icao": "FABZ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692059",
+   "name": "Burgersdorp Airport",
+   "coord": "Point(26.3 -30.983333)",
+   "icao": "FABD",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692127",
+   "name": "Carletonville Airport",
+   "coord": "Point(27.350167 -26.369443)",
+   "icao": "FACR",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692280",
+   "name": "Colesberg Airport",
+   "coord": "Point(25.06944 -30.732493)",
+   "icao": "FACB",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692337",
+   "name": "Cradock Airport",
+   "coord": "Point(25.645833 -32.155555)",
+   "icao": "FACD",
+   "iata": "CDO",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692401",
+   "name": "De Aar Airport",
+   "coord": "Point(24.024203 -30.69153)",
+   "icao": "FADA",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692419",
+   "name": "Delareyville Airport",
+   "coord": "Point(25.466667 -26.683333)",
+   "icao": "FADL",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692491",
+   "name": "Dukuduku Airport",
+   "coord": "Point(32.248138 -28.368417)",
+   "icao": "FADK",
+   "iata": "DUK",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692496",
+   "name": "Dundee Airport",
+   "coord": "Point(30.219552 -28.189167)",
+   "icao": "FADD",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692503",
+   "name": "Dwaalboom Airport",
+   "coord": "Point(26.833315 -24.803957)",
+   "icao": "FADB",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692599",
+   "name": "Eshowe Airport",
+   "coord": "Point(31.446267 -28.906175)",
+   "icao": "FAES",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692611",
+   "name": "Estcourt Airport",
+   "coord": "Point(29.910642 -29.047342)",
+   "icao": "FAEC",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692701",
+   "name": "Ficksburg Sentraoes Airport",
+   "coord": "Point(27.9089 -28.823118)",
+   "icao": "FAFB",
+   "iata": "FCB",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692838",
+   "name": "Giyani Airport",
+   "coord": "Point(30.649972 -23.283472)",
+   "icao": "FAGI",
+   "iata": "GIY",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692958",
+   "name": "Harding Airport",
+   "coord": "Point(29.883333 -30.566667)",
+   "icao": "FAHJ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692982",
+   "name": "Heilbron Airport",
+   "coord": "Point(27.983333 -27.283333)",
+   "icao": "FAHO",
+   "iata": "ZNJ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692987",
+   "name": "Hendrik Swellengrebel airport",
+   "coord": "Point(20.483333 -34.05)",
+   "icao": "FASX",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693024",
+   "name": "Hoopstad Airport",
+   "coord": "Point(25.9125 -27.825)",
+   "icao": "FAHP",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693156",
+   "name": "Jack Duvenhage Airport",
+   "coord": "Point(22.738267 -27.941465)",
+   "icao": "FAOF",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693325",
+   "name": "Kenhardt Airport",
+   "coord": "Point(21.2 -29.344562)",
+   "icao": "FAKH",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693397",
+   "name": "Kobus De Villiers Airport",
+   "coord": "Point(29.403292 -25.186767)",
+   "icao": "FAGL",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693432",
+   "name": "Kriel Airport",
+   "coord": "Point(29.194557 -26.251888)",
+   "icao": "FAKL",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693643",
+   "name": "Logi Kuasa Majuba Airport",
+   "coord": "Point(29.785 -27.083055)",
+   "icao": "FAMJ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693700",
+   "name": "Lusikisiki Airport",
+   "coord": "Point(29.583333 -31.366667)",
+   "icao": "FALK",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693819",
+   "name": "Marble Hall Airport",
+   "coord": "Point(29.283333 -24.991667)",
+   "icao": "FAMI",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693978",
+   "name": "Mkuzi Airport",
+   "coord": "Point(32.05 -27.633333)",
+   "icao": "FAMU",
+   "iata": "MZQ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694225",
+   "name": "Nylstroom Airport",
+   "coord": "Point(28.428155 -24.685538)",
+   "icao": "FANY",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694363",
+   "name": "Parys Airport",
+   "coord": "Point(27.505308 -26.887205)",
+   "icao": "FAPY",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694466",
+   "name": "Pofadder Airport",
+   "coord": "Point(19.413055 -29.141667)",
+   "icao": "FAPD",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694470",
+   "name": "Pomfret Airport",
+   "coord": "Point(23.537862 -25.847167)",
+   "icao": "FAPQ",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694476",
+   "name": "Pongola Airport",
+   "coord": "Point(31.60555556 -27.36166667)",
+   "enwiki": "https://en.wikipedia.org/wiki/Pongola_Airport",
+   "icao": "FAPL",
+   "elevation": "287",
+   "elevationUnit": "metre",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694525",
+   "name": "Prieska Airport",
+   "coord": "Point(22.770603 -29.683705)",
+   "icao": "FAPK",
+   "iata": "PRK",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694530",
+   "name": "Prince Albert Airport",
+   "coord": "Point(22.033333 -33.2)",
+   "icao": "FAPC",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695092",
+   "name": "Springs Airport",
+   "coord": "Point(28.4 -26.25)",
+   "icao": "FASI",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695448",
+   "name": "Vanderbijlpark Airport",
+   "coord": "Point(27.777255 -26.690647)",
+   "icao": "FAVP",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695465",
+   "name": "Venetia Airport",
+   "coord": "Point(29.33775 -22.448075)",
+   "icao": "FAVM",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695512",
+   "name": "Vrede Airport",
+   "coord": "Point(29.156112 -27.438333)",
+   "icao": "FAVD",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695529",
+   "name": "Warmbaths Airport",
+   "coord": "Point(28.304445 -24.908055)",
+   "icao": "FAWA",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695544",
+   "name": "Wavecrest Airport",
+   "coord": "Point(28.516667 -32.583333)",
+   "icao": "FAWR",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695660",
+   "name": "Zeerust Airport",
+   "coord": "Point(26.033333 -25.6)",
+   "icao": "FAZR",
+   "place": "South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q123469971",
+   "name": "Mkuze Airport",
+   "coord": "Point(32.043972111 -27.624759487)",
+   "icao": "FAMU",
+   "iata": "MZQ",
+   "elevation": "400",
+   "elevationUnit": "foot",
+   "place": "KwaZulu-Natal"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20453545",
+   "name": "Saldanha-Vredenburg Airport",
+   "coord": "Point(17.9693 -32.9641)",
+   "icao": "FASD",
+   "elevation": "18",
+   "elevationUnit": "metre",
+   "place": "Western Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20460330",
+   "name": "Oudtshoorn airport",
+   "coord": "Point(22.189282 -33.600755)",
+   "enwiki": "https://en.wikipedia.org/wiki/Oudtshoorn_Airport",
+   "icao": "FAOH",
+   "iata": "OUH",
+   "elevation": "322",
+   "elevationUnit": "metre",
+   "place": "Western Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q35281487",
+   "name": "Montagu",
+   "coord": "Point(20.15 -33.783333333)",
+   "icao": "FAMQ",
+   "elevation": "267",
+   "elevationUnit": "metre",
+   "place": "Western Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20450619",
+   "name": "Middelburg Airport",
+   "coord": "Point(25.033333333 -31.516666666)",
+   "icao": "FAMC",
+   "elevation": "1233",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20463888",
+   "name": "Uitenhage Airport",
+   "coord": "Point(25.383333333 -33.783333333)",
+   "icao": "FAUH",
+   "elevation": "86",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20464428",
+   "name": "Somerset East Airport",
+   "coord": "Point(25.608333 -32.75)",
+   "icao": "FAST",
+   "elevation": "715",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31911765",
+   "name": "Dordrecht",
+   "coord": "Point(27.033333333 -31.383333333)",
+   "icao": "FADG",
+   "elevation": "1658",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32042379",
+   "name": "Willowmore North",
+   "coord": "Point(23.416666666 -33.05)",
+   "icao": "FAWO",
+   "elevation": "718",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q123470063",
+   "name": "Port St Johns Airport",
+   "coord": "Point(29.51787 -31.60812)",
+   "icao": "FAPJ",
+   "iata": "JOH",
+   "elevation": "1227",
+   "elevationUnit": "foot",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q123470117",
+   "name": "Queenstown Airport",
+   "coord": "Point(26.8797 -31.91738)",
+   "icao": "FAQT",
+   "iata": "UTW",
+   "elevation": "3637",
+   "elevationUnit": "foot",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32007569",
+   "name": "Richmond",
+   "coord": "Point(23.966666666 -31.416666666)",
+   "icao": "FARM",
+   "elevation": "1437",
+   "elevationUnit": "metre",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20456109",
+   "name": "Secunda Airport",
+   "coord": "Point(29.1701 -26.5241)",
+   "icao": "FASC",
+   "iata": "ZEC",
+   "elevation": "1605",
+   "elevationUnit": "metre",
+   "place": "Mpumalanga"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20465395",
+   "name": "Standerton Airport",
+   "coord": "Point(29.183333333 -26.933333333)",
+   "icao": "FASR",
+   "elevation": "1557",
+   "elevationUnit": "metre",
+   "place": "Mpumalanga"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31910228",
+   "name": "Delmas",
+   "coord": "Point(28.666666666 -26.133333333)",
+   "icao": "FADE",
+   "elevation": "1579",
+   "elevationUnit": "metre",
+   "place": "Mpumalanga"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31912602",
+   "name": "Dunnottar",
+   "coord": "Point(28.466666666 -26.35)",
+   "icao": "FADR",
+   "elevation": "1599",
+   "elevationUnit": "metre",
+   "place": "Gauteng"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32008196",
+   "name": "Robinson Lake Aerodrome",
+   "coord": "Point(27.7 -26.15)",
+   "elevation": "1715",
+   "elevationUnit": "metre",
+   "place": "Gauteng"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20460526",
+   "name": "Gariep Dam Airport",
+   "coord": "Point(25.529913 -30.562192)",
+   "icao": "FAHV",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31882561",
+   "name": "Boshof",
+   "coord": "Point(25.24192 -28.55809)",
+   "elevation": "1257",
+   "elevationUnit": "metre",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31913093",
+   "name": "Edenburg",
+   "coord": "Point(25.9 -29.733333333)",
+   "icao": "FAED",
+   "elevation": "1377",
+   "elevationUnit": "metre",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31919706",
+   "name": "Hennenman",
+   "coord": "Point(27.066666666 -28.016666666)",
+   "icao": "FAHN",
+   "elevation": "1394",
+   "elevationUnit": "metre",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20450364",
+   "name": "Messina Airport",
+   "coord": "Point(29.986583 -22.356057)",
+   "icao": "FAMS",
+   "iata": "MEZ",
+   "place": "Limpopo"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q31999411",
+   "name": "Potgietersrus",
+   "coord": "Point(28.985237 -24.229254)",
+   "icao": "FAQR",
+   "elevation": "1079",
+   "elevationUnit": "metre",
+   "place": "Limpopo"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20459606",
+   "name": "Potchefstroom Airport",
+   "coord": "Point(27.081666666 -26.670555555)",
+   "icao": "FAPS",
+   "iata": "PCF",
+   "elevation": "1367",
+   "elevationUnit": "metre",
+   "place": "North West"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q32039356",
+   "name": "Ventersdorp",
+   "coord": "Point(26.8 -26.283333333)",
+   "icao": "FAVE",
+   "elevation": "1503",
+   "elevationUnit": "metre",
+   "place": "North West"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q125820197",
+   "name": "Hoedspruit Eastgate Airport",
+   "coord": "Point(31.046666666 -24.384444444)",
+   "icao": "FAHS",
+   "iata": "HDS",
+   "place": "Mopani District Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q20462742",
+   "name": "Beaufort West Airport",
+   "coord": "Point(22.666667 -32.3)",
+   "icao": "FABW",
+   "place": "Beaufort West"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3644152",
+   "name": "Wonderboom Airport",
+   "coord": "Point(28.216667 -25.65)",
+   "enwiki": "https://en.wikipedia.org/wiki/Wonderboom_Airport",
+   "icao": "FAWB",
+   "iata": "PRY",
+   "elevation": "1248",
+   "elevationUnit": "metre",
+   "place": "Pretoria",
+   "website": "http://www.wonderboomairport.co.za/"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7128392",
+   "name": "Palmietfontein Airport",
+   "coord": "Point(28.14666667 -26.33666667)",
+   "enwiki": "https://en.wikipedia.org/wiki/Palmietfontein_Airport",
+   "elevation": "5107",
+   "elevationUnit": "foot",
+   "place": "Johannesburg"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q854130",
+   "name": "Cape Town International Airport",
+   "coord": "Point(18.597222222 -33.969444444)",
+   "enwiki": "https://en.wikipedia.org/wiki/Cape_Town_International_Airport",
+   "icao": "FACT",
+   "iata": "CPT",
+   "elevation": "46",
+   "elevationUnit": "metre",
+   "place": "Cape Town",
+   "website": "http://www.capetowninternationalairport.co.za",
+   "opened": "1954-01-01T00:00:00Z",
+   "operator": "Airports Company South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4971523",
+   "name": "Brits Airfield",
+   "coord": "Point(27.77484722 -25.53233333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Brits_Airfield",
+   "icao": "FABS",
+   "elevation": "1140",
+   "elevationUnit": "metre",
+   "place": "Brits"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q598282",
+   "name": "Bloemfontein Airport",
+   "coord": "Point(26.303888888 -29.093888888)",
+   "enwiki": "https://en.wikipedia.org/wiki/Bram_Fischer_International_Airport",
+   "icao": "FABL",
+   "iata": "BFN",
+   "elevation": "1358",
+   "elevationUnit": "metre",
+   "place": "Bloemfontein",
+   "website": "http://www.airports.co.za/airports/bram-fischer",
+   "operator": "Airports Company South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1266839",
+   "name": "Durban International Airport",
+   "coord": "Point(30.947777777 -29.968611111)",
+   "enwiki": "https://en.wikipedia.org/wiki/Durban_International_Airport",
+   "icao": "FADN",
+   "iata": "DUR",
+   "elevation": "29",
+   "elevationUnit": "foot",
+   "place": "KwaZulu-Natal",
+   "opened": "1951-01-01T00:00:00Z",
+   "operator": "South African Air Force",
+   "inception": "1951-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7934108",
+   "name": "Virginia Airport",
+   "coord": "Point(31.058333333 -29.770555555)",
+   "enwiki": "https://en.wikipedia.org/wiki/Virginia_Airport",
+   "icao": "FAVG",
+   "iata": "VIR",
+   "elevation": "6",
+   "elevationUnit": "metre",
+   "place": "KwaZulu-Natal"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1431367",
+   "name": "George Airport",
+   "coord": "Point(22.380833333 -34.006666666)",
+   "enwiki": "https://en.wikipedia.org/wiki/George_Airport",
+   "icao": "FAGG",
+   "iata": "GRJ",
+   "elevation": "639",
+   "elevationUnit": "foot",
+   "place": "Western Cape",
+   "website": "http://www.airports.co.za/airports/george-airport",
+   "opened": "1977-01-01T00:00:00Z",
+   "operator": "Airports Company South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5454370",
+   "name": "Fisantekraal Airfield",
+   "coord": "Point(18.7418 -33.76895)",
+   "enwiki": "https://en.wikipedia.org/wiki/Cape_Winelands_Airport",
+   "icao": "FAFK",
+   "elevation": "122",
+   "elevationUnit": "metre",
+   "place": "Western Cape",
+   "website": "http://www.sky-messaging.com/"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1141523",
+   "name": "Kimberley Airport",
+   "coord": "Point(24.763611111 -28.801666666)",
+   "enwiki": "https://en.wikipedia.org/wiki/Kimberley_Airport",
+   "icao": "FAKM",
+   "iata": "KIM",
+   "elevation": "1203",
+   "elevationUnit": "metre",
+   "place": "Kimberley",
+   "website": "http://www.airports.co.za/airports/kimberley",
+   "operator": "Airports Company South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1432442",
+   "name": "Chief Dawid Stuurman International Airport",
+   "coord": "Point(25.610278 -33.99)",
+   "enwiki": "https://en.wikipedia.org/wiki/Chief_Dawid_Stuurman_International_Airport",
+   "icao": "FAPE",
+   "iata": "PLZ",
+   "elevation": "68",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape",
+   "website": "https://www.airports.co.za/airports/chief-dawid-stuurman-international-airport",
+   "opened": "1929-01-01T00:00:00Z",
+   "operator": "Airports Company South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3496971",
+   "name": "East London Airport",
+   "coord": "Point(27.821388888 -33.035)",
+   "enwiki": "https://en.wikipedia.org/wiki/King_Phalo_Airport",
+   "icao": "FAEL",
+   "iata": "ELS",
+   "elevation": "128",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape",
+   "website": "http://www.airports.co.za/airports/east-london",
+   "operator": "Airports Company South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7230476",
+   "name": "Port Alfred Airport",
+   "coord": "Point(26.879722222 -33.554166666)",
+   "enwiki": "https://en.wikipedia.org/wiki/Port_Alfred_Airport",
+   "icao": "FAPA",
+   "iata": "AFD",
+   "elevation": "91",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8214380",
+   "name": "Mthatha Airport",
+   "coord": "Point(28.673612 -31.545833)",
+   "enwiki": "https://en.wikipedia.org/wiki/Mthatha_Airport",
+   "icao": "FAUT",
+   "iata": "UTT",
+   "elevation": "731",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692870",
+   "name": "Graaff Reinet Airport",
+   "coord": "Point(24.541388 -32.193612)",
+   "enwiki": "https://en.wikipedia.org/wiki/Graaff_Reinet_Airport",
+   "icao": "FAGR",
+   "elevation": "793",
+   "elevationUnit": "metre",
+   "place": "Eastern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1431784",
+   "name": "Kruger Mpumalanga International Airport",
+   "coord": "Point(31.105555555 -25.383333333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Kruger_Mpumalanga_International_Airport",
+   "icao": "FAKN",
+   "iata": "MQP",
+   "elevation": "864",
+   "elevationUnit": "metre",
+   "place": "Mpumalanga",
+   "website": "http://www.kmiairport.co.za/",
+   "opened": "2002-10-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2875865",
+   "name": "Mala Mala Airport",
+   "coord": "Point(31.544722222 -24.818055555)",
+   "enwiki": "https://en.wikipedia.org/wiki/Mala_Mala_Airport",
+   "icao": "FAMD",
+   "iata": "AAM",
+   "elevation": "1124",
+   "elevationUnit": "foot",
+   "place": "Mpumalanga"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692133",
+   "name": "Carolina Airport",
+   "coord": "Point(30.083333 -26.083333)",
+   "icao": "FACL",
+   "elevation": "1652",
+   "elevationUnit": "metre",
+   "place": "Mpumalanga"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694431",
+   "name": "Piet Retief Airport",
+   "coord": "Point(30.816666666 -27.0)",
+   "icao": "FAPF",
+   "elevation": "1285",
+   "elevationUnit": "metre",
+   "place": "Mpumalanga"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695590",
+   "name": "Witbank Airport",
+   "coord": "Point(29.192018 -25.832293)",
+   "icao": "FAWI",
+   "elevation": "1547",
+   "elevationUnit": "metre",
+   "place": "Mpumalanga"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1027555",
+   "name": "Upington Airport",
+   "coord": "Point(21.259722222 -28.401111111)",
+   "enwiki": "https://en.wikipedia.org/wiki/Upington_Airport",
+   "icao": "FAUP",
+   "iata": "UTN",
+   "elevation": "847",
+   "elevationUnit": "metre",
+   "place": "Northern Cape",
+   "website": "https://www.airports.co.za/airports/upington-international-airport",
+   "operator": "Airports Company South Africa"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1580098",
+   "name": "Johan Pienaar Airport",
+   "coord": "Point(23.41257 -27.459653)",
+   "enwiki": "https://en.wikipedia.org/wiki/Johan_Pienaar_Airport",
+   "icao": "FAKU",
+   "iata": "KMH",
+   "elevation": "1332",
+   "elevationUnit": "metre",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3545310",
+   "name": "Alexander Bay Airport",
+   "coord": "Point(16.53444444 -28.57333333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Alexander_Bay_Airport",
+   "icao": "FAAB",
+   "iata": "ALJ",
+   "elevation": "29",
+   "elevationUnit": "metre",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q4692191",
+   "name": "Aggeneys Airport",
+   "coord": "Point(18.81361111 -29.28166667)",
+   "enwiki": "https://en.wikipedia.org/wiki/Aggeneys_Airport",
+   "icao": "FAAG",
+   "iata": "AGZ",
+   "elevation": "807",
+   "elevationUnit": "metre",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q11824756",
+   "name": "Springbok Airport",
+   "coord": "Point(17.938888 -29.689445)",
+   "icao": "FASB",
+   "iata": "SBU",
+   "elevation": "819",
+   "elevationUnit": "metre",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692093",
+   "name": "Calvinia Airport",
+   "coord": "Point(19.7266 -31.49992)",
+   "icao": "FACV",
+   "elevation": "970",
+   "elevationUnit": "metre",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695479",
+   "name": "Victoria West Airport",
+   "coord": "Point(23.15 -31.4)",
+   "icao": "FAVW",
+   "elevation": "1262",
+   "elevationUnit": "metre",
+   "place": "Northern Cape"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2163819",
+   "name": "Lanseria International Airport",
+   "coord": "Point(27.926111 -25.938611)",
+   "enwiki": "https://en.wikipedia.org/wiki/Lanseria_International_Airport",
+   "icao": "FALA",
+   "iata": "HLA",
+   "elevation": "1376",
+   "elevationUnit": "metre",
+   "place": "Gauteng",
+   "website": "https://lanseria.co.za/",
+   "opened": "1974-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3270757",
+   "name": "Rand Airport",
+   "coord": "Point(28.151111111 -26.2425)",
+   "enwiki": "https://en.wikipedia.org/wiki/Rand_Airport",
+   "icao": "FAGM",
+   "iata": "QRA",
+   "elevation": "1670",
+   "elevationUnit": "metre",
+   "place": "Gauteng",
+   "website": "http://www.randairport.co.za/",
+   "opened": "1931-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1028335",
+   "name": "Hendrik Van Eck Airport",
+   "coord": "Point(31.155 -23.936666666)",
+   "enwiki": "https://en.wikipedia.org/wiki/Hendrik_Van_Eck_Airport",
+   "icao": "FAPH",
+   "iata": "PHW",
+   "elevation": "436",
+   "elevationUnit": "metre",
+   "place": "Limpopo"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2233103",
+   "name": "Polokwane International Airport",
+   "coord": "Point(29.458611111 -23.845277777)",
+   "enwiki": "https://en.wikipedia.org/wiki/Polokwane_International_Airport",
+   "icao": "FAPP",
+   "iata": "PTG",
+   "elevation": "1240",
+   "elevationUnit": "metre",
+   "place": "Limpopo"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694316",
+   "name": "P.R.Mphephu Airport",
+   "coord": "Point(30.383612 -23.076945)",
+   "icao": "FATH",
+   "iata": "THY",
+   "elevation": "611",
+   "elevationUnit": "metre",
+   "place": "Limpopo"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694428",
+   "name": "Pietersburg Airport",
+   "coord": "Point(29.48416667 -23.92611111)",
+   "enwiki": "https://en.wikipedia.org/wiki/Pietersburg_Civil_Aerodrome",
+   "icao": "FAPI",
+   "elevation": "1327",
+   "elevationUnit": "metre",
+   "place": "Limpopo"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6439004",
+   "name": "Kroonstad Airport",
+   "coord": "Point(27.316667 -27.666667)",
+   "enwiki": "https://en.wikipedia.org/wiki/Kroonstad_Airport",
+   "icao": "FAKS",
+   "elevation": "1433",
+   "elevationUnit": "metre",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693513",
+   "name": "Ladybrand Airport",
+   "coord": "Point(27.453083 -29.181362)",
+   "icao": "FALB",
+   "elevation": "1574",
+   "elevationUnit": "metre",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694164",
+   "name": "New Tempe Airport",
+   "coord": "Point(26.158005 -29.032713)",
+   "icao": "FATP",
+   "elevation": "1371",
+   "elevationUnit": "metre",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695556",
+   "name": "Wesselsbron Airport",
+   "coord": "Point(26.333333333 -27.833333333)",
+   "icao": "FAWS",
+   "elevation": "1303",
+   "elevationUnit": "metre",
+   "place": "Free State"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2233125",
+   "name": "Pilanesberg International Airport",
+   "coord": "Point(27.173333333 -25.333611111)",
+   "enwiki": "https://en.wikipedia.org/wiki/Pilanesberg_International_Airport",
+   "icao": "FAPN",
+   "iata": "NTY",
+   "elevation": "1045",
+   "elevationUnit": "metre",
+   "place": "North West",
+   "website": "http://www.acsa.co.za/home.asp?pid=494"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q6151254",
+   "name": "Rustenburg Airfield",
+   "coord": "Point(27.271119444 -25.6443)",
+   "enwiki": "https://en.wikipedia.org/wiki/Rustenburg_Airfield",
+   "icao": "FARG",
+   "elevation": "1120",
+   "elevationUnit": "metre",
+   "place": "North West"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12695513",
+   "name": "Vryburg Airport",
+   "coord": "Point(24.7283 -26.9808)",
+   "enwiki": "https://en.wikipedia.org/wiki/Vryburg_Airport",
+   "icao": "FAVB",
+   "iata": "VRU",
+   "elevation": "1211",
+   "elevationUnit": "metre",
+   "place": "North West",
+   "operator": "Naledi Local Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3643204",
+   "name": "Nelspruit Airport",
+   "coord": "Point(30.911817 -25.502225)",
+   "enwiki": "https://en.wikipedia.org/wiki/Nelspruit_Airport",
+   "icao": "FANS",
+   "iata": "NLP",
+   "elevation": "671",
+   "elevationUnit": "metre",
+   "place": "Mbombela"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q764703",
+   "name": "Pietermaritzburg Airport",
+   "coord": "Point(30.398333333 -29.646666666)",
+   "enwiki": "https://en.wikipedia.org/wiki/Pietermaritzburg_Airport",
+   "icao": "FAPM",
+   "iata": "PZB",
+   "elevation": "738",
+   "elevationUnit": "metre",
+   "place": "Pietermaritzburg",
+   "operator": "Msunduzi Local Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1027520",
+   "name": "Mafikeng Airport",
+   "coord": "Point(25.544444444 -25.8075)",
+   "enwiki": "https://en.wikipedia.org/wiki/Mahikeng_Airport",
+   "icao": "FAMM",
+   "iata": "MBD",
+   "elevation": "1281",
+   "elevationUnit": "metre",
+   "place": "Mmabatho"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q1031474",
+   "name": "Margate Airport",
+   "coord": "Point(30.343055555 -30.859444444)",
+   "enwiki": "https://en.wikipedia.org/wiki/Margate_Airport",
+   "icao": "FAMG",
+   "iata": "MGH",
+   "elevation": "150",
+   "elevationUnit": "metre",
+   "place": "Margate",
+   "website": "http://www.flymargate.com/"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q2785255",
+   "name": "Barberton Airport",
+   "coord": "Point(30.975 -25.7175)",
+   "enwiki": "https://en.wikipedia.org/wiki/Barberton_Airport",
+   "icao": "FABR",
+   "elevation": "680",
+   "elevationUnit": "metre",
+   "place": "Barberton"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3914596",
+   "name": "Grand Central Airport",
+   "coord": "Point(28.140547 -25.987067)",
+   "enwiki": "https://en.wikipedia.org/wiki/Grand_Central_Airport",
+   "icao": "FAGC",
+   "iata": "GCJ",
+   "elevation": "1624",
+   "elevationUnit": "metre",
+   "place": "Midrand",
+   "website": "http://grandcentral.co.za/",
+   "opened": "1937-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5043787",
+   "name": "Carnarvon Airport",
+   "coord": "Point(22.13055556 -30.9875)",
+   "enwiki": "https://en.wikipedia.org/wiki/Carnarvon_Airport_(South_Africa)",
+   "icao": "FACN",
+   "elevation": "1269",
+   "elevationUnit": "metre",
+   "place": "Carnarvon"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q392728",
+   "name": "King Shaka International Airport",
+   "coord": "Point(31.116388888 -29.614444444)",
+   "enwiki": "https://en.wikipedia.org/wiki/King_Shaka_International_Airport",
+   "icao": "FALE",
+   "iata": "DUR",
+   "elevation": "94",
+   "elevationUnit": "metre",
+   "place": "La Mercy",
+   "website": "https://kingshakainternationalairport.co.za",
+   "opened": "2010-01-01T00:00:00Z",
+   "operator": "Airports Company South Africa",
+   "inception": "2010-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q10853711",
+   "name": "Kleinzee Airport",
+   "coord": "Point(17.094007 -29.688403)",
+   "enwiki": "https://en.wikipedia.org/wiki/Kleinzee_Airport",
+   "icao": "FAKZ",
+   "iata": "KLZ",
+   "elevation": "82",
+   "elevationUnit": "metre",
+   "place": "Kleinzee"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12692981",
+   "name": "Heidelberg Airport",
+   "coord": "Point(28.39166667 -26.50833333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Heidelberg_Airport",
+   "icao": "FAHG",
+   "place": "Heidelberg"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12693773",
+   "name": "Malelane Airport",
+   "coord": "Point(31.565828 -25.473603)",
+   "icao": "FAMN",
+   "iata": "LLE",
+   "elevation": "1153",
+   "elevationUnit": "foot",
+   "place": "Nkomazi Local Municipality"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q3274747",
+   "name": "Hluhluwe Airport",
+   "coord": "Point(32.275 -28.00833333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Hluhluwe_Airport",
+   "icao": "FAHL",
+   "iata": "HLW",
+   "elevation": "76",
+   "elevationUnit": "metre",
+   "place": "Hluhluwe"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q5608515",
+   "name": "Greytown Airport",
+   "coord": "Point(30.586707 -29.122012)",
+   "enwiki": "https://en.wikipedia.org/wiki/Greytown_Airport",
+   "icao": "FAGY",
+   "elevation": "1076",
+   "elevationUnit": "metre",
+   "place": "Greytown"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q12694532",
+   "name": "Prince M. Buthelezi Airport",
+   "coord": "Point(31.4164 -28.3206)",
+   "enwiki": "https://en.wikipedia.org/wiki/Ulundi_Airport",
+   "icao": "FAUL",
+   "iata": "ULD",
+   "elevation": "524",
+   "elevationUnit": "metre",
+   "place": "Ulundi"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q620071",
+   "name": "Bethlehem Airport",
+   "coord": "Point(28.33611111 -28.24861111)",
+   "enwiki": "https://en.wikipedia.org/wiki/Bethlehem_Airport",
+   "icao": "FABM",
+   "elevation": "1687",
+   "elevationUnit": "metre",
+   "place": "Bethlehem"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q8214433",
+   "name": "Ladysmith Airport",
+   "coord": "Point(29.75141 -28.58158)",
+   "enwiki": "https://en.wikipedia.org/wiki/Ladysmith_Airport",
+   "icao": "FALY",
+   "iata": "LAY",
+   "elevation": "1081",
+   "elevationUnit": "metre",
+   "place": "Ladysmith"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q821750",
+   "name": "OR Tambo International Airport",
+   "coord": "Point(28.246111 -26.139167)",
+   "enwiki": "https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport",
+   "icao": "FAOR",
+   "iata": "JNB",
+   "elevation": "5558",
+   "elevationUnit": "foot",
+   "place": "Kempton Park",
+   "website": "https://ortambointernationalairport.co.za",
+   "opened": "1952-01-01T00:00:00Z",
+   "operator": "Airports Company South Africa",
+   "inception": "1952-01-01T00:00:00Z"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q7330281",
+   "name": "Richards Bay Airport",
+   "coord": "Point(32.091944444 -28.740833333)",
+   "enwiki": "https://en.wikipedia.org/wiki/Richards_Bay_Airport",
+   "icao": "FARB",
+   "iata": "RCB",
+   "elevation": "33",
+   "elevationUnit": "metre",
+   "place": "Richards Bay"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q109228852",
+   "name": "Andrew's Field Airport",
+   "coord": "Point(20.0373 -34.7627)",
+   "enwiki": "https://en.wikipedia.org/wiki/Andrew%27s_Field_Airport",
+   "operator": "South African Civil Aviation Authority"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q131127047",
+   "name": "Stamford Hill Aerodrome",
+   "coord": "Point(31.033333333 -29.827777777)",
+   "enwiki": "https://en.wikipedia.org/wiki/Stamford_Hill_Aerodrome"
+  },
+  {
+   "item": "http://www.wikidata.org/entity/Q139713474",
+   "name": "Bultfontein Airport",
+   "coord": "Point(26.1366 -28.2726)"
+  }
+ ]
+}
