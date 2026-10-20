@@ -1,0 +1,207 @@
+# From the table on https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa (20 Oct 2026).
+# name;river;province;year completed;capacity in megalitres (ML);wall height (m)
+Albasini Dam;Levubu River;Limpopo;1952;28200;34
+Albert Falls Dam;Umgeni River;KZN;1976;288100;33
+Alexandra Dam;Disa River;Western Cape;1903;126;12.1
+Allemanskraal Dam;Sand River;Free State;1960;174500;38
+Alphen Dam;Bonte River;Western Cape;1990;70;18.3
+Arieskraal Dam;Palmiet River;Western Cape;1987;17330;
+Armenia Dam;Leeu River;Free State;1954;13000;22
+Beervlei Dam;Groot River;Eastern Cape;1957;85800;31
+Bedford Dam;;Free State;2011;22000;41
+Berg River Dam;Berg River;Western Cape;2007;130010;68
+Binfield Park Dam;Tyhume River;Eastern Cape;1986;36830;60
+Bivane Dam;Bivane River;KZN;2000;115200;72
+Bloemhoek Dam;Jordaan Spruit;Free State;1976;26400;28
+Bloemhof Dam;Vaal River;;1970;1240200;33
+Blyderivierpoort Dam;Blyde River;Mpumalanga;1974;54400;71
+Boegoeberg Dam;Orange River;Northern Cape;1929;19800;12
+Bon Accord Dam;Apies River;Gauteng;1925;4400;18
+Bongolo Dam;Komani River;Eastern Cape;1908;7015;24
+Boskop Dam;Mooi River;North West;1959;20840;33
+Boschmanskop No 1 Dam;Woes-Alleen River;Mpumalanga;1995;14400;22
+Bospoort Dam;Hex River;North West;1933;15800;28
+Bramhoek Dam;Braamhoek Spruit;KZN;2011;22000;27.5
+Brandvlei Dam;Brandvlei River;Western Cape;1983;286040;14
+Bridle Drift Dam;Buffels River;Eastern Cape;1969;101600;55
+Bronkhorstspruit Dam;Bronkhorst Spruit;Gauteng;1950;57400;35
+Buffeljags Dam;Buffeljags River;Western Cape;1967;4540;24
+Buffelspoort Dam;Sterkstroom River;North West;1934;10251;34
+Ceres Koekedouw Dam;Koekedouw River;Western Cape;2001;17200;60
+Churchill Dam;Krom River;Eastern Cape;1943;35500;43
+Clanwilliam Dam;Olifants River;Western Cape;1935;121800;43
+Craigie Burn Dam;Mnyamvubu River;KZN;1963;22500;38
+Dap Naudé Dam;Broederstroom River;Limpopo;1958;1900;23
+Da Gama Dam;Witwaters River;Mpumalanga;1971;13578;38
+Damani Dam;Mbwedi River;Limpopo;1991;11000;28
+Darlington Dam;Sundays River;Eastern Cape;1922;188800;48
+De Bos Dam;Onus River;Western Cape;1994;5740;24
+De Hoop Dam;Kamdeboo River;Eastern Cape;1938;14500;21
+De Hoop Dam;Steelpoort River;Limpopo;2014;348700;81
+De Villiers Dam;Disa River;Western Cape;1910;243;
+Disaneng Dam;Molopo River;North West;1980;17400;17
+Doorndraai Dam;Sterk River;Limpopo;1952;43800;25
+Doring River Dam;Doring River;Eastern Cape;1971;19690;35
+Douglas Weir;Vaal River;Northern Cape;1977;16700;10
+Driekloof Dam;Klip River;Western Cape;1989;263;15
+Driekloof Dam;Nuwejaar Spruit;Free State;1979;32071;47
+Driekoppies Dam;Lomati River;Mpumalanga;1998;250900;50
+Driel Barrage;Tugela River;KZN;1973;8700;22
+Ebenezer Dam;Groot Letaba River;Limpopo;1959;69100;61
+Egmont Dam;Witte Spruit;Free State;1937;9300;25
+Eikenhof Dam;Palmiet River;Western Cape;1977;28900;46
+Elandskloof Dam;Elands River;Western Cape;1976;11017;69
+Elandskuil Dam;Swartleegte River;North West;1969;1181;11
+Emmarentia Dam;Braamfontein Spruit;Gauteng;1912;250;11
+Erfenis Dam;Groot-Vet River;Free State;1960;206100;46
+Fika-Patso Dam;Namahadi River;Free State;1987;28000;65
+Flag Boshielo Dam;Olifants River;Limpopo;1987;185100;36
+Floriskraal Dam;Buffels River;Western Cape;1957;50334;33
+Gamkapoort Dam;Gamka River;Western Cape;1969;37213;42
+Garden Route Dam;Swart River;Western Cape;1984;9980;
+Gariep Dam;Orange River;Free State;1971;5340600;88
+Glen Alpine Dam;Mogalakwena River;Limpopo;1968;18900;28
+Goedertrouw Dam;Mhlatuze River;KZN;1982;301300;88
+Grassridge Dam;Great Brak River;Eastern Cape;1924;46200;24
+Grey Dam;Bloukrans River;Eastern Cape;1859;68;
+Groendal Dam;Swartkops River;Eastern Cape;1934;12100;
+Grootdraai Dam;Vaal River;Mpumalanga;1981;349500;42
+Gubu Dam;Gubu River;Eastern Cape;1971;8666;26
+Hartbeespoort Dam;Crocodile River;North West;1925;186400;59
+Hazelmere Dam;Mdloti River;KZN;1977;37133;50
+Hellsgate Dam;Klip River;Eastern Cape;1910;120;26
+Hely-Hutchinson Dam;Disa River;Western Cape;1904;925;
+Heyshope Dam;Assegaai River;Mpumalanga;1983;451300;29
+Hluhluwe Dam;Hluhluwe River;KZN;1965;25900;33
+Holo Hlahatse Dam;Hlatimnyama and Mhlangeni Rivers;Eastern Cape;;10000;30
+Howieson's Poort Dam;Kariega River;Eastern Cape;1931;227;
+Impofu Dam;Krom River;Eastern Cape;1982;105800;75
+Inanda Dam;Umgeni River;KZN;1989;241700;65
+Injaka Dam;Marite River;Mpumalanga;2002;123700;53
+Jericho Dam;Mpama River;Mpumalanga;1966;59500;22
+J.L. de Bruin Dam;Klein Buffel River;Eastern Cape;1982;1696;15
+Kalkfontein Dam;Riet River;Free State;1938;325100;36
+Kammanassie Dam;Kammanassie River;Western Cape;1923;35870;35
+Katrivier Dam;Kat River;Eastern Cape;1969;24690;55
+Keerom Dam;Nuy River;Western Cape;1954;10400;40
+Kettingspruit Dam;Ketting Spruit;Mpumalanga;2006;70000;8.5
+Kilburn Dam;Mnjaneni River;KZN;1981;35577;51
+Klerkskraal Dam;Mooi River;North West;1965;7900;15
+Klipberg Dam;Konings River;Western Cape;1964;1980;29
+Klipdrif Dam;Loop Spruit;North West;1918;13300;12
+Klipfontein Dam;White Mfolozi River;KZN;1983;18080;28
+Klipkoppie Dam;White River;Mpumalanga;1960;12256;20
+Klipvoor Dam;Pienaars River;North West;1970;47000;30
+Knellpoort Dam;Riet Spruit;Free State;1988;130000;50
+Kogelberg Dam;Palmiet River;Western Cape;1986;17330;54
+Kommandodrif Dam;Tarka River;Eastern Cape;1956;58114;39
+Koppies Dam;Renoster River;Free State;1911;42300;25
+Korintepoort Dam;Korinte River;Western Cape;1966;8090;16
+Kouga Dam;Kouga River;Eastern Cape;1969;125900;81
+Krugersdrift;Modder River;Free State;1970;66000;26
+Kruismansrivier Dam;Kruismans River;Western Cape;1997;1500;18
+Kwaggaskloof Dam;Wabooms River;Western Cape;1975;169410;18
+Kwene Dam;Crocodile River;Mpumalanga;1987;158900;52
+Lady Grey Dam;Wilgespruit;Eastern Cape;1925;153;23
+Laing Dam;Buffalo River;Eastern Cape;1951;19860;45
+Lake Arthur Dam;Tarka River;Eastern Cape;1924;10700;38
+Lake Mzingazi Dam;Mzingazi River;KZN;1942;37000;8
+Lakenvallei Dam;Sanddrifskloof River;Western Cape;1974;10300;56
+Leeu-Gamka Dam;Leeuw River;Western Cape;1958;13600;15
+Lindleyspoort Dam;Elands River;North West;1943;14381;39
+Loskop Dam;Olifants River;Mpumalanga;1939;361500;54
+Lubisi Dam;Indwe River;Eastern Cape;1968;158000;52
+Luphephe Dam;Luphephe River;Limpopo;1963;14000;42
+Madikwe Dam;Thulane River;North West;1976;14000;17
+Makuleke Dam;Mphongolo River;Limpopo;1990;13000;22
+Marico-Bosveld Dam;Groot Marico River;North West;1933;27813;34
+Metz Dam;Mortladime River;Limpopo;;385;18
+Middelburg Dam;Klein Olifants River;Mpumalanga;1978;48435;36
+Middle Letaba Dam;Middle Letaba River;Limpopo;1984;171900;34
+Midmar Dam;Umgeni River;KZN;1965;235400;32
+Misverstand Dam;Berg River;Western Cape;1977;6400;26
+Modderpoort Dam;Rietfontein River;Northern Cape;1953;10000;15
+Mokolo Dam;Mokolo River;Limpopo;1980;145400;57
+Molatedi Dam;Marico River;North West;1986;200800;23
+Molteno Dam;Table Mountain rivers;Western Cape;1881;3000;15
+Morgenstond Dam;Ngwempisi River;Mpumalanga;1978;100773;43
+Moutloatsi Setlogelo Dam;Kgabanyane River;Free State;1981;12000;29
+Mthatha Dam;Mthatha River;Eastern Cape;1977;253674;18
+Mutshedzi Dam;Mutshedzi River;Limpopo;1990;2300;25
+Nagle Dam;Umgeni River;KZN;1950;23200;46
+Nahoon Dam;Nahoon River;Eastern Cape;1966;19934;44
+Nandoni Dam;Levuvhu River;Limpopo;2004;166100;47
+Ncora Dam;Tsomo River;Eastern Cape;1975;150100;44
+Ngodwana Dam;Ngodwana River;Mpumalanga;1984;10400;47
+Ngotwane Dam;Ngotwane River;North West;1982;18800;19
+Nooitgedacht Dam;Komati River;Mpumalanga;1962;78400;42
+Nsami Dam;Nsama River;Limpopo;1976;21900;24
+Nqweba Dam;Sundays River;Eastern Cape;1925;46369;
+Nwanedi Dam;Nwanedi River;Limpopo;1964;5100;36
+Ntshingwayo Dam;Ngagane River;KZN;1961;194600;
+Nzhelele Dam;Nzhelele River;Limpopo;1948;51200;47
+Ohrigstad Dam;Ohrigstad River;Mpumalanga;1955;13400;52
+Olifantsnek Dam;Hex River;North West;1928;14200;31
+Osplaas Dam;;Western Cape;2007;2700;34
+Oudebaaskraal Dam;Tankwa River;Western Cape;1969;34000;21
+Oxkraal Dam;Oxkraal River;Eastern Cape;1989;14900;30
+Pietersfontein Dam;Pietersfontein River;Western Cape;1968;1984;18
+Pongolapoort Dam;Pongola River;KZN;1973;2267100;89
+Poortjieskloof Dam;Groot River;Western Cape;1955;9700;38
+Potchefstroom Dam;Mooi River;North West;1950;2027;8
+Qedusizi Dam;Klip River;KZN;1998;194000;
+Rhenosterkop Dam;Elands River;Mpumalanga;1984;204600;
+Rietvlei Dam;Rietvlei River;Gauteng;1933;12300;21
+Rockview Dam;Palmiet River;Western Cape;1986;16630;48
+Roode Els Berg Dam;Sanddrifskloof River;Western Cape;1969;8210;72
+Roodekoppies Dam;Crocodile River;North West;1984;103000;25
+Roodeplaat Dam;Pienaars River;Gauteng;1959;41200;59
+Rust de Winter Dam;Elands River;Limpopo;1934;28200;31
+Rustfontein Dam;Modder River;Free State;1955;72200;36
+Sandile Dam;Keiskamma River;Eastern Cape;1983;30960;61
+Settlers Dam;Kariega River;Eastern Cape;1962;5300;21
+Setumo Dam;Molopo River;North West;1995;19600;17
+Shongweni Dam;Sterkspruit and Wekeweke Rivers;KZN;1927;2200;39
+Silvermine Dam;;Western Cape;1898;82;9
+Slangdraai Dam;Sundays River;KZN;1986;10300;
+Smartt Dam;Ongers River;Northern Cape;1912;100300;
+Sol Plaatje Dam;Liebenbergsvlei River;Free State;1968;15676;24
+Spioenkop Dam;Tugela River;KZN;1973;270600;53
+Spitskop Dam;Harts River;Northern Cape;1974;57800;18
+Spring Grove Dam;Mooi River;KZN;2013;139300;32
+Steenbras Dam (lower);Steenbras River;Western Cape;1921;33517;37
+Steenbras Upper Dam;Steenbras River;Western Cape;1977;31767;37
+Sterkfontein Dam;Nuwejaar Spruit;Free State;1980;2616900;93
+Stettynskloof Dam;Holsloot River;Western Cape;1955;14700;48
+Stompdrift Dam;Olifants River;Western Cape;1965;46270;49
+Taung Dam;Harts River;North West;1993;58900;44
+Theewaterskloof Dam;Riviersonderend River;Western Cape;1978;480188;38
+Tierpoort Dam;Tierpoort River;Free State;1990;34000;20
+Trichardtsfontein Dam;Trichardt Spruit;Mpumalanga;1981;15200;26
+Tsojana Dam;Tsojana River;Eastern Cape;1978;12340;23
+Tweedraai Dam;Trichardt Spruit;Mpumalanga;1991;16000;21
+Tzaneen Dam;Groot Letaba River;Limpopo;1977;157291;50
+Vaal Barrage;Vaal River;Gauteng;1923;56712;10
+Vaal Dam;Vaal River;;1939;2603400;63
+Vaalharts Storage Weir;Vaal River;North West;1936;48700;12
+Vaalkop Dam;Elands River;North West;2010;53500;33
+Vanderkloof Dam;Orange River;;1977;3171300;108
+Vanwyksvlei Dam;Vanwyksvlei;Northern Cape;1884;143081;15
+Victoria Dam;Disa River;Western Cape;1895;128;6
+Voëlvlei Dam;;Western Cape;1971;164095;10
+Vondo Dam;Mutshundudi River;Limpopo;1982;30540;47
+Vygeboom Dam;Komati River;Mpumalanga;1971;83000;45
+Wagendrift Dam;Bushmans River;KZN;1963;55900;41
+Waterdown Dam;Klipplaat River;Eastern Cape;1958;38400;44
+Welbedacht Dam;Caledon River;Free State;1973;10200;32
+Wemmershoek Dam;Wemmers River;Western Cape;1957;58644;53
+Westoe Dam;Usutu River;Mpumalanga;1968;61900;26
+Witbank Dam;Olifants River;Mpumalanga;1971;104000;44
+Witklip Dam;Sand River;Mpumalanga;1969;12970;21
+Wolwedans Dam;Great Brak River;Western Cape;1990;25530;70
+Woodhead Dam;Disa River;Western Cape;1897;954;38
+Woodstock Dam;Tugela River;KZN;1983;373300;49
+Wriggleswade Dam;Kubusi River;Eastern Cape;1991;93200;35
+Xilinxa Dam;Xilinxa River;Eastern Cape;1972;13900;25
+Xonxa Dam;White Kei River;Eastern Cape;1974;115900;49
+Zaaihoek Dam;Slang River;Mpumalanga;1988;184600;46
