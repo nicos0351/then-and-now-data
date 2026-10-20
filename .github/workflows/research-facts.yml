@@ -1,10 +1,10 @@
 name: "Research: facts for airports, dams and passes (Wikidata)"
 
-# Manual only: downloads South Africa's airports, dams and mountain passes
-# from OpenStreetMap, so they can be added to the town data. It makes three
-# queries to the public Overpass API, so please don't put it on a schedule.
-# The results are saved to the separate "research-facts" branch (never to
-# main, so nothing is published).
+# Manual only: downloads facts about South Africa's airports, dams and
+# mountain passes from Wikidata (heights, capacities, rivers, codes...) for
+# the Plus "Facts" section. Three queries to the Wikidata Query Service, so
+# please don't put it on a schedule. The results are saved to the separate
+# "research-facts" branch (never to main, so nothing is published).
 
 on:
   workflow_dispatch:
