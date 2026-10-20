@@ -1,0 +1,40 @@
+name: "Research: weekly dam levels (DWS)"
+
+# Manual only: saves the Department of Water and Sanitation's weekly
+# "State of Dams" pages (one per province) and the national PDF, to see
+# their format and how current they are. Ten small requests; please don't
+# schedule this. Results go to the separate "research-dam-levels" branch.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Download the weekly pages
+        run: |
+          mkdir -p out
+          for p in EC FS GP KZN LP MP NC NW WC; do
+            curl -sSL --max-time 60 -A "then-and-now-data research (github.com/nicos0351/then-and-now-data)" \
+              -o "out/province_$p.html" -w "$p %{http_code} %{size_download}\n" \
+              "https://www.dws.gov.za/Hydrology/Weekly/ProvinceWeek.aspx?region=$p" || echo "$p failed"
+            sleep 3
+          done
+          curl -sSL --max-time 120 -o out/Weekly.pdf -w "pdf %{http_code} %{size_download}\n" \
+            "https://www.dws.gov.za/Hydrology/Weekly/Weekly.pdf" || echo "pdf failed"
+          ls -la out
+      - name: Save to the research-dam-levels branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git init -q research && cd research
+          git checkout -q --orphan research-dam-levels
+          mkdir -p research && cp ../out/* research/
+          printf 'Research only (not published). Data: Department of Water and Sanitation.\n' > research/README.md
+          git add research && git commit -qm "Weekly dam levels from DWS ($(date -u +%F))"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" research-dam-levels
