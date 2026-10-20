@@ -1,0 +1,37 @@
+name: "Research: roads at passes (OpenStreetMap)"
+
+# Manual only: downloads the roads and paths that run through each mountain
+# pass in data.json from OpenStreetMap, so passes can say whether they're
+# tarred, gravel or a footpath. A few queries to the public Overpass API,
+# so please don't put it on a schedule. Results go to the separate
+# "research-pass-roads" branch (never to main, so nothing is published).
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Query OpenStreetMap
+        run: python tools/places/fetch_pass_roads_near.py
+      - name: Save results to the research-pass-roads branch
+        run: |
+          mkdir -p /tmp/research && cp out/* /tmp/research/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan research-pass-roads
+          git rm -rq --cached . && git clean -fdq -e out
+          mkdir -p research && cp /tmp/research/* research/
+          printf 'Research data only (not published). Data (c) OpenStreetMap contributors, ODbL.\n' > research/README.md
+          git add research
+          git commit -qm "Roads at passes from OpenStreetMap ($(date -u +%F))"
+          git push -f origin research-pass-roads
