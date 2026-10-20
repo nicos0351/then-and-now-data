@@ -1,6 +1,6 @@
 {
  "format": 1,
- "dataVersion": 8,
+ "dataVersion": 9,
  "updated": "2026-10-20",
  "changes": [
   {
@@ -32,6 +32,11 @@
    "version": 8,
    "date": "2026-10-20",
    "summary": "Facts for 291 airports, 171 dams and 169 mountain passes (e.g. airport codes, a dam's river and capacity, a pass's height), shown with Then & Now Plus."
+  },
+  {
+   "version": 9,
+   "date": "2026-10-20",
+   "summary": "48 more major dams on the map (e.g. Voëlvlei, Erfenis, Heyshope), so the dams in the Department of Water and Sanitation's weekly report are there; app 1.0.1 shows their weekly level with Then & Now Plus. A duplicate Brandvlei Dam pin was removed."
   }
  ],
  "towns": [
@@ -20524,21 +20529,6 @@
    "source": "https://www.openstreetmap.org/relation/2313521"
   },
   {
-   "key": "asset:brandvlei dam:-33.741:19.425",
-   "kind": "dam",
-   "name": "Brandvlei Dam",
-   "oldName": "Brandvlei Dam",
-   "hasKnownRename": false,
-   "renamedYear": null,
-   "reverted": false,
-   "notes": null,
-   "province": "Western Cape",
-   "latitude": -33.74073,
-   "longitude": 19.42498,
-   "population": 0,
-   "source": "https://www.openstreetmap.org/relation/2527932"
-  },
-  {
    "key": "asset:bulshoek dam:-32.028:18.802",
    "kind": "dam",
    "name": "Bulshoek Dam",
@@ -27317,6 +27307,726 @@
    "longitude": 28.12124,
    "population": 0,
    "source": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_Gauteng"
+  },
+  {
+   "key": "asset:belfort dam:-30.162:28.721",
+   "kind": "dam",
+   "name": "Belfort Dam",
+   "oldName": "Belfort Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -30.16189,
+   "longitude": 28.72089,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/1128937023"
+  },
+  {
+   "key": "asset:corana dam:-31.436:28.874",
+   "kind": "dam",
+   "name": "Corana Dam",
+   "oldName": "Corana Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -31.43586,
+   "longitude": 28.87448,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/221261257"
+  },
+  {
+   "key": "asset:de mistkraal dam:-32.967:25.672",
+   "kind": "dam",
+   "name": "De Mistkraal Dam",
+   "oldName": "De Mistkraal Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -32.96698,
+   "longitude": 25.67246,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/1503403140"
+  },
+  {
+   "key": "asset:elands drift dam:-32.527:25.760",
+   "kind": "dam",
+   "name": "Elands Drift Dam",
+   "oldName": "Elands Drift Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -32.52664,
+   "longitude": 25.75985,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/153278322"
+  },
+  {
+   "key": "asset:gubu dam:-32.605:27.274",
+   "kind": "dam",
+   "name": "Gubu Dam",
+   "oldName": "Gubu Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -32.60528,
+   "longitude": 27.27444,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q31918766"
+  },
+  {
+   "key": "asset:katrivier dam:-32.571:26.775",
+   "kind": "dam",
+   "name": "Katrivier Dam",
+   "oldName": "Katrivier Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -32.57111,
+   "longitude": 26.775,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q31930438"
+  },
+  {
+   "key": "asset:macubeni dam:-31.580:27.178",
+   "kind": "dam",
+   "name": "Macubeni Dam",
+   "oldName": "Macubeni Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -31.57972,
+   "longitude": 27.17818,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/1533494743"
+  },
+  {
+   "key": "asset:mnyameni dam:-32.599:27.065",
+   "kind": "dam",
+   "name": "Mnyameni Dam",
+   "oldName": "Mnyameni Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -32.59907,
+   "longitude": 27.06503,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/644615213"
+  },
+  {
+   "key": "asset:nqadu dam:-31.409:28.760",
+   "kind": "dam",
+   "name": "Nqadu Dam",
+   "oldName": "Nqadu Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -31.40917,
+   "longitude": 28.76008,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/155555219"
+  },
+  {
+   "key": "asset:ntenetyana dam:-30.781:28.941",
+   "kind": "dam",
+   "name": "Ntenetyana Dam",
+   "oldName": "Ntenetyana Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -30.78099,
+   "longitude": 28.94094,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/195258209"
+  },
+  {
+   "key": "asset:sandile dam:-32.717:27.101",
+   "kind": "dam",
+   "name": "Sandile Dam",
+   "oldName": "Sandile Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -32.71667,
+   "longitude": 27.10111,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q7416360"
+  },
+  {
+   "key": "asset:xonxa dam:-31.838:27.181",
+   "kind": "dam",
+   "name": "Xonxa Dam",
+   "oldName": "Xonxa Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Eastern Cape",
+   "latitude": -31.8385,
+   "longitude": 27.18091,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q8044922"
+  },
+  {
+   "key": "asset:erfenis dam:-28.511:26.777",
+   "kind": "dam",
+   "name": "Erfenis Dam",
+   "oldName": "Erfenis Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Free State",
+   "latitude": -28.51083,
+   "longitude": 26.77722,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q5385757"
+  },
+  {
+   "key": "asset:bon accord dam:-25.622:28.190",
+   "kind": "dam",
+   "name": "Bon Accord Dam",
+   "oldName": "Bon Accord Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Gauteng",
+   "latitude": -25.62218,
+   "longitude": 28.18971,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q4940932"
+  },
+  {
+   "key": "asset:bivane dam:-27.519:31.054",
+   "kind": "dam",
+   "name": "Bivane Dam",
+   "oldName": "Bivane Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "KwaZulu-Natal",
+   "latitude": -27.51944,
+   "longitude": 31.05417,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q4919219"
+  },
+  {
+   "key": "asset:goedertrouw dam:-28.773:31.470",
+   "kind": "dam",
+   "name": "Goedertrouw Dam",
+   "oldName": "Goedertrouw Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "KwaZulu-Natal",
+   "latitude": -28.77293,
+   "longitude": 31.47016,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q5577121"
+  },
+  {
+   "key": "asset:hluhluwe dam:-28.119:32.169",
+   "kind": "dam",
+   "name": "Hluhluwe Dam",
+   "oldName": "Hluhluwe Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "KwaZulu-Natal",
+   "latitude": -28.11889,
+   "longitude": 32.16889,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q31919953"
+  },
+  {
+   "key": "asset:wagendrift dam:-29.048:29.835",
+   "kind": "dam",
+   "name": "Wagendrift Dam",
+   "oldName": "Wagendrift Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "KwaZulu-Natal",
+   "latitude": -29.0483,
+   "longitude": 29.8353,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q7959507"
+  },
+  {
+   "key": "asset:doorndraai dam:-24.280:28.777",
+   "kind": "dam",
+   "name": "Doorndraai Dam",
+   "oldName": "Doorndraai Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Limpopo",
+   "latitude": -24.27986,
+   "longitude": 28.77658,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q5297239"
+  },
+  {
+   "key": "asset:magoebaskloof dam:-23.820:30.051",
+   "kind": "dam",
+   "name": "Magoebaskloof Dam",
+   "oldName": "Magoebaskloof Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Limpopo",
+   "latitude": -23.81972,
+   "longitude": 30.05056,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q31947057"
+  },
+  {
+   "key": "asset:mutshedzi dam:-22.949:30.161",
+   "kind": "dam",
+   "name": "Mutshedzi Dam",
+   "oldName": "Mutshedzi Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Limpopo",
+   "latitude": -22.94861,
+   "longitude": 30.16111,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q6944020"
+  },
+  {
+   "key": "asset:vergelegen dam:-24.802:29.843",
+   "kind": "dam",
+   "name": "Vergelegen Dam",
+   "oldName": "Vergelegen Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Limpopo",
+   "latitude": -24.80161,
+   "longitude": 29.84293,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/431983493"
+  },
+  {
+   "key": "asset:buffelskloof dam:-24.958:30.256",
+   "kind": "dam",
+   "name": "Buffelskloof Dam",
+   "oldName": "Buffelskloof Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Mpumalanga",
+   "latitude": -24.95802,
+   "longitude": 30.25564,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/1349179634"
+  },
+  {
+   "key": "asset:da gama dam:-25.142:31.021",
+   "kind": "dam",
+   "name": "Da Gama Dam",
+   "oldName": "Da Gama Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Mpumalanga",
+   "latitude": -25.14213,
+   "longitude": 31.02071,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q5207236"
+  },
+  {
+   "key": "asset:heyshope dam:-26.994:30.524",
+   "kind": "dam",
+   "name": "Heyshope Dam",
+   "oldName": "Heyshope Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Mpumalanga",
+   "latitude": -26.99414,
+   "longitude": 30.52374,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q5749800"
+  },
+  {
+   "key": "asset:longmere dam:-25.265:31.006",
+   "kind": "dam",
+   "name": "Longmere Dam",
+   "oldName": "Longmere Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Mpumalanga",
+   "latitude": -25.26528,
+   "longitude": 31.00611,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q31943518"
+  },
+  {
+   "key": "asset:middelburg dam:-25.767:29.550",
+   "kind": "dam",
+   "name": "Middelburg Dam",
+   "oldName": "Middelburg Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Mpumalanga",
+   "latitude": -25.76694,
+   "longitude": 29.55,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q6841155"
+  },
+  {
+   "key": "asset:witbank dam:-25.891:29.305",
+   "kind": "dam",
+   "name": "Witbank Dam",
+   "oldName": "Witbank Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Mpumalanga",
+   "latitude": -25.8909,
+   "longitude": 29.3054,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q1009318"
+  },
+  {
+   "key": "asset:douglas weir dam:-29.044:23.836",
+   "kind": "dam",
+   "name": "Douglas Weir Dam",
+   "oldName": "Douglas Weir Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Northern Cape",
+   "latitude": -29.04361,
+   "longitude": 23.83639,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q5302092"
+  },
+  {
+   "key": "asset:karee dam:-31.427:19.787",
+   "kind": "dam",
+   "name": "Karee Dam",
+   "oldName": "Karee Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Northern Cape",
+   "latitude": -31.42677,
+   "longitude": 19.78738,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/129910902"
+  },
+  {
+   "key": "asset:klerkskraal dam:-26.233:27.149",
+   "kind": "dam",
+   "name": "Klerkskraal Dam",
+   "oldName": "Klerkskraal Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -26.23306,
+   "longitude": 27.14861,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q6420640"
+  },
+  {
+   "key": "asset:lindleyspoort dam:-25.517:26.691",
+   "kind": "dam",
+   "name": "Lindleyspoort Dam",
+   "oldName": "Lindleyspoort Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -25.5175,
+   "longitude": 26.69111,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q31942972"
+  },
+  {
+   "key": "asset:madikwe dam:-25.393:26.598",
+   "kind": "dam",
+   "name": "Madikwe Dam",
+   "oldName": "Madikwe Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -25.39333,
+   "longitude": 26.5975,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q15243481"
+  },
+  {
+   "key": "asset:middelkraal dam:-25.695:27.546",
+   "kind": "dam",
+   "name": "Middelkraal Dam",
+   "oldName": "Middelkraal Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -25.69531,
+   "longitude": 27.54566,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/176590206"
+  },
+  {
+   "key": "asset:potchefstroom dam:-26.670:27.097",
+   "kind": "dam",
+   "name": "Potchefstroom Dam",
+   "oldName": "Potchefstroom Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -26.67,
+   "longitude": 27.09722,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q1009342"
+  },
+  {
+   "key": "asset:roodekopjes dam:-25.404:27.591",
+   "kind": "dam",
+   "name": "Roodekopjes Dam",
+   "oldName": "Roodekopjes Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -25.40417,
+   "longitude": 27.59139,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q7366120"
+  },
+  {
+   "key": "asset:swartruggens dam:-25.662:26.694",
+   "kind": "dam",
+   "name": "Swartruggens Dam",
+   "oldName": "Swartruggens Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -25.66189,
+   "longitude": 26.69442,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/1245539711"
+  },
+  {
+   "key": "asset:taung dam:-27.525:24.865",
+   "kind": "dam",
+   "name": "Taung Dam",
+   "oldName": "Taung Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "North West",
+   "latitude": -27.525,
+   "longitude": 24.865,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q17092243"
+  },
+  {
+   "key": "asset:ernest robertson dam:-33.900:22.172",
+   "kind": "dam",
+   "name": "Ernest Robertson Dam",
+   "oldName": "Ernest Robertson Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.90022,
+   "longitude": 22.17235,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/226830609"
+  },
+  {
+   "key": "asset:floriskraal dam:-33.292:20.991",
+   "kind": "dam",
+   "name": "Floriskraal Dam",
+   "oldName": "Floriskraal Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.29165,
+   "longitude": 20.99072,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q5461903"
+  },
+  {
+   "key": "asset:gamka dam:-32.239:22.586",
+   "kind": "dam",
+   "name": "Gamka Dam",
+   "oldName": "Gamka Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -32.23895,
+   "longitude": 22.58644,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/205345661"
+  },
+  {
+   "key": "asset:kammanassie dam:-33.667:22.417",
+   "kind": "dam",
+   "name": "Kammanassie Dam",
+   "oldName": "Kammanassie Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.66694,
+   "longitude": 22.41694,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q6358814"
+  },
+  {
+   "key": "asset:kwaggaskloof dam:-33.767:19.473",
+   "kind": "dam",
+   "name": "Kwaggaskloof Dam",
+   "oldName": "Kwaggaskloof Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.7667,
+   "longitude": 19.47258,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q15240958"
+  },
+  {
+   "key": "asset:oukloof dam:-33.248:22.098",
+   "kind": "dam",
+   "name": "Oukloof Dam",
+   "oldName": "Oukloof Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.24755,
+   "longitude": 22.09819,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/762618068"
+  },
+  {
+   "key": "asset:prinsrivier dam:-33.514:20.752",
+   "kind": "dam",
+   "name": "Prinsrivier Dam",
+   "oldName": "Prinsrivier Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.51361,
+   "longitude": 20.75222,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q31999776"
+  },
+  {
+   "key": "asset:steenbras-upper dam:-34.168:18.901",
+   "kind": "dam",
+   "name": "Steenbras-Upper Dam",
+   "oldName": "Steenbras-Upper Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -34.16806,
+   "longitude": 18.90139,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q7605879"
+  },
+  {
+   "key": "asset:tierkloof dam:-33.859:20.849",
+   "kind": "dam",
+   "name": "Tierkloof Dam",
+   "oldName": "Tierkloof Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.85882,
+   "longitude": 20.84901,
+   "population": 0,
+   "source": "https://www.openstreetmap.org/way/778523712"
+  },
+  {
+   "key": "asset:voëlvlei dam:-33.339:19.030",
+   "kind": "dam",
+   "name": "Voëlvlei Dam",
+   "oldName": "Voëlvlei Dam",
+   "hasKnownRename": false,
+   "renamedYear": null,
+   "reverted": false,
+   "notes": null,
+   "province": "Western Cape",
+   "latitude": -33.33874,
+   "longitude": 19.0301,
+   "population": 0,
+   "source": "https://www.wikidata.org/entity/Q2402457"
   }
  ],
  "stories": [
@@ -36431,33 +37141,6 @@
    ]
   },
   {
-   "key": "asset:brandvlei dam:-33.741:19.425",
-   "facts": [
-    [
-     "River",
-     "Brandvlei River"
-    ],
-    [
-     "Completed",
-     "1983"
-    ],
-    [
-     "Capacity",
-     "286 million m³"
-    ],
-    [
-     "Wall height",
-     "14 m"
-    ]
-   ],
-   "sources": [
-    "https://en.wikipedia.org/wiki/Brandvlei_Dam",
-    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
-    "https://www.wikidata.org/entity/Q4957207",
-    "https://www.openstreetmap.org/relation/2527932"
-   ]
-  },
-  {
    "key": "asset:klipberg dam:-33.941:19.786",
    "facts": [
     [
@@ -39255,6 +39938,1660 @@
    "sources": [
     "https://www.wikidata.org/entity/Q31972471"
    ]
+  },
+  {
+   "key": "asset:gubu dam:-32.605:27.274",
+   "facts": [
+    [
+     "River",
+     "Gubu River"
+    ],
+    [
+     "Completed",
+     "1971"
+    ],
+    [
+     "Capacity",
+     "8.7 million m³"
+    ],
+    [
+     "Wall height",
+     "26 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q31918766"
+   ]
+  },
+  {
+   "key": "asset:katrivier dam:-32.571:26.775",
+   "facts": [
+    [
+     "River",
+     "Kat River"
+    ],
+    [
+     "Completed",
+     "1969"
+    ],
+    [
+     "Capacity",
+     "25 million m³"
+    ],
+    [
+     "Wall height",
+     "55 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q31930438"
+   ]
+  },
+  {
+   "key": "asset:sandile dam:-32.717:27.101",
+   "facts": [
+    [
+     "River",
+     "Keiskamma River"
+    ],
+    [
+     "Completed",
+     "1983"
+    ],
+    [
+     "Capacity",
+     "31 million m³"
+    ],
+    [
+     "Wall height",
+     "61 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sandile_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q7416360"
+   ]
+  },
+  {
+   "key": "asset:xonxa dam:-31.838:27.181",
+   "facts": [
+    [
+     "River",
+     "White Kei River"
+    ],
+    [
+     "Completed",
+     "1974"
+    ],
+    [
+     "Capacity",
+     "116 million m³"
+    ],
+    [
+     "Wall height",
+     "49 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Xonxa_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q8044922"
+   ]
+  },
+  {
+   "key": "asset:erfenis dam:-28.511:26.777",
+   "facts": [
+    [
+     "River",
+     "Groot-Vet River"
+    ],
+    [
+     "Completed",
+     "1960"
+    ],
+    [
+     "Capacity",
+     "206 million m³"
+    ],
+    [
+     "Wall height",
+     "46 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Erfenis_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q5385757"
+   ]
+  },
+  {
+   "key": "asset:bon accord dam:-25.622:28.190",
+   "facts": [
+    [
+     "River",
+     "Apies River"
+    ],
+    [
+     "Completed",
+     "1925"
+    ],
+    [
+     "Capacity",
+     "4.4 million m³"
+    ],
+    [
+     "Wall height",
+     "18 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bon_Accord_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q4940932"
+   ]
+  },
+  {
+   "key": "asset:bivane dam:-27.519:31.054",
+   "facts": [
+    [
+     "River",
+     "Bivane River"
+    ],
+    [
+     "Completed",
+     "2000"
+    ],
+    [
+     "Capacity",
+     "115 million m³"
+    ],
+    [
+     "Wall height",
+     "72 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bivane_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q4919219"
+   ]
+  },
+  {
+   "key": "asset:goedertrouw dam:-28.773:31.470",
+   "facts": [
+    [
+     "River",
+     "Mhlatuze River"
+    ],
+    [
+     "Completed",
+     "1982"
+    ],
+    [
+     "Capacity",
+     "301 million m³"
+    ],
+    [
+     "Wall height",
+     "88 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Goedertrouw_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q5577121"
+   ]
+  },
+  {
+   "key": "asset:hluhluwe dam:-28.119:32.169",
+   "facts": [
+    [
+     "River",
+     "Hluhluwe River"
+    ],
+    [
+     "Completed",
+     "1965"
+    ],
+    [
+     "Capacity",
+     "26 million m³"
+    ],
+    [
+     "Wall height",
+     "33 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q31919953"
+   ]
+  },
+  {
+   "key": "asset:wagendrift dam:-29.048:29.835",
+   "facts": [
+    [
+     "River",
+     "Bushmans River"
+    ],
+    [
+     "Completed",
+     "1963"
+    ],
+    [
+     "Capacity",
+     "56 million m³"
+    ],
+    [
+     "Wall height",
+     "41 m"
+    ],
+    [
+     "Wall type",
+     "Arch"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wagendrift_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q7959507"
+   ]
+  },
+  {
+   "key": "asset:doorndraai dam:-24.280:28.777",
+   "facts": [
+    [
+     "River",
+     "Sterk River"
+    ],
+    [
+     "Completed",
+     "1952"
+    ],
+    [
+     "Capacity",
+     "44 million m³"
+    ],
+    [
+     "Wall height",
+     "25 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Doorndraai_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q5297239"
+   ]
+  },
+  {
+   "key": "asset:mutshedzi dam:-22.949:30.161",
+   "facts": [
+    [
+     "River",
+     "Mutshedzi River"
+    ],
+    [
+     "Completed",
+     "1990"
+    ],
+    [
+     "Capacity",
+     "2.3 million m³"
+    ],
+    [
+     "Wall height",
+     "25 m"
+    ],
+    [
+     "Wall type",
+     "Concrete gravity"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mutshedzi_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q6944020"
+   ]
+  },
+  {
+   "key": "asset:da gama dam:-25.142:31.021",
+   "facts": [
+    [
+     "River",
+     "Witwaters River"
+    ],
+    [
+     "Completed",
+     "1971"
+    ],
+    [
+     "Capacity",
+     "14 million m³"
+    ],
+    [
+     "Wall height",
+     "38 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Da_Gama_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q5207236"
+   ]
+  },
+  {
+   "key": "asset:heyshope dam:-26.994:30.524",
+   "facts": [
+    [
+     "River",
+     "Assegaai River"
+    ],
+    [
+     "Completed",
+     "1983"
+    ],
+    [
+     "Capacity",
+     "451 million m³"
+    ],
+    [
+     "Wall height",
+     "29 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Heyshope_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q5749800"
+   ]
+  },
+  {
+   "key": "asset:middelburg dam:-25.767:29.550",
+   "facts": [
+    [
+     "River",
+     "Klein Olifants River"
+    ],
+    [
+     "Completed",
+     "1978"
+    ],
+    [
+     "Capacity",
+     "48 million m³"
+    ],
+    [
+     "Wall height",
+     "36 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Middelburg_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q6841155"
+   ]
+  },
+  {
+   "key": "asset:witbank dam:-25.891:29.305",
+   "facts": [
+    [
+     "River",
+     "Olifants River"
+    ],
+    [
+     "Completed",
+     "1971"
+    ],
+    [
+     "Capacity",
+     "104 million m³"
+    ],
+    [
+     "Wall height",
+     "44 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Witbank_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q1009318"
+   ]
+  },
+  {
+   "key": "asset:douglas weir dam:-29.044:23.836",
+   "facts": [
+    [
+     "River",
+     "Vaal River"
+    ],
+    [
+     "Completed",
+     "1977"
+    ],
+    [
+     "Capacity",
+     "17 million m³"
+    ],
+    [
+     "Wall height",
+     "10 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Douglas_Weir",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q5302092"
+   ]
+  },
+  {
+   "key": "asset:klerkskraal dam:-26.233:27.149",
+   "facts": [
+    [
+     "River",
+     "Mooi River"
+    ],
+    [
+     "Completed",
+     "1965"
+    ],
+    [
+     "Capacity",
+     "7.9 million m³"
+    ],
+    [
+     "Wall height",
+     "15 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Klerkskraal_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q6420640"
+   ]
+  },
+  {
+   "key": "asset:lindleyspoort dam:-25.517:26.691",
+   "facts": [
+    [
+     "River",
+     "Elands River"
+    ],
+    [
+     "Completed",
+     "1943"
+    ],
+    [
+     "Capacity",
+     "14 million m³"
+    ],
+    [
+     "Wall height",
+     "39 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q31942972"
+   ]
+  },
+  {
+   "key": "asset:madikwe dam:-25.393:26.598",
+   "facts": [
+    [
+     "River",
+     "Thulane River"
+    ],
+    [
+     "Completed",
+     "1976"
+    ],
+    [
+     "Capacity",
+     "14 million m³"
+    ],
+    [
+     "Wall height",
+     "17 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Madikwe_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q15243481"
+   ]
+  },
+  {
+   "key": "asset:potchefstroom dam:-26.670:27.097",
+   "facts": [
+    [
+     "River",
+     "Mooi River"
+    ],
+    [
+     "Completed",
+     "1950"
+    ],
+    [
+     "Capacity",
+     "2.0 million m³"
+    ],
+    [
+     "Wall height",
+     "8 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Potchefstroom_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q1009342"
+   ]
+  },
+  {
+   "key": "asset:roodekopjes dam:-25.404:27.591",
+   "facts": [
+    [
+     "Completed",
+     "1984"
+    ],
+    [
+     "Wall height",
+     "25 m"
+    ],
+    [
+     "Wall type",
+     "Concrete gravity"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Roodekoppies_Dam",
+    "https://www.wikidata.org/entity/Q7366120"
+   ]
+  },
+  {
+   "key": "asset:taung dam:-27.525:24.865",
+   "facts": [
+    [
+     "River",
+     "Harts River"
+    ],
+    [
+     "Completed",
+     "1993"
+    ],
+    [
+     "Capacity",
+     "59 million m³"
+    ],
+    [
+     "Wall height",
+     "44 m"
+    ],
+    [
+     "Wall type",
+     "Concrete gravity"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Taung_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q17092243"
+   ]
+  },
+  {
+   "key": "asset:floriskraal dam:-33.292:20.991",
+   "facts": [
+    [
+     "River",
+     "Buffels River"
+    ],
+    [
+     "Completed",
+     "1957"
+    ],
+    [
+     "Capacity",
+     "50 million m³"
+    ],
+    [
+     "Wall height",
+     "33 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Floriskraal_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q5461903"
+   ]
+  },
+  {
+   "key": "asset:kammanassie dam:-33.667:22.417",
+   "facts": [
+    [
+     "River",
+     "Kammanassie River"
+    ],
+    [
+     "Completed",
+     "1923"
+    ],
+    [
+     "Capacity",
+     "36 million m³"
+    ],
+    [
+     "Wall height",
+     "35 m"
+    ],
+    [
+     "Wall type",
+     "Concrete gravity"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kammanassie_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q6358814"
+   ]
+  },
+  {
+   "key": "asset:kwaggaskloof dam:-33.767:19.473",
+   "facts": [
+    [
+     "River",
+     "Wabooms River"
+    ],
+    [
+     "Completed",
+     "1975"
+    ],
+    [
+     "Capacity",
+     "169 million m³"
+    ],
+    [
+     "Wall height",
+     "18 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kwaggaskloof_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q15240958"
+   ]
+  },
+  {
+   "key": "asset:steenbras-upper dam:-34.168:18.901",
+   "facts": [
+    [
+     "Completed",
+     "1977"
+    ],
+    [
+     "Wall height",
+     "37 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Steenbras_Upper_Dam",
+    "https://www.wikidata.org/entity/Q7605879"
+   ]
+  },
+  {
+   "key": "asset:voëlvlei dam:-33.339:19.030",
+   "facts": [
+    [
+     "Completed",
+     "1971"
+    ],
+    [
+     "Capacity",
+     "164 million m³"
+    ],
+    [
+     "Wall height",
+     "10 m"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vo%C3%ABlvlei_Dam",
+    "https://en.wikipedia.org/wiki/List_of_dams_in_South_Africa",
+    "https://www.wikidata.org/entity/Q2402457"
+   ]
+  }
+ ],
+ "damStations": [
+  {
+   "key": "asset:albasini dam:-23.103:30.101",
+   "region": "LP",
+   "station": "A9R001"
+  },
+  {
+   "key": "asset:albert falls dam:-29.437:30.388",
+   "region": "KN",
+   "station": "U2R003"
+  },
+  {
+   "key": "asset:allemanskraal dam:-28.303:27.222",
+   "region": "FS",
+   "station": "C4R001"
+  },
+  {
+   "key": "asset:armenia dam:-29.364:27.129",
+   "region": "FS",
+   "station": "D2R002"
+  },
+  {
+   "key": "asset:belfort dam:-30.162:28.721",
+   "region": "EC",
+   "station": "T3R001"
+  },
+  {
+   "key": "asset:bellair dam:-33.716:20.593",
+   "region": "WC",
+   "station": "J1R002"
+  },
+  {
+   "key": "asset:berg river dam:-33.928:19.062",
+   "region": "WC",
+   "station": "G1R004"
+  },
+  {
+   "key": "asset:binfield park dam:-32.686:26.914",
+   "region": "EC",
+   "station": "R1R003"
+  },
+  {
+   "key": "asset:bivane dam:-27.519:31.054",
+   "region": "KN",
+   "station": "W4R002"
+  },
+  {
+   "key": "asset:bloemhof dam:-27.692:25.817",
+   "region": "FS",
+   "station": "C9R002"
+  },
+  {
+   "key": "asset:blyderivierpoort dam:-24.547:30.791",
+   "region": "M",
+   "station": "B6R003"
+  },
+  {
+   "key": "asset:boegoeberg dam:-29.042:22.201",
+   "region": "NC",
+   "station": "D7R001"
+  },
+  {
+   "key": "asset:bon accord dam:-25.622:28.190",
+   "region": "G",
+   "station": "A2R002"
+  },
+  {
+   "key": "asset:boskop dam:-26.549:27.119",
+   "region": "NW",
+   "station": "C2R001"
+  },
+  {
+   "key": "asset:bospoort dam:-25.573:27.327",
+   "region": "NW",
+   "station": "A2R006"
+  },
+  {
+   "key": "asset:brandvlei dam:-33.766:19.470",
+   "region": "WC",
+   "station": "H1R001"
+  },
+  {
+   "key": "asset:bridle drift dam:-32.990:27.727",
+   "region": "EC",
+   "station": "R2R003"
+  },
+  {
+   "key": "asset:bronkhorstspruit dam:-25.915:28.693",
+   "region": "G",
+   "station": "B2R001"
+  },
+  {
+   "key": "asset:buffeljags dam:-34.011:20.547",
+   "region": "WC",
+   "station": "H7R001"
+  },
+  {
+   "key": "asset:buffelskloof dam:-24.958:30.256",
+   "region": "M",
+   "station": "B4R004"
+  },
+  {
+   "key": "asset:buffelspoort dam:-25.792:27.486",
+   "region": "NW",
+   "station": "A2R005"
+  },
+  {
+   "key": "asset:bulshoek dam:-32.028:18.802",
+   "region": "WC",
+   "station": "E1R001"
+  },
+  {
+   "key": "asset:calitzdorp dam:-33.482:21.709",
+   "region": "WC",
+   "station": "J2R001"
+  },
+  {
+   "key": "asset:cata dam:-32.622:27.118",
+   "region": "EC",
+   "station": "R1R002"
+  },
+  {
+   "key": "asset:clanwilliam dam:-32.256:18.905",
+   "region": "WC",
+   "station": "E1R002"
+  },
+  {
+   "key": "asset:corana dam:-31.436:28.874",
+   "region": "EC",
+   "station": "T2R003"
+  },
+  {
+   "key": "asset:craigie burn dam:-29.171:30.292",
+   "region": "KN",
+   "station": "V2R001"
+  },
+  {
+   "key": "asset:da gama dam:-25.142:31.021",
+   "region": "M",
+   "station": "X3R001"
+  },
+  {
+   "key": "asset:dap naudé dam:-23.810:29.969",
+   "region": "LP",
+   "station": "B8R006"
+  },
+  {
+   "key": "asset:darlington dam:-33.206:25.149",
+   "region": "EC",
+   "station": "N2R001"
+  },
+  {
+   "key": "asset:de bos dam:-34.365:19.241",
+   "region": "WC",
+   "station": "G4R010"
+  },
+  {
+   "key": "asset:de hoop:-24.991:29.917",
+   "region": "LP",
+   "station": "B4R007"
+  },
+  {
+   "key": "asset:de mistkraal dam:-32.967:25.672",
+   "region": "EC",
+   "station": "Q8R001"
+  },
+  {
+   "key": "asset:debe dam:-32.858:27.043",
+   "region": "EC",
+   "station": "R1R005"
+  },
+  {
+   "key": "asset:disaneng dam:-25.839:25.344",
+   "region": "NW",
+   "station": "D4R003"
+  },
+  {
+   "key": "asset:doorndraai dam:-24.280:28.777",
+   "region": "LP",
+   "station": "A6R001"
+  },
+  {
+   "key": "asset:douglas weir dam:-29.044:23.836",
+   "region": "NC",
+   "station": "C9R003"
+  },
+  {
+   "key": "asset:driekoppies dam:-25.748:31.500",
+   "region": "M",
+   "station": "X1R004"
+  },
+  {
+   "key": "asset:driel barrage:-28.763:29.291",
+   "region": "KN",
+   "station": "V1R002"
+  },
+  {
+   "key": "asset:ebenezer dam:-23.937:29.972",
+   "region": "LP",
+   "station": "B8R001"
+  },
+  {
+   "key": "asset:egmont dam:-30.053:27.027",
+   "region": "FS",
+   "station": "D2R001"
+  },
+  {
+   "key": "asset:eikenhof dam:-34.120:19.033",
+   "region": "WC",
+   "station": "G4R002"
+  },
+  {
+   "key": "asset:elands drift dam:-32.527:25.760",
+   "region": "EC",
+   "station": "Q5L001"
+  },
+  {
+   "key": "asset:elandskloof dam:-33.943:19.284",
+   "region": "WC",
+   "station": "H6R002"
+  },
+  {
+   "key": "asset:elandskuil dam:-26.343:26.778",
+   "region": "NW",
+   "station": "C2R006"
+  },
+  {
+   "key": "asset:erfenis dam:-28.511:26.777",
+   "region": "FS",
+   "station": "C4R002"
+  },
+  {
+   "key": "asset:ernest robertson dam:-33.900:22.172",
+   "region": "WC",
+   "station": "K2R001"
+  },
+  {
+   "key": "asset:fika patso dam:-28.681:28.858",
+   "region": "FS",
+   "station": "C8R008"
+  },
+  {
+   "key": "asset:flag boshielo:-24.842:29.404",
+   "region": "LP",
+   "station": "B5R002"
+  },
+  {
+   "key": "asset:floriskraal dam:-33.292:20.991",
+   "region": "WC",
+   "station": "J1R003"
+  },
+  {
+   "key": "asset:gamka dam:-32.239:22.586",
+   "region": "WC",
+   "station": "J2R004"
+  },
+  {
+   "key": "asset:gamkapoort dam:-33.290:21.648",
+   "region": "WC",
+   "station": "J2R006"
+  },
+  {
+   "key": "asset:garden route dam:-33.955:22.508",
+   "region": "WC",
+   "station": "K3R002"
+  },
+  {
+   "key": "asset:gariep dam:-30.624:25.507",
+   "region": "FS",
+   "station": "D3R002"
+  },
+  {
+   "key": "asset:glen alpine dam:-23.231:28.687",
+   "region": "LP",
+   "station": "A6R002"
+  },
+  {
+   "key": "asset:glen melville dam:-33.194:26.644",
+   "region": "EC",
+   "station": "Q9R002"
+  },
+  {
+   "key": "asset:goedertrouw dam:-28.773:31.470",
+   "region": "KN",
+   "station": "W1R001"
+  },
+  {
+   "key": "asset:grassridge dam:-31.747:25.460",
+   "region": "EC",
+   "station": "Q1R001"
+  },
+  {
+   "key": "asset:groendal dam:-33.691:25.248",
+   "region": "EC",
+   "station": "M1R001"
+  },
+  {
+   "key": "asset:grootdraai dam:-26.910:29.395",
+   "region": "M",
+   "station": "C1R002"
+  },
+  {
+   "key": "asset:gubu dam:-32.605:27.274",
+   "region": "EC",
+   "station": "S6R001"
+  },
+  {
+   "key": "asset:harlem dam:-33.773:23.321",
+   "region": "WC",
+   "station": "L8R002"
+  },
+  {
+   "key": "asset:hartbeespoort dam:-25.725:27.848",
+   "region": "NW",
+   "station": "A2R001"
+  },
+  {
+   "key": "asset:hartebeeskuil dam:-34.092:21.998",
+   "region": "WC",
+   "station": "K1R001"
+  },
+  {
+   "key": "asset:hazelmere dam:-29.589:31.034",
+   "region": "KN",
+   "station": "U3R001"
+  },
+  {
+   "key": "asset:heyshope dam:-26.994:30.524",
+   "region": "M",
+   "station": "W5R004"
+  },
+  {
+   "key": "asset:hluhluwe dam:-28.119:32.169",
+   "region": "KN",
+   "station": "W3R001"
+  },
+  {
+   "key": "asset:impofu dam:-34.093:24.691",
+   "region": "EC",
+   "station": "K9R002"
+  },
+  {
+   "key": "asset:inanda dam:-29.670:30.835",
+   "region": "KN",
+   "station": "U2R004"
+  },
+  {
+   "key": "asset:injaka dam reservoir:-24.879:31.039",
+   "region": "M",
+   "station": "X3R002"
+  },
+  {
+   "key": "asset:jericho dam:-26.640:30.453",
+   "region": "M",
+   "station": "W5R001"
+  },
+  {
+   "key": "asset:kalkfontein dam:-29.530:25.264",
+   "region": "FS",
+   "station": "C5R002"
+  },
+  {
+   "key": "asset:kammanassie dam:-33.667:22.417",
+   "region": "WC",
+   "station": "J3R001"
+  },
+  {
+   "key": "asset:karee dam:-31.427:19.787",
+   "region": "NC",
+   "station": "E4R001"
+  },
+  {
+   "key": "asset:katrivier dam:-32.571:26.775",
+   "region": "EC",
+   "station": "Q9R001"
+  },
+  {
+   "key": "asset:keerom dam:-33.579:19.704",
+   "region": "WC",
+   "station": "H4R002"
+  },
+  {
+   "key": "asset:klein maricopoort dam:-25.530:26.131",
+   "region": "NW",
+   "station": "A3R002"
+  },
+  {
+   "key": "asset:klerkskraal dam:-26.233:27.149",
+   "region": "NW",
+   "station": "C2R003"
+  },
+  {
+   "key": "asset:klipberg dam:-33.941:19.786",
+   "region": "WC",
+   "station": "H4R003"
+  },
+  {
+   "key": "asset:klipdrif dam:-26.609:27.310",
+   "region": "G",
+   "station": "C2R005"
+  },
+  {
+   "key": "asset:klipfontein dam:-27.821:30.805",
+   "region": "KN",
+   "station": "W2R001"
+  },
+  {
+   "key": "asset:klipvoor dam reservoir:-25.150:27.844",
+   "region": "NW",
+   "station": "A2R012"
+  },
+  {
+   "key": "asset:knellpoort dam:-29.761:26.859",
+   "region": "FS",
+   "station": "D2R006"
+  },
+  {
+   "key": "asset:kommandodrif dam:-32.091:26.041",
+   "region": "EC",
+   "station": "Q4R002"
+  },
+  {
+   "key": "asset:koppies dam:-27.244:27.693",
+   "region": "FS",
+   "station": "C7R001"
+  },
+  {
+   "key": "asset:korintepoort:-33.998:21.158",
+   "region": "WC",
+   "station": "H9R001"
+  },
+  {
+   "key": "asset:kouga dam:-33.700:24.512",
+   "region": "EC",
+   "station": "L8R001"
+  },
+  {
+   "key": "asset:kromellenboog dam:-25.454:26.345",
+   "region": "NW",
+   "station": "A3R003"
+  },
+  {
+   "key": "asset:krugersdrift:-28.844:26.030",
+   "region": "FS",
+   "station": "C5R004"
+  },
+  {
+   "key": "asset:kwaggaskloof dam:-33.767:19.473",
+   "region": "WC",
+   "station": "H4R004"
+  },
+  {
+   "key": "asset:kwena dam:-25.356:30.366",
+   "region": "M",
+   "station": "X2R005"
+  },
+  {
+   "key": "asset:laing dam:-32.969:27.493",
+   "region": "EC",
+   "station": "R2R001"
+  },
+  {
+   "key": "asset:lake arthur:-32.212:25.814",
+   "region": "EC",
+   "station": "Q4R001"
+  },
+  {
+   "key": "asset:lakenvallei dam:-33.361:19.579",
+   "region": "WC",
+   "station": "H2R002"
+  },
+  {
+   "key": "asset:leeu-gamka dam:-32.610:22.007",
+   "region": "WC",
+   "station": "J2R002"
+  },
+  {
+   "key": "asset:lindleyspoort dam:-25.517:26.691",
+   "region": "NW",
+   "station": "A2R007"
+  },
+  {
+   "key": "asset:loerie dam:-33.859:25.048",
+   "region": "EC",
+   "station": "L9R001"
+  },
+  {
+   "key": "asset:longmere dam:-25.265:31.006",
+   "region": "M",
+   "station": "X2R001"
+  },
+  {
+   "key": "asset:loskop dam:-25.450:29.328",
+   "region": "M",
+   "station": "B3R002"
+  },
+  {
+   "key": "asset:lower steenbras dam:-34.180:18.876",
+   "region": "WC",
+   "station": "G4R001"
+  },
+  {
+   "key": "asset:lubisi dam:-31.775:27.420",
+   "region": "EC",
+   "station": "S2R001"
+  },
+  {
+   "key": "asset:luphephe dam:-22.643:30.395",
+   "region": "LP",
+   "station": "A8R002"
+  },
+  {
+   "key": "asset:macubeni dam:-31.580:27.178",
+   "region": "EC",
+   "station": "S1L001"
+  },
+  {
+   "key": "asset:madikwe dam:-25.393:26.598",
+   "region": "NW",
+   "station": "A3R006"
+  },
+  {
+   "key": "asset:magoebaskloof dam:-23.820:30.051",
+   "region": "LP",
+   "station": "B8R003"
+  },
+  {
+   "key": "asset:marico-bosveld dam:-25.490:26.392",
+   "region": "NW",
+   "station": "A3R001"
+  },
+  {
+   "key": "asset:metsimatsho dam:-28.600:28.937",
+   "region": "FS",
+   "station": "C8R002"
+  },
+  {
+   "key": "asset:middel-letaba dam:-23.300:30.382",
+   "region": "LP",
+   "station": "B8R007"
+  },
+  {
+   "key": "asset:middelburg dam:-25.767:29.550",
+   "region": "M",
+   "station": "B1R002"
+  },
+  {
+   "key": "asset:middelkraal dam:-25.695:27.546",
+   "region": "NW",
+   "station": "A2R018"
+  },
+  {
+   "key": "asset:midmar dam:-29.516:30.174",
+   "region": "KN",
+   "station": "U2R001"
+  },
+  {
+   "key": "asset:misverstand dam:-33.072:18.822",
+   "region": "WC",
+   "station": "G1R003"
+  },
+  {
+   "key": "asset:mnyameni dam:-32.599:27.065",
+   "region": "EC",
+   "station": "R1R004"
+  },
+  {
+   "key": "asset:modimola dam:-25.863:25.534",
+   "region": "NW",
+   "station": "D4R004"
+  },
+  {
+   "key": "asset:mokolo dam:-24.012:27.745",
+   "region": "LP",
+   "station": "A4R001"
+  },
+  {
+   "key": "asset:molatedi dam reservoir:-24.934:26.448",
+   "region": "NW",
+   "station": "A3R004"
+  },
+  {
+   "key": "asset:morgenstond:-26.729:30.510",
+   "region": "M",
+   "station": "W5R003"
+  },
+  {
+   "key": "asset:mutshedzi dam:-22.949:30.161",
+   "region": "LP",
+   "station": "A8R004"
+  },
+  {
+   "key": "asset:nagle dam:-29.584:30.624",
+   "region": "KN",
+   "station": "U2R002"
+  },
+  {
+   "key": "asset:nahoon dam:-32.904:27.793",
+   "region": "EC",
+   "station": "R3R001"
+  },
+  {
+   "key": "asset:nandoni dam:-22.981:30.598",
+   "region": "LP",
+   "station": "A9R004"
+  },
+  {
+   "key": "asset:ncora dam:-31.765:27.640",
+   "region": "EC",
+   "station": "S5R001"
+  },
+  {
+   "key": "asset:ngotwane dam:-25.215:25.806",
+   "region": "NW",
+   "station": "A1R001"
+  },
+  {
+   "key": "asset:nooitgedacht dam:-25.950:30.082",
+   "region": "M",
+   "station": "X1R001"
+  },
+  {
+   "key": "asset:nqadu dam:-31.409:28.760",
+   "region": "EC",
+   "station": "T3R004"
+  },
+  {
+   "key": "asset:nqweba dam:-32.217:24.517",
+   "region": "EC",
+   "station": "N1R001"
+  },
+  {
+   "key": "asset:ntenetyana dam:-30.781:28.941",
+   "region": "EC",
+   "station": "T3R003"
+  },
+  {
+   "key": "asset:ntshingwayo dam:-27.993:29.884",
+   "region": "KN",
+   "station": "V3R001"
+  },
+  {
+   "key": "asset:nwanedi dam:-22.644:30.415",
+   "region": "LP",
+   "station": "A8R003"
+  },
+  {
+   "key": "asset:nzhelele dam:-22.746:30.102",
+   "region": "LP",
+   "station": "A8R001"
+  },
+  {
+   "key": "asset:ohrigstad dam:-24.943:30.636",
+   "region": "M",
+   "station": "B6R001"
+  },
+  {
+   "key": "asset:olifantsnek dam:-25.795:27.254",
+   "region": "NW",
+   "station": "A2R003"
+  },
+  {
+   "key": "asset:oukloof dam:-33.248:22.098",
+   "region": "WC",
+   "station": "J2R003"
+  },
+  {
+   "key": "asset:oxkraal dam:-32.206:26.758",
+   "region": "EC",
+   "station": "S3R003"
+  },
+  {
+   "key": "asset:pietersfontein dam:-33.667:20.012",
+   "region": "WC",
+   "station": "H3R002"
+  },
+  {
+   "key": "asset:pongolapoort dam:-27.400:31.958",
+   "region": "KN",
+   "station": "W4R001"
+  },
+  {
+   "key": "asset:poortjieskloof dam:-33.871:20.377",
+   "region": "WC",
+   "station": "H3R001"
+  },
+  {
+   "key": "asset:potchefstroom dam:-26.670:27.097",
+   "region": "NW",
+   "station": "C2R004"
+  },
+  {
+   "key": "asset:prinsrivier dam:-33.514:20.752",
+   "region": "WC",
+   "station": "J1R001"
+  },
+  {
+   "key": "asset:renosterkop dam:-25.113:28.855",
+   "region": "M",
+   "station": "B3R005"
+  },
+  {
+   "key": "asset:rietspruit dam:-26.410:26.809",
+   "region": "NW",
+   "station": "C2R007"
+  },
+  {
+   "key": "asset:rietvlei dam:-25.877:28.279",
+   "region": "G",
+   "station": "A2R004"
+  },
+  {
+   "key": "asset:roode elsberg dam:-33.427:19.567",
+   "region": "WC",
+   "station": "H2R001"
+  },
+  {
+   "key": "asset:roodekopjes dam:-25.404:27.591",
+   "region": "NW",
+   "station": "A2R015"
+  },
+  {
+   "key": "asset:roodeplaat dam:-25.621:28.372",
+   "region": "G",
+   "station": "A2R009"
+  },
+  {
+   "key": "asset:rust de winter dam:-25.235:28.496",
+   "region": "LP",
+   "station": "B3R001"
+  },
+  {
+   "key": "asset:rustfontein dam:-29.297:26.620",
+   "region": "FS",
+   "station": "C5R003"
+  },
+  {
+   "key": "asset:sandile dam:-32.717:27.101",
+   "region": "EC",
+   "station": "R1R001"
+  },
+  {
+   "key": "asset:sehujwane dam:-25.318:25.949",
+   "region": "NW",
+   "station": "A3R005"
+  },
+  {
+   "key": "asset:sol plaatje dam:-28.217:28.363",
+   "region": "FS",
+   "station": "C8R004"
+  },
+  {
+   "key": "asset:spioenkop dam:-28.683:29.463",
+   "region": "KN",
+   "station": "V1R001"
+  },
+  {
+   "key": "asset:spitskop dam:-28.077:24.544",
+   "region": "NC",
+   "station": "C3R002"
+  },
+  {
+   "key": "asset:spring grove dam:-29.333:29.934",
+   "region": "KN",
+   "station": "V2R003"
+  },
+  {
+   "key": "asset:steenbras-upper dam:-34.168:18.901",
+   "region": "WC",
+   "station": "G4R007"
+  },
+  {
+   "key": "asset:sterkfontein dam:-28.387:29.024",
+   "region": "FS",
+   "station": "C8R003"
+  },
+  {
+   "key": "asset:stettynskloof dam:-33.843:19.241",
+   "region": "WC",
+   "station": "H1R002"
+  },
+  {
+   "key": "asset:stompdrift dam:-33.512:22.586",
+   "region": "WC",
+   "station": "J3R002"
+  },
+  {
+   "key": "asset:swartruggens dam:-25.662:26.694",
+   "region": "NW",
+   "station": "A2R013"
+  },
+  {
+   "key": "asset:taung dam:-27.525:24.865",
+   "region": "NW",
+   "station": "C3R006"
+  },
+  {
+   "key": "asset:theewaterskloof dam:-34.033:19.207",
+   "region": "WC",
+   "station": "H6R001"
+  },
+  {
+   "key": "asset:tierkloof dam:-33.859:20.849",
+   "region": "WC",
+   "station": "J2R008"
+  },
+  {
+   "key": "asset:tierpoort dam:-29.410:26.154",
+   "region": "FS",
+   "station": "C5R001"
+  },
+  {
+   "key": "asset:tsojana dam:-31.884:27.624",
+   "region": "EC",
+   "station": "S5R002"
+  },
+  {
+   "key": "asset:tzaneen dam:-23.800:30.148",
+   "region": "LP",
+   "station": "B8R005"
+  },
+  {
+   "key": "asset:umtata dam:-31.495:28.711",
+   "region": "EC",
+   "station": "T2R001"
+  },
+  {
+   "key": "asset:vaal barrage dam:-26.765:27.684",
+   "region": "FS",
+   "station": "C2R008"
+  },
+  {
+   "key": "asset:vaal dam:-26.883:28.115",
+   "region": "FS",
+   "station": "C1R001"
+  },
+  {
+   "key": "asset:vaalharts dam:-28.126:24.935",
+   "region": "NC",
+   "station": "C9R001"
+  },
+  {
+   "key": "asset:vaalkop dam:-25.341:27.446",
+   "region": "NW",
+   "station": "A2R014"
+  },
+  {
+   "key": "asset:vanderkloof dam:-29.992:24.732",
+   "region": "FS",
+   "station": "D3R003"
+  },
+  {
+   "key": "asset:vergelegen dam:-24.802:29.843",
+   "region": "LP",
+   "station": "B8R004"
+  },
+  {
+   "key": "asset:vondo dam:-22.950:30.352",
+   "region": "LP",
+   "station": "A9R002"
+  },
+  {
+   "key": "asset:voëlvlei dam:-33.339:19.030",
+   "region": "WC",
+   "station": "G1R001"
+  },
+  {
+   "key": "asset:vygeboom dam:-25.864:30.617",
+   "region": "M",
+   "station": "X1R003"
+  },
+  {
+   "key": "asset:wagendrift dam:-29.048:29.835",
+   "region": "KN",
+   "station": "V7R001"
+  },
+  {
+   "key": "asset:waterdown dam:-32.305:26.861",
+   "region": "EC",
+   "station": "S3R001"
+  },
+  {
+   "key": "asset:welbedacht dam:-29.868:26.897",
+   "region": "FS",
+   "station": "D2R004"
+  },
+  {
+   "key": "asset:wemmershoek dam:-33.822:19.093",
+   "region": "WC",
+   "station": "G1R002"
+  },
+  {
+   "key": "asset:westoe dam:-26.487:30.598",
+   "region": "M",
+   "station": "W5R002"
+  },
+  {
+   "key": "asset:witbank dam:-25.891:29.305",
+   "region": "M",
+   "station": "B1R001"
+  },
+  {
+   "key": "asset:witklip dam:-25.223:30.892",
+   "region": "M",
+   "station": "X2R003"
+  },
+  {
+   "key": "asset:wolwedans dam:-34.001:22.218",
+   "region": "WC",
+   "station": "K2R002"
+  },
+  {
+   "key": "asset:woodstock dam:-28.743:29.204",
+   "region": "KN",
+   "station": "V1R003"
+  },
+  {
+   "key": "asset:wriggleswade dam:-32.585:27.532",
+   "region": "EC",
+   "station": "S6R002"
+  },
+  {
+   "key": "asset:xonxa dam:-31.838:27.181",
+   "region": "EC",
+   "station": "S1R001"
+  },
+  {
+   "key": "asset:zaaihoek dam:-27.432:30.093",
+   "region": "KN",
+   "station": "V3R003"
   }
  ]
 }

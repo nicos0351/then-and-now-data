@@ -1,0 +1,2072 @@
+{
+ "EC": {
+  "province": "Eastern Cape",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Belfort Dam",
+    "river": "Mafube River",
+    "station": "T3R001",
+    "fsc": "0.5",
+    "this": "86.5",
+    "last": "86.5",
+    "year": "100.0"
+   },
+   {
+    "name": "Binfield Dam",
+    "river": "Tyume River",
+    "station": "R1R003",
+    "fsc": "36.8",
+    "this": "100.1",
+    "last": "100.1",
+    "year": "95.7"
+   },
+   {
+    "name": "Boesmanskrantz Dam",
+    "river": "Oxkraal River",
+    "station": "S3L001",
+    "fsc": "4.9",
+    "this": "69.2",
+    "last": "69.6",
+    "year": "99.7"
+   },
+   {
+    "name": "Boesmanskrantz Dam",
+    "river": "Oxkraal River",
+    "station": "S3R005",
+    "fsc": "4.9",
+    "this": "100.1",
+    "last": "100.1",
+    "year": "98.7"
+   },
+   {
+    "name": "Bridle Drift Dam",
+    "river": "Buffalo River",
+    "station": "R2R003",
+    "fsc": "98.0",
+    "this": "103.9",
+    "last": "106.2",
+    "year": "93.5"
+   },
+   {
+    "name": "Cata Dam",
+    "river": "Cata River",
+    "station": "R1R002",
+    "fsc": "12.1",
+    "this": "93.2",
+    "last": "90.0",
+    "year": "90.4"
+   },
+   {
+    "name": "Corana Dam",
+    "river": "Corana River",
+    "station": "T2R003",
+    "fsc": "0.8",
+    "this": "99.5",
+    "last": "99.3",
+    "year": "95.0"
+   },
+   {
+    "name": "Darlington Dam",
+    "river": "Sondags River",
+    "station": "N2R001",
+    "fsc": "179.9",
+    "this": "55.1",
+    "last": "59.6",
+    "year": "40.4"
+   },
+   {
+    "name": "De Mistkraal Dam",
+    "river": "Little Fish River",
+    "station": "Q8R001",
+    "fsc": "2.1",
+    "this": "104.0",
+    "last": "93.6",
+    "year": "96.6"
+   },
+   {
+    "name": "Debe Dam",
+    "river": "Debe River",
+    "station": "R1R005",
+    "fsc": "6.4",
+    "this": "92.1",
+    "last": "92.1",
+    "year": "44.0"
+   },
+   {
+    "name": "Doornrivier Dam",
+    "river": "Doorn River",
+    "station": "S2R002",
+    "fsc": "17.1",
+    "this": "99.6",
+    "last": "101.2",
+    "year": "84.7"
+   },
+   {
+    "name": "Elands Drift Dam",
+    "river": "Great Fish River",
+    "station": "Q5L001",
+    "fsc": "3.6",
+    "this": "54.9",
+    "last": "95.5",
+    "year": "66.1"
+   },
+   {
+    "name": "Elandsdrift Dam",
+    "river": "Great Fish River",
+    "station": "Q5R001",
+    "fsc": "3.6",
+    "this": "93.1",
+    "last": "58.7",
+    "year": "70.6"
+   },
+   {
+    "name": "Glen Melville Dam",
+    "river": "Water from Fish river via Ecca tunnel River",
+    "station": "Q9R002",
+    "fsc": "6.3",
+    "this": "96.9",
+    "last": "100.0",
+    "year": "78.5"
+   },
+   {
+    "name": "Glen Melville Dam",
+    "river": "Water from Fish river via Ecca tunnel River",
+    "station": "Q9L001",
+    "fsc": "6.3",
+    "this": "85.9",
+    "last": "90.8",
+    "year": "90.8"
+   },
+   {
+    "name": "Grassridge Dam",
+    "river": "Groot Brak River",
+    "station": "Q1R001",
+    "fsc": "44.5",
+    "this": "92.9",
+    "last": "94.2",
+    "year": "51.1"
+   },
+   {
+    "name": "Groendal Dam",
+    "river": "Swartkops River",
+    "station": "M1R001",
+    "fsc": "11.7",
+    "this": "101.1",
+    "last": "103.4",
+    "year": "89.1"
+   },
+   {
+    "name": "Gubu Dam",
+    "river": "Gubu River",
+    "station": "S6R001",
+    "fsc": "8.6",
+    "this": "100.5",
+    "last": "100.6",
+    "year": "100.1"
+   },
+   {
+    "name": "Impofu Dam",
+    "river": "Krom River",
+    "station": "K9R002",
+    "fsc": "105.8",
+    "this": "100.5",
+    "last": "101.0",
+    "year": "47.5"
+   },
+   {
+    "name": "Jozanashoek Dam",
+    "river": "Sterkspruit River",
+    "station": "D1R001",
+    "fsc": "9.5",
+    "this": "100.8",
+    "last": "100.6",
+    "year": "97.9"
+   },
+   {
+    "name": "Katrivier Dam",
+    "river": "Kat River",
+    "station": "Q9R001",
+    "fsc": "24.9",
+    "this": "100.5",
+    "last": "100.6",
+    "year": "99.9"
+   },
+   {
+    "name": "Kommandodrift Dam",
+    "river": "Tarka River",
+    "station": "Q4R002",
+    "fsc": "56.0",
+    "this": "100.6",
+    "last": "100.8",
+    "year": "80.2"
+   },
+   {
+    "name": "Kouga Dam",
+    "river": "Kouga River",
+    "station": "L8R001",
+    "fsc": "126.0",
+    "this": "100.7",
+    "last": "101.5",
+    "year": "66.0"
+   },
+   {
+    "name": "Kromrivier Dam",
+    "river": "Krom River",
+    "station": "K9R001",
+    "fsc": "35.3",
+    "this": "100.5",
+    "last": "100.8",
+    "year": "68.3"
+   },
+   {
+    "name": "Laing Dam",
+    "river": "Buffalo River",
+    "station": "R2R001",
+    "fsc": "19.0",
+    "this": "101.4",
+    "last": "101.1",
+    "year": "100.5"
+   },
+   {
+    "name": "Lake Arthur Dam",
+    "river": "Tarka River",
+    "station": "Q4R001",
+    "fsc": "11.3",
+    "this": "92.3",
+    "last": "94.6",
+    "year": "24.4"
+   },
+   {
+    "name": "Loerie Dam",
+    "river": "Loeriespruit River",
+    "station": "L9R001",
+    "fsc": "3.1",
+    "this": "101.0",
+    "last": "104.7",
+    "year": "73.0"
+   },
+   {
+    "name": "Lubisi Dam",
+    "river": "Indwe River",
+    "station": "S2R001",
+    "fsc": "113.6",
+    "this": "100.5",
+    "last": "98.3",
+    "year": "39.9"
+   },
+   {
+    "name": "Mabeleni Dam",
+    "river": "Mhlahlane River",
+    "station": "T2R002",
+    "fsc": "2.1",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "100.0"
+   },
+   {
+    "name": "Macubeni Dam",
+    "river": "Cacadu River",
+    "station": "S1L001",
+    "fsc": "3.4",
+    "this": "97.9",
+    "last": "99.6",
+    "year": "98.7"
+   },
+   {
+    "name": "Macubeni Dam",
+    "river": "Cacadu River",
+    "station": "S1R002",
+    "fsc": "1.2",
+    "this": "100.0",
+    "last": "102.6",
+    "year": "81.9"
+   },
+   {
+    "name": "Mlanga Dam",
+    "river": "Mlanga River",
+    "station": "T7R001",
+    "fsc": "1.6",
+    "this": "95.2",
+    "last": "95.8",
+    "year": "85.1"
+   },
+   {
+    "name": "Mnyameni Dam",
+    "river": "uMnyama River",
+    "station": "R1R004",
+    "fsc": "1.9",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "100.0"
+   },
+   {
+    "name": "Nahoon Dam",
+    "river": "Nahoon River",
+    "station": "R3R001",
+    "fsc": "19.3",
+    "this": "100.2",
+    "last": "100.4",
+    "year": "86.6"
+   },
+   {
+    "name": "Ncora Dam",
+    "river": "Tsomo River",
+    "station": "S5R001",
+    "fsc": "144.9",
+    "this": "100.8",
+    "last": "101.5",
+    "year": "94.2"
+   },
+   {
+    "name": "Nqadu Dam",
+    "river": "Nqadu River",
+    "station": "T3R004",
+    "fsc": "1.3",
+    "this": "63.0",
+    "last": "62.7",
+    "year": "84.8"
+   },
+   {
+    "name": "Nqweba Dam",
+    "river": "Sondags River",
+    "station": "N1R001",
+    "fsc": "45.4",
+    "this": "101.6",
+    "last": "105.3",
+    "year": "91.0"
+   },
+   {
+    "name": "Ntenetyana Dam",
+    "river": "Ntenetyana River",
+    "station": "T3R003",
+    "fsc": "1.7",
+    "this": "78.5",
+    "last": "77.1",
+    "year": "87.7"
+   },
+   {
+    "name": "Nuwejaars Dam",
+    "river": "Nuwejaarspruit River",
+    "station": "P1R003",
+    "fsc": "4.6",
+    "this": "101.7",
+    "last": "101.7",
+    "year": "57.9"
+   },
+   {
+    "name": "Oxkraal Dam",
+    "river": "Oskraal River",
+    "station": "S3R003",
+    "fsc": "15.2",
+    "this": "100.5",
+    "last": "100.6",
+    "year": "96.7"
+   },
+   {
+    "name": "Rooikrans Dam",
+    "river": "Buffalo River",
+    "station": "R2R002",
+    "fsc": "4.8",
+    "this": "100.0",
+    "last": "100.2",
+    "year": "89.6"
+   },
+   {
+    "name": "Sandile Dam",
+    "river": "Keiskamma River",
+    "station": "R1R001",
+    "fsc": "29.7",
+    "this": "100.4",
+    "last": "100.5",
+    "year": "87.9"
+   },
+   {
+    "name": "Tsojana Dam",
+    "river": "Tsojana River",
+    "station": "S5R002",
+    "fsc": "12.3",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "99.9"
+   },
+   {
+    "name": "Umtata Dam",
+    "river": "Mtata River",
+    "station": "T2R001",
+    "fsc": "244.7",
+    "this": "100.7",
+    "last": "101.2",
+    "year": "97.5"
+   },
+   {
+    "name": "Waterdown Dam",
+    "river": "Klipplaat River",
+    "station": "S3R001",
+    "fsc": "37.5",
+    "this": "100.5",
+    "last": "100.8",
+    "year": "100.2"
+   },
+   {
+    "name": "Wriggleswade Dam",
+    "river": "Kubisi River",
+    "station": "S6R002",
+    "fsc": "91.5",
+    "this": "100.3",
+    "last": "100.4",
+    "year": "100.1"
+   },
+   {
+    "name": "Xonxa Dam",
+    "river": "White Kei River",
+    "station": "S1R001",
+    "fsc": "116.4",
+    "this": "100.4",
+    "last": "100.9",
+    "year": "97.1"
+   }
+  ]
+ },
+ "FS": {
+  "province": "Free State",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Allemanskraal Dam",
+    "river": "Sand River",
+    "station": "C4R001",
+    "fsc": "172.5",
+    "this": "98.2",
+    "last": "99.1",
+    "year": "95.4"
+   },
+   {
+    "name": "Armenia Dam",
+    "river": "Leeu River",
+    "station": "D2R002",
+    "fsc": "13.3",
+    "this": "100.3",
+    "last": "101.2",
+    "year": "92.3"
+   },
+   {
+    "name": "Bloemhof Dam",
+    "river": "Vaal River",
+    "station": "C9R002",
+    "fsc": "1243.0",
+    "this": "98.4",
+    "last": "99.9",
+    "year": "97.8"
+   },
+   {
+    "name": "Egmont Dam",
+    "river": "Witspruit River",
+    "station": "D2R001",
+    "fsc": "9.1",
+    "this": "100.6",
+    "last": "101.1",
+    "year": "94.7"
+   },
+   {
+    "name": "Erfenis Dam",
+    "river": "Groot-Vet River",
+    "station": "C4R002",
+    "fsc": "213.8",
+    "this": "99.8",
+    "last": "101.2",
+    "year": "87.3"
+   },
+   {
+    "name": "Fika-Patso Dam",
+    "river": "Namahadi River",
+    "station": "C8R008",
+    "fsc": "29.5",
+    "this": "#84.0",
+    "last": "84.0",
+    "year": "78.5"
+   },
+   {
+    "name": "Gariep Dam",
+    "river": "Orange River",
+    "station": "D3R002",
+    "fsc": "4903.5",
+    "this": "100.8",
+    "last": "107.2",
+    "year": "94.5"
+   },
+   {
+    "name": "Groothoek Dam",
+    "river": "Kgabanyane River",
+    "station": "C5R005",
+    "fsc": "12.0",
+    "this": "97.5",
+    "last": "97.9",
+    "year": "47.2"
+   },
+   {
+    "name": "Kalkfontein Dam",
+    "river": "Riet River",
+    "station": "C5R002",
+    "fsc": "325.2",
+    "this": "102.1",
+    "last": "103.3",
+    "year": "98.1"
+   },
+   {
+    "name": "Knellpoort Dam",
+    "river": "Rietspruit River",
+    "station": "D2R006",
+    "fsc": "130.2",
+    "this": "100.4",
+    "last": "100.9",
+    "year": "99.0"
+   },
+   {
+    "name": "Koppies Dam",
+    "river": "Renoster River",
+    "station": "C7R001",
+    "fsc": "42.4",
+    "this": "99.7",
+    "last": "101.0",
+    "year": "96.9"
+   },
+   {
+    "name": "Krugersdrift Dam",
+    "river": "Modder River",
+    "station": "C5R004",
+    "fsc": "71.5",
+    "this": "100.5",
+    "last": "101.0",
+    "year": "99.5"
+   },
+   {
+    "name": "Metsi-Matsho Dam",
+    "river": "Metsi-Matsho River",
+    "station": "C8R002",
+    "fsc": "4.4",
+    "this": "#84.5",
+    "last": "84.5",
+    "year": "95.3"
+   },
+   {
+    "name": "Rustfontein Dam",
+    "river": "Modder River",
+    "station": "C5R003",
+    "fsc": "72.2",
+    "this": "99.0",
+    "last": "99.5",
+    "year": "49.9"
+   },
+   {
+    "name": "Saulspoort Dam",
+    "river": "Liebenbergsvlei River",
+    "station": "C8R004",
+    "fsc": "15.1",
+    "this": "99.1",
+    "last": "99.3",
+    "year": "101.9"
+   },
+   {
+    "name": "Sterkfontein Dam",
+    "river": "Nuwejaarspruit River",
+    "station": "C8R003",
+    "fsc": "2617.0",
+    "this": "99.0",
+    "last": "99.0",
+    "year": "98.8"
+   },
+   {
+    "name": "Tierpoort Dam",
+    "river": "Tierpoort River",
+    "station": "C5R001",
+    "fsc": "34.0",
+    "this": "101.6",
+    "last": "102.4",
+    "year": "93.3"
+   },
+   {
+    "name": "Vaal Dam",
+    "river": "Vaal River",
+    "station": "C1R001",
+    "fsc": "2561.0",
+    "this": "108.2",
+    "last": "108.1",
+    "year": "102.8"
+   },
+   {
+    "name": "Vaalrivier Barrage Dam",
+    "river": "Vaal River",
+    "station": "C2R008",
+    "fsc": "53.7",
+    "this": "96.1",
+    "last": "98.3",
+    "year": "97.3"
+   },
+   {
+    "name": "Vanderkloof Dam",
+    "river": "Orange River",
+    "station": "D3R003",
+    "fsc": "3137.0",
+    "this": "104.5",
+    "last": "107.3",
+    "year": "97.2"
+   },
+   {
+    "name": "Welbedacht Dam",
+    "river": "Caledon River",
+    "station": "D2R004",
+    "fsc": "5.5",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "111.0"
+   }
+  ]
+ },
+ "G": {
+  "province": "Gauteng",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Bon Accord Dam",
+    "river": "Apies River",
+    "station": "A2R002",
+    "fsc": "4.4",
+    "this": "104.8",
+    "last": "106.6",
+    "year": "#105.8"
+   },
+   {
+    "name": "Bronkhorstspruit Dam",
+    "river": "Bronkhorstspruit River",
+    "station": "B2R001",
+    "fsc": "57.0",
+    "this": "100.5",
+    "last": "100.5",
+    "year": "100.4"
+   },
+   {
+    "name": "Klipdrift Dam",
+    "river": "Loopspruit River",
+    "station": "C2R005",
+    "fsc": "13.4",
+    "this": "#102.2",
+    "last": "#102.2",
+    "year": "99.8"
+   },
+   {
+    "name": "Rietvlei Dam",
+    "river": "Hennops River",
+    "station": "A2R004",
+    "fsc": "12.3",
+    "this": "100.9",
+    "last": "99.4",
+    "year": "100.2"
+   },
+   {
+    "name": "Roodeplaat Dam",
+    "river": "Pienaars River",
+    "station": "A2R009",
+    "fsc": "41.2",
+    "this": "100.4",
+    "last": "100.5",
+    "year": "100.2"
+   }
+  ]
+ },
+ "KN": {
+  "province": "Kwazulu-Natal",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Albert Falls Dam",
+    "river": "Mgeni River",
+    "station": "U2R003",
+    "fsc": "285.7",
+    "this": "85.3",
+    "last": "85.4",
+    "year": "94.0"
+   },
+   {
+    "name": "Bivane Dam",
+    "river": "Bivane River",
+    "station": "W4R002",
+    "fsc": "114.1",
+    "this": "101.4",
+    "last": "101.4",
+    "year": "99.8"
+   },
+   {
+    "name": "Craigie Burn Dam",
+    "river": "Mnyamvubu River",
+    "station": "V2R001",
+    "fsc": "22.5",
+    "this": "100.5",
+    "last": "100.5",
+    "year": "100.5"
+   },
+   {
+    "name": "Driel Barrage Dam",
+    "river": "Tugela River",
+    "station": "V1R002",
+    "fsc": "8.7",
+    "this": "98.3",
+    "last": "87.2",
+    "year": "95.7"
+   },
+   {
+    "name": "Goedertrouw Dam",
+    "river": "Mhlatuze River",
+    "station": "W1R001",
+    "fsc": "301.3",
+    "this": "90.4",
+    "last": "90.8",
+    "year": "95.2"
+   },
+   {
+    "name": "Hazelmere Dam",
+    "river": "Mdloti River",
+    "station": "U3R001",
+    "fsc": "37.2",
+    "this": "88.2",
+    "last": "88.6",
+    "year": "102.0"
+   },
+   {
+    "name": "Hluhluwe Dam",
+    "river": "Hluhluwe River",
+    "station": "W3R001",
+    "fsc": "25.9",
+    "this": "80.8",
+    "last": "81.5",
+    "year": "98.5"
+   },
+   {
+    "name": "Inanda Dam",
+    "river": "Mgeni River",
+    "station": "U2R004",
+    "fsc": "237.5",
+    "this": "99.8",
+    "last": "99.9",
+    "year": "100.1"
+   },
+   {
+    "name": "Klipfontein Dam",
+    "river": "Wit Mfolozi River",
+    "station": "W2R001",
+    "fsc": "18.1",
+    "this": "99.8",
+    "last": "100.2",
+    "year": "100.3"
+   },
+   {
+    "name": "Mearns Dam",
+    "river": "Mooi River",
+    "station": "V2R002",
+    "fsc": "5.2",
+    "this": "73.0",
+    "last": "96.3",
+    "year": "69.7"
+   },
+   {
+    "name": "Midmar Dam",
+    "river": "Mgeni River",
+    "station": "U2R001",
+    "fsc": "235.5",
+    "this": "90.6",
+    "last": "90.3",
+    "year": "94.1"
+   },
+   {
+    "name": "Nagle Dam",
+    "river": "Mgeni River",
+    "station": "U2R002",
+    "fsc": "23.3",
+    "this": "96.2",
+    "last": "99.4",
+    "year": "95.4"
+   },
+   {
+    "name": "Ntshingwayo Dam",
+    "river": "Ngagane River",
+    "station": "V3R001",
+    "fsc": "194.6",
+    "this": "71.1",
+    "last": "71.1",
+    "year": "93.2"
+   },
+   {
+    "name": "Pongolapoort Dam",
+    "river": "Phongolo River",
+    "station": "W4R001",
+    "fsc": "2395.3",
+    "this": "83.4",
+    "last": "83.3",
+    "year": "93.6"
+   },
+   {
+    "name": "Spioenkop Dam",
+    "river": "Tugela River",
+    "station": "V1R001",
+    "fsc": "270.7",
+    "this": "100.1",
+    "last": "100.4",
+    "year": "100.2"
+   },
+   {
+    "name": "Spring Grove Dam",
+    "river": "Mooi River",
+    "station": "V2R003",
+    "fsc": "139.3",
+    "this": "80.8",
+    "last": "80.1",
+    "year": "76.1"
+   },
+   {
+    "name": "Wagendrift Dam",
+    "river": "Boesmans River",
+    "station": "V7R001",
+    "fsc": "55.9",
+    "this": "100.8",
+    "last": "100.7",
+    "year": "95.0"
+   },
+   {
+    "name": "Woodstock Dam",
+    "river": "Tugela River",
+    "station": "V1R003",
+    "fsc": "355.5",
+    "this": "100.6",
+    "last": "102.4",
+    "year": "90.6"
+   },
+   {
+    "name": "Zaaihoek Dam",
+    "river": "Slang River",
+    "station": "V3R003",
+    "fsc": "184.3",
+    "this": "100.9",
+    "last": "100.9",
+    "year": "100.5"
+   }
+  ]
+ },
+ "LP": {
+  "province": "Limpopo",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Albasini Dam",
+    "river": "Luvuvhu River",
+    "station": "A9R001",
+    "fsc": "28.2",
+    "this": "98.2",
+    "last": "98.6",
+    "year": "95.8"
+   },
+   {
+    "name": "Dap Naude Dam",
+    "river": "Broederstroom River",
+    "station": "B8R006",
+    "fsc": "2.0",
+    "this": "89.5",
+    "last": "91.6",
+    "year": "80.5"
+   },
+   {
+    "name": "De Hoop Dam",
+    "river": "Steelpoort River",
+    "station": "B4R007",
+    "fsc": "348.7",
+    "this": "100.0",
+    "last": "100.2",
+    "year": "99.2"
+   },
+   {
+    "name": "Doorndraai Dam",
+    "river": "Sterk River",
+    "station": "A6R001",
+    "fsc": "45.0",
+    "this": "99.5",
+    "last": "99.9",
+    "year": "99.1"
+   },
+   {
+    "name": "Ebenezer Dam",
+    "river": "Groot-Letaba River",
+    "station": "B8R001",
+    "fsc": "69.2",
+    "this": "100.3",
+    "last": "100.4",
+    "year": "96.5"
+   },
+   {
+    "name": "Flag Boshielo Dam",
+    "river": "Olifants River",
+    "station": "B5R002",
+    "fsc": "185.2",
+    "this": "100.8",
+    "last": "102.4",
+    "year": "95.6"
+   },
+   {
+    "name": "Glen Alpine Dam",
+    "river": "Mogalakwena River",
+    "station": "A6R002",
+    "fsc": "18.9",
+    "this": "100.5",
+    "last": "100.5",
+    "year": "97.6"
+   },
+   {
+    "name": "Hans Merensky Dam",
+    "river": "Ramadiepa River",
+    "station": "B8R002",
+    "fsc": "1.3",
+    "this": "101.9",
+    "last": "102.3",
+    "year": "101.2"
+   },
+   {
+    "name": "Houtrivier Dam",
+    "river": "Hout River",
+    "station": "A7R002",
+    "fsc": "6.7",
+    "this": "86.3",
+    "last": "87.2",
+    "year": "83.8"
+   },
+   {
+    "name": "Klaserie Dam",
+    "river": "Klaserie River",
+    "station": "B7R001",
+    "fsc": "5.7",
+    "this": "100.6",
+    "last": "100.8",
+    "year": "83.5"
+   },
+   {
+    "name": "Luphephe Dam",
+    "river": "Luphephe River",
+    "station": "A8R002",
+    "fsc": "14.0",
+    "this": "100.8",
+    "last": "100.8",
+    "year": "31.0"
+   },
+   {
+    "name": "Magoebaskloof Dam",
+    "river": "Politsi River",
+    "station": "B8R003",
+    "fsc": "4.9",
+    "this": "100.5",
+    "last": "100.5",
+    "year": "100.1"
+   },
+   {
+    "name": "Middel-Letaba Dam",
+    "river": "Middel-Letaba River",
+    "station": "B8R007",
+    "fsc": "172.0",
+    "this": "96.6",
+    "last": "96.9",
+    "year": "5.5"
+   },
+   {
+    "name": "Modjadji Dam",
+    "river": "Molototsi River",
+    "station": "B8R011",
+    "fsc": "7.2",
+    "this": "100.4",
+    "last": "100.7",
+    "year": "25.2"
+   },
+   {
+    "name": "Mokolo Dam",
+    "river": "Mokolo River",
+    "station": "A4R001",
+    "fsc": "145.8",
+    "this": "#102.3",
+    "last": "#102.3",
+    "year": "#102.3"
+   },
+   {
+    "name": "Mutshedzi Dam",
+    "river": "Mutshedzi River",
+    "station": "A8R004",
+    "fsc": "2.4",
+    "this": "106.1",
+    "last": "106.4",
+    "year": "95.0"
+   },
+   {
+    "name": "Nandoni Dam",
+    "river": "Levhuvhu River",
+    "station": "A9R004",
+    "fsc": "166.2",
+    "this": "101.4",
+    "last": "101.9",
+    "year": "86.1"
+   },
+   {
+    "name": "Nsami Dam",
+    "river": "Nsama River",
+    "station": "B8R009",
+    "fsc": "21.9",
+    "this": "87.9",
+    "last": "88.5",
+    "year": "64.5"
+   },
+   {
+    "name": "Nwanedzi Dam",
+    "river": "Nwanedzi River",
+    "station": "A8R003",
+    "fsc": "5.2",
+    "this": "100.4",
+    "last": "100.4",
+    "year": "46.8"
+   },
+   {
+    "name": "Nzhelele Dam",
+    "river": "Nzhelele River",
+    "station": "A8R001",
+    "fsc": "51.3",
+    "this": "100.4",
+    "last": "100.7",
+    "year": "83.6"
+   },
+   {
+    "name": "Rust De Winter Dam",
+    "river": "Elands River",
+    "station": "B3R001",
+    "fsc": "28.2",
+    "this": "100.3",
+    "last": "100.7",
+    "year": "101.0"
+   },
+   {
+    "name": "Thabina Dam",
+    "river": "Thabina River",
+    "station": "B8R012",
+    "fsc": "3.5",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "91.9"
+   },
+   {
+    "name": "Tonteldoos Dam",
+    "river": "Tonteldoos River",
+    "station": "B4R001",
+    "fsc": "0.2",
+    "this": "100.5",
+    "last": "100.5",
+    "year": "100.5"
+   },
+   {
+    "name": "Tours Dam",
+    "river": "Ngwabitsi River",
+    "station": "B7R003",
+    "fsc": "6.1",
+    "this": "100.0",
+    "last": "100.1",
+    "year": "94.1"
+   },
+   {
+    "name": "Tzaneen Dam",
+    "river": "Groot-Letaba River",
+    "station": "B8R005",
+    "fsc": "114.3",
+    "this": "81.5",
+    "last": "81.5",
+    "year": "70.5"
+   },
+   {
+    "name": "Vergelegen Dam",
+    "river": "Tributary of Politsi River",
+    "station": "B8R004",
+    "fsc": "0.3",
+    "this": "102.6",
+    "last": "102.3",
+    "year": "71.8"
+   },
+   {
+    "name": "Vlugkraal Dam",
+    "river": "Vlugkraal River",
+    "station": "B4R002",
+    "fsc": "0.5",
+    "this": "100.0",
+    "last": "97.3",
+    "year": "97.7"
+   },
+   {
+    "name": "Vondo Dam",
+    "river": "Mutshindudi River",
+    "station": "A9R002",
+    "fsc": "30.5",
+    "this": "100.9",
+    "last": "101.0",
+    "year": "91.1"
+   },
+   {
+    "name": "Warmbad Dam",
+    "river": "Buffelspruit River",
+    "station": "A2R008",
+    "fsc": "0.6",
+    "this": "102.8",
+    "last": "102.8",
+    "year": "102.8"
+   }
+  ]
+ },
+ "M": {
+  "province": "Mpumalanga",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Blyderivierpoort Dam",
+    "river": "Blyde River",
+    "station": "B6R003",
+    "fsc": "54.4",
+    "this": "100.2",
+    "last": "100.5",
+    "year": "81.0"
+   },
+   {
+    "name": "Buffelskloof Dam",
+    "river": "Waterval River",
+    "station": "B4R004",
+    "fsc": "5.3",
+    "this": "100.3",
+    "last": "100.3",
+    "year": "93.3"
+   },
+   {
+    "name": "Da Gama Dam",
+    "river": "White Waters River",
+    "station": "X3R001",
+    "fsc": "13.6",
+    "this": "99.8",
+    "last": "100.3",
+    "year": "87.4"
+   },
+   {
+    "name": "Driekoppies Dam",
+    "river": "Lomati River",
+    "station": "X1R004",
+    "fsc": "251.0",
+    "this": "100.4",
+    "last": "100.5",
+    "year": "85.0"
+   },
+   {
+    "name": "Grootdraai Dam",
+    "river": "Vaal River",
+    "station": "C1R002",
+    "fsc": "349.8",
+    "this": "100.7",
+    "last": "101.2",
+    "year": "94.8"
+   },
+   {
+    "name": "Heyshope Dam",
+    "river": "Assegaai River",
+    "station": "W5R004",
+    "fsc": "445.0",
+    "this": "100.4",
+    "last": "100.8",
+    "year": "100.0"
+   },
+   {
+    "name": "Inyaka Dam",
+    "river": "Marite River",
+    "station": "X3R002",
+    "fsc": "123.7",
+    "this": "100.1",
+    "last": "100.4",
+    "year": "93.5"
+   },
+   {
+    "name": "Jericho Dam",
+    "river": "Mpama River",
+    "station": "W5R001",
+    "fsc": "59.0",
+    "this": "91.7",
+    "last": "92.0",
+    "year": "92.0"
+   },
+   {
+    "name": "Klipkopjes Dam",
+    "river": "Wit River",
+    "station": "X2R002",
+    "fsc": "11.8",
+    "this": "#100.4",
+    "last": "100.4",
+    "year": "80.9"
+   },
+   {
+    "name": "Kwena Dam",
+    "river": "Krokodil River",
+    "station": "X2R005",
+    "fsc": "158.7",
+    "this": "99.8",
+    "last": "100.4",
+    "year": "83.2"
+   },
+   {
+    "name": "Longmere Dam",
+    "river": "Wit River",
+    "station": "X2R001",
+    "fsc": "4.3",
+    "this": "#101.6",
+    "last": "101.6",
+    "year": "85.3"
+   },
+   {
+    "name": "Loskop Dam",
+    "river": "Olifants River",
+    "station": "B3R002",
+    "fsc": "361.6",
+    "this": "100.2",
+    "last": "100.7",
+    "year": "98.3"
+   },
+   {
+    "name": "Middelburg Dam",
+    "river": "Little Olifants River",
+    "station": "B1R002",
+    "fsc": "48.1",
+    "this": "94.6",
+    "last": "95.2",
+    "year": "88.8"
+   },
+   {
+    "name": "Morgenstond Dam",
+    "river": "Ngwempisi River",
+    "station": "W5R003",
+    "fsc": "100.0",
+    "this": "100.3",
+    "last": "100.3",
+    "year": "100.4"
+   },
+   {
+    "name": "Nooitgedacht Dam",
+    "river": "Komati River",
+    "station": "X1R001",
+    "fsc": "78.4",
+    "this": "99.2",
+    "last": "99.6",
+    "year": "93.7"
+   },
+   {
+    "name": "Ohrigstad Dam",
+    "river": "Ohrigstad River",
+    "station": "B6R001",
+    "fsc": "13.5",
+    "this": "88.6",
+    "last": "88.9",
+    "year": "52.9"
+   },
+   {
+    "name": "Primkop Dam",
+    "river": "Wit River",
+    "station": "X2R004",
+    "fsc": "1.9",
+    "this": "#101.7",
+    "last": "101.7",
+    "year": "82.6"
+   },
+   {
+    "name": "Rhenosterkop Dam",
+    "river": "Elands River",
+    "station": "B3R005",
+    "fsc": "204.6",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "98.3"
+   },
+   {
+    "name": "Vygeboom Dam",
+    "river": "Komati River",
+    "station": "X1R003",
+    "fsc": "78.1",
+    "this": "100.4",
+    "last": "100.7",
+    "year": "98.6"
+   },
+   {
+    "name": "Westoe Dam",
+    "river": "Usutu River",
+    "station": "W5R002",
+    "fsc": "60.1",
+    "this": "52.5",
+    "last": "53.3",
+    "year": "66.7"
+   },
+   {
+    "name": "Witbank Dam",
+    "river": "Olifants River",
+    "station": "B1R001",
+    "fsc": "104.1",
+    "this": "99.2",
+    "last": "99.0",
+    "year": "99.1"
+   },
+   {
+    "name": "Witklip Dam",
+    "river": "Sand River",
+    "station": "X2R003",
+    "fsc": "12.6",
+    "this": "100.4",
+    "last": "100.6",
+    "year": "86.4"
+   }
+  ]
+ },
+ "NC": {
+  "province": "Northern Cape",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Boegoeberg Dam",
+    "river": "Orange River",
+    "station": "D7R001",
+    "fsc": "23.6",
+    "this": "127.4",
+    "last": "134.3",
+    "year": "110.3"
+   },
+   {
+    "name": "Douglas Weir Dam",
+    "river": "Vaal River",
+    "station": "C9R003",
+    "fsc": "16.3",
+    "this": "113.3",
+    "last": "126.2",
+    "year": "109.8"
+   },
+   {
+    "name": "Karee Dam",
+    "river": "Karee River",
+    "station": "E4R001",
+    "fsc": "1.0",
+    "this": "99.0",
+    "last": "99.0",
+    "year": "89.9"
+   },
+   {
+    "name": "Leeubos Dam",
+    "river": "Swartbas River",
+    "station": "D4R001",
+    "fsc": "1.0",
+    "this": "#0.0",
+    "last": "#0.0",
+    "year": "#0.0"
+   },
+   {
+    "name": "Spitskop Dam",
+    "river": "Harts River",
+    "station": "C3R002",
+    "fsc": "57.9",
+    "this": "104.9",
+    "last": "105.8",
+    "year": "85.6"
+   },
+   {
+    "name": "Vaalharts Weir Dam",
+    "river": "Vaal River",
+    "station": "C9R001",
+    "fsc": "50.7",
+    "this": "85.5",
+    "last": "73.1",
+    "year": "85.3"
+   }
+  ]
+ },
+ "NW": {
+  "province": "North West",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Boskop Dam",
+    "river": "Mooi River",
+    "station": "C2R001",
+    "fsc": "20.0",
+    "this": "102.8",
+    "last": "102.8",
+    "year": "102.2"
+   },
+   {
+    "name": "Bospoort Dam",
+    "river": "Hex River",
+    "station": "A2R006",
+    "fsc": "15.8",
+    "this": "101.7",
+    "last": "101.9",
+    "year": "101.8"
+   },
+   {
+    "name": "Buffelspoort Dam",
+    "river": "Sterkstroom River",
+    "station": "A2R005",
+    "fsc": "10.2",
+    "this": "100.4",
+    "last": "100.5",
+    "year": "100.6"
+   },
+   {
+    "name": "Disaneng Dam",
+    "river": "Molopo River",
+    "station": "D4R003",
+    "fsc": "14.2",
+    "this": "100.5",
+    "last": "100.5",
+    "year": "97.7"
+   },
+   {
+    "name": "Elandskuil Dam",
+    "river": "Swartleegte River",
+    "station": "C2R006",
+    "fsc": "1.2",
+    "this": "106.6",
+    "last": "106.6",
+    "year": "99.2"
+   },
+   {
+    "name": "Hartbeespoort Dam",
+    "river": "Krokodil River",
+    "station": "A2R001",
+    "fsc": "185.8",
+    "this": "100.7",
+    "last": "99.6",
+    "year": "93.2"
+   },
+   {
+    "name": "Johan Neser Dam",
+    "river": "Skoonspruit River",
+    "station": "C2R002",
+    "fsc": "5.7",
+    "this": "103.9",
+    "last": "101.7",
+    "year": "101.7"
+   },
+   {
+    "name": "Klein-Maricopoort Dam",
+    "river": "Klein Marico River",
+    "station": "A3R002",
+    "fsc": "7.3",
+    "this": "101.7",
+    "last": "101.7",
+    "year": "100.7"
+   },
+   {
+    "name": "Klerkskraal Dam",
+    "river": "Mooi River",
+    "station": "C2R003",
+    "fsc": "8.0",
+    "this": "110.2",
+    "last": "110.2",
+    "year": "104.0"
+   },
+   {
+    "name": "Klipvoor Dam",
+    "river": "Pienaars River",
+    "station": "A2R012",
+    "fsc": "40.8",
+    "this": "101.7",
+    "last": "103.6",
+    "year": "70.0"
+   },
+   {
+    "name": "Kosterrivier Dam",
+    "river": "Koster River",
+    "station": "A2R011",
+    "fsc": "12.5",
+    "this": "100.8",
+    "last": "100.8",
+    "year": "99.4"
+   },
+   {
+    "name": "Kromellenboog Dam",
+    "river": "Klein Marico River",
+    "station": "A3R003",
+    "fsc": "8.7",
+    "this": "100.7",
+    "last": "101.0",
+    "year": "74.0"
+   },
+   {
+    "name": "Lindleyspoort Dam",
+    "river": "Elands River",
+    "station": "A2R007",
+    "fsc": "14.3",
+    "this": "100.1",
+    "last": "100.3",
+    "year": "93.1"
+   },
+   {
+    "name": "Madikwe Dam",
+    "river": "Tholwane River",
+    "station": "A3R006",
+    "fsc": "16.0",
+    "this": "101.5",
+    "last": "102.4",
+    "year": "95.5"
+   },
+   {
+    "name": "Marico-Bosveld Dam",
+    "river": "Groot-Marico River",
+    "station": "A3R001",
+    "fsc": "27.0",
+    "this": "100.3",
+    "last": "100.8",
+    "year": "95.8"
+   },
+   {
+    "name": "Middelkraal Dam",
+    "river": "Maretlwane River",
+    "station": "A2R018",
+    "fsc": "0.8",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "#97.8"
+   },
+   {
+    "name": "Molatedi Dam",
+    "river": "Groot-Marico River",
+    "station": "A3R004",
+    "fsc": "200.8",
+    "this": "109.0",
+    "last": "109.2",
+    "year": "100.1"
+   },
+   {
+    "name": "Ngotwane Dam",
+    "river": "Ngotwane River",
+    "station": "A1R001",
+    "fsc": "19.1",
+    "this": "85.2",
+    "last": "85.2",
+    "year": "76.0"
+   },
+   {
+    "name": "Olifantsnek Dam",
+    "river": "Hex River",
+    "station": "A2R003",
+    "fsc": "13.7",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "92.4"
+   },
+   {
+    "name": "Pella Dam",
+    "river": "Lethlakane River",
+    "station": "A3R007",
+    "fsc": "2.2",
+    "this": "66.5",
+    "last": "67.2",
+    "year": "50.4"
+   },
+   {
+    "name": "Potchefstroom Dam",
+    "river": "Mooi River",
+    "station": "C2R004",
+    "fsc": "2.1",
+    "this": "103.1",
+    "last": "103.1",
+    "year": "102.4"
+   },
+   {
+    "name": "Rietspruit Dam",
+    "river": "Rietspruit River",
+    "station": "C2R007",
+    "fsc": "7.3",
+    "this": "101.3",
+    "last": "101.9",
+    "year": "95.8"
+   },
+   {
+    "name": "Roodekopjes Dam",
+    "river": "Krokodil River",
+    "station": "A2R015",
+    "fsc": "96.4",
+    "this": "103.4",
+    "last": "105.6",
+    "year": "84.3"
+   },
+   {
+    "name": "Sehujwane Dam",
+    "river": "Sehujane River",
+    "station": "A3R005",
+    "fsc": "3.7",
+    "this": "85.0",
+    "last": "85.1",
+    "year": "80.5"
+   },
+   {
+    "name": "Setumo Dam",
+    "river": "Molopo River",
+    "station": "D4R004",
+    "fsc": "20.8",
+    "this": "99.4",
+    "last": "99.2",
+    "year": "98.0"
+   },
+   {
+    "name": "Swartruggens Dam",
+    "river": "Elands River",
+    "station": "A2R013",
+    "fsc": "0.5",
+    "this": "102.0",
+    "last": "102.7",
+    "year": "100.8"
+   },
+   {
+    "name": "Taung Dam",
+    "river": "Harts River",
+    "station": "C3R006",
+    "fsc": "61.4",
+    "this": "100.6",
+    "last": "100.7",
+    "year": "98.1"
+   },
+   {
+    "name": "Vaalkop Dam",
+    "river": "Elands River",
+    "station": "A2R014",
+    "fsc": "51.4",
+    "this": "99.8",
+    "last": "101.2",
+    "year": "55.2"
+   }
+  ]
+ },
+ "WC": {
+  "province": "Western Cape",
+  "date": "2026-10-12",
+  "dams": [
+   {
+    "name": "Bellair Dam",
+    "river": "Brak River",
+    "station": "J1R002",
+    "fsc": "4.3",
+    "this": "96.0",
+    "last": "96.0",
+    "year": "80.6"
+   },
+   {
+    "name": "Berg River Dam",
+    "river": "Berg River",
+    "station": "G1R004",
+    "fsc": "127.1",
+    "this": "93.2",
+    "last": "93.4",
+    "year": "99.9"
+   },
+   {
+    "name": "Brandvlei Dam",
+    "river": "Lower Brandvlei River",
+    "station": "H1R001",
+    "fsc": "286.1",
+    "this": "71.1",
+    "last": "69.8",
+    "year": "78.2"
+   },
+   {
+    "name": "Buffeljags Dam",
+    "river": "Buffeljags River",
+    "station": "H7R001",
+    "fsc": "4.6",
+    "this": "100.8",
+    "last": "102.3",
+    "year": "91.7"
+   },
+   {
+    "name": "Bulshoek Dam",
+    "river": "Olifants River",
+    "station": "E1R001",
+    "fsc": "4.9",
+    "this": "80.8",
+    "last": "98.1",
+    "year": "95.0"
+   },
+   {
+    "name": "Calitzdorp Dam",
+    "river": "Nels River",
+    "station": "J2R001",
+    "fsc": "4.9",
+    "this": "100.4",
+    "last": "100.8",
+    "year": "52.2"
+   },
+   {
+    "name": "Ceres Dam",
+    "river": "Koekedou River",
+    "station": "S7R001",
+    "fsc": "17.3",
+    "this": "104.8",
+    "last": "105.7",
+    "year": "101.2"
+   },
+   {
+    "name": "Ceres Dam",
+    "river": "Koekedou River",
+    "station": "S7R002",
+    "fsc": "17.3",
+    "this": "100.0",
+    "last": "95.3",
+    "year": "98.2"
+   },
+   {
+    "name": "Ceres Dam",
+    "river": "Koekedou River",
+    "station": "S7R003",
+    "fsc": "17.3",
+    "this": "90.2",
+    "last": "89.8",
+    "year": "89.0"
+   },
+   {
+    "name": "Ceres Dam",
+    "river": "Koekedou River",
+    "station": "H1R003",
+    "fsc": "17.3",
+    "this": "91.8",
+    "last": "92.4",
+    "year": "100.0"
+   },
+   {
+    "name": "Clanwilliam Dam",
+    "river": "Olifants River",
+    "station": "E1R002",
+    "fsc": "122.5",
+    "this": "94.5",
+    "last": "93.9",
+    "year": "95.8"
+   },
+   {
+    "name": "De Bos Dam",
+    "river": "Onrus River",
+    "station": "G4R010",
+    "fsc": "5.8",
+    "this": "98.6",
+    "last": "98.9",
+    "year": "99.2"
+   },
+   {
+    "name": "Duiwenhoks Dam",
+    "river": "Duiwenhoks River",
+    "station": "H8R001",
+    "fsc": "6.2",
+    "this": "100.3",
+    "last": "100.6",
+    "year": "86.1"
+   },
+   {
+    "name": "Eikenhof Dam",
+    "river": "Palmiet River",
+    "station": "G4R002",
+    "fsc": "28.9",
+    "this": "101.3",
+    "last": "99.5",
+    "year": "99.7"
+   },
+   {
+    "name": "Elandskloof Dam",
+    "river": "Elands River",
+    "station": "H6R002",
+    "fsc": "11.0",
+    "this": "100.5",
+    "last": "100.5",
+    "year": "99.0"
+   },
+   {
+    "name": "Ernest Robertson Dam",
+    "river": "Groot Brak River",
+    "station": "K2R001",
+    "fsc": "0.5",
+    "this": "101.2",
+    "last": "101.2",
+    "year": "38.0"
+   },
+   {
+    "name": "Floriskraal Dam",
+    "river": "Buffels River",
+    "station": "J1R003",
+    "fsc": "46.7",
+    "this": "100.6",
+    "last": "101.0",
+    "year": "40.4"
+   },
+   {
+    "name": "Gamka Dam",
+    "river": "Gamka River",
+    "station": "J2R004",
+    "fsc": "1.8",
+    "this": "99.7",
+    "last": "100.6",
+    "year": "32.9"
+   },
+   {
+    "name": "Gamkapoort Dam",
+    "river": "Gamka River",
+    "station": "J2R006",
+    "fsc": "35.8",
+    "this": "102.9",
+    "last": "104.9",
+    "year": "32.1"
+   },
+   {
+    "name": "Garden Route Dam",
+    "river": "Swart River",
+    "station": "K3R002",
+    "fsc": "12.5",
+    "this": "99.3",
+    "last": "100.0",
+    "year": "62.2"
+   },
+   {
+    "name": "Haarlem Dam",
+    "river": "Groot River",
+    "station": "L8R002",
+    "fsc": "4.7",
+    "this": "101.0",
+    "last": "101.8",
+    "year": "62.0"
+   },
+   {
+    "name": "Hartebeestkuil Dam",
+    "river": "Hartenbos River",
+    "station": "K1R001",
+    "fsc": "7.2",
+    "this": "99.8",
+    "last": "100.0",
+    "year": "60.0"
+   },
+   {
+    "name": "Kammanassie Dam",
+    "river": "Kammanassie River",
+    "station": "J3R001",
+    "fsc": "34.4",
+    "this": "100.2",
+    "last": "100.0",
+    "year": "60.9"
+   },
+   {
+    "name": "Keerom Dam",
+    "river": "Nuy River",
+    "station": "H4R002",
+    "fsc": "9.8",
+    "this": "88.4",
+    "last": "88.4",
+    "year": "97.0"
+   },
+   {
+    "name": "Klipberg Dam",
+    "river": "Konings River",
+    "station": "H4R003",
+    "fsc": "2.0",
+    "this": "99.5",
+    "last": "101.3",
+    "year": "63.2"
+   },
+   {
+    "name": "Klipheuwel Dam",
+    "river": "Tributary of Hartenbos River",
+    "station": "K1R002",
+    "fsc": "4.5",
+    "this": "8.8",
+    "last": "11.1",
+    "year": "15.0"
+   },
+   {
+    "name": "Korentepoort Dam",
+    "river": "Korinte River",
+    "station": "H9R001",
+    "fsc": "8.1",
+    "this": "100.3",
+    "last": "100.6",
+    "year": "80.2"
+   },
+   {
+    "name": "Kwaggaskloof Dam",
+    "river": "Doorn River",
+    "station": "H4R004",
+    "fsc": "169.5",
+    "this": "69.5",
+    "last": "67.9",
+    "year": "76.4"
+   },
+   {
+    "name": "Lakenvallei Dam",
+    "river": "Sanddrifskloof River",
+    "station": "H2R002",
+    "fsc": "10.5",
+    "this": "100.2",
+    "last": "100.2",
+    "year": "99.4"
+   },
+   {
+    "name": "Leeugamka Dam",
+    "river": "Leeu River",
+    "station": "J2R002",
+    "fsc": "13.5",
+    "this": "100.6",
+    "last": "101.3",
+    "year": "32.5"
+   },
+   {
+    "name": "Miertjieskraal Dam",
+    "river": "Brand River",
+    "station": "J1R004",
+    "fsc": "1.5",
+    "this": "99.7",
+    "last": "100.0",
+    "year": "55.2"
+   },
+   {
+    "name": "Misverstand Dam",
+    "river": "Berg River",
+    "station": "G1R003",
+    "fsc": "5.7",
+    "this": "103.0",
+    "last": "104.3",
+    "year": "108.5"
+   },
+   {
+    "name": "Oukloof Dam",
+    "river": "Cordiers River",
+    "station": "J2R003",
+    "fsc": "4.3",
+    "this": "100.4",
+    "last": "100.6",
+    "year": "93.9"
+   },
+   {
+    "name": "Pietersfontein Dam",
+    "river": "Pietersfontein River",
+    "station": "H3R002",
+    "fsc": "2.0",
+    "this": "100.2",
+    "last": "100.5",
+    "year": "79.2"
+   },
+   {
+    "name": "Poortjieskloof Dam",
+    "river": "Groot River",
+    "station": "H3R001",
+    "fsc": "9.8",
+    "this": "99.5",
+    "last": "99.8",
+    "year": "87.0"
+   },
+   {
+    "name": "Prinsrivier Dam",
+    "river": "Prins River",
+    "station": "J1R001",
+    "fsc": "2.3",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "26.8"
+   },
+   {
+    "name": "Roode Els Berg Dam",
+    "river": "Sanddrifskloof River",
+    "station": "H2R001",
+    "fsc": "7.8",
+    "this": "100.1",
+    "last": "98.3",
+    "year": "99.7"
+   },
+   {
+    "name": "Roodefontein Dam",
+    "river": "Piesang River",
+    "station": "K6R001",
+    "fsc": "2.0",
+    "this": "99.8",
+    "last": "101.0",
+    "year": "48.4"
+   },
+   {
+    "name": "Steenbras-Lower Dam",
+    "river": "Steenbras River",
+    "station": "G4R001",
+    "fsc": "33.9",
+    "this": "46.6",
+    "last": "47.0",
+    "year": "94.5"
+   },
+   {
+    "name": "Steenbras-Upper Dam",
+    "river": "Steenbras River",
+    "station": "G4R007",
+    "fsc": "31.9",
+    "this": "96.5",
+    "last": "95.5",
+    "year": "98.6"
+   },
+   {
+    "name": "Stettynskloof Dam",
+    "river": "Holsloot River",
+    "station": "H1R002",
+    "fsc": "14.8",
+    "this": "99.5",
+    "last": "99.5",
+    "year": "100.0"
+   },
+   {
+    "name": "Stompdrift Dam",
+    "river": "Olifants River",
+    "station": "J3R002",
+    "fsc": "46.3",
+    "this": "100.4",
+    "last": "101.5",
+    "year": "55.5"
+   },
+   {
+    "name": "Theewaterskloof Dam",
+    "river": "Riviersonderend River",
+    "station": "H6R001",
+    "fsc": "479.3",
+    "this": "74.7",
+    "last": "75.0",
+    "year": "84.5"
+   },
+   {
+    "name": "Tierkloof Dam",
+    "river": "Tributary of Seweweekspoort River",
+    "station": "J2R008",
+    "fsc": "0.1",
+    "this": "100.0",
+    "last": "100.0",
+    "year": "63.0"
+   },
+   {
+    "name": "Voelvlei Dam",
+    "river": "Voelvlei River",
+    "station": "G1R001",
+    "fsc": "158.6",
+    "this": "57.6",
+    "last": "58.0",
+    "year": "99.8"
+   },
+   {
+    "name": "Wemmershoek Dam",
+    "river": "Wemmers River",
+    "station": "G1R002",
+    "fsc": "58.8",
+    "this": "84.6",
+    "last": "86.7",
+    "year": "86.8"
+   },
+   {
+    "name": "Wolwedans Dam",
+    "river": "Groot Brak River",
+    "station": "K2R002",
+    "fsc": "24.7",
+    "this": "100.0",
+    "last": "100.4",
+    "year": "80.2"
+   }
+  ]
+ }
+}
