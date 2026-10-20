@@ -1,0 +1,7742 @@
+{
+ "asset:mbombo pass:-31.236:27.842": [
+  {
+   "tags": {
+    "highway": "primary",
+    "noname": "yes",
+    "ref": "R58",
+    "surface": "asphalt"
+   },
+   "lat": -31.2366282,
+   "lon": 27.8383606
+  }
+ ],
+ "asset:houwhoek pass:-34.217:19.173": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "ref": "N2",
+    "surface": "asphalt"
+   },
+   "lat": -34.2184987,
+   "lon": 19.1759866
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "ref": "N2",
+    "surface": "asphalt"
+   },
+   "lat": -34.2167484,
+   "lon": 19.1752088
+  }
+ ],
+ "asset:carlton heights top:-31.284:24.944": [],
+ "asset:du toitskloof pass:-33.696:19.074": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "surface": "asphalt"
+   },
+   "lat": -33.6976164,
+   "lon": 19.076243
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.696889,
+   "lon": 19.0754948
+  }
+ ],
+ "asset:remhoogte:-33.879:20.175": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.8767799,
+   "lon": 20.1664518
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.8758032,
+   "lon": 20.1675151
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.8785061,
+   "lon": 20.1734194
+  }
+ ],
+ "asset:nieuwoudts pass:-32.347:19.013": [
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path"
+   },
+   "lat": -32.3448492,
+   "lon": 19.01678
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Rooiberg Trail"
+   },
+   "lat": -32.3433785,
+   "lon": 19.011137
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -32.3426113,
+   "lon": 19.0142583
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "ground"
+   },
+   "lat": -32.3467992,
+   "lon": 19.0088745
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "ground"
+   },
+   "lat": -32.3473251,
+   "lon": 19.0128368
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "ground"
+   },
+   "lat": -32.3460577,
+   "lon": 19.0148462
+  }
+ ],
+ "asset:op de tradouw pass:-33.921:20.514": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "120",
+    "noname": "yes",
+    "official_ref": "TR31/3",
+    "ref": "R62",
+    "shoulder": "yes",
+    "smoothness": "good",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes:forward": "merge_to_right|through"
+   },
+   "lat": -33.9207622,
+   "lon": 20.5125633
+  },
+  {
+   "tags": {
+    "highway": "unclassified",
+    "source": "digitalglobe",
+    "surface": "unpaved"
+   },
+   "lat": -33.9156786,
+   "lon": 20.5171683
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.9171393,
+   "lon": 20.5098499
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "120",
+    "noname": "yes",
+    "official_ref": "TR31/3",
+    "ref": "R62",
+    "shoulder": "yes",
+    "smoothness": "good",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.9203414,
+   "lon": 20.5108344
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "incline": "-6%",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "120",
+    "maxspeed:practical": "100",
+    "noname": "yes",
+    "official_ref": "TR31/3",
+    "ref": "R62",
+    "shoulder": "yes",
+    "smoothness": "good",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.9220335,
+   "lon": 20.5168254
+  }
+ ],
+ "asset:ecca pass:-33.216:26.627": [],
+ "asset:nuwe kloof pass:-33.318:19.083": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Old Road Through Kloof",
+    "surface": "unpaved"
+   },
+   "lat": -33.316086,
+   "lon": 19.082796
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "100",
+    "noname": "yes",
+    "ref": "R46",
+    "smoothness": "intermediate",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.315674,
+   "lon": 19.0849111
+  }
+ ],
+ "asset:mitchell`s pass:-33.379:19.298": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "noname": "yes",
+    "ref": "R46",
+    "surface": "asphalt"
+   },
+   "lat": -33.3810772,
+   "lon": 19.2923842
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "noname": "yes",
+    "ref": "R46",
+    "surface": "asphalt"
+   },
+   "lat": -33.3766837,
+   "lon": 19.298586
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "noname": "yes",
+    "ref": "R46",
+    "surface": "asphalt"
+   },
+   "lat": -33.3782272,
+   "lon": 19.2969812
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.376008,
+   "lon": 19.2971025
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.3779081,
+   "lon": 19.296748
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Orange Tree Street"
+   },
+   "lat": -33.3785565,
+   "lon": 19.3014255
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.3781549,
+   "lon": 19.3002476
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Appletree Street"
+   },
+   "lat": -33.3777316,
+   "lon": 19.3011985
+  }
+ ],
+ "asset:van rhyn's pass:-31.376:19.019": [
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "80",
+    "noname": "yes",
+    "ref": "R27",
+    "source": "NGI-Aerial",
+    "surface": "asphalt"
+   },
+   "lat": -31.3742389,
+   "lon": 19.0182554
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -31.3749445,
+   "lon": 19.0180274
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "oneway": "yes"
+   },
+   "lat": -31.3750836,
+   "lon": 19.0179918
+  }
+ ],
+ "asset:garcia's pass:-33.967:21.220": [],
+ "asset:swartberg pass:-33.352:22.046": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "lit": "no",
+    "name": "Swartberg Pass",
+    "oneway": "no",
+    "surface": "compacted"
+   },
+   "lat": -33.3458884,
+   "lon": 22.0434225
+  }
+ ],
+ "asset:sani pass:-29.585:29.287": [
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -29.5842159,
+   "lon": 29.2866421
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -29.582609,
+   "lon": 29.2873309
+  },
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "highway": "primary",
+    "incline": "25%",
+    "name": "Sani Pass",
+    "note": "Road priority according to Africa mapping determined by use, not by surface;(4x4 Only)",
+    "oneway": "no",
+    "smoothness": "horrible",
+    "surface": "gravel",
+    "tracktype": "grade3"
+   },
+   "lat": -29.5867801,
+   "lon": 29.2905249
+  },
+  {
+   "tags": {
+    "description": "track to village & backpackers",
+    "highway": "track",
+    "surface": "unpaved",
+    "tracktype": "grade1"
+   },
+   "lat": -29.5828352,
+   "lon": 29.2848117
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -29.5832528,
+   "lon": 29.286147
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "tracktype": "grade1"
+   },
+   "lat": -29.5821795,
+   "lon": 29.2850988
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -29.5844505,
+   "lon": 29.2850883
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -29.5846923,
+   "lon": 29.285382
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "oneway": "no",
+    "ref": "A14",
+    "surface": "asphalt"
+   },
+   "lat": -29.5844398,
+   "lon": 29.2854263
+  },
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "highway": "primary",
+    "incline": "25%",
+    "lanes": "2",
+    "name": "Sani Pass",
+    "note": "Road priority according to Africa mapping determined by use, not by surface;(4x4 Only)",
+    "oneway": "no",
+    "smoothness": "horrible",
+    "surface": "asphalt",
+    "tracktype": "grade3"
+   },
+   "lat": -29.5846967,
+   "lon": 29.286139
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -29.5835056,
+   "lon": 29.2892074
+  }
+ ],
+ "asset:bain's kloof pass:-33.610:19.110": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R301",
+    "source": "Landsat",
+    "surface": "asphalt"
+   },
+   "lat": -33.6099926,
+   "lon": 19.1084466
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R301",
+    "source": "Landsat",
+    "surface": "asphalt"
+   },
+   "lat": -33.605176,
+   "lon": 19.1100248
+  }
+ ],
+ "asset:karoopoort:-33.217:19.717": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R355",
+    "surface": "gravel"
+   },
+   "lat": -33.2115211,
+   "lon": 19.7221007
+  }
+ ],
+ "asset:gydo pass:-33.224:19.324": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.224671,
+   "lon": 19.3265635
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.2256292,
+   "lon": 19.3270712
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.2228108,
+   "lon": 19.3252724
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.2272921,
+   "lon": 19.3258186
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.2216036,
+   "lon": 19.3266511
+  }
+ ],
+ "asset:thyshoogte:-32.788:20.242": [],
+ "asset:skilpadhoogte:-33.880:20.115": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "name": "Herry Hill Road",
+    "sagns_id": "81848",
+    "source": "sagns",
+    "surface": "asphalt"
+   },
+   "lat": -33.8748755,
+   "lon": 20.1151313
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.8810524,
+   "lon": 20.113213
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.8819163,
+   "lon": 20.111815
+  }
+ ],
+ "asset:pakhuis pass:-32.149:19.028": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -32.1524335,
+   "lon": 19.0302201
+  }
+ ],
+ "asset:nuwekloof pass:-33.488:23.626": [],
+ "asset:breedt's nek pass:-25.865:27.443": [],
+ "asset:dassieshoekpas:-33.764:19.880": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.7629138,
+   "lon": 19.8750813
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Dassieshoek",
+    "surface": "gravel",
+    "tracktype": "grade3"
+   },
+   "lat": -33.7604992,
+   "lon": 19.8810528
+  }
+ ],
+ "asset:tradouw pass:-33.954:20.707": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "Tradouw Pass",
+    "ref": "R324",
+    "surface": "asphalt"
+   },
+   "lat": -33.9474316,
+   "lon": 20.7060406
+  }
+ ],
+ "asset:kleinhoog:-32.265:19.205": [],
+ "asset:die poort:-32.286:19.219": [
+  {
+   "tags": {
+    "highway": "track",
+    "source": "digitalglobe",
+    "surface": "unpaved"
+   },
+   "lat": -32.2880945,
+   "lon": 19.2211455
+  }
+ ],
+ "asset:outeniqua pass:-33.886:22.399": [
+  {
+   "tags": {
+    "highway": "path",
+    "hiking": "yes",
+    "horse": "no",
+    "name": "Vensterberg trail",
+    "source": "local knowledge;gps",
+    "surface": "unpaved"
+   },
+   "lat": -33.8902486,
+   "lon": 22.392761
+  },
+  {
+   "tags": {
+    "fixme": "average lane count tagged; passing lanes have not been tagged (survey August 2017: CD-NGI imagery has the correct passing lanes, so can tag from there)",
+    "highway": "trunk",
+    "incline": "down",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "official_ref": "TR1/1",
+    "ref": "N9;N12",
+    "shoulder": "both",
+    "smoothness": "excellent",
+    "source": "ngi-aerial",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.8825519,
+   "lon": 22.3956428
+  },
+  {
+   "tags": {
+    "fixme": "average lane count tagged; passing lanes have not been tagged (survey August 2017: CD-NGI imagery has the correct passing lanes, so can tag from there)",
+    "highway": "trunk",
+    "incline": "up",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "official_ref": "TR1/1",
+    "ref": "N9;N12",
+    "shoulder": "both",
+    "smoothness": "excellent",
+    "source": "ngi-aerial",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.8883389,
+   "lon": 22.3991438
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "driveway"
+   },
+   "lat": -33.8833794,
+   "lon": 22.3984973
+  }
+ ],
+ "asset:hogsback pass:-32.613:26.918": [],
+ "asset:versveldpas:-32.846:18.731": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "source": "Saldanha Bay Municipality",
+    "surface": "asphalt"
+   },
+   "lat": -32.8390702,
+   "lon": 18.7303058
+  }
+ ],
+ "asset:bosluiskloofpas:-33.348:21.471": [],
+ "asset:ouberg pass:-33.681:20.252": [],
+ "asset:naudé's nek (highest point):-30.765:28.106": [],
+ "asset:naudé's nek (official sign):-30.732:28.137": [],
+ "asset:katbergpas:-32.457:26.653": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -32.4559881,
+   "lon": 26.6497884
+  }
+ ],
+ "asset:ouberg pass:-32.409:20.357": [],
+ "asset:goliatskraalkop se hoogte:-32.114:24.608": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -32.1114592,
+   "lon": 24.6006115
+  }
+ ],
+ "asset:bosmanshoekpas:-31.496:26.481": [],
+ "asset:ifidi pass:-28.787:28.938": [],
+ "asset:wildeperdehoek pass:-29.944:17.633": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -29.9385281,
+   "lon": 17.6282615
+  }
+ ],
+ "asset:gifbergpas:-31.748:18.790": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -31.7476509,
+   "lon": 18.7925337
+  }
+ ],
+ "asset:oliviershoek pass:-28.554:29.076": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -28.5516969,
+   "lon": 29.0727155
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "unpaved"
+   },
+   "lat": -28.5534531,
+   "lon": 29.0770401
+  },
+  {
+   "tags": {
+    "highway": "unclassified"
+   },
+   "lat": -28.5531567,
+   "lon": 29.075264
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -28.5532029,
+   "lon": 29.0771895
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "unpaved"
+   },
+   "lat": -28.5539209,
+   "lon": 29.07861
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -28.5534241,
+   "lon": 29.0780849
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "oneway": "no",
+    "ref": "R74",
+    "surface": "asphalt"
+   },
+   "lat": -28.5515943,
+   "lon": 29.0759836
+  }
+ ],
+ "asset:black eagle pass:-29.771:29.274": [],
+ "asset:namahadi pass:-28.755:28.866": [],
+ "asset:coetzeespoort pass:-33.489:21.888": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.4873871,
+   "lon": 21.8854313
+  }
+ ],
+ "asset:burgerspas:-33.692:19.919": [],
+ "asset:joubertpas:-30.717:27.243": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Joubert's Pass",
+    "surface": "gravel",
+    "wikipedia": "en:Joubert's Pass"
+   },
+   "lat": -30.7155343,
+   "lon": 27.2433194
+  }
+ ],
+ "asset:michel's pass:-32.562:26.859": [],
+ "asset:skaapkraalpoort:-31.979:26.268": [
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "layer": "1",
+    "note": "svr_Kaart_confirmed_202301",
+    "ref": "R344",
+    "surface": "unpaved"
+   },
+   "lat": -31.9792417,
+   "lon": 26.2676843
+  }
+ ],
+ "asset:bloukranspas:-33.949:23.631": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "name": "Bloukrans Pass",
+    "ref": "R102",
+    "surface": "asphalt"
+   },
+   "lat": -33.9510271,
+   "lon": 23.6327615
+  }
+ ],
+ "asset:rooibergpas:-33.650:21.643": [],
+ "asset:grootrivierhoogte pass:-32.611:19.368": [
+  {
+   "tags": {
+    "access": "private",
+    "highway": "track",
+    "tracktype": "grade5"
+   },
+   "lat": -32.6138799,
+   "lon": 19.363514
+  }
+ ],
+ "asset:luiperdnek:-33.331:22.115": [],
+ "asset:mnweni pass:-28.895:29.013": [
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "no"
+   },
+   "lat": -28.8989764,
+   "lon": 29.0093621
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -28.895928,
+   "lon": 29.014387
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -28.8938648,
+   "lon": 29.0112331
+  }
+ ],
+ "asset:klippoort:-32.254:19.152": [],
+ "asset:sandpoort:-32.257:19.166": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -32.2608526,
+   "lon": 19.1695862
+  }
+ ],
+ "asset:noordpoort:-32.468:19.129": [],
+ "asset:kokspoort:-32.520:19.175": [],
+ "asset:krakadoupas:-32.206:19.060": [],
+ "asset:vanzylsgatpoort:-32.327:19.113": [],
+ "asset:skerpioenspoort:-32.295:19.128": [],
+ "asset:klein-koupoort:-32.282:19.105": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Klein Koupoort"
+   },
+   "lat": -32.2846943,
+   "lon": 19.0990258
+  }
+ ],
+ "asset:sewegat se nek:-32.406:19.039": [],
+ "asset:bushman's nek:-33.338:22.139": [],
+ "asset:bannerman's pass:-29.253:29.420": [
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -29.2531309,
+   "lon": 29.4203835
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "sac_scale": "alpine_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "bad"
+   },
+   "lat": -29.2539572,
+   "lon": 29.422602
+  }
+ ],
+ "asset:nkonka crack:-29.760:30.833": [
+  {
+   "tags": {
+    "access": "yes",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "maxweight": "5",
+    "name": "Bridle Road",
+    "oneway": "no",
+    "ref": "M33",
+    "source": "eThekwini Metro",
+    "surface": "asphalt"
+   },
+   "lat": -29.7633411,
+   "lon": 30.8318017
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "name": "Forest Trail"
+   },
+   "lat": -29.7630286,
+   "lon": 30.8338753
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Dukele Place",
+    "source": "eThekwini Metro",
+    "surface": "asphalt"
+   },
+   "lat": -29.7599296,
+   "lon": 30.8303429
+  },
+  {
+   "tags": {
+    "highway": "footway"
+   },
+   "lat": -29.7614223,
+   "lon": 30.8340243
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "name": "Forest Trail"
+   },
+   "lat": -29.7612792,
+   "lon": 30.832587
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -29.7579435,
+   "lon": 30.8311918
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -29.7575532,
+   "lon": 30.8318182
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Ridge Road",
+    "oneway": "yes",
+    "source": "eThekwini Metro"
+   },
+   "lat": -29.7560821,
+   "lon": 30.8324882
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "name": "Forest Trail"
+   },
+   "lat": -29.7602582,
+   "lon": 30.8399078
+  }
+ ],
+ "asset:robinson pass:-33.873:22.031": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "surface": "dirt"
+   },
+   "lat": -33.8744276,
+   "lon": 22.0399959
+  }
+ ],
+ "asset:spooknek:-34.318:19.009": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Dot's Dash"
+   },
+   "lat": -34.3196587,
+   "lon": 19.0022028
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Spooknek"
+   },
+   "lat": -34.3196925,
+   "lon": 19.0087073
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Perdeberg Trail"
+   },
+   "lat": -34.3154708,
+   "lon": 19.0086128
+  }
+ ],
+ "asset:greylingspas:-31.119:27.299": [],
+ "asset:the wall:-29.759:30.858": [
+  {
+   "tags": {
+    "highway": "footway",
+    "name": "Molweni Trail",
+    "source": "GPX survey"
+   },
+   "lat": -29.759655,
+   "lon": 30.8554164
+  }
+ ],
+ "asset:lootsberg pass:-31.836:24.859": [],
+ "asset:naudesberg pass:-31.954:24.727": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "maxspeed": "80",
+    "name": "Naudesberg Pass",
+    "nat_ref": "N9",
+    "oneway": "no",
+    "ref": "N9;R61",
+    "reg_ref": "R61",
+    "surface": "asphalt"
+   },
+   "lat": -31.9557645,
+   "lon": 24.7265514
+  }
+ ],
+ "asset:verlatenkloof pass:-32.524:20.636": [],
+ "asset:khamokha pass:-30.156:28.446": [
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.1637023,
+   "lon": 28.4467638
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.1522601,
+   "lon": 28.4430264
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.155089,
+   "lon": 28.4467144
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.1508919,
+   "lon": 28.4452291
+  }
+ ],
+ "asset:bothmaskloof pass:-33.403:18.869": [
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.4024627,
+   "lon": 18.8643607
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.4041048,
+   "lon": 18.8687199
+  }
+ ],
+ "asset:franschhoek pass:-33.907:19.157": [
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "100",
+    "noname": "yes",
+    "ref": "R45",
+    "surface": "asphalt"
+   },
+   "lat": -33.9139527,
+   "lon": 19.1579552
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "100",
+    "noname": "yes",
+    "ref": "R45",
+    "surface": "asphalt"
+   },
+   "lat": -33.9055458,
+   "lon": 19.1525214
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "gravel"
+   },
+   "lat": -33.9051919,
+   "lon": 19.159168
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+   },
+   "lat": -33.9052109,
+   "lon": 19.156457
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.903452,
+   "lon": 19.1558305
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "name": "Franschhoek Pass",
+    "ref": "R45",
+    "surface": "asphalt"
+   },
+   "lat": -33.90584,
+   "lon": 19.1565495
+  }
+ ],
+ "asset:huisrivier pass:-33.474:21.553": [],
+ "asset:tsatsane pass:-30.561:28.161": [
+  {
+   "tags": {
+    "highway": "footway",
+    "source": "Boocha34",
+    "surface": "unpaved"
+   },
+   "lat": -30.5679328,
+   "lon": 28.1614458
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.5619766,
+   "lon": 28.1520067
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "source": "Boocha34",
+    "surface": "unpaved"
+   },
+   "lat": -30.5620293,
+   "lon": 28.1644004
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "source": "Boocha34",
+    "surface": "unpaved"
+   },
+   "lat": -30.5577433,
+   "lon": 28.1658661
+  }
+ ],
+ "asset:long tom pass:-25.141:30.620": [
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "100",
+    "maxspeed:forward": "70",
+    "name": "Long Tom Pass",
+    "ref": "R37",
+    "surface": "asphalt"
+   },
+   "lat": -25.1452108,
+   "lon": 30.6211167
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -25.1453422,
+   "lon": 30.6200716
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "100",
+    "maxspeed:forward": "70",
+    "name": "Long Tom Pass",
+    "ref": "R37",
+    "surface": "asphalt"
+   },
+   "lat": -25.139062,
+   "lon": 30.6121708
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -25.1416122,
+   "lon": 30.6169177
+  }
+ ],
+ "asset:grays pass:-29.072:29.323": [
+  {
+   "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "GPS",
+    "surface": "dirt",
+    "trail_visibility": "intermediate"
+   },
+   "lat": -29.0705202,
+   "lon": 29.3304755
+  },
+  {
+   "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "intermediate"
+   },
+   "lat": -29.0754022,
+   "lon": 29.3213552
+  }
+ ],
+ "asset:abel erasmus pass:-24.452:30.613": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lane_markings": "yes",
+    "lanes": "2",
+    "lit": "no",
+    "ref": "R36",
+    "surface": "asphalt"
+   },
+   "lat": -24.454203,
+   "lon": 30.6123943
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lane_markings": "yes",
+    "lanes": "2",
+    "lit": "no",
+    "ref": "R36",
+    "surface": "asphalt"
+   },
+   "lat": -24.4522028,
+   "lon": 30.6109413
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lane_markings": "yes",
+    "lanes": "2",
+    "lit": "no",
+    "ref": "R36",
+    "surface": "asphalt"
+   },
+   "lat": -24.4523827,
+   "lon": 30.6096972
+  }
+ ],
+ "asset:fangs pass:-28.861:28.940": [
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "bad"
+   },
+   "lat": -28.8614712,
+   "lon": 28.9352378
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "bad"
+   },
+   "lat": -28.8604069,
+   "lon": 28.9417469
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "bad"
+   },
+   "lat": -28.8616753,
+   "lon": 28.941818
+  }
+ ],
+ "asset:hex river pass:-33.395:19.802": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "incline": "13%",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "80",
+    "name": "Hex River Pass",
+    "name:af": "Hexrivierpas",
+    "name:en": "Hex River Pass",
+    "placement:forward": "right_of:2",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.3956091,
+   "lon": 19.7961358
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed:backward": "120",
+    "maxspeed:forward": "80",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.3954351,
+   "lon": 19.8045884
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.3941349,
+   "lon": 19.8001804
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.3920534,
+   "lon": 19.8035096
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.3928346,
+   "lon": 19.8092381
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "incline": "13%",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed:backward": "120",
+    "maxspeed:forward": "80",
+    "name": "Hex River Pass",
+    "name:af": "Hexrivierpas",
+    "name:en": "Hex River Pass",
+    "placement:forward": "right_of:2",
+    "ref": "N1",
+    "surface": "asphalt",
+    "turn:lanes:forward": "merge_to_right|through"
+   },
+   "lat": -33.3954258,
+   "lon": 19.8017895
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "incline": "13%",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed:backward": "120",
+    "maxspeed:forward": "80",
+    "name": "Hex River Pass",
+    "name:af": "Hexrivierpas",
+    "name:en": "Hex River Pass",
+    "placement:forward": "right_of:2",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.3954047,
+   "lon": 19.8007472
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed:backward": "120",
+    "maxspeed:forward": "80",
+    "placement:forward": "right_of:2",
+    "ref": "N1",
+    "surface": "asphalt",
+    "turn:lanes:forward": "merge_to_right|through"
+   },
+   "lat": -33.3954416,
+   "lon": 19.8025911
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.3918672,
+   "lon": 19.801985
+  }
+ ],
+ "asset:blinkbergpas:-32.700:19.416": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "maxspeed": "60",
+    "note": "maxspeed signage along this road is inconsistent and incomplete (as of March 2016); maxspeed tagging should be viewed as a general guideline only.",
+    "official_ref": "DR1487",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -32.7058359,
+   "lon": 19.4189542
+  }
+ ],
+ "asset:uitkyk pass:-32.407:19.108": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "incline": "13%",
+    "maxspeed": "60",
+    "note": "maxspeed signage along this road is inconsistent and incomplete (as of March 2016); maxspeed tagging should be viewed as a general guideline only.",
+    "official_ref": "DR1487",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -32.4068507,
+   "lon": 19.1078252
+  }
+ ],
+ "asset:grassneck pass:-33.649:24.348": [
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "highway": "tertiary",
+    "name": "Grasnek Pass",
+    "note": "svr_Kaart_confirmed_202304",
+    "ref": "R332",
+    "surface": "unpaved"
+   },
+   "lat": -33.6514186,
+   "lon": 24.3536408
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.6494526,
+   "lon": 24.3500109
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.6493137,
+   "lon": 24.3475132
+  }
+ ],
+ "asset:vyfmylpoort:-28.813:17.682": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "incline": "down",
+    "lanes": "2",
+    "maxspeed": "120",
+    "maxspeed:hgv:backward": "100",
+    "maxspeed:hgv:forward": "80",
+    "official_ref": "NR7/8",
+    "ref": "N7",
+    "surface": "asphalt"
+   },
+   "lat": -28.8123069,
+   "lon": 17.6809137
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "120",
+    "maxspeed:hgv:backward": "100",
+    "maxspeed:hgv:forward": "80",
+    "official_ref": "NR7/8",
+    "ref": "N7",
+    "surface": "asphalt"
+   },
+   "lat": -28.8134465,
+   "lon": 17.6824375
+  }
+ ],
+ "asset:adolphus poort pass:-33.512:25.078": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "incline": "10%",
+    "note": "svr_Kaart_confirmed_202303",
+    "surface": "gravel"
+   },
+   "lat": -33.5092213,
+   "lon": 25.0765905
+  },
+  {
+   "tags": {
+    "highway": "tertiary",
+    "incline": "7%",
+    "note": "svr_Kaart_confirmed_202304",
+    "surface": "unpaved"
+   },
+   "lat": -33.5169066,
+   "lon": 25.0778524
+  }
+ ],
+ "asset:bergenaarspad pass:-28.493:22.604": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "maxspeed": "40",
+    "name": "Bergenaarspad Pass",
+    "note": "svr_Kaart_confirmed_202211",
+    "surface": "gravel",
+    "website": "https://mountainpassessouthafrica.co.za/find-a-pass/northern-cape/item/448-bergenaarspad-pass.html"
+   },
+   "lat": -28.4893935,
+   "lon": 22.611358
+  }
+ ],
+ "asset:swaershoek pass:-32.290:25.512": [],
+ "asset:bergriviernek:-33.997:19.012": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Berg River Neck Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+   },
+   "lat": -33.9954367,
+   "lon": 19.0050731
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Jonkershoek Watershed",
+    "sac_scale": "demanding_alpine_hiking",
+    "trail_visibility": "horrible"
+   },
+   "lat": -33.9915213,
+   "lon": 19.0064923
+  }
+ ],
+ "asset:stokoe's pass:-34.075:18.997": [
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "name": "Stokoe's Pass",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+   },
+   "lat": -34.0718776,
+   "lon": 19.0033567
+  }
+ ],
+ "asset:cecil mack's pass:-27.095:31.998": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -27.095692,
+   "lon": 31.9980536
+  }
+ ],
+ "asset:sir lowry's pass:-34.149:18.929": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes": "through|through|right"
+   },
+   "lat": -34.1489768,
+   "lon": 18.9284855
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "asphalt"
+   },
+   "lat": -34.1492849,
+   "lon": 18.9280524
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1487063,
+   "lon": 18.9285411
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1483695,
+   "lon": 18.9285942
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "asphalt"
+   },
+   "lat": -34.1494185,
+   "lon": 18.928403
+  },
+  {
+   "tags": {
+    "change:lanes": "yes|not_right|no",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes": "through|through|right"
+   },
+   "lat": -34.1492923,
+   "lon": 18.9284485
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:3",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through"
+   },
+   "lat": -34.1499213,
+   "lon": 18.92853
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1504221,
+   "lon": 18.9288212
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1500565,
+   "lon": 18.9287352
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1489625,
+   "lon": 18.9284341
+  },
+  {
+   "tags": {
+    "change:lanes": "no|not_left|yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement": "right_of:3",
+    "ref": "N2",
+    "shoulder": "left",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through"
+   },
+   "lat": -34.1495666,
+   "lon": 18.9283953
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "ski": "no",
+    "snowmobile": "no",
+    "wheelchair": "no"
+   },
+   "lat": -34.1494275,
+   "lon": 18.9285223
+  },
+  {
+   "tags": {
+    "change:lanes:backward": "yes|not_right",
+    "change:lanes:forward": "yes|not_right",
+    "highway": "trunk",
+    "lanes": "2",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "yes",
+    "placement:forward": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left;both",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1484399,
+   "lon": 18.9286106
+  },
+  {
+   "tags": {
+    "change:lanes:backward": "yes|not_right",
+    "change:lanes:forward": "yes|not_right",
+    "highway": "trunk",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "no",
+    "placement:forward": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left;both",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1478924,
+   "lon": 18.928755
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "ski": "no",
+    "snowmobile": "no",
+    "wheelchair": "no"
+   },
+   "lat": -34.1448457,
+   "lon": 18.9355932
+  },
+  {
+   "tags": {
+    "change:lanes:backward": "yes|not_right",
+    "change:lanes:forward": "yes|not_right",
+    "highway": "trunk",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "official_ref": "NR2/2",
+    "oneway": "no",
+    "placement:forward": "right_of:2",
+    "ref": "N2",
+    "shoulder": "both",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1505621,
+   "lon": 18.9313027
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "change:lanes:backward": "yes|not_right",
+    "change:lanes:forward": "yes|not_right",
+    "highway": "trunk",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxspeed:advisory": "60",
+    "maxweight:signed": "no",
+    "official_ref": "NR2/2",
+    "oneway": "no",
+    "placement:forward": "right_of:2",
+    "ref": "N2",
+    "shoulder": "left;both",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1471126,
+   "lon": 18.9289399
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "change:lanes:backward": "yes|not_right",
+    "change:lanes:forward": "yes|not_right",
+    "highway": "trunk",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "layer": "1",
+    "lit": "no",
+    "maxspeed": "80",
+    "maxweight:signed": "no",
+    "official_ref": "NR2/2",
+    "oneway": "no",
+    "placement:forward": "right_of:2",
+    "ref": "N2",
+    "shoulder": "both",
+    "shoulder:line": "continuous",
+    "smoothness": "excellent",
+    "source": "coct-2015",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -34.1449296,
+   "lon": 18.9295338
+  }
+ ],
+ "asset:drakensteinnek:-33.787:19.039": [
+  {
+   "tags": {
+    "highway": "track",
+    "source": "maxar"
+   },
+   "lat": -33.7886561,
+   "lon": 19.0334782
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.788005,
+   "lon": 19.0379307
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.7872792,
+   "lon": 19.0376571
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.7830144,
+   "lon": 19.0473318
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.7865228,
+   "lon": 19.0419726
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.7885401,
+   "lon": 19.0362704
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.7842388,
+   "lon": 19.034967
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.786732,
+   "lon": 19.0394407
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.7863623,
+   "lon": 19.0398458
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "source": "maxar"
+   },
+   "lat": -33.7845259,
+   "lon": 19.0364796
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.7869,
+   "lon": 19.0383467
+  }
+ ],
+ "asset:potjiesberg pass:-33.725:23.055": [],
+ "asset:giant's pass:-29.349:29.464": [
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "bad"
+   },
+   "lat": -29.3510235,
+   "lon": 29.4661942
+  }
+ ],
+ "asset:montagu pass:-33.883:22.431": [
+  {
+   "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "Pass-to-Pass Trail"
+   },
+   "lat": -33.8830571,
+   "lon": 22.422329
+  }
+ ],
+ "asset:thamathu pass:-29.821:29.133": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Thamathu Pass Trail",
+    "trail_visibility": "intermediate"
+   },
+   "lat": -29.8208553,
+   "lon": 29.1327477
+  }
+ ],
+ "asset:masubasuba pass:-29.620:29.284": [],
+ "asset:judge pass:-29.222:29.411": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Judge's Pass",
+    "trail_visibility": "good"
+   },
+   "lat": -29.2223989,
+   "lon": 29.4106625
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Judge's Pass",
+    "sac_scale": "demanding_mountain_hiking",
+    "trail_visibility": "good"
+   },
+   "lat": -29.2242896,
+   "lon": 29.4121915
+  }
+ ],
+ "asset:injasuti pass:-29.176:29.346": [
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "no"
+   },
+   "lat": -29.1753588,
+   "lon": 29.3473372
+  }
+ ],
+ "asset:kareedouw pass:-33.275:22.283": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "incline": "down",
+    "lanes": "2",
+    "maxspeed": "100",
+    "maxspeed:practical": "70",
+    "name": "Kredouwpas",
+    "name:af": "Kredouwpas",
+    "name:en": "Kredouw Pass",
+    "official_ref": "TR34/2",
+    "ref": "R407",
+    "shoulder": "no",
+    "smoothness": "good",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.2751441,
+   "lon": 22.2844148
+  }
+ ],
+ "asset:rustler's gap:-28.627:28.957": [
+  {
+   "tags": {
+    "highway": "footway"
+   },
+   "lat": -28.627472,
+   "lon": 28.9564191
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "name": "Bishop's Inkaba - Sungubala Contour",
+    "surface": "unpaved"
+   },
+   "lat": -28.6263749,
+   "lon": 28.9566827
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "name": "Bishop's Inkaba - Sungubala Contour",
+    "surface": "unpaved"
+   },
+   "lat": -28.6244714,
+   "lon": 28.9579177
+  },
+  {
+   "tags": {
+    "highway": "footway"
+   },
+   "lat": -28.6260983,
+   "lon": 28.9564745
+  }
+ ],
+ "asset:thuthumi pass:-29.014:29.187": [
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "unpaved",
+    "trail_visibility": "bad"
+   },
+   "lat": -29.0175518,
+   "lon": 29.192524
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "no"
+   },
+   "lat": -29.016364,
+   "lon": 29.1906875
+  }
+ ],
+ "asset:molteno pass:-32.262:22.567": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R381",
+    "source": "landsat",
+    "surface": "asphalt"
+   },
+   "lat": -32.2571323,
+   "lon": 22.5646748
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -32.2623202,
+   "lon": 22.5679873
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+   },
+   "lat": -32.2618871,
+   "lon": 22.5674585
+  }
+ ],
+ "asset:pulpit nek:-33.515:19.390": [],
+ "asset:windmeulnek:-33.868:22.800": [],
+ "asset:houtbaainek:-34.011:18.349": [
+  {
+   "tags": {
+    "bicycle": "no",
+    "foot": "permissive",
+    "highway": "path",
+    "horse": "no",
+    "surface": "gravel"
+   },
+   "lat": -34.0138654,
+   "lon": 18.3465575
+  },
+  {
+   "tags": {
+    "alt_name": "Victoria Drive",
+    "highway": "service",
+    "maxspeed": "60",
+    "name": "The Suikerbossie Road",
+    "name:af": "Victoriarylaan",
+    "source": "City of Cape Town",
+    "surface": "asphalt",
+    "width": "5.2"
+   },
+   "lat": -34.0114789,
+   "lon": 18.3506022
+  },
+  {
+   "tags": {
+    "access": "private",
+    "foot": "permissive",
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -34.0155103,
+   "lon": 18.3477705
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Llandudno Road",
+    "name:af": "Llandudnoweg",
+    "source": "City of Cape Town",
+    "surface": "asphalt"
+   },
+   "lat": -34.0082204,
+   "lon": 18.3469914
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "lit": "yes",
+    "name": "Victoria Road",
+    "name:af": "Victoriaweg",
+    "name:en": "Victoria Road",
+    "ref": "M6",
+    "surface": "asphalt"
+   },
+   "lat": -34.0095342,
+   "lon": 18.34876
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -34.0109006,
+   "lon": 18.3504828
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Victoria Road",
+    "name:af": "Victoriaweg",
+    "name:en": "Victoria Road",
+    "ref": "M6",
+    "surface": "asphalt"
+   },
+   "lat": -34.0131272,
+   "lon": 18.3500198
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+   },
+   "lat": -34.0068246,
+   "lon": 18.3505709
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Ruyteplaats Drive",
+    "name:af": "Ruyteplaatsrylaan",
+    "name:en": "Ruyteplaats Drive",
+    "source": "City of Cape Town"
+   },
+   "lat": -34.0119326,
+   "lon": 18.3580879
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.0099324,
+   "lon": 18.3550351
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.0095378,
+   "lon": 18.3523992
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "source": "survey",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+   },
+   "lat": -34.0108042,
+   "lon": 18.3509621
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "residential",
+    "name": "Ruyteplaats Lodge Phase One",
+    "source": "City of Cape Town"
+   },
+   "lat": -34.0120955,
+   "lon": 18.3519104
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "name": "Victoria Access Road",
+    "name:af": "Victoria Accessweg",
+    "name:en": "Victoria Access Road",
+    "source": "City of Cape Town",
+    "surface": "asphalt"
+   },
+   "lat": -34.0127313,
+   "lon": 18.351034
+  },
+  {
+   "tags": {
+    "access": "private",
+    "direction": "both",
+    "highway": "residential",
+    "name": "Ruyteplaats Lodge Phase One Complex",
+    "source": "City of Cape Town",
+    "surface": "paving_stones"
+   },
+   "lat": -34.0127191,
+   "lon": 18.3522631
+  },
+  {
+   "tags": {
+    "access": "private",
+    "direction": "both",
+    "highway": "residential",
+    "name": "Ruyteplaats Lodge Phase One Complex",
+    "source": "City of Cape Town",
+    "surface": "paving_stones"
+   },
+   "lat": -34.012543,
+   "lon": 18.3518144
+  },
+  {
+   "tags": {
+    "access": "private",
+    "direction": "both",
+    "highway": "residential",
+    "name": "Ruyteplaats Lodge Phase One Complex",
+    "source": "City of Cape Town",
+    "surface": "paving_stones"
+   },
+   "lat": -34.0123913,
+   "lon": 18.3517727
+  },
+  {
+   "tags": {
+    "access": "private",
+    "direction": "both",
+    "highway": "residential",
+    "name": "Ruyteplaats Lodge Phase One Complex",
+    "source": "City of Cape Town",
+    "surface": "paving_stones"
+   },
+   "lat": -34.012822,
+   "lon": 18.3518095
+  },
+  {
+   "tags": {
+    "access": "private",
+    "direction": "both",
+    "highway": "residential",
+    "name": "Ruyteplaats Lodge Phase One Complex",
+    "source": "City of Cape Town",
+    "surface": "paving_stones"
+   },
+   "lat": -34.0122341,
+   "lon": 18.3524081
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "parking_aisle",
+    "surface": "ground"
+   },
+   "lat": -34.0114251,
+   "lon": 18.3506372
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -34.0107491,
+   "lon": 18.3506304
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.0107805,
+   "lon": 18.3533782
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "source": "survey",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+   },
+   "lat": -34.0092645,
+   "lon": 18.3520641
+  }
+ ],
+ "asset:sugarloaf gap:-28.634:28.942": [
+  {
+   "tags": {
+    "highway": "footway"
+   },
+   "lat": -28.6350916,
+   "lon": 28.9473593
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -28.634727,
+   "lon": 28.9471781
+  },
+  {
+   "tags": {
+    "highway": "footway"
+   },
+   "lat": -28.6326042,
+   "lon": 28.9428224
+  }
+ ],
+ "asset:devil's bellows nek:-32.415:26.665": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R351",
+    "smoothness": "very_bad",
+    "source": "landsat",
+    "surface": "unpaved"
+   },
+   "lat": -32.4208515,
+   "lon": 26.6623948
+  }
+ ],
+ "asset:van reenen's pass:-28.407:29.397": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "note": "Old N3 alignment?",
+    "surface": "unpaved"
+   },
+   "lat": -28.408739,
+   "lon": 29.3993622
+  }
+ ],
+ "asset:wyenek:-33.389:21.776": [],
+ "asset:leslies pass:-29.153:29.344": [],
+ "asset:silkaatsnek pass:-25.702:27.899": [
+  {
+   "tags": {
+    "bicycle": "yes",
+    "highway": "path",
+    "trail_visibility": "good"
+   },
+   "lat": -25.7062215,
+   "lon": 27.8913112
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "paved"
+   },
+   "lat": -25.7002208,
+   "lon": 27.89739
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "oneway": "no",
+    "ref": "R511",
+    "surface": "asphalt"
+   },
+   "lat": -25.7047184,
+   "lon": 27.899115
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "oneway": "yes",
+    "ref": "R511",
+    "surface": "asphalt"
+   },
+   "lat": -25.7000618,
+   "lon": 27.8958403
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "oneway": "yes",
+    "ref": "R511",
+    "surface": "asphalt"
+   },
+   "lat": -25.7000618,
+   "lon": 27.8958403
+  }
+ ],
+ "asset:helshoogte:-33.922:18.910": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "name": "Ou Helshoogte Road"
+   },
+   "lat": -33.9204994,
+   "lon": 18.9072317
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "80",
+    "name": "Helshoogte Road",
+    "ref": "R310",
+    "surface": "asphalt"
+   },
+   "lat": -33.9245674,
+   "lon": 18.9023003
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "lit": "no",
+    "maxspeed": "80",
+    "name": "Helshoogte Road",
+    "ref": "R310",
+    "surface": "asphalt"
+   },
+   "lat": -33.9208139,
+   "lon": 18.9179668
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9267126,
+   "lon": 18.9126179
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9222178,
+   "lon": 18.9128943
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9223796,
+   "lon": 18.9068314
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9205856,
+   "lon": 18.9069196
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9219473,
+   "lon": 18.9133558
+  },
+  {
+   "tags": {
+    "access": "permit",
+    "bicycle": "designated",
+    "highway": "path",
+    "name": "Idas Valley - Botmaskop Link Via Culvert"
+   },
+   "lat": -33.9246919,
+   "lon": 18.9095076
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "maxspeed": "80",
+    "name": "Helshoogte Road",
+    "ref": "R310",
+    "surface": "asphalt"
+   },
+   "lat": -33.9219962,
+   "lon": 18.9105847
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+   },
+   "lat": -33.9221212,
+   "lon": 18.9102767
+  },
+  {
+   "tags": {
+    "access": "permit",
+    "bicycle": "designated",
+    "highway": "path",
+    "name": "Idas Valley - Botmaskop Link Via Culvert"
+   },
+   "lat": -33.9216911,
+   "lon": 18.9097893
+  },
+  {
+   "tags": {
+    "access": "permit",
+    "bicycle": "designated",
+    "highway": "path",
+    "name": "Idas Valley - Botmaskop Link Via Culvert"
+   },
+   "lat": -33.9230028,
+   "lon": 18.9111536
+  }
+ ],
+ "asset:road to hell:-28.867:17.966": [
+  {
+   "tags": {
+    "highway": "track",
+    "tracktype": "grade5"
+   },
+   "lat": -28.8671342,
+   "lon": 17.9593527
+  }
+ ],
+ "asset:blouhoogtenek:-33.764:19.888": [],
+ "asset:bruidegomshoogte:-33.208:20.151": [],
+ "asset:jukhoogte:-32.809:20.162": [],
+ "asset:ounek:-32.777:20.069": [],
+ "asset:gannagapas:-32.127:20.094": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "maxspeed": "60",
+    "name": "Gannaga Pass",
+    "note": "svr_Kaart_confirmed_202601",
+    "ref": "P2250",
+    "surface": "gravel"
+   },
+   "lat": -32.1257817,
+   "lon": 20.1026589
+  }
+ ],
+ "asset:brakfontein se hoogte:-31.704:19.892": [],
+ "asset:arnoldsnek:-34.256:18.441": [],
+ "asset:klein-waainek:-34.080:18.972": [
+  {
+   "tags": {
+    "access": "no",
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "name": "Old Boland Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+   },
+   "lat": -34.0783632,
+   "lon": 18.979475
+  }
+ ],
+ "asset:kleinnek:-34.020:18.910": [
+  {
+   "tags": {
+    "access": "permissive",
+    "bicycle": "designated",
+    "highway": "path",
+    "name": "Rola Coaster - Starting Grid",
+    "oneway": "yes"
+   },
+   "lat": -34.0214079,
+   "lon": 18.9117842
+  }
+ ],
+ "asset:the neck:-34.023:18.902": [
+  {
+   "tags": {
+    "description": "Ultimate - Skyline (N1 West)",
+    "highway": "track"
+   },
+   "lat": -34.0260868,
+   "lon": 18.9009301
+  },
+  {
+   "tags": {
+    "description": "Quick way home from the Neck",
+    "highway": "track"
+   },
+   "lat": -34.0236379,
+   "lon": 18.9058719
+  }
+ ],
+ "asset:krakadoupoort:-32.207:19.061": [],
+ "asset:groot-koupoort:-32.262:19.099": [
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -32.2589819,
+   "lon": 19.0994096
+  }
+ ],
+ "asset:amon se poort:-32.154:19.017": [],
+ "asset:bynespoort:-33.712:19.076": [],
+ "asset:ou-uitkykpas:-32.401:19.102": [
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -32.4013382,
+   "lon": 19.0998372
+  }
+ ],
+ "asset:groothoekpoort:-32.381:19.044": [],
+ "asset:cederbergpas:-32.403:19.093": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "incline": "13%",
+    "maxspeed": "60",
+    "note": "maxspeed signage along this road is inconsistent and incomplete (as of March 2016); maxspeed tagging should be viewed as a general guideline only.",
+    "official_ref": "DR1487",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -32.4054234,
+   "lon": 19.0968383
+  }
+ ],
+ "asset:gabriëlspas:-32.439:19.238": [
+  {
+   "tags": {
+    "foot": "yes",
+    "highway": "path"
+   },
+   "lat": -32.4404729,
+   "lon": 19.2420476
+  }
+ ],
+ "asset:grysboknek:-32.706:19.139": [
+  {
+   "tags": {
+    "highway": "track",
+    "smoothness": "horrible",
+    "surface": "ground",
+    "tracktype": "grade4"
+   },
+   "lat": -32.7043642,
+   "lon": 19.1348443
+  }
+ ],
+ "asset:kleinpoort se nek:-33.169:19.135": [],
+ "asset:viljoenspas:-34.098:19.049": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "ref": "R321",
+    "source": "gpx",
+    "surface": "asphalt"
+   },
+   "lat": -34.1041326,
+   "lon": 19.0525795
+  }
+ ],
+ "asset:pofaddernek:-34.018:19.077": [
+  {
+   "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "source": "CD:NGI"
+   },
+   "lat": -34.0246855,
+   "lon": 19.0710031
+  }
+ ],
+ "asset:groot-waainek:-34.097:18.966": [
+  {
+   "tags": {
+    "access": "no",
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "name": "Old Boland Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+   },
+   "lat": -34.0940894,
+   "lon": 18.9739615
+  },
+  {
+   "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "service",
+    "motor_vehicle": "yes",
+    "surface": "paved"
+   },
+   "lat": -34.1027,
+   "lon": 18.9700698
+  },
+  {
+   "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "service",
+    "motor_vehicle": "yes",
+    "surface": "paved"
+   },
+   "lat": -34.1009253,
+   "lon": 18.9675047
+  }
+ ],
+ "asset:fortsnek:-33.988:19.092": [],
+ "asset:kroningshoogte:-33.465:21.515": [],
+ "asset:nounek:-33.733:25.204": [],
+ "asset:chase's kloof nek:-33.683:25.242": [],
+ "asset:gudu pass:-28.687:28.898": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Gudu Pass Trail",
+    "surface": "ground"
+   },
+   "lat": -28.691191,
+   "lon": 28.8986923
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -28.6895151,
+   "lon": 28.8953076
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "driveway"
+   },
+   "lat": -28.6862734,
+   "lon": 28.8996689
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paving_stones"
+   },
+   "lat": -28.6858832,
+   "lon": 28.8992542
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paving_stones"
+   },
+   "lat": -28.6858107,
+   "lon": 28.8994076
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -28.6859536,
+   "lon": 28.8967437
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -28.6862413,
+   "lon": 28.8992442
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -28.6866308,
+   "lon": 28.8979458
+  },
+  {
+   "tags": {
+    "highway": "unclassified",
+    "surface": "paving_stones"
+   },
+   "lat": -28.6822612,
+   "lon": 28.8971534
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "ground"
+   },
+   "lat": -28.6860756,
+   "lon": 28.9012393
+  }
+ ],
+ "asset:wildehondskloofhoogte:-33.926:20.446": [
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.9266701,
+   "lon": 20.4479371
+  }
+ ],
+ "asset:leeuriviershoogte:-33.994:20.348": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R60",
+    "surface": "asphalt"
+   },
+   "lat": -33.9989816,
+   "lon": 20.3543934
+  },
+  {
+   "tags": {
+    "highway": "unclassified"
+   },
+   "lat": -33.9973163,
+   "lon": 20.340406
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9955241,
+   "lon": 20.346414
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.9910217,
+   "lon": 20.3514387
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.9926919,
+   "lon": 20.3488033
+  }
+ ],
+ "asset:bakoondshoogte:-33.987:20.313": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9891819,
+   "lon": 20.3101714
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.9889941,
+   "lon": 20.3138006
+  }
+ ],
+ "asset:langhoogte:-34.229:19.273": [
+  {
+   "tags": {
+    "change:lanes:forward": "yes|not_right",
+    "highway": "trunk",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "lit": "no",
+    "maxspeed": "120",
+    "nat_ref": "N2",
+    "oneway": "no",
+    "placement:forward": "right_of:2",
+    "ref": "N2;R43",
+    "reg_ref": "R43",
+    "surface": "asphalt"
+   },
+   "lat": -34.2275707,
+   "lon": 19.27032
+  }
+ ],
+ "asset:keerwedernek:-33.958:19.098": [
+  {
+   "tags": {
+    "access": "permissive",
+    "highway": "path"
+   },
+   "lat": -33.962132,
+   "lon": 19.089822
+  },
+  {
+   "tags": {
+    "access": "no",
+    "highway": "path"
+   },
+   "lat": -33.9535255,
+   "lon": 19.0982555
+  },
+  {
+   "tags": {
+    "access": "permissive",
+    "highway": "path"
+   },
+   "lat": -33.9611121,
+   "lon": 19.0925118
+  },
+  {
+   "tags": {
+    "access": "permissive",
+    "highway": "path"
+   },
+   "lat": -33.961532,
+   "lon": 19.1016763
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.9582295,
+   "lon": 19.1000055
+  }
+ ],
+ "asset:constantianek:-34.012:18.405": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "name": "Hout Bay Main Road",
+    "name:af": "Houtbaai Mainweg",
+    "name:en": "Hout Bay Main Road",
+    "name:etymology:wikidata": "Q1013375",
+    "ref": "M63",
+    "surface": "asphalt"
+   },
+   "lat": -34.0114015,
+   "lon": 18.3972822
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "name": "Silvermist Estate",
+    "service": "driveway",
+    "surface": "paved"
+   },
+   "lat": -34.0131605,
+   "lon": 18.4020366
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -34.0106014,
+   "lon": 18.4026421
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -34.01112,
+   "lon": 18.4027172
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -34.0143263,
+   "lon": 18.4020263
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -34.012896,
+   "lon": 18.4023408
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -34.0117568,
+   "lon": 18.4019447
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "name": "Silvermist Estate",
+    "service": "driveway",
+    "surface": "paved"
+   },
+   "lat": -34.0120893,
+   "lon": 18.4024558
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "lanes": "2",
+    "surface": "asphalt",
+    "tracktype": "grade1"
+   },
+   "lat": -34.0107266,
+   "lon": 18.405994
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Hoerikwaggo Trail"
+   },
+   "lat": -34.0147083,
+   "lon": 18.4042671
+  },
+  {
+   "tags": {
+    "access": "private",
+    "foot": "permissive",
+    "highway": "service",
+    "lanes": "2",
+    "surface": "asphalt"
+   },
+   "lat": -34.0107211,
+   "lon": 18.404342
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "60",
+    "name": "Rhodes Drive",
+    "name:af": "Rhodesrylaan",
+    "name:en": "Rhodes Drive",
+    "name:etymology:wikidata": "Q19825",
+    "ref": "M63",
+    "source:name": "City of Cape Town",
+    "surface": "asphalt"
+   },
+   "lat": -34.0104395,
+   "lon": 18.406694
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "name": "Constantia Main Road",
+    "name:af": "Constantia Mainweg",
+    "name:en": "Constantia Main Road",
+    "ref": "M63;M41",
+    "surface": "asphalt"
+   },
+   "lat": -34.0119368,
+   "lon": 18.4054423
+  },
+  {
+   "tags": {
+    "destination": "Newlands;Kirstenbosch",
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Rhodes Drive",
+    "name:af": "Rhodesrylaan",
+    "name:en": "Rhodes Drive",
+    "name:etymology:wikidata": "Q19825",
+    "oneway": "yes",
+    "ref": "M63",
+    "surface": "asphalt"
+   },
+   "lat": -34.0117834,
+   "lon": 18.4056351
+  },
+  {
+   "tags": {
+    "destination": "Constantia;Wynberg",
+    "destination:ref": "M41",
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Constantia Main Road",
+    "name:af": "Constantia Mainweg",
+    "name:en": "Constantia Main Road",
+    "name:etymology:wikidata": "Q1127739",
+    "oneway": "yes",
+    "ref": "M41",
+    "surface": "asphalt"
+   },
+   "lat": -34.0119797,
+   "lon": 18.4057616
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Constantia Main Road",
+    "name:af": "Constantia Mainweg",
+    "name:en": "Constantia Main Road",
+    "name:etymology:wikidata": "Q1127739",
+    "oneway": "yes",
+    "ref": "M41",
+    "surface": "asphalt"
+   },
+   "lat": -34.0120479,
+   "lon": 18.4057056
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Rhodes Drive",
+    "name:af": "Rhodesrylaan",
+    "name:en": "Rhodes Drive",
+    "name:etymology:wikidata": "Q19825",
+    "oneway": "yes",
+    "ref": "M63",
+    "surface": "asphalt"
+   },
+   "lat": -34.0118222,
+   "lon": 18.4056831
+  },
+  {
+   "tags": {
+    "destination": "Hout Bay",
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Hout Bay Main Road",
+    "name:af": "Houtbaai Mainweg",
+    "name:en": "Hout Bay Main Road",
+    "name:etymology:wikidata": "Q1013375",
+    "oneway": "yes",
+    "ref": "M63",
+    "surface": "asphalt"
+   },
+   "lat": -34.0119448,
+   "lon": 18.4051086
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Hout Bay Main Road",
+    "name:af": "Houtbaai Mainweg",
+    "name:en": "Hout Bay Main Road",
+    "name:etymology:wikidata": "Q1013375",
+    "oneway": "yes",
+    "ref": "M63",
+    "surface": "asphalt"
+   },
+   "lat": -34.011874,
+   "lon": 18.405117
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "name": "Silvermist Estate",
+    "service": "driveway",
+    "surface": "paved"
+   },
+   "lat": -34.0138188,
+   "lon": 18.4036251
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "name": "Constantia Nek",
+    "oneway": "no",
+    "service": "driveway",
+    "surface": "unpaved"
+   },
+   "lat": -34.0122826,
+   "lon": 18.4055239
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "name": "Hout Bay Main Road",
+    "name:af": "Houtbaai Mainweg",
+    "name:en": "Hout Bay Main Road",
+    "name:etymology:wikidata": "Q1013375",
+    "ref": "M63",
+    "surface": "asphalt"
+   },
+   "lat": -34.0118814,
+   "lon": 18.4042245
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "lanes": "2",
+    "surface": "asphalt"
+   },
+   "lat": -34.0132663,
+   "lon": 18.405861
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "name": "Silvermist Estate",
+    "service": "driveway",
+    "surface": "paved"
+   },
+   "lat": -34.0146982,
+   "lon": 18.4037353
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "name": "Constantia Nek",
+    "oneway": "no",
+    "service": "driveway",
+    "surface": "unpaved"
+   },
+   "lat": -34.0122067,
+   "lon": 18.4052116
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "name": "Constantia Nek",
+    "oneway": "no",
+    "service": "driveway",
+    "surface": "unpaved"
+   },
+   "lat": -34.012144,
+   "lon": 18.4053553
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -34.0128403,
+   "lon": 18.406078
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -34.012686,
+   "lon": 18.4063088
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -34.0127014,
+   "lon": 18.4052572
+  },
+  {
+   "tags": {
+    "foot": "yes",
+    "highway": "path"
+   },
+   "lat": -34.0077487,
+   "lon": 18.4058555
+  },
+  {
+   "tags": {
+    "access": "private",
+    "foot": "permissive",
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -34.0094536,
+   "lon": 18.4029312
+  },
+  {
+   "tags": {
+    "access": "private",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "service",
+    "name": "Contour Path",
+    "surface": "unpaved",
+    "tracktype": "grade1"
+   },
+   "lat": -34.007499,
+   "lon": 18.4097633
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.0085808,
+   "lon": 18.4079045
+  }
+ ],
+ "asset:koebeepas:-31.601:18.987": [],
+ "asset:ou dooppoort:-31.551:18.985": [],
+ "asset:klein-koebeepas:-31.521:18.981": [],
+ "asset:wolfiespoort:-33.793:20.166": [
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.7965798,
+   "lon": 20.169157
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.7936531,
+   "lon": 20.1680962
+  }
+ ],
+ "asset:grasnek:-34.101:23.383": [
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking"
+   },
+   "lat": -34.101428,
+   "lon": 23.3830767
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking"
+   },
+   "lat": -34.1019677,
+   "lon": 23.3832801
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "lit": "no",
+    "name": "Gap Circuit",
+    "sac_scale": "hiking"
+   },
+   "lat": -34.1009813,
+   "lon": 23.3806134
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "lit": "no",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.1012316,
+   "lon": 23.3827498
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.101036,
+   "lon": 23.3817942
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.0999226,
+   "lon": 23.3803956
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.0998891,
+   "lon": 23.3801312
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking"
+   },
+   "lat": -34.1004875,
+   "lon": 23.3798085
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.1010239,
+   "lon": 23.3823973
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.10101,
+   "lon": 23.3827618
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "ground"
+   },
+   "lat": -34.1010275,
+   "lon": 23.3829426
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.1010187,
+   "lon": 23.3830337
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "lit": "no",
+    "name": "Gap Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.101102,
+   "lon": 23.3821416
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "ground"
+   },
+   "lat": -34.1009641,
+   "lon": 23.3832735
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.1024699,
+   "lon": 23.3837524
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "rock"
+   },
+   "lat": -34.1024389,
+   "lon": 23.3836822
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.1024163,
+   "lon": 23.383611
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.1023352,
+   "lon": 23.3834662
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "wood"
+   },
+   "lat": -34.1022571,
+   "lon": 23.3834077
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking"
+   },
+   "lat": -34.1021377,
+   "lon": 23.3833552
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking",
+    "surface": "rock"
+   },
+   "lat": -34.1009076,
+   "lon": 23.3836492
+  },
+  {
+   "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "lit": "no",
+    "name": "Point Circuit",
+    "sac_scale": "hiking"
+   },
+   "lat": -34.1010353,
+   "lon": 23.3839471
+  }
+ ],
+ "asset:safbreeknek:-32.572:20.374": [],
+ "asset:amandelnek:-32.641:20.305": [],
+ "asset:goreeshoogte:-33.805:19.814": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "120",
+    "noname": "yes",
+    "ref": "R60",
+    "smoothness": "excellent",
+    "surface": "asphalt"
+   },
+   "lat": -33.8057506,
+   "lon": 19.8088554
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "120",
+    "noname": "yes",
+    "ref": "R60",
+    "smoothness": "excellent",
+    "surface": "asphalt"
+   },
+   "lat": -33.8046001,
+   "lon": 19.8165297
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.8057103,
+   "lon": 19.8112428
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.8043932,
+   "lon": 19.815862
+  }
+ ],
+ "asset:sandfonteinspoort:-33.745:20.587": [
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "note": "svr_Kaart_confirmed_202601",
+    "surface": "gravel"
+   },
+   "lat": -33.7508875,
+   "lon": 20.5834041
+  }
+ ],
+ "asset:katbakkies pass:-32.893:19.548": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "maxspeed": "30",
+    "maxspeed:advisory": "30",
+    "name": "Katbakkies Pass",
+    "narrow": "yes",
+    "note": "FIXME unknown status and ref",
+    "surface": "asphalt"
+   },
+   "lat": -32.8958319,
+   "lon": 19.5533879
+  }
+ ],
+ "asset:rooihoogtepas:-33.609:19.842": [],
+ "asset:hugosnek:-33.351:19.888": [],
+ "asset:boesmanspoort:-33.231:22.256": [],
+ "asset:blounek:-33.320:22.262": [],
+ "asset:grootrivierpas:-33.965:23.562": [
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.9670064,
+   "lon": 23.5590544
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9666272,
+   "lon": 23.5597391
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.9674136,
+   "lon": 23.5611848
+  },
+  {
+   "tags": {
+    "bridge": "boardwalk",
+    "highway": "path",
+    "surface": "wood"
+   },
+   "lat": -33.9674618,
+   "lon": 23.5611101
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.967879,
+   "lon": 23.563859
+  },
+  {
+   "tags": {
+    "bridge": "boardwalk",
+    "highway": "path",
+    "surface": "wood"
+   },
+   "lat": -33.9674413,
+   "lon": 23.5603852
+  }
+ ],
+ "asset:sandbergpas:-33.870:19.774": [],
+ "asset:jareteng pass:-29.303:29.442": [],
+ "asset:ntubeni pass:-29.371:29.449": [],
+ "asset:lotheni pass:-29.365:29.445": [
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "bad"
+   },
+   "lat": -29.363948,
+   "lon": 29.4474775
+  }
+ ],
+ "asset:nhlawathimbe pass:-29.436:29.401": [
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "bad"
+   },
+   "lat": -29.4382997,
+   "lon": 29.4061029
+  }
+ ],
+ "asset:butress pass:-29.433:29.425": [
+  {
+   "tags": {
+    "highway": "path",
+    "trail_visibility": "no"
+   },
+   "lat": -29.4361917,
+   "lon": 29.4310353
+  }
+ ],
+ "asset:mlahlangubo pass:-29.452:29.392": [],
+ "asset:piekenierskloof pass:-32.643:18.948": [
+  {
+   "tags": {
+    "access": "private",
+    "highway": "track",
+    "historic:highway": "trunk",
+    "historic:ref": "TR11/3",
+    "name": "Grey's Pass",
+    "note": "Old N7 route, deproclaimed around 1958",
+    "smoothness": "very_bad",
+    "source": "ngi-aerial",
+    "tracktype": "grade3"
+   },
+   "lat": -32.6371132,
+   "lon": 18.9461449
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "official_ref": "NR7/3",
+    "ref": "N7",
+    "source": "Saldanha Bay Municipality",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -32.6437133,
+   "lon": 18.9490195
+  }
+ ],
+ "asset:pienaarspoort pass:-33.218:24.397": [],
+ "asset:ramats'eliso's nek:-30.048:28.944": [],
+ "asset:ndedema's pass:-29.068:29.260": [],
+ "asset:cathikin mountain pass:-29.096:29.326": [
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -29.0947419,
+   "lon": 29.3284736
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Cathikin Mountain Pass",
+    "sac_scale": "demanding_mountain_hiking"
+   },
+   "lat": -29.0986417,
+   "lon": 29.330846
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -29.095438,
+   "lon": 29.3246832
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking"
+   },
+   "lat": -29.096377,
+   "lon": 29.3265117
+  }
+ ],
+ "asset:amakehla pass:-29.643:29.288": [
+  {
+   "tags": {
+    "highway": "path",
+    "incline": "steep",
+    "sac_scale": "alpine_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "bad"
+   },
+   "lat": -29.6431749,
+   "lon": 29.2909458
+  }
+ ],
+ "asset:kurktrekkersnek:-34.011:19.000": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Swartboskloof Route",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+   },
+   "lat": -34.014305,
+   "lon": 18.994706
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Kurktrekker / Panorama Trail",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "excellent"
+   },
+   "lat": -34.0079355,
+   "lon": 18.9970007
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.009081,
+   "lon": 18.9989203
+  }
+ ],
+ "asset:sandleni pass:-29.648:29.221": [],
+ "asset:phinong pass:-29.575:29.326": [],
+ "asset:ape's pass:-29.138:29.354": [],
+ "asset:cowl pass:-29.081:29.348": [],
+ "asset:ongeluks nek:-30.338:28.252": [
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "unpaved"
+   },
+   "lat": -30.3365338,
+   "lon": 28.2561113
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -30.3386923,
+   "lon": 28.2579182
+  }
+ ],
+ "asset:mohlabaphoho pass:-30.135:28.620": [
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "unpaved"
+   },
+   "lat": -30.1339707,
+   "lon": 28.6191008
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.1293736,
+   "lon": 28.6250369
+  }
+ ],
+ "asset:three-sisters pass:-30.144:28.504": [
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.1473723,
+   "lon": 28.503921
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.14591,
+   "lon": 28.5031271
+  }
+ ],
+ "asset:nene pass:-30.204:28.349": [
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.2065087,
+   "lon": 28.3563513
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.2032194,
+   "lon": 28.349223
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "surface": "unpaved"
+   },
+   "lat": -30.2014414,
+   "lon": 28.3515341
+  }
+ ],
+ "asset:cogmanskloof pass:-33.803:20.095": [
+  {
+   "tags": {
+    "highway": "footway"
+   },
+   "lat": -33.8085789,
+   "lon": 20.0927957
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "noname": "yes",
+    "ref": "R62",
+    "surface": "asphalt"
+   },
+   "lat": -33.8083934,
+   "lon": 20.0921569
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.8034454,
+   "lon": 20.0932494
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.8017627,
+   "lon": 20.0923959
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.801984,
+   "lon": 20.0914488
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "concrete"
+   },
+   "lat": -33.8026618,
+   "lon": 20.0930503
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "noname": "yes",
+    "ref": "R62",
+    "surface": "asphalt"
+   },
+   "lat": -33.8029494,
+   "lon": 20.0974452
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Loftus Bridge",
+    "noname": "yes",
+    "oneway": "no",
+    "ref": "R62",
+    "surface": "asphalt"
+   },
+   "lat": -33.8033579,
+   "lon": 20.0941719
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "-1",
+    "maxheight": "5",
+    "noname": "yes",
+    "ref": "R62",
+    "surface": "asphalt",
+    "tunnel": "yes"
+   },
+   "lat": -33.803037,
+   "lon": 20.0945779
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "noname": "yes",
+    "ref": "R62",
+    "surface": "asphalt"
+   },
+   "lat": -33.8031571,
+   "lon": 20.0944224
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "oneway": "yes"
+   },
+   "lat": -33.8029715,
+   "lon": 20.0956403
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.8029938,
+   "lon": 20.0960545
+  }
+ ],
+ "asset:charlies pass:-32.208:22.237": [],
+ "asset:komsberg pass:-32.668:20.764": [],
+ "asset:laingsnek:-29.149:25.972": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -29.1494959,
+   "lon": 25.9743893
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "surface": "unpaved"
+   },
+   "lat": -29.1501393,
+   "lon": 25.9789134
+  }
+ ],
+ "asset:naude's neck pass:-30.865:27.871": [],
+ "asset:plattekloof pass:-33.989:21.061": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "note": "Road to Kortfontein, Kanetberg, Gysmanshoekpas",
+    "source": "gpx",
+    "surface": "unpaved"
+   },
+   "lat": -33.9825169,
+   "lon": 21.0636086
+  }
+ ],
+ "asset:bushman's nek pass trail:-29.865:29.163": [],
+ "asset:grasnek pass:-33.649:24.342": [
+  {
+   "tags": {
+    "abandoned": "yes",
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "surface": "unpaved"
+   },
+   "lat": -33.646849,
+   "lon": 24.3428187
+  },
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "ele": "451",
+    "highway": "tertiary",
+    "mountain_pass": "yes",
+    "name": "Grasnek Pass",
+    "note": "svr_Kaart_confirmed_202304",
+    "ref": "R332",
+    "surface": "unpaved",
+    "wikipedia": "en:List of mountain passes of the Eastern Cape"
+   },
+   "lat": -33.6493758,
+   "lon": 24.3421391
+  }
+ ],
+ "asset:normandien pass:-27.961:29.657": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "mountain_pass": "yes",
+    "name": "Normandien Pass",
+    "ref": "P270",
+    "surface": "gravel"
+   },
+   "lat": -27.9608383,
+   "lon": 29.6573328
+  }
+ ],
+ "asset:mullers pass:-27.867:29.705": [],
+ "asset:dasklip pass:-32.900:19.032": [],
+ "asset:suurberg pass:-33.277:25.762": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "name": "Suurberg Pass",
+    "ref": "R335",
+    "surface": "gravel"
+   },
+   "lat": -33.2770196,
+   "lon": 25.7618225
+  }
+ ],
+ "asset:doringnek pass:-33.379:25.718": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "maxspeed": "40",
+    "name": "Doringnek Pass",
+    "name:af": "Doringnekpas",
+    "ref": "R335",
+    "surface": "gravel"
+   },
+   "lat": -33.3855037,
+   "lon": 25.714769
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service",
+    "lanes": "1",
+    "name": "Camp Figtree Access Road",
+    "surface": "unpaved"
+   },
+   "lat": -33.3775494,
+   "lon": 25.7092044
+  },
+  {
+   "tags": {
+    "cutting": "yes",
+    "highway": "secondary",
+    "maxspeed": "40",
+    "name": "Doringnek Pass",
+    "name:af": "Doringnekpas",
+    "ref": "R335",
+    "surface": "gravel"
+   },
+   "lat": -33.377993,
+   "lon": 25.7195232
+  },
+  {
+   "tags": {
+    "cutting": "left",
+    "highway": "secondary",
+    "maxspeed": "40",
+    "name": "Doringnek Pass",
+    "name:af": "Doringnekpas",
+    "ref": "R335",
+    "surface": "gravel"
+   },
+   "lat": -33.3785648,
+   "lon": 25.7179112
+  }
+ ],
+ "asset:witkransnek pass:-31.696:25.192": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "name": "Witkransnek Pass",
+    "ref": "N10",
+    "surface": "asphalt"
+   },
+   "lat": -31.6957142,
+   "lon": 25.1920002
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "oneway": "yes",
+    "surface": "paved"
+   },
+   "lat": -31.6953057,
+   "lon": 25.1886517
+  }
+ ],
+ "asset:sylvia pass:-26.169:28.089": [
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Kloof Street",
+    "surface": "asphalt"
+   },
+   "lat": -26.1720182,
+   "lon": 28.0870543
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Gerard Street",
+    "surface": "asphalt"
+   },
+   "lat": -26.171973,
+   "lon": 28.085046
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Maple Street",
+    "surface": "asphalt"
+   },
+   "lat": -26.166238,
+   "lon": 28.0885326
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Goodman Terrace",
+    "oneway": "no",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.166882,
+   "lon": 28.0877283
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Babington Street",
+    "surface": "asphalt"
+   },
+   "lat": -26.1674028,
+   "lon": 28.0868964
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Kloof Street",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1670605,
+   "lon": 28.0880569
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Kallenbach Drive",
+    "surface": "asphalt"
+   },
+   "lat": -26.1673998,
+   "lon": 28.0880961
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "oneway": "yes"
+   },
+   "lat": -26.1693874,
+   "lon": 28.0882556
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1678872,
+   "lon": 28.0872415
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1685653,
+   "lon": 28.0885987
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Grace Road",
+    "surface": "asphalt"
+   },
+   "lat": -26.1696355,
+   "lon": 28.087013
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Goodman Terrace",
+    "oneway": "no",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1672271,
+   "lon": 28.087706
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Grace Road",
+    "surface": "asphalt"
+   },
+   "lat": -26.1694978,
+   "lon": 28.0885888
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Grace Road",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1693637,
+   "lon": 28.08859
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Sylvia Pass",
+    "oneway": "no",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1681633,
+   "lon": 28.0881074
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Frederick Street",
+    "surface": "asphalt"
+   },
+   "lat": -26.1710615,
+   "lon": 28.0869801
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Kallenbach Drive",
+    "surface": "paving_stones"
+   },
+   "lat": -26.167467,
+   "lon": 28.0912508
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1710205,
+   "lon": 28.0890802
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Kloof Street",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1661649,
+   "lon": 28.089173
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1705116,
+   "lon": 28.0886682
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.171105,
+   "lon": 28.0899265
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Louise Street",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1703318,
+   "lon": 28.0899451
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Louise Street",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1712783,
+   "lon": 28.0900364
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "40",
+    "name": "Sylvia Pass",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1691554,
+   "lon": 28.0889224
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Grace Road",
+    "oneway": "no",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1697783,
+   "lon": 28.0895287
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Grace Road",
+    "surface": "asphalt"
+   },
+   "lat": -26.1695973,
+   "lon": 28.0915817
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Louise Street",
+    "surface": "asphalt"
+   },
+   "lat": -26.171525,
+   "lon": 28.090183
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Louise Street",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1712903,
+   "lon": 28.0899732
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Frederick Street",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1711126,
+   "lon": 28.0897107
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "name": "Louise Street",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1708939,
+   "lon": 28.0899821
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "name": "Frederick Street",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1711528,
+   "lon": 28.0901712
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "name": "Frederick Street",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1711008,
+   "lon": 28.0901747
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "name": "Louise Street",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1708906,
+   "lon": 28.0899247
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Frederick Street",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1711562,
+   "lon": 28.0897253
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "40",
+    "name": "Sylvia Pass",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1691536,
+   "lon": 28.0888908
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "New Mountain Road",
+    "surface": "asphalt"
+   },
+   "lat": -26.1682151,
+   "lon": 28.0903401
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "The Ridge Road",
+    "surface": "asphalt"
+   },
+   "lat": -26.1688946,
+   "lon": 28.0910685
+  },
+  {
+   "tags": {
+    "destination:ref": "M33",
+    "highway": "secondary",
+    "lanes": "1",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1695523,
+   "lon": 28.0890966
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1694305,
+   "lon": 28.0889483
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -26.1691145,
+   "lon": 28.091173
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -26.16907,
+   "lon": 28.0907629
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "New Mountain Road",
+    "surface": "asphalt"
+   },
+   "lat": -26.167932,
+   "lon": 28.0916925
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "The Ridge Road",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1692801,
+   "lon": 28.0890914
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "The Ridge Road",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -26.1693048,
+   "lon": 28.0891053
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1692435,
+   "lon": 28.0910594
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "4",
+    "name": "Frederick Street",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1711578,
+   "lon": 28.0927117
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1714477,
+   "lon": 28.089853
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1710012,
+   "lon": 28.0912047
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1708543,
+   "lon": 28.091113
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1709606,
+   "lon": 28.0908512
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1696707,
+   "lon": 28.0899121
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.170434,
+   "lon": 28.0902398
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.1686783,
+   "lon": 28.0888444
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Grace Road",
+    "oneway": "yes",
+    "ref": "M33",
+    "surface": "asphalt"
+   },
+   "lat": -26.1696148,
+   "lon": 28.0890356
+  }
+ ],
+ "asset:holgat pass:-33.651:24.425": [],
+ "asset:akkedis pass:-28.175:17.030": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "name": "Akkedis Pass",
+    "smoothness": "horrible",
+    "surface": "dirt"
+   },
+   "lat": -28.1722298,
+   "lon": 17.0266688
+  },
+  {
+   "tags": {
+    "highway": "unclassified",
+    "name": "Akkedis Pass",
+    "smoothness": "horrible",
+    "surface": "dirt"
+   },
+   "lat": -28.174996,
+   "lon": 17.030014
+  }
+ ],
+ "asset:hoek-se-berg pass:-32.153:19.186": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -32.1542154,
+   "lon": 19.189711
+  },
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "layer": "1",
+    "name": "Hoek-se-Berg Pass",
+    "note": "#Kaart 2025",
+    "ref": "P2262",
+    "surface": "unpaved"
+   },
+   "lat": -32.1533977,
+   "lon": 19.1864475
+  }
+ ],
+ "asset:buffalo pass:-33.017:27.811": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Umtiza Reserve"
+   },
+   "lat": -33.0160113,
+   "lon": 27.8080796
+  },
+  {
+   "tags": {
+    "highway": "footway",
+    "name": "Dassie Trail"
+   },
+   "lat": -33.0144312,
+   "lon": 27.811012
+  }
+ ],
+ "asset:buffelspoort:-33.592:21.131": [
+  {
+   "tags": {
+    "highway": "unclassified"
+   },
+   "lat": -33.5917671,
+   "lon": 21.1366112
+  }
+ ],
+ "asset:old houwhoek pass:-34.216:19.175": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "name": "Old Houwhoek Pass",
+    "source": "survey",
+    "surface": "unpaved"
+   },
+   "lat": -34.2161864,
+   "lon": 19.1754841
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "ref": "N2",
+    "surface": "asphalt"
+   },
+   "lat": -34.2184987,
+   "lon": 19.1759866
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "lit": "no",
+    "maxspeed": "80",
+    "motorroad": "yes",
+    "oneway": "yes",
+    "ref": "N2",
+    "surface": "asphalt"
+   },
+   "lat": -34.2167484,
+   "lon": 19.1752088
+  }
+ ],
+ "asset:seweweekspoort:-33.448:21.415": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "loc_ref": "TR83",
+    "name": "Seweweekspoort",
+    "note": "Some sources claim this to be part of the R323, others that it is not. Signage on ground is inconclusive: there is R323 signage at the N1 junction in Laingsburg, but nowhere else.",
+    "surface": "gravel",
+    "unsigned_ref": "R323"
+   },
+   "lat": -33.4475918,
+   "lon": 21.4152422
+  }
+ ],
+ "asset:underpass:-30.645:24.015": [
+  {
+   "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "60",
+    "motor_vehicle": "yes",
+    "name": "Vermeulen Street",
+    "name:af": "Vermeulenstraat",
+    "name:en": "Vermeulen Street",
+    "oneway": "no",
+    "surface": "asphalt"
+   },
+   "lat": -30.6470201,
+   "lon": 24.0069715
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "motor_vehicle": "yes",
+    "name": "Hoop Street",
+    "name:af": "Hoopstraat",
+    "name:en": "Hope Street",
+    "oneway": "no",
+    "ref": "R48",
+    "surface": "asphalt"
+   },
+   "lat": -30.6460039,
+   "lon": 24.0115332
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "name": "North Road",
+    "name:af": "Noordweg",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -30.6453216,
+   "lon": 24.0125422
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "name": "North Road",
+    "name:af": "Noordweg",
+    "oneway": "yes",
+    "surface": "asphalt"
+   },
+   "lat": -30.6453769,
+   "lon": 24.0124875
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "name": "North Road",
+    "name:af": "Noordweg",
+    "surface": "asphalt"
+   },
+   "lat": -30.6445064,
+   "lon": 24.0114734
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Kort Street",
+    "name:af": "Stationstraat",
+    "name:en": "Kort Street"
+   },
+   "lat": -30.6452103,
+   "lon": 24.0114103
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -30.6486854,
+   "lon": 24.0126553
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -30.6403709,
+   "lon": 24.0163164
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "oneway": "no",
+    "ref": "R48",
+    "surface": "asphalt"
+   },
+   "lat": -30.6443117,
+   "lon": 24.0167747
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "-1",
+    "maxheight": "4.42",
+    "maxspeed": "40",
+    "motor_vehicle": "yes",
+    "name": "Underpass",
+    "name:af": "Duikweg",
+    "name:en": "Underpass",
+    "oneway": "no",
+    "ref": "R48",
+    "surface": "asphalt",
+    "tunnel": "yes"
+   },
+   "lat": -30.6449131,
+   "lon": 24.0145137
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -30.6462438,
+   "lon": 24.0169464
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "tracktype": "grade3"
+   },
+   "lat": -30.6456986,
+   "lon": 24.0160868
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -30.6446309,
+   "lon": 24.016989
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -30.6450252,
+   "lon": 24.0173498
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "motor_vehicle": "yes",
+    "name": "Hoop Street",
+    "name:af": "Hoopstraat",
+    "name:en": "Hoop Street",
+    "oneway": "no",
+    "ref": "R48",
+    "surface": "asphalt"
+   },
+   "lat": -30.6457188,
+   "lon": 24.0126036
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "motor_vehicle": "yes",
+    "noname": "yes",
+    "oneway": "no",
+    "ref": "R48",
+    "surface": "asphalt"
+   },
+   "lat": -30.6453286,
+   "lon": 24.0131039
+  }
+ ],
+ "asset:naudé's nek:-30.759:28.045": [
+  {
+   "tags": {
+    "4wd_only": "recommended",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Naudé's Nek",
+    "note": "svr_Kaart_confirmed_202302",
+    "ref": "R396",
+    "surface": "unpaved"
+   },
+   "lat": -30.759002,
+   "lon": 28.0451215
+  }
+ ],
+ "asset:pitseng pass:-30.749:28.323": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Pitseng Pass",
+    "note": "svr_Kaart_confirmed_202302",
+    "smoothness": "rough",
+    "surface": "unpaved"
+   },
+   "lat": -30.749116,
+   "lon": 28.323053
+  }
+ ],
+ "asset:clivia pass:-25.538:30.564": [],
+ "asset:mchattie's nek:-26.675:28.628": [
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.6724356,
+   "lon": 28.6265466
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.6739035,
+   "lon": 28.6259478
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.6739173,
+   "lon": 28.6263283
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "unpaved"
+   },
+   "lat": -26.6761655,
+   "lon": 28.6209503
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.6725223,
+   "lon": 28.6271007
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -26.6745504,
+   "lon": 28.6281112
+  }
+ ],
+ "asset:orrie baragwanath pass:-24.295:29.526": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Orrie Baragwanath Pass",
+    "ref": "R518",
+    "surface": "asphalt"
+   },
+   "lat": -24.2949212,
+   "lon": 29.5257303
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -24.2973705,
+   "lon": 29.5269863
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -24.297706,
+   "lon": 29.5258261
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -24.2957567,
+   "lon": 29.5285211
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "oneway": "yes"
+   },
+   "lat": -24.2959869,
+   "lon": 29.5283541
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -24.2956389,
+   "lon": 29.5287688
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -24.2953552,
+   "lon": 29.528569
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -24.2947799,
+   "lon": 29.5281139
+  }
+ ],
+ "asset:tyumbu pass:-30.907:27.571": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Tyumbu Pass",
+    "note": "svr_Kaart_confirmed_202302",
+    "surface": "unpaved"
+   },
+   "lat": -30.9067941,
+   "lon": 27.5712988
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "bridge:name": "Loch Bridge",
+    "highway": "tertiary",
+    "layer": "1",
+    "name": "Tyumbu Pass",
+    "note": "svr_Kaart_confirmed_202302",
+    "sagns_id": "100654",
+    "source": "sagns",
+    "start_date": "March 1894",
+    "surface": "unpaved",
+    "url": "http://www.artefacts.co.za/main/Buildings/bldgframes.php?bldgid=10050"
+   },
+   "lat": -30.9064535,
+   "lon": 27.5720223
+  }
+ ],
+ "asset:prinspoort:-33.467:20.741": [
+  {
+   "tags": {
+    "access": "yes",
+    "highway": "track",
+    "motorcar": "yes",
+    "name": "Prinspoort",
+    "source": "gpx",
+    "surface": "ground",
+    "tracktype": "grade3"
+   },
+   "lat": -33.4671237,
+   "lon": 20.7405475
+  }
+ ],
+ "asset:potters pass:-33.036:27.869": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Potters Pass",
+    "surface": "asphalt"
+   },
+   "lat": -33.0405086,
+   "lon": 27.8703435
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Ripley Road",
+    "surface": "asphalt"
+   },
+   "lat": -33.0336711,
+   "lon": 27.8666723
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "parking_aisle",
+    "surface": "paved"
+   },
+   "lat": -33.035353,
+   "lon": 27.8661814
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "parking_aisle",
+    "surface": "paved"
+   },
+   "lat": -33.0351778,
+   "lon": 27.8661774
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0343563,
+   "lon": 27.8703946
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Jan Smuts Avenue",
+    "surface": "asphalt"
+   },
+   "lat": -33.0345358,
+   "lon": 27.8679482
+  },
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Potters Pass",
+    "note": "svr_Kaart_confirmed_202307",
+    "oneway": "yes",
+    "sidewalk:left": "separate",
+    "surface": "asphalt"
+   },
+   "lat": -33.0358778,
+   "lon": 27.8690419
+  },
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Potters Pass",
+    "note": "svr_Kaart_confirmed_202307",
+    "oneway": "yes",
+    "sidewalk:left": "separate",
+    "surface": "asphalt"
+   },
+   "lat": -33.0358839,
+   "lon": 27.8691261
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Buffalo View Road",
+    "oneway": "yes",
+    "sidewalk:left": "separate",
+    "surface": "asphalt"
+   },
+   "lat": -33.0352406,
+   "lon": 27.8692762
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Buffalo View Road",
+    "oneway": "yes",
+    "sidewalk:left": "separate",
+    "surface": "asphalt"
+   },
+   "lat": -33.0352345,
+   "lon": 27.8691925
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0347228,
+   "lon": 27.8665434
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0352386,
+   "lon": 27.8678301
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0346858,
+   "lon": 27.8675479
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0354561,
+   "lon": 27.8671511
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0354349,
+   "lon": 27.8669579
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0351934,
+   "lon": 27.8670952
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0353002,
+   "lon": 27.8672461
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "oneway": "yes",
+    "surface": "paved"
+   },
+   "lat": -33.0356026,
+   "lon": 27.8665334
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0351814,
+   "lon": 27.8671593
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "oneway": "yes",
+    "service": "drive-through",
+    "surface": "paved"
+   },
+   "lat": -33.0352314,
+   "lon": 27.8678322
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0349445,
+   "lon": 27.8671831
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "oneway": "yes"
+   },
+   "lat": -33.0355311,
+   "lon": 27.8672551
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0343117,
+   "lon": 27.8704816
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0351126,
+   "lon": 27.8695969
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.0373958,
+   "lon": 27.8697281
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.03749,
+   "lon": 27.8700905
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.036398,
+   "lon": 27.8699815
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.0370401,
+   "lon": 27.8705227
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "service": "driveway",
+    "surface": "paved"
+   },
+   "lat": -33.0345267,
+   "lon": 27.8662775
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.0380014,
+   "lon": 27.8697596
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.0381493,
+   "lon": 27.8697371
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "name": "Penkop Street",
+    "surface": "asphalt"
+   },
+   "lat": -33.0375492,
+   "lon": 27.8698692
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.0356151,
+   "lon": 27.8707665
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "name": "Penkop Street",
+    "surface": "paved"
+   },
+   "lat": -33.0377572,
+   "lon": 27.8712639
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -33.0346847,
+   "lon": 27.8703347
+  },
+  {
+   "tags": {
+    "access": "private",
+    "highway": "service"
+   },
+   "lat": -33.0346158,
+   "lon": 27.8700647
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.0343364,
+   "lon": 27.8699167
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "70",
+    "name": "Settlers Way",
+    "oneway": "yes",
+    "ref": "R72",
+    "sidewalk:left": "separate",
+    "surface": "asphalt"
+   },
+   "lat": -33.0356266,
+   "lon": 27.869079
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "70",
+    "name": "Settlers Way",
+    "oneway": "yes",
+    "ref": "R72",
+    "sidewalk:left": "separate",
+    "surface": "asphalt"
+   },
+   "lat": -33.0355124,
+   "lon": 27.8690962
+  },
+  {
+   "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+   },
+   "lat": -33.0355797,
+   "lon": 27.86911
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Buffalo View Road",
+    "surface": "asphalt"
+   },
+   "lat": -33.0329481,
+   "lon": 27.8706854
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Sydney Street",
+    "surface": "asphalt"
+   },
+   "lat": -33.0320747,
+   "lon": 27.8693221
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -33.0346373,
+   "lon": 27.8719338
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Charles Avenue",
+    "surface": "asphalt"
+   },
+   "lat": -33.0333409,
+   "lon": 27.8682731
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "70",
+    "name": "Settlers Way",
+    "oneway": "yes",
+    "ref": "R72",
+    "surface": "asphalt"
+   },
+   "lat": -33.0361508,
+   "lon": 27.8750922
+  }
+ ],
+ "asset:roodehoogte:-33.790:19.908": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "maxspeed": "60",
+    "name": "Roodehoogte",
+    "source": "survey",
+    "surface": "unpaved"
+   },
+   "lat": -33.7898294,
+   "lon": 19.9075203
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.7926291,
+   "lon": 19.9094463
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.7878343,
+   "lon": 19.9110837
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.7874022,
+   "lon": 19.9085107
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.7886771,
+   "lon": 19.9094969
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.7880777,
+   "lon": 19.9088412
+  },
+  {
+   "tags": {
+    "highway": "service"
+   },
+   "lat": -33.7895865,
+   "lon": 19.9081882
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.7903218,
+   "lon": 19.9078017
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.789225,
+   "lon": 19.9091067
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.788939,
+   "lon": 19.9069656
+  }
+ ],
+ "asset:teekloof pass:-32.188:21.622": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "name": "Teekloof Pass",
+    "note": "#Kaart 2025",
+    "ref": "R353",
+    "surface": "asphalt"
+   },
+   "lat": -32.1884489,
+   "lon": 21.6223604
+  }
+ ],
+ "asset:bloukrans pass:-31.678:19.746": [],
+ "asset:baster voetslaan pass:-31.163:27.899": [
+  {
+   "tags": {
+    "4wd_only": "recommended",
+    "alt_name": "Dr. Lapa Munnik Pass",
+    "bridge": "yes",
+    "foot": "yes",
+    "hgv": "no",
+    "highway": "track",
+    "horse": "yes",
+    "layer": "1",
+    "name": "Baster Voetslaan Pass",
+    "sidewalk": "no",
+    "smoothness": "very_bad",
+    "surface": "ground"
+   },
+   "lat": -31.1627402,
+   "lon": 27.898764
+  },
+  {
+   "tags": {
+    "4wd_only": "recommended",
+    "alt_name": "Dr. Lapa Munnik Pass",
+    "foot": "yes",
+    "hgv": "no",
+    "highway": "track",
+    "horse": "yes",
+    "name": "Baster Voetslaan Pass",
+    "sidewalk": "no",
+    "smoothness": "very_bad",
+    "surface": "ground"
+   },
+   "lat": -31.1635112,
+   "lon": 27.8979048
+  }
+ ],
+ "asset:gal's pass:-33.806:23.117": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Gal's Pass"
+   },
+   "lat": -33.8061785,
+   "lon": 23.1170665
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Burchell's Route"
+   },
+   "lat": -33.8049721,
+   "lon": 23.1227478
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Kruin Route",
+    "tracktype": "grade2"
+   },
+   "lat": -33.8048725,
+   "lon": 23.116718
+  }
+ ],
+ "asset:bosvarknek:-33.820:23.144": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Burchell's Route",
+    "tracktype": "grade3"
+   },
+   "lat": -33.8200734,
+   "lon": 23.1425975
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Bosvarknek",
+    "tracktype": "grade2"
+   },
+   "lat": -33.8195367,
+   "lon": 23.1437134
+  }
+ ],
+ "asset:wildernishoogte:-33.970:22.576": [
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Jordaan"
+   },
+   "lat": -33.972581,
+   "lon": 22.5762482
+  },
+  {
+   "tags": {
+    "highway": "unclassified",
+    "lanes": "2",
+    "name": "Wildernishoogte",
+    "surface": "asphalt"
+   },
+   "lat": -33.9702998,
+   "lon": 22.5762317
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Lily Avenue",
+    "name:af": "Lelie Weg",
+    "name:en": "Lily Avenue"
+   },
+   "lat": -33.9706339,
+   "lon": 22.5738929
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Lily Avenue",
+    "name:af": "Lelie Weg",
+    "name:en": "Lily Avenue"
+   },
+   "lat": -33.9710005,
+   "lon": 22.5727509
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.9676041,
+   "lon": 22.5767994
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -33.9689623,
+   "lon": 22.5767672
+  }
+ ],
+ "asset:donkey pass:-28.279:29.194": [],
+ "asset:burchell's pass:-24.271:27.783": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Burchell's Pass",
+    "surface": "dirt"
+   },
+   "lat": -24.2712805,
+   "lon": 27.7832108
+  }
+ ],
+ "asset:gierenhof pass:-24.305:27.766": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Gierenhof Pass",
+    "surface": "dirt"
+   },
+   "lat": -24.3045408,
+   "lon": 27.7658384
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Woestaleen Access Road",
+    "surface": "dirt"
+   },
+   "lat": -24.3065947,
+   "lon": 27.7668688
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "dirt"
+   },
+   "lat": -24.3010144,
+   "lon": 27.7681145
+  }
+ ],
+ "asset:mpongo pass:-32.839:27.731": [
+  {
+   "tags": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "track",
+    "name": "Mpongo Pass",
+    "sidewalk": "no",
+    "surface": "unpaved"
+   },
+   "lat": -32.8384962,
+   "lon": 27.7306487
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -32.83961,
+   "lon": 27.7284827
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -32.8363828,
+   "lon": 27.731188
+  }
+ ],
+ "asset:harry's pass:-24.223:27.812": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Harry's Pass",
+    "surface": "dirt"
+   },
+   "lat": -24.2233679,
+   "lon": 27.8120483
+  }
+ ],
+ "asset:tshukudu pass:-24.328:27.788": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Tshukudu Pass",
+    "surface": "dirt"
+   },
+   "lat": -24.3277437,
+   "lon": 27.7882094
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "dirt"
+   },
+   "lat": -24.3274481,
+   "lon": 27.7905322
+  }
+ ],
+ "asset:bee-eaters pass:-24.351:27.788": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Bee-Eaters Pass",
+    "surface": "dirt"
+   },
+   "lat": -24.3507823,
+   "lon": 27.7881865
+  }
+ ],
+ "asset:elandshoogte:-24.337:27.926": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Elandshoogte",
+    "surface": "dirt"
+   },
+   "lat": -24.33717,
+   "lon": 27.9261926
+  }
+ ],
+ "asset:low range pass:-24.417:27.790": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Low Range Pass",
+    "surface": "dirt"
+   },
+   "lat": -24.4166558,
+   "lon": 27.7901046
+  }
+ ],
+ "asset:ou berg pass:-31.775:18.917": [
+  {
+   "tags": {
+    "4wd_only": "recommended",
+    "highway": "tertiary",
+    "name": "Ou Berg Pass",
+    "note": "svr_Kaart_confirmed_202605",
+    "surface": "gravel"
+   },
+   "lat": -31.775422,
+   "lon": 18.9172183
+  }
+ ],
+ "asset:old huisrivier pass:-33.495:21.578": [
+  {
+   "tags": {
+    "highway": "primary",
+    "incline": "-8%",
+    "lanes": "2",
+    "maxspeed": "100",
+    "maxspeed:advisory": "80",
+    "noname": "yes",
+    "official_ref": "TR31/5",
+    "ref": "R62",
+    "shoulder": "yes",
+    "smoothness": "good",
+    "surface": "asphalt"
+   },
+   "lat": -33.4964602,
+   "lon": 21.58225
+  },
+  {
+   "tags": {
+    "access": "no",
+    "highway": "track",
+    "name": "Old Huisrivier Pass",
+    "tracktype": "grade5"
+   },
+   "lat": -33.49459,
+   "lon": 21.5784842
+  }
+ ],
+ "asset:old op de tradouw pass:-33.926:20.531": [
+  {
+   "tags": {
+    "access": "private",
+    "highway": "track",
+    "name": "Old Op de Tradouw Pass",
+    "tracktype": "grade1"
+   },
+   "lat": -33.9263503,
+   "lon": 20.5305409
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "incline": "-6%",
+    "lanes": "2",
+    "maxspeed": "80",
+    "noname": "yes",
+    "official_ref": "TR31/3",
+    "ref": "R62",
+    "shoulder": "yes",
+    "smoothness": "good",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.9263128,
+   "lon": 20.5279915
+  }
+ ],
+ "asset:grootrivierpoort:-33.580:24.666": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "note": "svr_Kaart_confirmed_202304",
+    "surface": "unpaved",
+    "tracktype": "grade2"
+   },
+   "lat": -33.5790133,
+   "lon": 24.6672484
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "name": "Hadley Camp Site Entrance",
+    "surface": "unpaved"
+   },
+   "lat": -33.5781762,
+   "lon": 24.6672753
+  },
+  {
+   "tags": {
+    "ford": "yes",
+    "highway": "tertiary",
+    "name": "Grootrivierpoort",
+    "note": "svr_Kaart_confirmed_202304",
+    "surface": "unpaved",
+    "tracktype": "grade2"
+   },
+   "lat": -33.5797374,
+   "lon": 24.6662928
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.5799906,
+   "lon": 24.662477
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.579488,
+   "lon": 24.6638858
+  },
+  {
+   "tags": {
+    "ford": "yes",
+    "highway": "tertiary",
+    "note": "svr_Kaart_confirmed_202304",
+    "surface": "unpaved",
+    "tracktype": "grade2"
+   },
+   "lat": -33.57848,
+   "lon": 24.6683838
+  }
+ ],
+ "asset:combrinks pass:-33.652:24.506": [
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "highway": "tertiary",
+    "maxspeed": "40",
+    "maxspeed:practical": "10",
+    "name": "Combrinks Pass",
+    "note": "svr_Kaart_confirmed_202304",
+    "ref": "R332",
+    "smoothness": "horrible",
+    "surface": "gravel",
+    "website": "https://www.mountainpassessouthafrica.co.za/find-a-pass/eastern-cape/item/156-baviaanskloof-combrinck-s-pass.html"
+   },
+   "lat": -33.6518702,
+   "lon": 24.5063553
+  },
+  {
+   "tags": {
+    "highway": "path",
+    "surface": "unpaved"
+   },
+   "lat": -33.6533757,
+   "lon": 24.5099208
+  },
+  {
+   "tags": {
+    "abandoned": "yes",
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.6539803,
+   "lon": 24.503628
+  }
+ ],
+ "asset:messeklip pass:-29.922:17.640": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "maxspeed": "80",
+    "name": "Messeklip Pass",
+    "source": "gpx",
+    "surface": "gravel"
+   },
+   "lat": -29.9223099,
+   "lon": 17.6397845
+  }
+ ],
+ "asset:sabana pass:-27.163:31.976": [
+  {
+   "tags": {
+    "highway": "path",
+    "name": "Sabana Pass",
+    "surface": "ground"
+   },
+   "lat": -27.1620787,
+   "lon": 31.9730432
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "tracktype": "grade5"
+   },
+   "lat": -27.1639747,
+   "lon": 31.9792217
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -27.1621078,
+   "lon": 31.9777157
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -27.1635279,
+   "lon": 31.9776452
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "tracktype": "grade5"
+   },
+   "lat": -27.1660818,
+   "lon": 31.9770181
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -27.1645212,
+   "lon": 31.9771926
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -27.165059,
+   "lon": 31.9776592
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -27.1636173,
+   "lon": 31.9794519
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Sabana Pass",
+    "tracktype": "grade5"
+   },
+   "lat": -27.163277,
+   "lon": 31.9761369
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Sabana Pass",
+    "tracktype": "grade5"
+   },
+   "lat": -27.1615454,
+   "lon": 31.9748866
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "tracktype": "grade5"
+   },
+   "lat": -27.160448,
+   "lon": 31.9772109
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -27.1600643,
+   "lon": 31.9759173
+  }
+ ],
+ "asset:mariepskop pass:-24.585:30.880": [],
+ "asset:grey's pass:-32.637:18.946": [
+  {
+   "tags": {
+    "access": "private",
+    "highway": "track",
+    "historic:highway": "trunk",
+    "historic:ref": "TR11/3",
+    "name": "Grey's Pass",
+    "note": "Old N7 route, deproclaimed around 1958",
+    "smoothness": "very_bad",
+    "source": "ngi-aerial",
+    "tracktype": "grade3"
+   },
+   "lat": -32.6371132,
+   "lon": 18.9461449
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "official_ref": "NR7/3",
+    "ref": "N7",
+    "source": "Saldanha Bay Municipality",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -32.6437133,
+   "lon": 18.9490195
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "official_ref": "NR7/3",
+    "ref": "N7",
+    "source": "Saldanha Bay Municipality",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -32.6350037,
+   "lon": 18.945145
+  }
+ ],
+ "asset:kliphuis pass:-32.198:19.457": [],
+ "asset:droëkloofpoort:-33.275:22.500": [
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxweight:signed": "no",
+    "name": "Droëkloofpoort",
+    "official_ref": "TR33/5",
+    "ref": "N12",
+    "shoulder": "no",
+    "smoothness": "good",
+    "source": "ngi-aerial",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.274811,
+   "lon": 22.5003517
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "100",
+    "name": "Droëkloofpoort",
+    "official_ref": "TR33/5",
+    "ref": "N12",
+    "shoulder": "no",
+    "smoothness": "good",
+    "source": "ngi-aerial",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.274535,
+   "lon": 22.4982981
+  }
+ ],
+ "asset:kredouwpas:-33.277:22.272": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "incline": "up",
+    "lanes": "2",
+    "maxspeed": "100",
+    "maxspeed:practical": "70",
+    "name": "Kredouwpas",
+    "name:af": "Kredouwpas",
+    "name:en": "Kredouw Pass",
+    "official_ref": "TR34/2",
+    "ref": "R407",
+    "shoulder": "no",
+    "smoothness": "good",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.2774577,
+   "lon": 22.2721718
+  }
+ ],
+ "asset:ou kredouwpas:-33.276:22.272": [
+  {
+   "tags": {
+    "highway": "track",
+    "name": "Ou Kredouwpas",
+    "name:af": "Ou Kredouwpas",
+    "name:en": "Old Kredouw Pass",
+    "smoothness": "very_horrible",
+    "source": "ngi-aerial",
+    "surface": "ground",
+    "tracktype": "grade5"
+   },
+   "lat": -33.2755206,
+   "lon": 22.2722188
+  }
+ ],
+ "asset:bezuidenhout's pass:-28.537:29.205": [
+  {
+   "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "unclassified",
+    "horse": "yes",
+    "horse_scale": "demanding",
+    "motor_vehicle": "yes",
+    "name": "Bezuidenhout's Pass",
+    "surface": "unpaved"
+   },
+   "lat": -28.5370768,
+   "lon": 29.2053485
+  }
+ ],
+ "asset:sondagsrivier pass:-28.173:29.733": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Sondagsrivier Pass",
+    "source": "bing",
+    "surface": "fine_gravel"
+   },
+   "lat": -28.1728032,
+   "lon": 29.7335047
+  }
+ ],
+ "asset:lafrashoogte:-27.819:29.645": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Lafrashoogte",
+    "note": "#Kaart 2025",
+    "ref": "S17",
+    "surface": "gravel"
+   },
+   "lat": -27.8187352,
+   "lon": 29.6448391
+  }
+ ],
+ "asset:karelskraal pass:-32.500:21.191": [],
+ "asset:kouberg pass:-32.253:19.187": [
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -32.2537616,
+   "lon": 19.1830096
+  }
+ ],
+ "asset:langkloof pass:-33.732:20.257": [],
+ "asset:meiringspoort:-33.416:22.550": [],
+ "asset:middelberg pass:-32.628:19.142": [],
+ "asset:oudekloof pass:-33.266:19.063": [],
+ "asset:phantom pass:-34.002:22.995": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "name": "Phantom Pass Road",
+    "smoothness": "bad",
+    "surface": "unpaved"
+   },
+   "lat": -34.0089064,
+   "lon": 22.9977884
+  },
+  {
+   "tags": {
+    "highway": "unclassified"
+   },
+   "lat": -34.0029598,
+   "lon": 22.9920525
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -34.0025565,
+   "lon": 22.9917119
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+   },
+   "lat": -33.9986536,
+   "lon": 22.9915859
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -34.0040575,
+   "lon": 22.9944221
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+   },
+   "lat": -34.0039162,
+   "lon": 22.9954152
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -34.003734,
+   "lon": 22.9930182
+  },
+  {
+   "tags": {
+    "highway": "unclassified"
+   },
+   "lat": -34.0050562,
+   "lon": 22.9979047
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -34.0030615,
+   "lon": 22.9935782
+  }
+ ],
+ "asset:prince alfred pass:-33.770:23.143": [],
+ "asset:rammelkop pass:-32.531:21.182": [],
+ "asset:rooinek pass:-33.325:20.923": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.3203926,
+   "lon": 20.9218486
+  }
+ ],
+ "asset:rooiwalspoort:-30.795:18.451": [],
+ "asset:schoemanspoort:-33.423:22.246": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R328",
+    "surface": "asphalt"
+   },
+   "lat": -33.4221895,
+   "lon": 22.2439506
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R328",
+    "surface": "asphalt"
+   },
+   "lat": -33.425676,
+   "lon": 22.2491905
+  }
+ ],
+ "asset:shaws mountain pass:-34.311:19.415": [
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -34.3098085,
+   "lon": 19.4112028
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "highway": "path",
+    "name": "Katkloof MTB",
+    "route": "mtb",
+    "source": "Bing arial Image 06-06-18",
+    "surface": "ground"
+   },
+   "lat": -34.3108038,
+   "lon": 19.4115931
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "highway": "path",
+    "name": "Katkloof MTB",
+    "route": "mtb",
+    "source": "Bing arial Image 06-06-18",
+    "surface": "ground"
+   },
+   "lat": -34.3126297,
+   "lon": 19.4061557
+  }
+ ],
+ "asset:skitterykloof pass:-32.878:19.723": [],
+ "asset:swaarmoed pass:-33.343:19.507": [],
+ "asset:theronsberg pass:-33.281:19.494": [],
+ "asset:touws river pass:-33.947:22.613": [
+  {
+   "tags": {
+    "alt_name": "Touw River Pass",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "surface": "compacted"
+   },
+   "lat": -33.9500703,
+   "lon": 22.6105311
+  },
+  {
+   "tags": {
+    "alt_name": "Touw River Pass",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "surface": "compacted"
+   },
+   "lat": -33.9470914,
+   "lon": 22.6167271
+  },
+  {
+   "tags": {
+    "alt_name": "Touw River Pass",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "surface": "concrete"
+   },
+   "lat": -33.9466096,
+   "lon": 22.6123973
+  }
+ ],
+ "asset:uniondale poort:-33.681:23.149": [],
+ "asset:van der stel pass:-34.155:19.232": [],
+ "asset:all saints nek:-31.677:28.013": [
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "gravel"
+   },
+   "lat": -31.677618,
+   "lon": 28.0113326
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -31.677766,
+   "lon": 28.0123647
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -31.678639,
+   "lon": 28.0122579
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -31.67751,
+   "lon": 28.0128424
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -31.6799489,
+   "lon": 28.0124786
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -31.6793508,
+   "lon": 28.0145701
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -31.6775933,
+   "lon": 28.012583
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -31.6784367,
+   "lon": 28.0125598
+  }
+ ],
+ "asset:baviaanskloof:-33.646:24.455": [],
+ "asset:bidstone pass:-30.715:27.831": [],
+ "asset:blaauwkrantz pass:-33.385:26.705": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R67",
+    "surface": "asphalt"
+   },
+   "lat": -33.384642,
+   "lon": 26.7060397
+  }
+ ],
+ "asset:bruintjieshoogte pass:-32.679:25.346": [],
+ "asset:buffelshoek pass:-32.486:25.234": [],
+ "asset:bulhoek pass:-31.239:25.706": [],
+ "asset:buyspoort:-33.350:23.434": [
+  {
+   "tags": {
+    "destination:backward": "Uniondale",
+    "destination:forward": "Willowmore",
+    "destination:ref:backward": "N9",
+    "destination:ref:forward": "N9",
+    "highway": "trunk",
+    "lanes": "2",
+    "official_ref": "TR1/3",
+    "ref": "N9",
+    "surface": "asphalt"
+   },
+   "lat": -33.3479528,
+   "lon": 23.4294532
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.3529748,
+   "lon": 23.4343213
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.3500202,
+   "lon": 23.4344099
+  }
+ ],
+ "asset:cala pass:-31.474:27.723": [],
+ "asset:carlislehoekspruit pass:-30.719:27.957": [
+  {
+   "tags": {
+    "highway": "unclassified",
+    "surface": "unpaved"
+   },
+   "lat": -30.7214321,
+   "lon": 27.9575045
+  }
+ ],
+ "asset:cats pass:-32.428:28.435": [
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -32.4261432,
+   "lon": 28.436176
+  }
+ ],
+ "asset:colonanek:-30.646:29.048": [
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -30.649239,
+   "lon": 29.0472754
+  },
+  {
+   "tags": {
+    "highway": "tertiary",
+    "note": "svr_Kaart_confirmed_202302",
+    "surface": "unpaved"
+   },
+   "lat": -30.6468344,
+   "lon": 29.0447325
+  }
+ ],
+ "asset:daggaboers nek:-32.536:25.843": [],
+ "asset:de beer's pass:-32.315:26.186": [],
+ "asset:dontsa pass:-32.613:27.244": [],
+ "asset:fonteinkloof pass:-33.595:26.122": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -33.5978357,
+   "lon": 26.1223125
+  }
+ ],
+ "asset:fuller's hoek pass:-32.688:26.520": [],
+ "asset:ghwarriepoort:-33.388:23.392": [
+  {
+   "tags": {
+    "destination:backward": "Uniondale",
+    "destination:forward": "Willowmore",
+    "destination:ref:backward": "N9",
+    "destination:ref:forward": "N9",
+    "highway": "trunk",
+    "lanes": "2",
+    "official_ref": "NR9/3",
+    "ref": "N9",
+    "surface": "asphalt"
+   },
+   "lat": -33.3881204,
+   "lon": 23.38853
+  }
+ ],
+ "asset:groot-doringhoek pass:-31.380:26.074": [],
+ "asset:hankey pass:-33.882:24.840": [],
+ "asset:helspoort pass:-33.170:26.321": [],
+ "asset:kareedouw pass:-33.962:24.267": [],
+ "asset:killian's pass:-31.183:27.295": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "note": "svr_Kaart_confirmed_202302",
+    "ref": "R396",
+    "surface": "gravel"
+   },
+   "lat": -31.1790572,
+   "lon": 27.2882539
+  }
+ ],
+ "asset:kumajaba pass:-31.284:28.536": [],
+ "asset:kwaaiman pass:-31.725:27.696": [],
+ "asset:lehana's pass:-30.679:28.201": [],
+ "asset:lundin's nek:-30.647:27.742": [],
+ "asset:mlengana pass:-31.545:29.181": [],
+ "asset:moordenaarsnek:-30.840:28.544": [
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "paved"
+   },
+   "lat": -30.8379126,
+   "lon": 28.5457669
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -30.8389736,
+   "lon": 28.5442394
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -30.8391805,
+   "lon": 28.543374
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "unpaved"
+   },
+   "lat": -30.8366096,
+   "lon": 28.5440289
+  }
+ ],
+ "asset:munnikspoort:-32.298:24.524": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "maxspeed": "120",
+    "nat_ref": "N9",
+    "ref": "N9;R61",
+    "reg_ref": "R61",
+    "surface": "asphalt"
+   },
+   "lat": -32.2917331,
+   "lon": 24.5221985
+  }
+ ],
+ "asset:nico malan pass:-32.481:26.836": [],
+ "asset:nonesis nek pass:-31.842:26.988": [],
+ "asset:otto du plessis pass:-31.235:27.530": [],
+ "asset:ouberg pass:-32.121:24.408": [
+  {
+   "tags": {
+    "highway": "primary",
+    "noname": "yes",
+    "ref": "R63",
+    "surface": "asphalt"
+   },
+   "lat": -32.1221657,
+   "lon": 24.4158345
+  }
+ ],
+ "asset:pefferskop pass:-32.650:26.883": [
+  {
+   "tags": {
+    "highway": "residential",
+    "surface": "unpaved"
+   },
+   "lat": -32.6494035,
+   "lon": 26.8859562
+  }
+ ],
+ "asset:penhoek pass:-31.463:26.701": [],
+ "asset:perdepoort:-33.189:23.431": [],
+ "asset:pot river pass:-30.933:28.210": [],
+ "asset:red hill pass:-32.712:27.184": [],
+ "asset:satansnek:-31.598:27.943": [],
+ "asset:smuts pass:-31.407:26.792": [
+  {
+   "tags": {
+    "highway": "track",
+    "source": "bing",
+    "surface": "unpaved"
+   },
+   "lat": -31.4115984,
+   "lon": 26.7890318
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "source": "bing",
+    "surface": "unpaved"
+   },
+   "lat": -31.4080471,
+   "lon": 26.7878366
+  }
+ ],
+ "asset:soutpansnek:-32.873:24.714": [
+  {
+   "tags": {
+    "highway": "primary",
+    "maxspeed": "100",
+    "nat_ref": "TR04202",
+    "noname": "yes",
+    "ref": "R75",
+    "reg_ref": "R337",
+    "surface": "asphalt"
+   },
+   "lat": -32.8774903,
+   "lon": 24.7114041
+  }
+ ],
+ "asset:stormsrivier pass:-33.989:23.912": [
+  {
+   "tags": {
+    "highway": "track",
+    "motor_vehicle": "no",
+    "surface": "unpaved"
+   },
+   "lat": -33.9845926,
+   "lon": 23.9117996
+  }
+ ],
+ "asset:swanepoelspoort:-33.114:23.894": [],
+ "asset:tarka pass:-32.472:25.667": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -32.4646973,
+   "lon": 25.663607
+  }
+ ],
+ "asset:van stadens pass:-33.913:25.203": [
+  {
+   "tags": {
+    "alt_name": "van Stadens Pass",
+    "highway": "primary",
+    "maxspeed": "100",
+    "name": "Cape Road",
+    "ref": "R102",
+    "surface": "asphalt"
+   },
+   "lat": -33.9136352,
+   "lon": 25.2072883
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.9157867,
+   "lon": 25.2031845
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9159065,
+   "lon": 25.2044945
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.9147723,
+   "lon": 25.2039396
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -33.9153754,
+   "lon": 25.2025791
+  },
+  {
+   "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "Forest Walk"
+   },
+   "lat": -33.9123381,
+   "lon": 25.2028517
+  },
+  {
+   "tags": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "120",
+    "name": "Great West Way",
+    "oneway": "yes",
+    "ref": "N2",
+    "surface": "asphalt"
+   },
+   "lat": -33.9103726,
+   "lon": 25.2052525
+  },
+  {
+   "tags": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "120",
+    "name": "Great West Way",
+    "oneway": "yes",
+    "ref": "N2",
+    "surface": "asphalt"
+   },
+   "lat": -33.9104984,
+   "lon": 25.2051533
+  },
+  {
+   "tags": {
+    "highway": "path"
+   },
+   "lat": -33.9160203,
+   "lon": 25.205809
+  }
+ ],
+ "asset:wapadsberg pass:-31.931:24.884": [],
+ "asset:witnek pass:-31.881:24.695": [],
+ "asset:botha's pass:-27.617:29.717": [],
+ "asset:brandon's pass:-28.159:29.663": [],
+ "asset:burger's pass:-27.602:30.381": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "ref": "P308",
+    "surface": "gravel",
+    "tracktype": "grade1"
+   },
+   "lat": -27.6046234,
+   "lon": 30.3760062
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -27.6042687,
+   "lon": 30.3786483
+  }
+ ],
+ "asset:colling's pass:-28.217:29.640": [],
+ "asset:de beer's pass:-28.317:29.499": [],
+ "asset:endoumeni pass:-28.230:30.195": [],
+ "asset:griffin's hill:-29.093:29.966": [],
+ "asset:hela hela pass:-29.910:30.077": [],
+ "asset:ikhupe pass:-28.154:29.969": [],
+ "asset:knight's pass:-27.656:30.372": [],
+ "asset:laing's nek pass:-27.481:29.872": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "ref": "N11",
+    "source": "Bing",
+    "surface": "asphalt"
+   },
+   "lat": -27.485304,
+   "lon": 29.8706266
+  },
+  {
+   "tags": {
+    "highway": "unclassified",
+    "surface": "unpaved"
+   },
+   "lat": -27.4855228,
+   "lon": 29.8732092
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -27.482141,
+   "lon": 29.8752668
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -27.4820753,
+   "lon": 29.8729524
+  },
+  {
+   "tags": {
+    "highway": "residential"
+   },
+   "lat": -27.4820196,
+   "lon": 29.8726652
+  }
+ ],
+ "asset:middledale pass:-28.480:29.323": [],
+ "asset:mike's pass:-28.961:29.232": [
+  {
+   "tags": {
+    "highway": "track",
+    "smoothness": "horrible",
+    "surface": "gravel",
+    "tracktype": "grade2"
+   },
+   "lat": -28.9594646,
+   "lon": 29.233729
+  }
+ ],
+ "asset:nicholson's nek pass:-28.474:29.763": [],
+ "asset:sandspruit pass:-28.471:29.372": [
+  {
+   "tags": {
+    "highway": "residential",
+    "ref": "L20",
+    "source": "RSA CD:NGI Aerial",
+    "surface": "gravel"
+   },
+   "lat": -28.4775111,
+   "lon": 29.3737335
+  }
+ ],
+ "asset:soutar's hill:-29.420:29.812": [],
+ "asset:the devil's pass:-27.713:30.932": [],
+ "asset:anenous pass:-29.226:17.607": [],
+ "asset:bailey's pass:-30.163:18.197": [],
+ "asset:bastersnek:-30.636:25.035": [],
+ "asset:blounek:-30.994:22.041": [],
+ "asset:bloupoort:-32.400:20.933": [],
+ "asset:botterkloof pass:-31.827:19.266": [],
+ "asset:burke's pass:-29.882:17.879": [],
+ "asset:charles' pass:-29.006:19.185": [],
+ "asset:kareebospoort:-30.906:22.259": [],
+ "asset:keikamaspoort:-29.812:22.873": [],
+ "asset:keiskie se poort:-31.590:19.858": [
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -31.586224,
+   "lon": 19.8526959
+  }
+ ],
+ "asset:langkloof pass:-27.903:22.639": [],
+ "asset:langkloof pass:-30.485:18.137": [],
+ "asset:mekataanspoort:-30.616:22.236": [],
+ "asset:messelpad pass:-29.907:17.657": [],
+ "asset:moordenaarspoort:-31.326:19.936": [],
+ "asset:ottaspoort:-30.736:18.245": [],
+ "asset:oukloof pass:-32.180:21.784": [],
+ "asset:oupoort pass:-32.167:20.379": [],
+ "asset:prieskapoort:-29.744:22.699": [],
+ "asset:quaggasfontein poort:-31.587:20.846": [],
+ "asset:renosterpoort:-30.735:22.337": [],
+ "asset:rooikloof pass:-32.500:20.640": [],
+ "asset:rooipoort:-32.375:20.934": [],
+ "asset:snyders poort:-31.995:20.688": [],
+ "asset:studer's pass:-30.400:18.065": [],
+ "asset:verlatekloof pass:-32.544:20.613": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "incline": "17%",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "Verlatenkloof Pass",
+    "name:af": "Verlatenkloofpas",
+    "name:en": "Verlatenkloof Pass",
+    "note": "maximum incline (1:6, or 16.667%) tagged as per Key:incline wiki documentation; average incline is 1:26 (3.846%).",
+    "ref": "R354;R356",
+    "surface": "asphalt"
+   },
+   "lat": -32.5426023,
+   "lon": 20.6086455
+  }
+ ],
+ "asset:volstruispoort:-30.645:22.714": [],
+ "asset:windpoort:-29.264:17.418": [],
+ "asset:bell's pass:-28.550:26.964": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "surface": "asphalt"
+   },
+   "lat": -28.5526031,
+   "lon": 26.9618016
+  }
+ ],
+ "asset:lichen's pass:-28.532:28.666": [
+  {
+   "tags": {
+    "highway": "unclassified"
+   },
+   "lat": -28.5325195,
+   "lon": 28.6667482
+  }
+ ],
+ "asset:noupoortsnek:-28.498:28.421": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "ref": "R712",
+    "smoothness": "good",
+    "surface": "asphalt"
+   },
+   "lat": -28.5032264,
+   "lon": 28.4215109
+  },
+  {
+   "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "surface": "ground"
+   },
+   "lat": -28.5022295,
+   "lon": 28.4189145
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "name": "Naauwpoort Street",
+    "smoothness": "intermediate",
+    "surface": "asphalt"
+   },
+   "lat": -28.5017281,
+   "lon": 28.4208662
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "no",
+    "ref": "R712",
+    "smoothness": "good",
+    "surface": "asphalt"
+   },
+   "lat": -28.4907568,
+   "lon": 28.4228513
+  },
+  {
+   "tags": {
+    "bicycle": "permissive",
+    "foot": "permissive",
+    "highway": "path",
+    "horse": "permissive",
+    "lit": "no",
+    "name": "Titanic Trail",
+    "sac_scale": "hiking",
+    "sac_scale_ref": "T2",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+   },
+   "lat": -28.496597,
+   "lon": 28.4218555
+  }
+ ],
+ "asset:baviaanspoort:-25.677:28.346": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Sefako Makgatho Drive",
+    "old_name": "Zambesi Drive",
+    "ref": "R513",
+    "surface": "asphalt"
+   },
+   "lat": -25.6765806,
+   "lon": 28.3487758
+  }
+ ],
+ "asset:donkerpoort:-25.777:28.483": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Old Bronkhorstspruit Road",
+    "ref": "R104",
+    "surface": "asphalt"
+   },
+   "lat": -25.7828676,
+   "lon": 28.4863667
+  },
+  {
+   "tags": {
+    "highway": "unclassified",
+    "surface": "unpaved"
+   },
+   "lat": -25.7728599,
+   "lon": 28.482628
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -25.7759852,
+   "lon": 28.4822322
+  }
+ ],
+ "asset:hekpoort:-25.947:27.668": [
+  {
+   "tags": {
+    "highway": "residential",
+    "lit": "no"
+   },
+   "lat": -25.9486209,
+   "lon": 27.6714331
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "lit": "no"
+   },
+   "lat": -25.9448361,
+   "lon": 27.667162
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "lit": "no"
+   },
+   "lat": -25.9472745,
+   "lon": 27.6663657
+  },
+  {
+   "tags": {
+    "highway": "residential",
+    "lit": "no"
+   },
+   "lat": -25.9470816,
+   "lon": 27.6656556
+  }
+ ],
+ "asset:horns nek:-25.683:28.069": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "60",
+    "name": "Hornsnek Road",
+    "oneway": "no",
+    "ref": "M17",
+    "surface": "asphalt"
+   },
+   "lat": -25.6865397,
+   "lon": 28.072365
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "60",
+    "name": "Hornsnek Road",
+    "oneway": "no",
+    "ref": "M17",
+    "surface": "asphalt"
+   },
+   "lat": -25.6812491,
+   "lon": 28.0680004
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "60",
+    "name": "Hornsnek Road",
+    "oneway": "no",
+    "ref": "M17",
+    "surface": "asphalt"
+   },
+   "lat": -25.6805264,
+   "lon": 28.066888
+  }
+ ],
+ "asset:paardekraal pass:-26.065:27.814": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "100",
+    "name": "Paardekraal Drive",
+    "oneway": "yes",
+    "ref": "R28",
+    "surface": "asphalt"
+   },
+   "lat": -26.0652543,
+   "lon": 27.8148907
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "Paardekraal Drive",
+    "oneway": "yes",
+    "ref": "R28",
+    "surface": "asphalt"
+   },
+   "lat": -26.0657974,
+   "lon": 27.8225735
+  },
+  {
+   "tags": {
+    "highway": "footway"
+   },
+   "lat": -26.0630419,
+   "lon": 27.8161341
+  },
+  {
+   "tags": {
+    "highway": "track",
+    "surface": "unpaved"
+   },
+   "lat": -26.0646388,
+   "lon": 27.809072
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "100",
+    "name": "Paardekraal Drive",
+    "oneway": "yes",
+    "ref": "R28",
+    "surface": "asphalt"
+   },
+   "lat": -26.064166,
+   "lon": 27.8108895
+  }
+ ],
+ "asset:poeiernek:-25.916:27.711": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "maxspeed": "100",
+    "name": "Hartbeeshoek Road",
+    "surface": "asphalt"
+   },
+   "lat": -25.9131627,
+   "lon": 27.7071326
+  },
+  {
+   "tags": {
+    "highway": "service",
+    "surface": "unpaved"
+   },
+   "lat": -25.9116029,
+   "lon": 27.70922
+  }
+ ],
+ "asset:theo martin's poort:-25.686:28.121": [
+  {
+   "tags": {
+    "highway": "motorway",
+    "lanes": "3",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "R80",
+    "surface": "asphalt"
+   },
+   "lat": -25.6843493,
+   "lon": 28.1201919
+  },
+  {
+   "tags": {
+    "highway": "track"
+   },
+   "lat": -25.6872661,
+   "lon": 28.1244665
+  },
+  {
+   "tags": {
+    "highway": "motorway",
+    "lanes": "3",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "R80",
+    "surface": "asphalt"
+   },
+   "lat": -25.6876052,
+   "lon": 28.1210827
+  },
+  {
+   "tags": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "R80",
+    "surface": "asphalt"
+   },
+   "lat": -25.6910881,
+   "lon": 28.1227252
+  },
+  {
+   "tags": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "R80",
+    "surface": "asphalt"
+   },
+   "lat": -25.6824755,
+   "lon": 28.118875
+  }
+ ]
+}
