@@ -131,20 +131,42 @@ def road_kind(tags):
     return None
 
 
+osm_pass_road_rows = load(osm_dir, "osm_pass_roads.json", "pass_roads")
+MAIN_ROADS = ["motorway", "trunk", "primary", "secondary", "tertiary"]
+
+
 def pass_route(place):
-    """(road number, surface label) for the road or path over a pass."""
-    ways = [w for w in roads_at_passes.get(place["key"], []) if w["tags"].get("highway") in ROAD_RANK]
-    if not ways:
-        return None, None
+    """(road number, surface label) for the road or path over a pass.
+
+    Only says something when it's clear which road is the pass: a road
+    named after the pass (anywhere within 10 km of the pin), else a main
+    road at the pin, else "footpath" when only paths are there. Unnamed
+    minor roads near a pin are left alone - the pin may sit beside the
+    real route (e.g. Van Reenen's Pass, whose pin is on an old farm road).
+    """
     k = key(place["name"], "pass")
-    named = [w for w in ways if w["tags"].get("name") and key(w["tags"]["name"], "pass") == k]
+    lat, lon = place["latitude"], place["longitude"]
+    near = [w for w in roads_at_passes.get(place["key"], []) if w["tags"].get("highway") in ROAD_RANK]
+    named = [w for w in near if w["tags"].get("name") and key(w["tags"]["name"], "pass") == k]
+    for e in osm_pass_road_rows:
+        c = centre(e) if (e.get("lat") is not None or e.get("bounds")) else None
+        if c and key(e["tags"].get("name", ""), "pass") == k and km(lat, lon, *c) <= 10:
+            named.append({"tags": e["tags"]})
     if named:
         route = named
     else:
-        best = min(ROAD_RANK.index(w["tags"]["highway"]) for w in ways)
-        route = [w for w in ways if ROAD_RANK.index(w["tags"]["highway"]) == best]
+        main = [w for w in near if w["tags"]["highway"] in MAIN_ROADS]
+        if main:
+            best = min(MAIN_ROADS.index(w["tags"]["highway"]) for w in main)
+            route = [w for w in main if MAIN_ROADS.index(w["tags"]["highway"]) == best]
+        elif near and all(w["tags"]["highway"] in ("path", "footway", "bridleway") for w in near):
+            route = near
+        else:
+            return None, None
     kinds = {road_kind(w["tags"]) for w in route} - {None}
-    refs = [w["tags"]["ref"] for w in route if w["tags"].get("ref")]
+    # Only South African road numbers (N2, R71, M6 ...), not local codes.
+    refs = [w["tags"]["ref"] for w in route
+            if re.fullmatch(r"[NRM]\d+[A-Z]?(;\s*[NRM]\d+[A-Z]?)*", w["tags"].get("ref", ""))]
     ref = max(set(refs), key=refs.count).replace(";", " / ") if refs else None
     if not kinds:
         label = None
@@ -159,6 +181,8 @@ def pass_route(place):
     else:
         label = "Gravel"
     return ref, label
+
+
 wd_airports = {r["icao"]: r for r in load(wd_dir, "wikidata_airports.json", "airports") if r.get("icao")}
 wd_dams = load(wd_dir, "wikidata_dams.json", "dams")
 wd_passes = load(wd_dir, "wikidata_passes.json", "passes")
@@ -271,7 +295,7 @@ for p in places:
         ref = ref or (tags.get("ref") or "").replace(";", " / ") or None
         if ref:
             facts.append(["Road", ref])
-        if surface is None and tags.get("surface"):
+        if surface is None and tags.get("surface") and tags.get("highway"):
             surface = {"tar": "Tarred", "gravel": "Gravel", "track": "Dirt track", "foot": "Footpath only (hiking)"}.get(
                 road_kind(tags))
         if surface:
