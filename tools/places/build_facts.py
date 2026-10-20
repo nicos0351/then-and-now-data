@@ -103,6 +103,10 @@ osm_roads = {e["osm"]: e["tags"] for e in load(osm_dir, "osm_pass_roads.json", "
 # Roads and paths within 400 m of each pass (research-pass-roads branch).
 _roads_path = os.path.join(osm_dir, "osm_roads_at_passes.json")
 roads_at_passes = json.load(open(_roads_path, encoding="utf-8")) if os.path.exists(_roads_path) else {}
+# Main roads within 900 m, for passes the close search left blank
+# (research-pass-roads-wide branch).
+_wide_path = os.path.join(osm_dir, "osm_main_roads_near_passes.json")
+main_roads_near = json.load(open(_wide_path, encoding="utf-8")) if os.path.exists(_wide_path) else {}
 
 PAVED = {"asphalt", "paved", "concrete", "chipseal", "concrete:plates", "concrete:lanes", "paving_stones", "sett",
          "metal"}
@@ -162,7 +166,17 @@ def pass_route(place):
         elif near and all(w["tags"]["highway"] in ("path", "footway", "bridleway") for w in near):
             route = near
         else:
-            return None, None
+            # Wider search: the best main road within 900 m, but only if it's
+            # clearly one road (one road number, or one name).
+            wide = [w for w in main_roads_near.get(place["key"], []) if w["tags"].get("highway") in MAIN_ROADS]
+            if not wide:
+                return None, None
+            best = min(MAIN_ROADS.index(w["tags"]["highway"]) for w in wide)
+            wide = [w for w in wide if MAIN_ROADS.index(w["tags"]["highway"]) == best]
+            ids = {w["tags"].get("ref") or w["tags"].get("name") for w in wide}
+            if len(ids) != 1 or ids == {None}:
+                return None, None
+            route = wide
     kinds = {road_kind(w["tags"]) for w in route} - {None}
     # Only South African road numbers (N2, R71, M6 ...), not local codes.
     refs = [w["tags"]["ref"] for w in route
