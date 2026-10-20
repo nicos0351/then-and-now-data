@@ -1,0 +1,1741 @@
+{
+ "asset:carlton heights top:-31.284:24.944": [],
+ "asset:du toitskloof pass:-33.696:19.074": [],
+ "asset:remhoogte:-33.879:20.175": [],
+ "asset:ecca pass:-33.216:26.627": [],
+ "asset:gydo pass:-33.224:19.324": [],
+ "asset:thyshoogte:-32.788:20.242": [],
+ "asset:skilpadhoogte:-33.880:20.115": [],
+ "asset:kleinhoog:-32.265:19.205": [],
+ "asset:die poort:-32.286:19.219": [
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "layer": "1",
+    "note": "#Kaart 2025",
+    "source": "gpx",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+   },
+   "lat": -32.2791072,
+   "lon": 19.218123
+  },
+  {
+   "tags": {
+    "4wd_only": "yes",
+    "highway": "tertiary",
+    "note": "#Kaart 2025",
+    "source": "gpx",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+   },
+   "lat": -32.2776542,
+   "lon": 19.2175531
+  }
+ ],
+ "asset:hogsback pass:-32.613:26.918": [],
+ "asset:versveldpas:-32.846:18.731": [],
+ "asset:bosluiskloofpas:-33.348:21.471": [],
+ "asset:katbergpas:-32.457:26.653": [],
+ "asset:ouberg pass:-32.409:20.357": [],
+ "asset:goliatskraalkop se hoogte:-32.114:24.608": [
+  {
+   "tags": {
+    "destination:backward": "Graaff-Reinet",
+    "destination:ref:backward": "N9;R61",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "120",
+    "nat_ref": "N9",
+    "oneway": "no",
+    "ref": "N9;R61",
+    "reg_ref": "R61",
+    "surface": "asphalt"
+   },
+   "lat": -32.1089954,
+   "lon": 24.5978784
+  }
+ ],
+ "asset:bosmanshoekpas:-31.496:26.481": [],
+ "asset:ifidi pass:-28.787:28.938": [],
+ "asset:gifbergpas:-31.748:18.790": [],
+ "asset:black eagle pass:-29.771:29.274": [],
+ "asset:namahadi pass:-28.755:28.866": [],
+ "asset:coetzeespoort pass:-33.489:21.888": [],
+ "asset:burgerspas:-33.692:19.919": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "100",
+    "ref": "R318",
+    "source": "gpx",
+    "source:maxspeed": "ZA:rural",
+    "surface": "asphalt"
+   },
+   "lat": -33.6950977,
+   "lon": 19.9340915
+  }
+ ],
+ "asset:michel's pass:-32.562:26.859": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "note": "svr_Kaart_confirmed_202304",
+    "source": "GPS",
+    "surface": "gravel",
+    "tracktype": "grade2"
+   },
+   "lat": -32.5591228,
+   "lon": 26.8483728
+  }
+ ],
+ "asset:rooibergpas:-33.650:21.643": [],
+ "asset:grootrivierhoogte pass:-32.611:19.368": [],
+ "asset:luiperdnek:-33.331:22.115": [],
+ "asset:klippoort:-32.254:19.152": [],
+ "asset:sandpoort:-32.257:19.166": [],
+ "asset:noordpoort:-32.468:19.129": [],
+ "asset:kokspoort:-32.520:19.175": [],
+ "asset:krakadoupas:-32.206:19.060": [],
+ "asset:vanzylsgatpoort:-32.327:19.113": [],
+ "asset:skerpioenspoort:-32.295:19.128": [],
+ "asset:sewegat se nek:-32.406:19.039": [],
+ "asset:bushman's nek:-33.338:22.139": [],
+ "asset:robinson pass:-33.873:22.031": [],
+ "asset:greylingspas:-31.119:27.299": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "note": "svr_Kaart_confirmed_202302",
+    "ref": "R396",
+    "surface": "gravel"
+   },
+   "lat": -31.115172,
+   "lon": 27.308331
+  }
+ ],
+ "asset:lootsberg pass:-31.836:24.859": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "incline": "down",
+    "oneway": "no",
+    "ref": "N9",
+    "surface": "asphalt"
+   },
+   "lat": -31.8266002,
+   "lon": 24.8610162
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "incline": "up",
+    "oneway": "no",
+    "ref": "N9",
+    "surface": "asphalt"
+   },
+   "lat": -31.8433935,
+   "lon": 24.86987
+  }
+ ],
+ "asset:bothmaskloof pass:-33.403:18.869": [
+  {
+   "tags": {
+    "highway": "primary",
+    "incline": "5%",
+    "lanes": "2",
+    "maxspeed": "120",
+    "noname": "yes",
+    "ref": "R46",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.4020794,
+   "lon": 18.8570543
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "incline": "-5%",
+    "lanes": "2",
+    "maxspeed": "120",
+    "noname": "yes",
+    "ref": "R46",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.3999127,
+   "lon": 18.8809413
+  }
+ ],
+ "asset:huisrivier pass:-33.474:21.553": [
+  {
+   "tags": {
+    "highway": "primary",
+    "incline": "-8%",
+    "lanes": "2",
+    "maxspeed": "100",
+    "maxspeed:advisory": "80",
+    "noname": "yes",
+    "official_ref": "TR31/5",
+    "ref": "R62",
+    "shoulder": "yes",
+    "smoothness": "good",
+    "surface": "asphalt"
+   },
+   "lat": -33.4830177,
+   "lon": 21.5630233
+  }
+ ],
+ "asset:drakensteinnek:-33.787:19.039": [],
+ "asset:potjiesberg pass:-33.725:23.055": [
+  {
+   "tags": {
+    "destination:backward": "George",
+    "destination:forward": "Uniondale;Graaff-Reinet",
+    "destination:ref:backward": "N9",
+    "destination:ref:forward": "N9",
+    "highway": "trunk",
+    "incline": "up",
+    "lanes": "2",
+    "maxspeed": "100",
+    "maxspeed:advisory": "70",
+    "official_ref": "TR1/2",
+    "ref": "N9",
+    "shoulder": "no",
+    "smoothness": "intermediate",
+    "source": "ngi-aerial",
+    "surface": "asphalt"
+   },
+   "lat": -33.7304333,
+   "lon": 23.0471742
+  }
+ ],
+ "asset:masubasuba pass:-29.620:29.284": [],
+ "asset:pulpit nek:-33.515:19.390": [],
+ "asset:windmeulnek:-33.868:22.800": [],
+ "asset:van reenen's pass:-28.407:29.397": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "maxspeed:forward": "80",
+    "oneway": "no",
+    "ref": "N3",
+    "shoulder": "no",
+    "surface": "asphalt"
+   },
+   "lat": -28.3954275,
+   "lon": 29.3954698
+  }
+ ],
+ "asset:wyenek:-33.389:21.776": [],
+ "asset:leslies pass:-29.153:29.344": [],
+ "asset:road to hell:-28.867:17.966": [],
+ "asset:blouhoogtenek:-33.764:19.888": [],
+ "asset:bruidegomshoogte:-33.208:20.151": [],
+ "asset:jukhoogte:-32.809:20.162": [],
+ "asset:ounek:-32.777:20.069": [],
+ "asset:brakfontein se hoogte:-31.704:19.892": [],
+ "asset:arnoldsnek:-34.256:18.441": [],
+ "asset:the neck:-34.023:18.902": [],
+ "asset:krakadoupoort:-32.207:19.061": [],
+ "asset:amon se poort:-32.154:19.017": [],
+ "asset:bynespoort:-33.712:19.076": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "ref": "R101",
+    "surface": "asphalt"
+   },
+   "lat": -33.7167316,
+   "lon": 19.0802673
+  }
+ ],
+ "asset:groothoekpoort:-32.381:19.044": [],
+ "asset:grysboknek:-32.706:19.139": [],
+ "asset:kleinpoort se nek:-33.169:19.135": [],
+ "asset:groot-waainek:-34.097:18.966": [],
+ "asset:fortsnek:-33.988:19.092": [],
+ "asset:kroningshoogte:-33.465:21.515": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "100",
+    "noname": "yes",
+    "official_ref": "TR31/5",
+    "ref": "R62",
+    "shoulder": "no",
+    "smoothness": "intermediate",
+    "source": "Landsat",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+   },
+   "lat": -33.4724983,
+   "lon": 21.5247239
+  }
+ ],
+ "asset:nounek:-33.733:25.204": [],
+ "asset:chase's kloof nek:-33.683:25.242": [],
+ "asset:gudu pass:-28.687:28.898": [],
+ "asset:wildehondskloofhoogte:-33.926:20.446": [],
+ "asset:bakoondshoogte:-33.987:20.313": [],
+ "asset:koebeepas:-31.601:18.987": [],
+ "asset:ou dooppoort:-31.551:18.985": [],
+ "asset:klein-koebeepas:-31.521:18.981": [],
+ "asset:wolfiespoort:-33.793:20.166": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "name": "Ouberg Pass",
+    "surface": "unpaved"
+   },
+   "lat": -33.7878873,
+   "lon": 20.1607139
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "tertiary",
+    "layer": "1",
+    "name": "Ouberg Pass",
+    "surface": "unpaved"
+   },
+   "lat": -33.7860316,
+   "lon": 20.1677928
+  }
+ ],
+ "asset:safbreeknek:-32.572:20.374": [],
+ "asset:amandelnek:-32.641:20.305": [],
+ "asset:sandfonteinspoort:-33.745:20.587": [],
+ "asset:rooihoogtepas:-33.609:19.842": [],
+ "asset:hugosnek:-33.351:19.888": [],
+ "asset:boesmanspoort:-33.231:22.256": [],
+ "asset:blounek:-33.320:22.262": [],
+ "asset:sandbergpas:-33.870:19.774": [],
+ "asset:jareteng pass:-29.303:29.442": [],
+ "asset:ntubeni pass:-29.371:29.449": [],
+ "asset:mlahlangubo pass:-29.452:29.392": [],
+ "asset:pienaarspoort pass:-33.218:24.397": [],
+ "asset:ramats'eliso's nek:-30.048:28.944": [],
+ "asset:ndedema's pass:-29.068:29.260": [],
+ "asset:sandleni pass:-29.648:29.221": [],
+ "asset:phinong pass:-29.575:29.326": [],
+ "asset:ape's pass:-29.138:29.354": [],
+ "asset:cowl pass:-29.081:29.348": [],
+ "asset:ongeluks nek:-30.338:28.252": [],
+ "asset:charlies pass:-32.208:22.237": [],
+ "asset:komsberg pass:-32.668:20.764": [],
+ "asset:laingsnek:-29.149:25.972": [],
+ "asset:naude's neck pass:-30.865:27.871": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "note": "svr_Kaart_confirmed_202302",
+    "surface": "sand"
+   },
+   "lat": -30.8705224,
+   "lon": 27.8773798
+  }
+ ],
+ "asset:plattekloof pass:-33.989:21.061": [],
+ "asset:bushman's nek pass trail:-29.865:29.163": [],
+ "asset:clivia pass:-25.538:30.564": [],
+ "asset:bothasnek:-25.753:30.858": [],
+ "asset:caspersnek pass:-24.732:30.717": [],
+ "asset:crossroads pass:-25.597:30.292": [],
+ "asset:de berg pass:-25.216:30.172": [],
+ "asset:elands pass:-25.648:30.361": [
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "80",
+    "oneway": "no",
+    "ref": "N4",
+    "surface": "paved"
+   },
+   "lat": -25.6448144,
+   "lon": 30.3540517
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "no",
+    "ref": "N4",
+    "surface": "paved"
+   },
+   "lat": -25.6443392,
+   "lon": 30.3505622
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "no",
+    "ref": "N4",
+    "surface": "paved"
+   },
+   "lat": -25.6454038,
+   "lon": 30.3564862
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "no",
+    "ref": "N4",
+    "surface": "paved"
+   },
+   "lat": -25.6472045,
+   "lon": 30.3606837
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "no",
+    "ref": "N4",
+    "surface": "paved"
+   },
+   "lat": -25.6463346,
+   "lon": 30.3662022
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "bridge:ref": "B1562",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxweight:signed": "no",
+    "oneway": "no",
+    "ref": "N4",
+    "start_date": "1972",
+    "surface": "paved"
+   },
+   "lat": -25.6476911,
+   "lon": 30.3624089
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "bridge:ref": "B1561",
+    "highway": "trunk",
+    "layer": "1",
+    "maxspeed": "80",
+    "oneway": "no",
+    "ref": "N4",
+    "start_date": "1972",
+    "surface": "paved"
+   },
+   "lat": -25.6464012,
+   "lon": 30.3591203
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "bridge:ref": "B1563",
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "80",
+    "maxweight:signed": "no",
+    "oneway": "no",
+    "ref": "N4",
+    "surface": "paved"
+   },
+   "lat": -25.644981,
+   "lon": 30.3697641
+  }
+ ],
+ "asset:hennings pass:-25.504:30.226": [],
+ "asset:jaap-se-hoogte:-25.146:30.291": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "surface": "unpaved"
+   },
+   "lat": -25.1580851,
+   "lon": 30.2945588
+  },
+  {
+   "tags": {
+    "highway": "tertiary",
+    "surface": "asphalt"
+   },
+   "lat": -25.1453641,
+   "lon": 30.2899141
+  },
+  {
+   "tags": {
+    "highway": "tertiary",
+    "surface": "asphalt"
+   },
+   "lat": -25.1444736,
+   "lon": 30.2899296
+  }
+ ],
+ "asset:kaapsehoop pass:-25.599:30.766": [
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "100",
+    "maxweight:signed": "no",
+    "name": "Kaapschehoop Road",
+    "name:af": "Kaapschehoopweg",
+    "name:en": "Kaapschehoop Road",
+    "shoulder": "both",
+    "surface": "asphalt"
+   },
+   "lat": -25.5987553,
+   "lon": 30.7574125
+  }
+ ],
+ "asset:kowyn pass:-24.962:30.858": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "layer": "-1",
+    "ref": "R533",
+    "surface": "asphalt",
+    "tunnel": "yes"
+   },
+   "lat": -24.9614897,
+   "lon": 30.8639294
+  }
+ ],
+ "asset:kranspoort pass:-25.451:29.459": [],
+ "asset:mokobulaan pass:-25.271:30.526": [],
+ "asset:montrose pass:-25.444:30.723": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "120",
+    "maxspeed:type": "sign",
+    "oneway": "yes",
+    "ref": "N4;R539",
+    "surface": "asphalt"
+   },
+   "lat": -25.4404644,
+   "lon": 30.724781
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "oneway": "yes",
+    "ref": "N4;R539",
+    "surface": "asphalt"
+   },
+   "lat": -25.4405972,
+   "lon": 30.7242725
+  }
+ ],
+ "asset:mpageni pass:-25.554:31.202": [],
+ "asset:nelshoogte:-25.853:30.762": [],
+ "asset:nylshoogte pass:-25.757:30.841": [],
+ "asset:robbers pass:-24.871:30.692": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "maxspeed:backward": "100",
+    "ref": "R533",
+    "surface": "asphalt"
+   },
+   "lat": -24.878004,
+   "lon": 30.6855976
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "maxspeed:backward": "100",
+    "ref": "R533",
+    "surface": "asphalt"
+   },
+   "lat": -24.8755563,
+   "lon": 30.7028912
+  }
+ ],
+ "asset:santa pass:-25.340:30.175": [
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "layer": "1",
+    "maxweight:signed": "no",
+    "ref": "R540",
+    "surface": "asphalt"
+   },
+   "lat": -25.3376256,
+   "lon": 30.1772695
+  }
+ ],
+ "asset:skurweberg pass:-25.796:30.372": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R541",
+    "surface": "asphalt"
+   },
+   "lat": -25.8021437,
+   "lon": 30.384306
+  }
+ ],
+ "asset:sudwala pass:-25.340:30.734": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R539",
+    "surface": "asphalt"
+   },
+   "lat": -25.3377234,
+   "lon": 30.7349731
+  }
+ ],
+ "asset:veraaiersnek pass:-24.896:30.549": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "ref": "R36",
+    "surface": "asphalt"
+   },
+   "lat": -24.8980982,
+   "lon": 30.5505341
+  }
+ ],
+ "asset:watervalsrivier pass:-24.938:30.368": [],
+ "asset:chuniespoort:-24.250:29.539": [
+  {
+   "tags": {
+    "highway": "primary",
+    "ref": "R37",
+    "source": "landsat",
+    "surface": "asphalt"
+   },
+   "lat": -24.260261,
+   "lon": 29.5458977
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "primary",
+    "layer": "1",
+    "ref": "R37",
+    "source": "landsat",
+    "surface": "asphalt"
+   },
+   "lat": -24.2541108,
+   "lon": 29.5410892
+  }
+ ],
+ "asset:jack's pass:-22.323:30.930": [],
+ "asset:magoebaskloof pass:-23.864:30.007": [
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8701681,
+   "lon": 30.0020645
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8691555,
+   "lon": 29.9998477
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8648758,
+   "lon": 30.0072985
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|merge_to_left"
+   },
+   "lat": -23.865308,
+   "lon": 30.0076908
+  },
+  {
+   "tags": {
+    "hgv:lanes:backward": "yes|no",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8657472,
+   "lon": 30.0099633
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|merge_to_left"
+   },
+   "lat": -23.8690367,
+   "lon": 30.0032202
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8678818,
+   "lon": 30.0034415
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt",
+    "turn:lanes:backward": "through|merge_to_left"
+   },
+   "lat": -23.8670147,
+   "lon": 30.0041818
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "oneway": "yes",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8664222,
+   "lon": 30.0073716
+  },
+  {
+   "tags": {
+    "hgv:lanes:backward": "yes|no",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt",
+    "turn:lanes:backward": "through|merge_to_left"
+   },
+   "lat": -23.8669719,
+   "lon": 30.008138
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "oneway": "yes",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.866742,
+   "lon": 30.0075272
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "oneway": "yes",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8663187,
+   "lon": 30.0073777
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "oneway": "yes",
+    "ref": "R71",
+    "surface": "asphalt",
+    "turn:lanes": "through|merge_to_left"
+   },
+   "lat": -23.8668455,
+   "lon": 30.0075211
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "oneway": "yes",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.864479,
+   "lon": 30.0119839
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8634299,
+   "lon": 30.0124075
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|merge_to_left"
+   },
+   "lat": -23.8619562,
+   "lon": 30.0140637
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8644257,
+   "lon": 30.0092833
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "oneway": "yes",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.864479,
+   "lon": 30.0119378
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt",
+    "turn:lanes:backward": "through|merge_to_left"
+   },
+   "lat": -23.8603262,
+   "lon": 30.015372
+  },
+  {
+   "tags": {
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "80",
+    "name": "Magoebaskloof Road",
+    "ref": "R71",
+    "surface": "asphalt"
+   },
+   "lat": -23.8644907,
+   "lon": 30.0085531
+  }
+ ],
+ "asset:masekwaspoort:-22.884:29.874": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "no",
+    "ref": "N1;R523",
+    "surface": "asphalt"
+   },
+   "lat": -22.8923037,
+   "lon": 29.8859377
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "no",
+    "ref": "R523",
+    "surface": "asphalt"
+   },
+   "lat": -22.8907815,
+   "lon": 29.8628789
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "no",
+    "ref": "N1;R523",
+    "surface": "asphalt"
+   },
+   "lat": -22.8886903,
+   "lon": 29.875663
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "N1;R523",
+    "surface": "asphalt"
+   },
+   "lat": -22.8878765,
+   "lon": 29.8745661
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "N1;R523",
+    "surface": "asphalt"
+   },
+   "lat": -22.8880627,
+   "lon": 29.8746405
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "no",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -22.8796451,
+   "lon": 29.8784336
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -22.8862556,
+   "lon": 29.8738623
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "1",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -22.8865837,
+   "lon": 29.8739097
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R523",
+    "surface": "asphalt"
+   },
+   "lat": -22.8873077,
+   "lon": 29.8740539
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "ref": "N1;R523",
+    "surface": "asphalt"
+   },
+   "lat": -22.8874939,
+   "lon": 29.8741282
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "120",
+    "oneway": "yes",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -22.8869797,
+   "lon": 29.8739838
+  }
+ ],
+ "asset:orris baragwanath pass:-24.110:30.143": [],
+ "asset:rankin's pass:-24.504:27.863": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "ref": "D794",
+    "surface": "unpaved"
+   },
+   "lat": -24.5021219,
+   "lon": 27.8561852
+  }
+ ],
+ "asset:van collers pass:-22.919:29.610": [],
+ "asset:wyllie's poort:-22.924:29.933": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "100",
+    "oneway": "no",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -22.9214329,
+   "lon": 29.9315466
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "100",
+    "oneway": "no",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -22.9304441,
+   "lon": 29.9316385
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "100",
+    "oneway": "no",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -22.9255275,
+   "lon": 29.9322804
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "layer": "-1",
+    "maxspeed": "80",
+    "ref": "N1",
+    "surface": "asphalt",
+    "tunnel": "yes",
+    "tunnel:name": "Hendrik Verwoerd"
+   },
+   "lat": -22.9175737,
+   "lon": 29.9294071
+  }
+ ],
+ "asset:akkedisberg pass:-34.410:19.598": [],
+ "asset:attakwaskloof pass:-33.843:21.983": [],
+ "asset:chapman's peak drive:-34.076:18.364": [
+  {
+   "tags": {
+    "bicycle": "yes",
+    "bus": "designated",
+    "foot": "yes",
+    "goods": "no",
+    "hgv": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "maxheight": "2.7",
+    "maxspeed": "20",
+    "maxwidth": "2.1",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "name": "Chapman's Peak Drive",
+    "name:af": "Chapman's Peakrylaan",
+    "name:en": "Chapman's Peak Drive",
+    "psv": "yes",
+    "ref": "M6",
+    "surface": "asphalt",
+    "toll": "yes",
+    "toll:bicycle": "no",
+    "toll:foot": "no",
+    "tourist_bus": "no"
+   },
+   "lat": -34.0836771,
+   "lon": 18.3565671
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "bus": "designated",
+    "foot": "yes",
+    "goods": "no",
+    "hgv": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "maxheight": "2.7",
+    "maxspeed": "40",
+    "maxwidth": "2.1",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "name": "Chapman's Peak Drive",
+    "name:af": "Chapman's Peakrylaan",
+    "name:en": "Chapman's Peak Drive",
+    "psv": "yes",
+    "ref": "M6",
+    "sagns_id": "91480",
+    "surface": "asphalt",
+    "toll": "yes",
+    "toll:bicycle": "no",
+    "toll:foot": "no",
+    "tourist_bus": "no"
+   },
+   "lat": -34.0708343,
+   "lon": 18.366772
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "bus": "designated",
+    "foot": "yes",
+    "goods": "no",
+    "hgv": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "maxheight": "2.7",
+    "maxspeed": "20",
+    "maxwidth": "2.1",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "name": "Chapman's Peak Drive",
+    "name:af": "Chapman's Peakrylaan",
+    "name:en": "Chapman's Peak Drive",
+    "psv": "yes",
+    "ref": "M6",
+    "surface": "asphalt",
+    "toll": "yes",
+    "toll:bicycle": "no",
+    "toll:foot": "no",
+    "tourist_bus": "no"
+   },
+   "lat": -34.0800301,
+   "lon": 18.3579002
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "bus": "designated",
+    "foot": "yes",
+    "goods": "no",
+    "hgv": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "maxheight": "2.7",
+    "maxspeed": "20",
+    "maxwidth": "2.1",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "name": "Chapman's Peak Drive",
+    "name:af": "Chapman's Peakrylaan",
+    "name:en": "Chapman's Peak Drive",
+    "psv": "yes",
+    "ref": "M6",
+    "sagns_id": "91480",
+    "surface": "asphalt",
+    "toll": "yes",
+    "toll:bicycle": "no",
+    "toll:foot": "no",
+    "tourist_bus": "no"
+   },
+   "lat": -34.0789613,
+   "lon": 18.3572681
+  },
+  {
+   "tags": {
+    "bicycle": "yes",
+    "bus": "designated",
+    "foot": "yes",
+    "goods": "no",
+    "hgv": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "maxheight": "2.7",
+    "maxspeed": "20",
+    "maxwidth": "2.1",
+    "motorcar": "yes",
+    "motorcycle": "yes",
+    "name": "Chapman's Peak Drive",
+    "name:af": "Chapman's Peakrylaan",
+    "name:en": "Chapman's Peak Drive",
+    "psv": "yes",
+    "ref": "M6",
+    "sagns_id": "91480",
+    "surface": "asphalt",
+    "toll": "yes",
+    "toll:bicycle": "no",
+    "toll:foot": "no",
+    "tourist_bus": "no"
+   },
+   "lat": -34.0778122,
+   "lon": 18.3590243
+  }
+ ],
+ "asset:cloete's pass:-33.959:21.798": [],
+ "asset:du plessis pass:-34.077:21.772": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "80",
+    "maxspeed:type": "sign",
+    "name": "Du Plessis Pas",
+    "ref": "R327",
+    "shoulder": "no",
+    "source": "landsat",
+    "surface": "asphalt"
+   },
+   "lat": -34.0747487,
+   "lon": 21.7650166
+  },
+  {
+   "tags": {
+    "highway": "secondary",
+    "name": "Du Plessis Pas",
+    "ref": "R327",
+    "source": "landsat",
+    "surface": "asphalt"
+   },
+   "lat": -34.0822277,
+   "lon": 21.777209
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "layer": "1",
+    "name": "Du Plessis Pas",
+    "ref": "R327",
+    "source": "landsat",
+    "surface": "asphalt"
+   },
+   "lat": -34.0816379,
+   "lon": 21.7759491
+  }
+ ],
+ "asset:dwarskloof pass:-34.100:19.615": [],
+ "asset:eselbank pass:-32.300:19.219": [],
+ "asset:floorshoogte pass:-34.154:19.301": [],
+ "asset:gamkaskloof:-33.342:21.877": [],
+ "asset:gysmanshoek pass:-33.937:21.054": [],
+ "asset:hex river poort:-33.551:19.521": [
+  {
+   "tags": {
+    "change:lanes:backward": "no",
+    "change:lanes:forward": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.5576174,
+   "lon": 19.5132916
+  },
+  {
+   "tags": {
+    "change:lanes:backward": "no",
+    "change:lanes:forward": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.5540463,
+   "lon": 19.5174499
+  },
+  {
+   "tags": {
+    "change:lanes:forward": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.5555582,
+   "lon": 19.5153173
+  },
+  {
+   "tags": {
+    "change:lanes:backward": "no",
+    "change:lanes:forward": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.5501825,
+   "lon": 19.5250122
+  },
+  {
+   "tags": {
+    "change:lanes:forward": "no",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "ref": "N1",
+    "surface": "asphalt"
+   },
+   "lat": -33.5523795,
+   "lon": 19.5201334
+  },
+  {
+   "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "80",
+    "ref": "N1",
+    "surface": "asphalt",
+    "transit:forward": "new_on_left;continue"
+   },
+   "lat": -33.5484009,
+   "lon": 19.5287892
+  }
+ ],
+ "asset:homtini pass:-33.950:22.919": [
+  {
+   "tags": {
+    "alt_name": "Homtini Pass",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.9496343,
+   "lon": 22.9145308
+  },
+  {
+   "tags": {
+    "alt_name": "Homtini Pass",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.9444152,
+   "lon": 22.9267411
+  },
+  {
+   "tags": {
+    "alt_name": "Homtini Pass",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.9481113,
+   "lon": 22.9194692
+  }
+ ],
+ "asset:hoogekraal pass:-33.932:22.781": [
+  {
+   "tags": {
+    "alt_name": "7 Passes Road",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.926129,
+   "lon": 22.778106
+  },
+  {
+   "tags": {
+    "alt_name": "7 Passes Road",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.9267983,
+   "lon": 22.7837509
+  }
+ ],
+ "asset:kaaimans river pass:-33.971:22.546": [
+  {
+   "tags": {
+    "alt_name": "7 Passes Road",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "surface": "asphalt"
+   },
+   "lat": -33.9715199,
+   "lon": 22.5410405
+  },
+  {
+   "tags": {
+    "alt_name": "7 Passes Road",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "surface": "asphalt"
+   },
+   "lat": -33.9681033,
+   "lon": 22.5519513
+  },
+  {
+   "tags": {
+    "alt_name": "7 Passes Road",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "start_date": "1904",
+    "surface": "asphalt"
+   },
+   "lat": -33.9710342,
+   "lon": 22.5477466
+  }
+ ],
+ "asset:karatera pass:-33.925:22.850": [
+  {
+   "tags": {
+    "alt_name": "7 Passes Road",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "surface": "asphalt"
+   },
+   "lat": -33.9247635,
+   "lon": 22.8336472
+  },
+  {
+   "tags": {
+    "alt_name": "Karatara Pass",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.9230829,
+   "lon": 22.8492379
+  },
+  {
+   "tags": {
+    "alt_name": "Karatara Pass",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.9196557,
+   "lon": 22.8579719
+  },
+  {
+   "tags": {
+    "alt_name": "Karatara Pass",
+    "bridge": "yes",
+    "highway": "tertiary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Seven Passes Road",
+    "official_ref": "MR355",
+    "smoothness": "bad",
+    "surface": "compacted"
+   },
+   "lat": -33.9215748,
+   "lon": 22.8533061
+  }
+ ],
+ "asset:karelskraal pass:-32.500:21.191": [],
+ "asset:kouberg pass:-32.253:19.187": [],
+ "asset:langkloof pass:-33.732:20.257": [],
+ "asset:meiringspoort:-33.416:22.550": [],
+ "asset:middelberg pass:-32.628:19.142": [],
+ "asset:oudekloof pass:-33.266:19.063": [],
+ "asset:phantom pass:-34.002:22.995": [],
+ "asset:prince alfred pass:-33.770:23.143": [],
+ "asset:rammelkop pass:-32.531:21.182": [],
+ "asset:rooinek pass:-33.325:20.923": [],
+ "asset:rooiwalspoort:-30.795:18.451": [],
+ "asset:shaws mountain pass:-34.311:19.415": [],
+ "asset:skitterykloof pass:-32.878:19.723": [],
+ "asset:swaarmoed pass:-33.343:19.507": [],
+ "asset:theronsberg pass:-33.281:19.494": [],
+ "asset:uniondale poort:-33.681:23.149": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "noname": "yes",
+    "ref": "R339",
+    "surface": "asphalt"
+   },
+   "lat": -33.672315,
+   "lon": 23.1370025
+  },
+  {
+   "tags": {
+    "bridge": "yes",
+    "highway": "secondary",
+    "layer": "1",
+    "noname": "yes",
+    "ref": "R339",
+    "surface": "asphalt"
+   },
+   "lat": -33.6841886,
+   "lon": 23.1489378
+  }
+ ],
+ "asset:van der stel pass:-34.155:19.232": [],
+ "asset:all saints nek:-31.677:28.013": [],
+ "asset:baviaanskloof:-33.646:24.455": [],
+ "asset:bidstone pass:-30.715:27.831": [],
+ "asset:bruintjieshoogte pass:-32.679:25.346": [],
+ "asset:buffelshoek pass:-32.486:25.234": [],
+ "asset:bulhoek pass:-31.239:25.706": [],
+ "asset:cala pass:-31.474:27.723": [],
+ "asset:carlislehoekspruit pass:-30.719:27.957": [],
+ "asset:cats pass:-32.428:28.435": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R349",
+    "surface": "gravel"
+   },
+   "lat": -32.4278621,
+   "lon": 28.4234074
+  }
+ ],
+ "asset:daggaboers nek:-32.536:25.843": [
+  {
+   "tags": {
+    "highway": "trunk",
+    "ref": "N10",
+    "surface": "asphalt"
+   },
+   "lat": -32.5412033,
+   "lon": 25.8518265
+  }
+ ],
+ "asset:de beer's pass:-32.315:26.186": [],
+ "asset:dontsa pass:-32.613:27.244": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "ref": "R352",
+    "source": "landsat",
+    "surface": "gravel"
+   },
+   "lat": -32.6186295,
+   "lon": 27.2557384
+  }
+ ],
+ "asset:fonteinkloof pass:-33.595:26.122": [],
+ "asset:fuller's hoek pass:-32.688:26.520": [],
+ "asset:botha's pass:-27.617:29.717": [],
+ "asset:brandon's pass:-28.159:29.663": [],
+ "asset:colling's pass:-28.217:29.640": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "ref": "P263",
+    "source": "bing",
+    "surface": "gravel"
+   },
+   "lat": -28.2193111,
+   "lon": 29.650533
+  }
+ ],
+ "asset:de beer's pass:-28.317:29.499": [],
+ "asset:endoumeni pass:-28.230:30.195": [],
+ "asset:griffin's hill:-29.093:29.966": [],
+ "asset:hela hela pass:-29.910:30.077": [],
+ "asset:ikhupe pass:-28.154:29.969": [],
+ "asset:knight's pass:-27.656:30.372": [],
+ "asset:middledale pass:-28.480:29.323": [],
+ "asset:mike's pass:-28.961:29.232": [],
+ "asset:nicholson's nek pass:-28.474:29.763": [],
+ "asset:sandspruit pass:-28.471:29.372": [],
+ "asset:soutar's hill:-29.420:29.812": [],
+ "asset:the devil's pass:-27.713:30.932": [],
+ "asset:anenous pass:-29.226:17.607": [],
+ "asset:bailey's pass:-30.163:18.197": [],
+ "asset:bastersnek:-30.636:25.035": [],
+ "asset:blounek:-30.994:22.041": [],
+ "asset:bloupoort:-32.400:20.933": [],
+ "asset:botterkloof pass:-31.827:19.266": [],
+ "asset:burke's pass:-29.882:17.879": [],
+ "asset:charles' pass:-29.006:19.185": [],
+ "asset:kareebospoort:-30.906:22.259": [
+  {
+   "tags": {
+    "highway": "secondary",
+    "maxspeed": "120",
+    "note": "#Kaart 2025",
+    "ref": "R384",
+    "source": "gpx",
+    "surface": "asphalt"
+   },
+   "lat": -30.8987018,
+   "lon": 22.2512623
+  }
+ ],
+ "asset:keikamaspoort:-29.812:22.873": [],
+ "asset:keiskie se poort:-31.590:19.858": [],
+ "asset:langkloof pass:-27.903:22.639": [],
+ "asset:langkloof pass:-30.485:18.137": [],
+ "asset:mekataanspoort:-30.616:22.236": [],
+ "asset:messelpad pass:-29.907:17.657": [],
+ "asset:moordenaarspoort:-31.326:19.936": [
+  {
+   "tags": {
+    "highway": "tertiary",
+    "note": "#Kaart 2025",
+    "surface": "unpaved"
+   },
+   "lat": -31.3188003,
+   "lon": 19.930695
+  }
+ ],
+ "asset:ottaspoort:-30.736:18.245": [],
+ "asset:oukloof pass:-32.180:21.784": [],
+ "asset:oupoort pass:-32.167:20.379": [],
+ "asset:prieskapoort:-29.744:22.699": [],
+ "asset:quaggasfontein poort:-31.587:20.846": [],
+ "asset:renosterpoort:-30.735:22.337": [],
+ "asset:rooikloof pass:-32.500:20.640": [],
+ "asset:rooipoort:-32.375:20.934": [],
+ "asset:snyders poort:-31.995:20.688": [],
+ "asset:studer's pass:-30.400:18.065": [],
+ "asset:volstruispoort:-30.645:22.714": [],
+ "asset:windpoort:-29.264:17.418": [],
+ "asset:lichen's pass:-28.532:28.666": [],
+ "asset:hekpoort:-25.947:27.668": []
+}
