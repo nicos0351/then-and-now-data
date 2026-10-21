@@ -1,0 +1,38 @@
+name: "Research: things to see (sample)"
+
+# Manual only: counts the sights (museums, monuments, historic sites,
+# nature) that OpenStreetMap, Wikidata and Wikivoyage have for 15 sample
+# towns, to decide whether a "Things to see" section is worth building.
+# The results are saved to the separate "research-sights" branch (never to
+# main, so nothing is published).
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Query OpenStreetMap, Wikidata and Wikivoyage
+        run: python tools/sights/fetch_sights_sample.py
+      - name: Save results to the research-sights branch
+        if: always()
+        run: |
+          mkdir -p /tmp/research && cp out/* /tmp/research/ || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan research-sights
+          git rm -rq --cached . && git clean -fdq -e out
+          mkdir -p research && cp /tmp/research/* research/ || true
+          printf 'Research data only (not published). Data: OpenStreetMap (ODbL), Wikidata (CC0), Wikivoyage (CC BY-SA).\n' > research/README.md
+          git add research
+          git commit -qm "Things to see sample ($(date -u +%F))"
+          git push -f origin research-sights
