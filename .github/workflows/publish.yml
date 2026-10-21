@@ -45,7 +45,7 @@ jobs:
           # Web pages for the app (e.g. the privacy policy at /privacy.html).
           if [ -d site ]; then cp -r site/. _site/; fi
           touch _site/.nojekyll
-          printf '<!doctype html><meta charset="utf-8"><title>Then &amp; Now data</title><p>Town data for the Then &amp; Now: SA Town Names app: <a href="data.json">data.json</a></p>\n' > _site/index.html
+          printf '<!doctype html><meta charset="utf-8"><title>Then &amp; Now data</title><p>Town data for the Then &amp; Now: SA Place Names app: <a href="data.json">data.json</a></p>\n' > _site/index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

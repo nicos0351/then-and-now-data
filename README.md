@@ -1,7 +1,7 @@
-# Then & Now: SA Town Names — live data
+# Then & Now: SA Place Names — live data
 
-This repository holds the town and rename data for the **Then & Now: SA
-Town Names** app. GitHub Pages publishes it at:
+This repository holds the place and rename data for the **Then & Now: SA
+Place Names** app. GitHub Pages publishes it at:
 
 **https://nicos0351.github.io/then-and-now-data/data.json**
 
