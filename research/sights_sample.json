@@ -1,0 +1,6521 @@
+[
+ {
+  "town": "Robert Sobukwe Town",
+  "what": "Karoo tourist town (renamed 2026)",
+  "population": 62896,
+  "radius_m": 5000,
+  "osm": [
+   {
+    "name": "Toposcope",
+    "category": "viewpoint / peak",
+    "lat": -32.2628816,
+    "lon": 24.5057287,
+    "osm": "node/262098201",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Steam Train",
+    "category": "attraction",
+    "lat": -32.2607072,
+    "lon": 24.5397266,
+    "osm": "node/597830650",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Old Library",
+    "category": "museum",
+    "lat": -32.2512817,
+    "lon": 24.5358825,
+    "osm": "node/619251368",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "War Memorial",
+    "category": "monument / memorial",
+    "lat": -32.2487835,
+    "lon": 24.5346782,
+    "osm": "node/619251406",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The Union Monument",
+    "category": "monument / memorial",
+    "lat": -32.2413967,
+    "lon": 24.5310014,
+    "osm": "node/619251455",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": "A stone pyramid erected on Magazine Hill commemorates the union of the four provinces in 1910."
+   },
+   {
+    "name": "Anglo-Boer war",
+    "category": "monument / memorial",
+    "lat": -32.2533353,
+    "lon": 24.5278312,
+    "osm": "node/804027238",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Gideon Scheepers Monument",
+    "category": "monument / memorial",
+    "lat": -32.2309642,
+    "lon": 24.5180165,
+    "osm": "node/804027276",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Valley of Desolation",
+    "category": "viewpoint / peak",
+    "lat": -32.2664967,
+    "lon": 24.4936984,
+    "osm": "node/804050669",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Koi and San Genocide",
+    "category": "monument / memorial",
+    "lat": -32.2828838,
+    "lon": 24.5516993,
+    "osm": "node/804129576",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Andries Pretorius Memorial",
+    "category": "monument / memorial",
+    "lat": -32.2310311,
+    "lon": 24.5360879,
+    "osm": "node/804458285",
+    "wikidata": "Q36692418",
+    "wikipedia": null,
+    "description": "Eendag sal daar wel 'n wiel oor hierdie berge rol wat vir u en vir my onkeerbaar sal wees."
+   },
+   {
+    "name": "Reinet House",
+    "category": "museum",
+    "lat": -32.2511876,
+    "lon": 24.5387907,
+    "osm": "node/2914667798",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Old Residency",
+    "category": "museum",
+    "lat": -32.2514309,
+    "lon": 24.5385142,
+    "osm": "node/2914667799",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Spandaukop",
+    "category": "viewpoint / peak",
+    "lat": -32.2839978,
+    "lon": 24.5179037,
+    "osm": "node/3647858329",
+    "wikidata": "Q31688288",
+    "wikipedia": "af:Spandaukop",
+    "description": null
+   },
+   {
+    "name": "Andies Pretorius",
+    "category": "monument / memorial",
+    "lat": -32.2196622,
+    "lon": 24.5406233,
+    "osm": "node/4471048196",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Dam wall",
+    "category": "viewpoint / peak",
+    "lat": -32.2366627,
+    "lon": 24.5262865,
+    "osm": "node/4471048197",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ribbokberg Lookout",
+    "category": "viewpoint / peak",
+    "lat": -32.2512453,
+    "lon": 24.4977248,
+    "osm": "node/5266582335",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Valley of Desolation Yellow Frame",
+    "category": "viewpoint / peak",
+    "lat": -32.262884,
+    "lon": 24.504686,
+    "osm": "node/11065156488",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Military History",
+    "category": "museum",
+    "lat": -32.2504721,
+    "lon": 24.5386762,
+    "osm": "node/13266798930",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Urqouhart House",
+    "category": "museum",
+    "lat": -32.250389,
+    "lon": 24.538455,
+    "osm": "node/13266818677",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Camdeboo Heroes Monument",
+    "category": "monument / memorial",
+    "lat": -32.246443,
+    "lon": 24.5380457,
+    "osm": "node/14008385133",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hester Rupert Art Museum",
+    "category": "museum",
+    "lat": -32.2514475,
+    "lon": 24.5360005,
+    "osm": "way/139687503",
+    "wikidata": "Q131279663",
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Khwalimanzi Hide",
+    "category": "attraction",
+    "lat": -32.2102967,
+    "lon": 24.5348328,
+    "osm": "way/205052553",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The Montego Deck",
+    "category": "picnic site",
+    "lat": -32.2644864,
+    "lon": 24.4934936,
+    "osm": "way/1191857321",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ribbokberg",
+    "category": "picnic site",
+    "lat": -32.2511614,
+    "lon": 24.4974699,
+    "osm": "way/1192569969",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Jan Rupert Art Centre",
+    "category": "gallery",
+    "lat": -32.2542107,
+    "lon": 24.5375959,
+    "osm": "way/1445967508",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sobukwe Museum and Learning Centre",
+    "category": "museum",
+    "lat": -32.2463956,
+    "lon": 24.5435928,
+    "osm": "way/1537940570",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Camdeboo National Park",
+    "category": "nature reserve",
+    "lat": -32.2491103,
+    "lon": 24.5437539,
+    "osm": "relation/2589479",
+    "wikidata": "Q655377",
+    "wikipedia": "en:Camdeboo National Park",
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Reinet House",
+    "class": "museum",
+    "item": "Q48791266",
+    "article": "https://en.wikipedia.org/wiki/Reinet_House",
+    "heritage": "provincial heritage site"
+   },
+   {
+    "name": "Camdeboo National Park",
+    "class": "national park of South Africa",
+    "item": "Q655377",
+    "article": "https://en.wikipedia.org/wiki/Camdeboo_National_Park",
+    "heritage": null
+   },
+   {
+    "name": "Camdeboo Local Municipality",
+    "class": "local municipality of South Africa",
+    "item": "Q1028399",
+    "article": "https://en.wikipedia.org/wiki/Camdeboo_Local_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Kroonvale",
+    "class": "South African township",
+    "item": "Q1777030",
+    "article": "https://en.wikipedia.org/wiki/Kroonvale",
+    "heritage": null
+   },
+   {
+    "name": "Republic of Graaff-Reinet",
+    "class": "Boer republic",
+    "item": "Q2145348",
+    "article": "https://en.wikipedia.org/wiki/Republic_of_Graaff-Reinet",
+    "heritage": null
+   },
+   {
+    "name": "Groote Kerk, Graaff-Reinet",
+    "class": "church building",
+    "item": "Q11145519",
+    "article": "https://en.wikipedia.org/wiki/Groote_Kerk,_Graaff-Reinet",
+    "heritage": null
+   },
+   {
+    "name": "Munnikspas",
+    "class": "gap",
+    "item": "Q13035499",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lokasiekop",
+    "class": "mountain",
+    "item": "Q31480943",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Driekop",
+    "class": "mountain",
+    "item": "Q31508034",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Driekop",
+    "class": "mountain",
+    "item": "Q31508052",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Spandaukop",
+    "class": "mountain",
+    "item": "Q31688288",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Q36692418",
+    "class": "statue",
+    "item": "Q36692418",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Q55576195",
+    "class": "seasonal river",
+    "item": "Q55576195",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Graaff-Reinet (Kroonvale) Cemetery",
+    "class": "cemetery",
+    "item": "Q109355111",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Drostdy Hotel",
+    "class": "hotel",
+    "item": "Q111401359",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Somerset Stables",
+    "class": "hotel",
+    "item": "Q111859970",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Whyte House",
+    "class": "hotel",
+    "item": "Q111859968",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Karoopark Guest House",
+    "class": "hotel",
+    "item": "Q111859969",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Beau & I",
+    "class": "hotel",
+    "item": "Q111860122",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Obesa Lodge",
+    "class": "hotel",
+    "item": "Q111860120",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Rietjiesbos B&B",
+    "class": "hotel",
+    "item": "Q111860124",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Cypress Cottage",
+    "class": "hotel",
+    "item": "Q111860125",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Stemar Self Catering Guest House",
+    "class": "hotel",
+    "item": "Q112001963",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Eagle's Nest",
+    "class": "hotel",
+    "item": "Q112002063",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Hester Rupert Art Museum",
+    "class": "museum",
+    "item": "Q131279663",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Asherville Clinic",
+    "class": "clinic",
+    "item": "Q140439048",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Graaff-Reinet Day Hospital",
+    "class": "clinic",
+    "item": "Q140548073",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Horseshoe Clinic",
+    "class": "clinic",
+    "item": "Q140552097",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Kroonvale Clinic",
+    "class": "clinic",
+    "item": "Q140622821",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Market Square Clinic",
+    "class": "clinic",
+    "item": "Q140779826",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Umasizakhe Clinic",
+    "class": "clinic",
+    "item": "Q141109870",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": {
+   "title": "Graaff-Reinet",
+   "see": 11,
+   "do": 0,
+   "status": "usable",
+   "url": "https://en.wikivoyage.org/wiki/Graaff-Reinet"
+  }
+ },
+ {
+  "town": "Makhanda",
+  "what": "university / heritage town (renamed)",
+  "population": 91548,
+  "radius_m": 5000,
+  "osm": [
+   {
+    "name": "Observatory Museum",
+    "category": "museum",
+    "lat": -33.3098989,
+    "lon": 26.5292813,
+    "osm": "node/1519736726",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "1820 Settlers Monument",
+    "category": "monument / memorial",
+    "lat": -33.3193985,
+    "lon": 26.5192328,
+    "osm": "node/2209013245",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Old Gaol",
+    "category": "historic building / site",
+    "lat": -33.3131159,
+    "lon": 26.5228808,
+    "osm": "node/2612177864",
+    "wikidata": "Q56279364",
+    "wikipedia": "en:Old Gaol Building (Grahamstown)",
+    "description": null
+   },
+   {
+    "name": "Fort Selwyn",
+    "category": "historic site",
+    "lat": -33.3185527,
+    "lon": 26.5184593,
+    "osm": "node/2614473416",
+    "wikidata": "Q20617431",
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cycle of Life",
+    "category": "artwork",
+    "lat": -33.3139828,
+    "lon": 26.5206369,
+    "osm": "node/9592156119",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "1820 Settlers National Monument",
+    "category": "monument / memorial",
+    "lat": -33.3194055,
+    "lon": 26.5191911,
+    "osm": "way/106201545",
+    "wikidata": "Q4554132",
+    "wikipedia": "en:1820 Settlers National Monument",
+    "description": null
+   },
+   {
+    "name": "Makana Botanical Gardens",
+    "category": "park / garden",
+    "lat": -33.3174218,
+    "lon": 26.52106,
+    "osm": "way/113898205",
+    "wikidata": "Q15068219",
+    "wikipedia": "en:Makana Botanical Gardens",
+    "description": null
+   },
+   {
+    "name": "Egolfini Initiation School",
+    "category": "nature reserve",
+    "lat": -33.301996,
+    "lon": 26.5679522,
+    "osm": "way/508468946",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Khitshini Initiatiation School",
+    "category": "nature reserve",
+    "lat": -33.2870963,
+    "lon": 26.5844948,
+    "osm": "way/508936463",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Drostdy Lawns",
+    "category": "park / garden",
+    "lat": -33.3126939,
+    "lon": 26.5210468,
+    "osm": "way/509053620",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Albany History Museum",
+    "category": "museum",
+    "lat": -33.3139903,
+    "lon": 26.5226036,
+    "osm": "way/1239041543",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Amazwi South African Museum of Literature",
+    "category": "museum",
+    "lat": -33.3103272,
+    "lon": 26.5093862,
+    "osm": "way/1239065692",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Egazini Park",
+    "category": "park / garden",
+    "lat": -33.3118654,
+    "lon": 26.5491993,
+    "osm": "way/1525624438",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Albany Museum",
+    "category": "museum",
+    "lat": -33.3133381,
+    "lon": 26.5219824,
+    "osm": "relation/17016201",
+    "wikidata": "Q4709352",
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Rhodes University",
+    "class": "university",
+    "item": "Q377757",
+    "article": "https://en.wikipedia.org/wiki/Rhodes_University",
+    "heritage": null
+   },
+   {
+    "name": "Makana Local Municipality",
+    "class": "local municipality of South Africa",
+    "item": "Q1886243",
+    "article": "https://en.wikipedia.org/wiki/Makana_Local_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Battle of Grahamstown",
+    "class": "battle",
+    "item": "Q2888651",
+    "article": "https://en.wikipedia.org/wiki/Battle_of_Grahamstown",
+    "heritage": null
+   },
+   {
+    "name": "Albany",
+    "class": "former district of South Africa",
+    "item": "Q3357254",
+    "article": "https://en.wikipedia.org/wiki/Albany,_South_Africa",
+    "heritage": null
+   },
+   {
+    "name": "St. Michael and St. George Cathedral",
+    "class": "Anglican or Episcopal cathedral",
+    "item": "Q4351914",
+    "article": "https://en.wikipedia.org/wiki/St_Michael_and_St_George_Cathedral,_Makhanda",
+    "heritage": null
+   },
+   {
+    "name": "1820 Settlers National Monument",
+    "class": "memorial",
+    "item": "Q4554132",
+    "article": "https://en.wikipedia.org/wiki/1820_Settlers_National_Monument",
+    "heritage": null
+   },
+   {
+    "name": "Africa Media Matrix",
+    "class": "",
+    "item": "Q4689571",
+    "article": "https://en.wikipedia.org/wiki/Africa_Media_Matrix",
+    "heritage": null
+   },
+   {
+    "name": "Albany Museum",
+    "class": "history museum",
+    "item": "Q4709352",
+    "article": "https://en.wikipedia.org/wiki/Albany_Museum,_South_Africa",
+    "heritage": null
+   },
+   {
+    "name": "Diocese of Grahamstown",
+    "class": "Anglican diocese",
+    "item": "Q4763478",
+    "article": "https://en.wikipedia.org/wiki/Diocese_of_Grahamstown",
+    "heritage": null
+   },
+   {
+    "name": "College of the Transfiguration",
+    "class": "seminary",
+    "item": "Q5146901",
+    "article": "https://en.wikipedia.org/wiki/College_of_the_Transfiguration",
+    "heritage": null
+   },
+   {
+    "name": "Eastern Cape High Court",
+    "class": "division of the High Court of South Africa",
+    "item": "Q5330030",
+    "article": "https://en.wikipedia.org/wiki/Eastern_Cape_High_Court",
+    "heritage": null
+   },
+   {
+    "name": "International Library of African Music",
+    "class": "library",
+    "item": "Q6051762",
+    "article": "https://en.wikipedia.org/wiki/International_Library_of_African_Music",
+    "heritage": null
+   },
+   {
+    "name": "Amazwi South African Museum of Literature",
+    "class": "library",
+    "item": "Q6972462",
+    "article": "https://en.wikipedia.org/wiki/National_English_Literary_Museum",
+    "heritage": null
+   },
+   {
+    "name": "National Youth Jazz Festival",
+    "class": "music festival",
+    "item": "Q6979502",
+    "article": "https://en.wikipedia.org/wiki/National_Youth_Jazz_Festival",
+    "heritage": null
+   },
+   {
+    "name": "Old Provost",
+    "class": "historic building",
+    "item": "Q7084792",
+    "article": "https://en.wikipedia.org/wiki/Old_Provost",
+    "heritage": null
+   },
+   {
+    "name": "South African Institute of Aquatic Biodiversity",
+    "class": "research institute",
+    "item": "Q7565708",
+    "article": "https://en.wikipedia.org/wiki/South_African_Institute_for_Aquatic_Biodiversity",
+    "heritage": null
+   },
+   {
+    "name": "National Arts Festival",
+    "class": "arts festival",
+    "item": "Q10990225",
+    "article": "https://en.wikipedia.org/wiki/National_Arts_Festival",
+    "heritage": null
+   },
+   {
+    "name": "Grocott's Mail",
+    "class": "student newspaper",
+    "item": "Q13034840",
+    "article": "https://en.wikipedia.org/wiki/Grocott%27s_Mail",
+    "heritage": null
+   },
+   {
+    "name": "Gondwanascorpio emzantsiensis",
+    "class": "fossil taxon",
+    "item": "Q14834038",
+    "article": "https://en.wikipedia.org/wiki/Gondwanascorpio_emzantsiensis",
+    "heritage": null
+   },
+   {
+    "name": "Cory Library for Humanities Research",
+    "class": "archives",
+    "item": "Q14979341",
+    "article": "https://en.wikipedia.org/wiki/Cory_Library_for_Historical_Research",
+    "heritage": null
+   },
+   {
+    "name": "Makana Botanical Gardens",
+    "class": "botanical garden",
+    "item": "Q15068219",
+    "article": "https://en.wikipedia.org/wiki/Makana_Botanical_Gardens",
+    "heritage": null
+   },
+   {
+    "name": "Priscomyzon riniensis",
+    "class": "fossil taxon",
+    "item": "Q15325723",
+    "article": "https://en.wikipedia.org/wiki/Priscomyzon",
+    "heritage": null
+   },
+   {
+    "name": "Gondwanascorpio",
+    "class": "fossil taxon",
+    "item": "Q18706669",
+    "article": "https://en.wikipedia.org/wiki/Gondwanascorpio",
+    "heritage": null
+   },
+   {
+    "name": "Q20612654",
+    "class": "",
+    "item": "Q20612654",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Fort Selwyn",
+    "class": "fort",
+    "item": "Q20617431",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Rhodes University Library",
+    "class": "academic library",
+    "item": "Q20981894",
+    "article": "https://en.wikipedia.org/wiki/Rhodes_University_Library",
+    "heritage": null
+   },
+   {
+    "name": "Serenichthys",
+    "class": "fossil taxon",
+    "item": "Q21346610",
+    "article": "https://en.wikipedia.org/wiki/Serenichthys",
+    "heritage": null
+   },
+   {
+    "name": "Sugarloaf Hill",
+    "class": "hill",
+    "item": "Q31401809",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Makanna's Kop",
+    "class": "hill",
+    "item": "Q31405628",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Signal Hill",
+    "class": "mountain",
+    "item": "Q31690699",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Featherstone Kloof",
+    "class": "ravine",
+    "item": "Q31915247",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Old Gaol Building",
+    "class": "",
+    "item": "Q56279364",
+    "article": "https://en.wikipedia.org/wiki/Old_Gaol_Building_(Grahamstown)",
+    "heritage": null
+   },
+   {
+    "name": "Waterloo Farm lagerstätte",
+    "class": "lagerstätte",
+    "item": "Q96414327",
+    "article": "https://en.wikipedia.org/wiki/Waterloo_Farm_lagerst%C3%A4tte",
+    "heritage": null
+   },
+   {
+    "name": "Rhodes Research Data",
+    "class": "institutional repository",
+    "item": "Q97461156",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "30 on Oatlands Road Accommodation",
+    "class": "guest house",
+    "item": "Q111118574",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Jenny's Guest House",
+    "class": "hotel",
+    "item": "Q111859532",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "A White House Guest House",
+    "class": "hotel",
+    "item": "Q111859533",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "A Stone's Throw Accommodation",
+    "class": "hotel",
+    "item": "Q111859537",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Cornerstone Manor",
+    "class": "hotel",
+    "item": "Q112001611",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "137 High Street Guest House",
+    "class": "hotel",
+    "item": "Q112001614",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Bartholomew's Loft",
+    "class": "hotel",
+    "item": "Q112001615",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "1A St Aidans Guest House",
+    "class": "hotel",
+    "item": "Q112001612",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Cock House",
+    "class": "hotel",
+    "item": "Q112001616",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Oak Lodge Guest House",
+    "class": "hotel",
+    "item": "Q112001617",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Commemoration Church",
+    "class": "church building",
+    "item": "Q130143970",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Grahamstown Town Hall",
+    "class": "city hall",
+    "item": "Q130316006",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Observatory Museum",
+    "class": "museum",
+    "item": "Q130316073",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Clock Tower",
+    "class": "building",
+    "item": "Q131512369",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Grahamstown Old Cemetery",
+    "class": "cemetery",
+    "item": "Q133449280",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Anglo African Street Clinic",
+    "class": "clinic",
+    "item": "Q140438933",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Grahamstown Clinic",
+    "class": "clinic",
+    "item": "Q140548108",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Grahamstown FP Clinic",
+    "class": "clinic",
+    "item": "Q140548121",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Joza Clinic",
+    "class": "clinic",
+    "item": "Q140562050",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Middle Street Clinic",
+    "class": "clinic",
+    "item": "Q140822232",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Middle Terrace TLC Clinic",
+    "class": "clinic",
+    "item": "Q140822372",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Raglan Road Clinic",
+    "class": "clinic",
+    "item": "Q141046736",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Virginia Shumane Clinic",
+    "class": "clinic",
+    "item": "Q141118075",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": {
+   "title": "Grahamstown",
+   "see": 24,
+   "do": 10,
+   "status": "usable",
+   "url": "https://en.wikivoyage.org/wiki/Grahamstown"
+  }
+ },
+ {
+  "town": "Knysna",
+  "what": "Garden Route tourist town",
+  "population": 68659,
+  "radius_m": 5000,
+  "osm": [
+   {
+    "name": "Knysna Waterfront",
+    "category": "attraction",
+    "lat": -34.0412955,
+    "lon": 23.0450638,
+    "osm": "node/354540102",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Heads Lookout",
+    "category": "viewpoint / peak",
+    "lat": -34.0791216,
+    "lon": 23.0613269,
+    "osm": "node/503852413",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Friday Market",
+    "category": "attraction",
+    "lat": -34.0334932,
+    "lon": 23.0205738,
+    "osm": "node/670964274",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Eastern Heads Views",
+    "category": "viewpoint / peak",
+    "lat": -34.076554,
+    "lon": 23.0598991,
+    "osm": "node/715214847",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Belvidere Manor Houseroad",
+    "category": "attraction",
+    "lat": -34.0468481,
+    "lon": 22.9978299,
+    "osm": "node/736014859",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Knysna Tourism Information",
+    "category": "tourist info",
+    "lat": -34.0347449,
+    "lon": 23.0457048,
+    "osm": "node/3264755804",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "African Arts Market",
+    "category": "artwork",
+    "lat": -34.0464807,
+    "lon": 23.0704302,
+    "osm": "node/5076555927",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The Motorcycle Room",
+    "category": "museum",
+    "lat": -34.047948,
+    "lon": 23.0481869,
+    "osm": "node/9645861517",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sandra Pelser Art",
+    "category": "gallery",
+    "lat": -34.0688657,
+    "lon": 23.060336,
+    "osm": "node/12650295128",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": "Sandra Pelser's original oil paintings are one of a kind as she never repeats a single one. She has painted almost 1700 of her signature ladies in her current collection."
+   },
+   {
+    "name": "Featherbed Tours",
+    "category": "attraction",
+    "lat": -34.0391833,
+    "lon": 23.0408919,
+    "osm": "way/204264937",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pledge Nature Reserve",
+    "category": "nature reserve",
+    "lat": -34.031014,
+    "lon": 23.0433593,
+    "osm": "way/211576523",
+    "wikidata": "Q119512704",
+    "wikipedia": "en:Pledge Nature Reserve",
+    "description": null
+   },
+   {
+    "name": "Brenton Blue Butterfly Nature Reserve",
+    "category": "nature reserve",
+    "lat": -34.0723957,
+    "lon": 23.0316591,
+    "osm": "way/238390839",
+    "wikidata": "Q121287711",
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cathy's Park",
+    "category": "park / garden",
+    "lat": -34.0446259,
+    "lon": 23.0683933,
+    "osm": "way/1120964955",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Loerie Park",
+    "category": "park / garden",
+    "lat": -34.0477436,
+    "lon": 23.0682667,
+    "osm": "way/1120967374",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Steenbok Nature Reserve",
+    "category": "park / garden",
+    "lat": -34.0638961,
+    "lon": 23.0566011,
+    "osm": "way/1120969482",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Golf Club Braai Spot",
+    "category": "park / garden",
+    "lat": -34.0598282,
+    "lon": 23.0696513,
+    "osm": "way/1120973036",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "SanParks Nature Reserve",
+    "category": "park / garden",
+    "lat": -34.0488862,
+    "lon": 23.0464052,
+    "osm": "way/1120977124",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Milkwood Park",
+    "category": "park / garden",
+    "lat": -34.0386058,
+    "lon": 23.0719088,
+    "osm": "way/1217729816",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Featherbed Private Nature Reserve",
+    "category": "nature reserve",
+    "lat": -34.077401,
+    "lon": 23.0532065,
+    "osm": "way/1309698832",
+    "wikidata": "Q112741032",
+    "wikipedia": "en:Featherbed Nature Reserve",
+    "description": null
+   },
+   {
+    "name": "Eastford Private Nature Reserve",
+    "category": "nature reserve",
+    "lat": -34.0187938,
+    "lon": 23.0161034,
+    "osm": "way/1309722992",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Skuilte Private Nature Reserve",
+    "category": "nature reserve",
+    "lat": -34.0604363,
+    "lon": 23.0337598,
+    "osm": "way/1309731396",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Garden Route National Park",
+    "category": "nature reserve",
+    "lat": -33.9370345,
+    "lon": 23.3551065,
+    "osm": "relation/3158347",
+    "wikidata": "Q1381341",
+    "wikipedia": "en:Garden Route National Park",
+    "description": null
+   },
+   {
+    "name": "Garden Route Biosphere Reserve",
+    "category": "nature reserve",
+    "lat": -33.9691672,
+    "lon": 23.7105628,
+    "osm": "relation/17544255",
+    "wikidata": "Q24634869",
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Outeniqua Choo Tjoe",
+    "class": "passenger train service",
+    "item": "Q497287",
+    "article": "https://en.wikipedia.org/wiki/Outeniqua_Choo_Tjoe",
+    "heritage": null
+   },
+   {
+    "name": "Knysna National Lake Area",
+    "class": "protected area",
+    "item": "Q1651751",
+    "article": "https://en.wikipedia.org/wiki/Knysna_National_Lake_Area",
+    "heritage": null
+   },
+   {
+    "name": "Q14339776",
+    "class": "golf course",
+    "item": "Q14339776",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Steenbok Nature Reserve",
+    "class": "nature reserve",
+    "item": "Q19623655",
+    "article": "https://en.wikipedia.org/wiki/Steenbok_Nature_Reserve",
+    "heritage": null
+   },
+   {
+    "name": "Black Point",
+    "class": "point",
+    "item": "Q31880904",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Fountain Point",
+    "class": "point",
+    "item": "Q31916384",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Green Point",
+    "class": "point",
+    "item": "Q31918017",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Inner Obelisk Point",
+    "class": "point",
+    "item": "Q31923081",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Knysna N.W. airfield",
+    "class": "airstrip",
+    "item": "Q31933663",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Leisure Island",
+    "class": "island",
+    "item": "Q31942615",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Monkey Point",
+    "class": "point",
+    "item": "Q31956905",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Outer Obelisk Point",
+    "class": "point",
+    "item": "Q31981916",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Heads",
+    "class": "point",
+    "item": "Q32028471",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Thesen Island",
+    "class": "island",
+    "item": "Q32028746",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Knysna Lakeside Accommodation",
+    "class": "guest house",
+    "item": "Q111122461",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "South Villa",
+    "class": "hotel",
+    "item": "Q111331419",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Simola Hotel, Country Club & Spa",
+    "class": "hotel",
+    "item": "Q111401322",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Villa Afrikana Guest Suites",
+    "class": "hotel",
+    "item": "Q111401330",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "aha The Rex Hotel",
+    "class": "hotel",
+    "item": "Q111401331",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Falcons View Manor",
+    "class": "hotel",
+    "item": "Q111401328",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Candlewood Lodge",
+    "class": "hotel",
+    "item": "Q111401329",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Kanonkop House",
+    "class": "hotel",
+    "item": "Q111401334",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Premier Resort The Moorings, Knysna",
+    "class": "hotel",
+    "item": "Q111401335",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Hide-Away Guest House",
+    "class": "hotel",
+    "item": "Q111401332",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Protea Hotel by Marriott Knysna Quays",
+    "class": "hotel",
+    "item": "Q111401333",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "St. James of Knysna",
+    "class": "hotel",
+    "item": "Q111401338",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Turbine Hotel and Spa",
+    "class": "hotel",
+    "item": "Q111401339",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Elephant Hide of Knysna Guest Lodge",
+    "class": "hotel",
+    "item": "Q111401336",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Lofts Boutique Hotel",
+    "class": "hotel",
+    "item": "Q111401337",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Amanzi Island Lodge",
+    "class": "hotel",
+    "item": "Q111401343",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Bamboo, the Guesthouse",
+    "class": "hotel",
+    "item": "Q111401340",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Brenton on Sea Cottages",
+    "class": "hotel",
+    "item": "Q111401346",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Under Milkwood Resort",
+    "class": "hotel",
+    "item": "Q111401344",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Knysna Manor House",
+    "class": "hotel",
+    "item": "Q111859842",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Orange Inn Knysna",
+    "class": "hotel",
+    "item": "Q111859840",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "B My Guest",
+    "class": "hotel",
+    "item": "Q111859841",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Wayside Inn Knysna",
+    "class": "hotel",
+    "item": "Q111859846",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Guinea Fowl Lodge",
+    "class": "hotel",
+    "item": "Q111859844",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Abalone Lodges",
+    "class": "hotel",
+    "item": "Q111859845",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Yellowwood Lodge",
+    "class": "hotel",
+    "item": "Q111859850",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Knysna Log-Inn Hotel",
+    "class": "hotel",
+    "item": "Q111859851",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Russel Hotel",
+    "class": "hotel",
+    "item": "Q111859848",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "6 on Protea Guesthouse",
+    "class": "hotel",
+    "item": "Q111859849",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Graywood Hotel",
+    "class": "hotel",
+    "item": "Q111859855",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Villa Paradisa Guest House",
+    "class": "hotel",
+    "item": "Q111859852",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Thebloem Guest Suites",
+    "class": "hotel",
+    "item": "Q111859853",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lagoon Lodge",
+    "class": "hotel",
+    "item": "Q111859859",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "South Villa Guesthouse",
+    "class": "hotel",
+    "item": "Q111859856",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Overmeer Guest House",
+    "class": "hotel",
+    "item": "Q111859857",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "On The Estuary",
+    "class": "hotel",
+    "item": "Q111859860",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Knysna Hollow Country Estate",
+    "class": "hotel",
+    "item": "Q111859861",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Thesen Islands' Lodges",
+    "class": "hotel",
+    "item": "Q111859866",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Stannards Guest Lodge",
+    "class": "hotel",
+    "item": "Q111859867",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Waterfront Lodge",
+    "class": "hotel",
+    "item": "Q111859864",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "47th on Howard",
+    "class": "hotel",
+    "item": "Q111859865",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Leisure Isle Lodge",
+    "class": "hotel",
+    "item": "Q111859870",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Knysna Belle Guest House",
+    "class": "hotel",
+    "item": "Q111859871",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Amber Guest Lodge",
+    "class": "hotel",
+    "item": "Q111859868",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Bollard Bay House",
+    "class": "hotel",
+    "item": "Q111859869",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Isola Bella Guest House",
+    "class": "hotel",
+    "item": "Q111859874",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "TwoAngels",
+    "class": "hotel",
+    "item": "Q111859875",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "African Breeze Guesthouse",
+    "class": "hotel",
+    "item": "Q111859872",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Headlands House Guest Lodge",
+    "class": "hotel",
+    "item": "Q111859876",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Brenton Beach House",
+    "class": "hotel",
+    "item": "Q111859880",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Brenton Haven Beachfront Resort",
+    "class": "hotel",
+    "item": "Q111859881",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Footprints of Knysna",
+    "class": "hotel",
+    "item": "Q111888364",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Panorama Lodge",
+    "class": "hotel",
+    "item": "Q111888375",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Pumula Lodge",
+    "class": "hotel",
+    "item": "Q111888385",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Sirius",
+    "class": "hotel",
+    "item": "Q112001887",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Blue Fern of Knysna",
+    "class": "hotel",
+    "item": "Q112001894",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Moncrieff Manor",
+    "class": "hotel",
+    "item": "Q112001895",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lagoon Breeze Guest House",
+    "class": "hotel",
+    "item": "Q112001898",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Fish Eagle Lodge",
+    "class": "hotel",
+    "item": "Q112001899",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Somervreug",
+    "class": "hotel",
+    "item": "Q112001896",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Point Lodge Knysna",
+    "class": "hotel",
+    "item": "Q112001902",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Salt River Lodge",
+    "class": "hotel",
+    "item": "Q112001901",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lovemore Lodges Knysna",
+    "class": "hotel",
+    "item": "Q112001906",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Bay View Guest Apartments",
+    "class": "hotel",
+    "item": "Q112001908",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Brenton Breakers",
+    "class": "hotel",
+    "item": "Q112001909",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Featherbed Nature Reserve",
+    "class": "",
+    "item": "Q112741032",
+    "article": "https://en.wikipedia.org/wiki/Featherbed_Nature_Reserve",
+    "heritage": null
+   },
+   {
+    "name": "Melville's Building",
+    "class": "building",
+    "item": "Q113957190",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Pledge Nature Reserve",
+    "class": "nature reserve",
+    "item": "Q119512704",
+    "article": "https://en.wikipedia.org/wiki/Pledge_Nature_Reserve",
+    "heritage": null
+   },
+   {
+    "name": "Brenton Blue Butterfly Special Nature Reserve",
+    "class": "nature reserve",
+    "item": "Q121287711",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Holy Trinity Church, Belvidere",
+    "class": "church building",
+    "item": "Q127923685",
+    "article": "https://en.wikipedia.org/wiki/Holy_Trinity_Church,_Belvidere",
+    "heritage": "provincial heritage site"
+   }
+  ],
+  "wikivoyage": {
+   "title": "Knysna",
+   "see": 2,
+   "do": 9,
+   "status": "usable",
+   "url": "https://en.wikivoyage.org/wiki/Knysna"
+  }
+ },
+ {
+  "town": "Clarens",
+  "what": "small tourist village",
+  "population": 7644,
+  "radius_m": 3000,
+  "osm": [
+   {
+    "name": "Art & Wine Gallery",
+    "category": "gallery",
+    "lat": -28.516268,
+    "lon": 28.4200717,
+    "osm": "node/6123052188",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Robert Badenhorst Art Gallery",
+    "category": "gallery",
+    "lat": -28.5157923,
+    "lon": 28.4203535,
+    "osm": "node/6123055486",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "President Plein",
+    "category": "park / garden",
+    "lat": -28.5147906,
+    "lon": 28.4210294,
+    "osm": "way/82914967",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Clarens Nature Reserve",
+    "category": "nature reserve",
+    "lat": -28.5100002,
+    "lon": 28.4084214,
+    "osm": "way/1422280104",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Mount Horeb Estate",
+    "category": "nature reserve",
+    "lat": -28.5221195,
+    "lon": 28.4470683,
+    "osm": "way/1422280694",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Mount Zion",
+    "class": "hill",
+    "item": "Q31400706",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Clarens Clinic",
+    "class": "clinic",
+    "item": "Q90922920",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Clarens Village Nature Reserve",
+    "class": "nature reserve",
+    "item": "Q105572824",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Habitat",
+    "class": "apartment",
+    "item": "Q111124645",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Knock Out View Clarens",
+    "class": "hotel",
+    "item": "Q111859795",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Red Mountain House",
+    "class": "hotel",
+    "item": "Q111859798",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Patcham Place B&B",
+    "class": "hotel",
+    "item": "Q111859796",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Ash River Lodge B&B",
+    "class": "hotel",
+    "item": "Q111859797",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Upper House Guesthouse",
+    "class": "hotel",
+    "item": "Q111859958",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Millpond House",
+    "class": "hotel",
+    "item": "Q111859957",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Clarens Retreat",
+    "class": "hotel",
+    "item": "Q111859962",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "By the Way Guesthouse",
+    "class": "hotel",
+    "item": "Q111859963",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Protea Hotel by Marriott Clarens",
+    "class": "hotel",
+    "item": "Q111859960",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Mont d'Or Clarens",
+    "class": "hotel",
+    "item": "Q111859961",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Clarens Country House",
+    "class": "hotel",
+    "item": "Q111859964",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "278 on Main",
+    "class": "hotel",
+    "item": "Q112001862",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Rosewood Corner, Clarens",
+    "class": "hotel",
+    "item": "Q112001861",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Periwinkle Grove Cottage",
+    "class": "hotel",
+    "item": "Q112001954",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Woodlands Retreat",
+    "class": "hotel",
+    "item": "Q112027183",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Fairview Cottages",
+    "class": "hotel",
+    "item": "Q112027196",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Clarens arts festival",
+    "class": "organization",
+    "item": "Q137455846",
+    "article": "https://en.wikipedia.org/wiki/Clarens_Arts_Festival",
+    "heritage": null
+   }
+  ],
+  "wikivoyage": {
+   "title": "Clarens",
+   "see": 0,
+   "do": 1,
+   "status": "outline",
+   "url": "https://en.wikivoyage.org/wiki/Clarens"
+  }
+ },
+ {
+  "town": "Prince Albert",
+  "what": "small Karoo town",
+  "population": 13136,
+  "radius_m": 3000,
+  "osm": [
+   {
+    "name": "Robertson Gordon Koppie",
+    "category": "viewpoint / peak",
+    "lat": -33.2328025,
+    "lon": 22.0282145,
+    "osm": "node/13598659951",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Fransie Pienaar Museum",
+    "category": "museum",
+    "lat": -33.2246267,
+    "lon": 22.0304852,
+    "osm": "way/340306214",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": null,
+  "wikivoyage": {
+   "title": "Prince Albert",
+   "see": 3,
+   "do": 2,
+   "status": "usable",
+   "url": "https://en.wikivoyage.org/wiki/Prince_Albert"
+  }
+ },
+ {
+  "town": "Nxuba",
+  "what": "Karoo town (renamed)",
+  "population": 43936,
+  "radius_m": 5000,
+  "osm": [
+   {
+    "name": "Trim Park",
+    "category": "park / garden",
+    "lat": -32.1645878,
+    "lon": 25.6132811,
+    "osm": "way/1321737633",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Jurie Lombard Watermill",
+    "category": "attraction",
+    "lat": -32.1651367,
+    "lon": 25.6143289,
+    "osm": "way/1321737634",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nxuba 4 Garden of Remembrance",
+    "category": "park / garden",
+    "lat": -32.1833196,
+    "lon": 25.6488703,
+    "osm": "way/1321755934",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Mountain Zebra-Camdeboo Protected Environment",
+    "category": "nature reserve",
+    "lat": -32.3125026,
+    "lon": 24.8101265,
+    "osm": "relation/17492138",
+    "wikidata": "Q125534874",
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Q1544274",
+    "class": "museum",
+    "item": "Q1544274",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Inxuba Yethemba Local Municipality",
+    "class": "local municipality of South Africa",
+    "item": "Q1671847",
+    "article": "https://en.wikipedia.org/wiki/Inxuba_Yethemba_Local_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Oukop",
+    "class": "hill",
+    "item": "Q31404571",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Eerstekrans",
+    "class": "cliff",
+    "item": "Q31506772",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Moordenaarsnek",
+    "class": "plain",
+    "item": "Q31957576",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Schreiner House",
+    "class": "museum",
+    "item": "Q98812572",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Cradock (Lingelihle) Cemetery",
+    "class": "cemetery",
+    "item": "Q109355104",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Cradock Gateway Clinic",
+    "class": "clinic",
+    "item": "Q140462356",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "High Street Clinic",
+    "class": "clinic",
+    "item": "Q140550800",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lingelihle Clinic",
+    "class": "clinic",
+    "item": "Q140626404",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Michausdal Clinic",
+    "class": "clinic",
+    "item": "Q140822133",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Philani Clinic Cradock",
+    "class": "clinic",
+    "item": "Q141039616",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": {
+   "title": "Cradock",
+   "see": 1,
+   "do": 1,
+   "status": "outline",
+   "url": "https://en.wikivoyage.org/wiki/Cradock"
+  }
+ },
+ {
+  "town": "Lady Grey",
+  "what": "small rural Eastern Cape town",
+  "population": 8414,
+  "radius_m": 3000,
+  "osm": [],
+  "wikidata": [
+   {
+    "name": "Senqu Local Municipality",
+    "class": "local municipality of South Africa",
+    "item": "Q2006821",
+    "article": "https://en.wikipedia.org/wiki/Senqu_Local_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Joubert's Pass",
+    "class": "gap",
+    "item": "Q3186677",
+    "article": "https://en.wikipedia.org/wiki/Joubert%27s_Pass",
+    "heritage": null
+   },
+   {
+    "name": "Spioenkop",
+    "class": "mountain",
+    "item": "Q31687893",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Robert Mjobo Clinic",
+    "class": "clinic",
+    "item": "Q141046879",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": null
+ },
+ {
+  "town": "Calvinia",
+  "what": "remote Northern Cape town",
+  "population": 8146,
+  "radius_m": 3000,
+  "osm": [
+   {
+    "name": "Calvinia Steam Locomotive",
+    "category": "attraction",
+    "lat": -31.4726376,
+    "lon": 19.7752253,
+    "osm": "node/11487165140",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Dan Viviers Plein",
+    "category": "park / garden",
+    "lat": -31.4670446,
+    "lon": 19.7820929,
+    "osm": "way/1096449335",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Akkerendam Nature Reserve",
+    "category": "nature reserve",
+    "lat": -31.4306349,
+    "lon": 19.7722506,
+    "osm": "way/1157848585",
+    "wikidata": "Q419699",
+    "wikipedia": "af:Akkerendam-natuurreservaat",
+    "description": null
+   },
+   {
+    "name": "Blomposbus Flower Postbox",
+    "category": "attraction",
+    "lat": -31.4754047,
+    "lon": 19.7717652,
+    "osm": "way/1236957375",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Calvinia Museum",
+    "category": "museum",
+    "lat": -31.4721746,
+    "lon": 19.7750835,
+    "osm": "way/1236957376",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Hantam Local Municipality",
+    "class": "local municipality of South Africa",
+    "item": "Q1584028",
+    "article": "https://en.wikipedia.org/wiki/Hantam_Local_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Dutch Reformed Church, Calvinia",
+    "class": "church building",
+    "item": "Q16740960",
+    "article": "https://en.wikipedia.org/wiki/Dutch_Reformed_Church,_Calvinia",
+    "heritage": null
+   },
+   {
+    "name": "Calvinia Clinic",
+    "class": "clinic",
+    "item": "Q58020901",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "African Dawn B&B",
+    "class": "hotel",
+    "item": "Q112001816",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": null
+ },
+ {
+  "town": "Mbombela",
+  "what": "provincial capital (renamed)",
+  "population": 110159,
+  "radius_m": 5000,
+  "osm": [
+   {
+    "name": "cs",
+    "category": "attraction",
+    "lat": -25.4877929,
+    "lon": 31.0043638,
+    "osm": "node/3500318488",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Elephant & child",
+    "category": "artwork",
+    "lat": -25.443558,
+    "lon": 30.970176,
+    "osm": "node/12000467198",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Horse",
+    "category": "artwork",
+    "lat": -25.4719151,
+    "lon": 30.9586211,
+    "osm": "node/12017184713",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "PPK Park",
+    "category": "park / garden",
+    "lat": -25.4818739,
+    "lon": 30.9710197,
+    "osm": "way/552169748",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Riverside Casino Park",
+    "category": "park / garden",
+    "lat": -25.4397051,
+    "lon": 30.9663456,
+    "osm": "way/552174036",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Atletiek Baan",
+    "category": "park / garden",
+    "lat": -25.4693269,
+    "lon": 30.9861233,
+    "osm": "way/1280495491",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cricket Veld",
+    "category": "park / garden",
+    "lat": -25.4698146,
+    "lon": 30.9871949,
+    "osm": "way/1280495492",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Tennis Baan",
+    "category": "park / garden",
+    "lat": -25.4702977,
+    "lon": 30.9883407,
+    "osm": "way/1280495493",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Netbal Baan",
+    "category": "park / garden",
+    "lat": -25.4702658,
+    "lon": 30.9888852,
+    "osm": "way/1280495494",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Medicinal Plants Garden",
+    "category": "park / garden",
+    "lat": -25.4426812,
+    "lon": 30.9700727,
+    "osm": "way/1294933550",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blind Assistance",
+    "category": "park / garden",
+    "lat": -25.4426732,
+    "lon": 30.9708197,
+    "osm": "way/1294933551",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Tea Garden",
+    "category": "park / garden",
+    "lat": -25.4438445,
+    "lon": 30.9707205,
+    "osm": "way/1294933556",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Shandon Eco Estate",
+    "category": "nature reserve",
+    "lat": -25.5082438,
+    "lon": 31.0166923,
+    "osm": "way/1463952297",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nelspruit Nature Reserve",
+    "category": "nature reserve",
+    "lat": -25.4900107,
+    "lon": 30.99431,
+    "osm": "relation/18843077",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lowveld National Botanical Garden",
+    "category": "nature reserve",
+    "lat": -25.4446999,
+    "lon": 30.9726732,
+    "osm": "relation/18843108",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Mbombela Stadium",
+    "class": "stadium",
+    "item": "Q187087",
+    "article": "https://en.wikipedia.org/wiki/Mbombela_Stadium",
+    "heritage": null
+   },
+   {
+    "name": "Ehlanzeni District Municipality",
+    "class": "district municipality",
+    "item": "Q1244497",
+    "article": "https://en.wikipedia.org/wiki/Ehlanzeni_District_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Lowveld National Botanical Garden",
+    "class": "botanical garden",
+    "item": "Q6694210",
+    "article": "https://en.wikipedia.org/wiki/Lowveld_National_Botanical_Garden",
+    "heritage": null
+   },
+   {
+    "name": "University of Mpumalanga",
+    "class": "university",
+    "item": "Q14979352",
+    "article": "https://en.wikipedia.org/wiki/University_of_Mpumalanga",
+    "heritage": null
+   },
+   {
+    "name": "Citrus Research International",
+    "class": "facility",
+    "item": "Q33121836",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Mpumalanga High Court",
+    "class": "division of the High Court of South Africa",
+    "item": "Q72283451",
+    "article": "https://en.wikipedia.org/wiki/Mpumalanga_High_Court",
+    "heritage": null
+   },
+   {
+    "name": "Old Vic Travellers Inn",
+    "class": "hostel",
+    "item": "Q111117962",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "La Villa Vita",
+    "class": "hotel",
+    "item": "Q111401374",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "La Roca Guest House",
+    "class": "hotel",
+    "item": "Q111401375",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Nelspruit Lodge",
+    "class": "hotel",
+    "item": "Q111401373",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Loerie's Call Guesthouse",
+    "class": "hotel",
+    "item": "Q111401376",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Southern Sun Emnotweni",
+    "class": "hotel",
+    "item": "Q111401377",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Torburnlea B&B",
+    "class": "hotel",
+    "item": "Q111860022",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Cycad Lodge & Chalets",
+    "class": "hotel",
+    "item": "Q111860023",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Zebrina Guest House",
+    "class": "hotel",
+    "item": "Q111860021",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Utopia in Africa Guest Villa",
+    "class": "hotel",
+    "item": "Q111860026",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "An Exclusive Guest House",
+    "class": "hotel",
+    "item": "Q111860024",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Mercure Nelspruit Hotel",
+    "class": "hotel",
+    "item": "Q111860025",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Shandon Lodge",
+    "class": "hotel",
+    "item": "Q111860030",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "85 Ehmke",
+    "class": "hotel",
+    "item": "Q111860031",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Beetleloop Guest House",
+    "class": "hotel",
+    "item": "Q111860028",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Sheppard Boutique Guesthouse",
+    "class": "hotel",
+    "item": "Q111860029",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Francolin Lodge",
+    "class": "hotel",
+    "item": "Q111860035",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Jörn's Gästehaus",
+    "class": "hotel",
+    "item": "Q111860033",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Protea Hotel by Marriott Nelspruit",
+    "class": "hotel",
+    "item": "Q111860036",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Chill Pepper Boutique Hotel",
+    "class": "hotel",
+    "item": "Q111860037",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Rand Lodge (The)",
+    "class": "hotel",
+    "item": "Q112002014",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Harmony Guesthouse",
+    "class": "hotel",
+    "item": "Q112002012",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Victorian Guest House",
+    "class": "hotel",
+    "item": "Q112002013",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Auberge Guest Lodge",
+    "class": "hotel",
+    "item": "Q112002018",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lost Trail Bed and Breakfast",
+    "class": "hotel",
+    "item": "Q112002019",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "SUN1 Nelspruit",
+    "class": "hotel",
+    "item": "Q112002016",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Birds Babble Self Catering Guest House",
+    "class": "hotel",
+    "item": "Q112002017",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Hotel Promenade Nelspruit",
+    "class": "hotel",
+    "item": "Q112002022",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Chez Vincent",
+    "class": "hotel",
+    "item": "Q112002023",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Christies at 32 on Russell",
+    "class": "hotel",
+    "item": "Q112002021",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lowveld Living Guesthouse",
+    "class": "hotel",
+    "item": "Q112002024",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Matumi Golf Lodge",
+    "class": "hotel",
+    "item": "Q112002025",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Khayalami Hotels - Mbombela",
+    "class": "hotel",
+    "item": "Q112027181",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Sunshine Self Catering",
+    "class": "hotel",
+    "item": "Q112027203",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Palms Guesthouse",
+    "class": "hotel",
+    "item": "Q112027249",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Nelsrivier",
+    "class": "river",
+    "item": "Q113378234",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "17th Metro FM Music Awards",
+    "class": "award ceremony",
+    "item": "Q117352750",
+    "article": "https://en.wikipedia.org/wiki/17th_Metro_FM_Music_Awards",
+    "heritage": null
+   },
+   {
+    "name": "West Acres, Mbombela",
+    "class": "",
+    "item": "Q125503914",
+    "article": "https://en.wikipedia.org/wiki/West_Acres,_Mbombela",
+    "heritage": null
+   },
+   {
+    "name": "Valencia Park, Mbombela",
+    "class": "",
+    "item": "Q125510611",
+    "article": "https://en.wikipedia.org/wiki/Valencia_Park,_Mbombela",
+    "heritage": null
+   },
+   {
+    "name": "Riverside Mall",
+    "class": "movie theater",
+    "item": "Q134084014",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": {
+   "title": "Mbombela",
+   "see": 1,
+   "do": 2,
+   "status": "usable",
+   "url": "https://en.wikivoyage.org/wiki/Mbombela"
+  }
+ },
+ {
+  "town": "Polokwane",
+  "what": "provincial capital (renamed)",
+  "population": 272461,
+  "radius_m": 7000,
+  "osm": [
+   {
+    "name": "Pietersburg Wildreservaat",
+    "category": "nature reserve",
+    "lat": -23.9611111,
+    "lon": 29.475,
+    "osm": "node/345458374",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Donkey",
+    "category": "artwork",
+    "lat": -23.9115959,
+    "lon": 29.4529077,
+    "osm": "node/2345366128",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "۲۲مارچ",
+    "category": "viewpoint / peak",
+    "lat": -23.9035572,
+    "lon": 29.4601384,
+    "osm": "node/5239805921",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Polokwane Art Museum",
+    "category": "museum",
+    "lat": -23.9074942,
+    "lon": 29.4534618,
+    "osm": "node/6362018882",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Car Park",
+    "category": "park / garden",
+    "lat": -23.9005456,
+    "lon": 29.5174957,
+    "osm": "node/13231438889",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Flora Park Dam",
+    "category": "park / garden",
+    "lat": -23.9149709,
+    "lon": 29.4776266,
+    "osm": "way/117060058",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Welgelegen Park",
+    "category": "park / garden",
+    "lat": -23.8941032,
+    "lon": 29.4708184,
+    "osm": "way/616837515",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": "Unmaintained park"
+   },
+   {
+    "name": "Limpopo Tourism Agency",
+    "category": "tourist info",
+    "lat": -23.9336228,
+    "lon": 29.4188649,
+    "osm": "way/695624292",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Polokwane art park",
+    "category": "park / garden",
+    "lat": -23.8814525,
+    "lon": 29.4584195,
+    "osm": "way/734375718",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ladanna Playground",
+    "category": "park / garden",
+    "lat": -23.875601,
+    "lon": 29.4473663,
+    "osm": "way/734376216",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Openair Snakepark Polokwane",
+    "category": "attraction",
+    "lat": -23.9250513,
+    "lon": 29.4349161,
+    "osm": "way/734382306",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Gen Beyers Park",
+    "category": "park / garden",
+    "lat": -23.8871747,
+    "lon": 29.4703279,
+    "osm": "way/961845361",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Tom Naude Park",
+    "category": "park / garden",
+    "lat": -23.8896306,
+    "lon": 29.460653,
+    "osm": "way/961845362",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Van Zyl Park",
+    "category": "park / garden",
+    "lat": -23.8885798,
+    "lon": 29.462244,
+    "osm": "way/961845363",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Emdo park",
+    "category": "park / garden",
+    "lat": -23.8688051,
+    "lon": 29.4294329,
+    "osm": "way/1047276423",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pietersburg Nature Reserve",
+    "category": "nature reserve",
+    "lat": -23.9613158,
+    "lon": 29.4727061,
+    "osm": "way/1225917154",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nirvana park",
+    "category": "park / garden",
+    "lat": -23.917265,
+    "lon": 29.435555,
+    "osm": "way/1278244152",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": null,
+  "wikivoyage": {
+   "title": "Polokwane",
+   "see": 11,
+   "do": 7,
+   "status": "outline",
+   "url": "https://en.wikivoyage.org/wiki/Polokwane"
+  }
+ },
+ {
+  "town": "Pretoria",
+  "what": "big city",
+  "population": 2112693,
+  "radius_m": 8000,
+  "osm": [
+   {
+    "name": "Sinovich Dam",
+    "category": "park / garden",
+    "lat": -25.7115253,
+    "lon": 28.1606119,
+    "osm": "node/29096123",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Police Memorial",
+    "category": "attraction",
+    "lat": -25.7419634,
+    "lon": 28.2137386,
+    "osm": "node/269512144",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "General Louis Botha",
+    "category": "monument / memorial",
+    "lat": -25.7442134,
+    "lon": 28.2109615,
+    "osm": "node/269512145",
+    "wikidata": "Q20972971",
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nelson Mandela Statue",
+    "category": "monument / memorial",
+    "lat": -25.7420854,
+    "lon": 28.2115004,
+    "osm": "node/269512146",
+    "wikidata": "Q29831426",
+    "wikipedia": "en:Statue of Nelson Mandela, Union Buildings",
+    "description": null
+   },
+   {
+    "name": "Paul Kruger Statue",
+    "category": "monument / memorial",
+    "lat": -25.7464514,
+    "lon": 28.1880717,
+    "osm": "node/296945097",
+    "wikidata": "Q2507848",
+    "wikipedia": "en:Statue of Paul Kruger, Church Square",
+    "description": null
+   },
+   {
+    "name": "Victims Of Terrorism",
+    "category": "monument / memorial",
+    "lat": -25.7444684,
+    "lon": 28.192945,
+    "osm": "node/296945367",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Eastfort",
+    "category": "monument / memorial",
+    "lat": -25.75896,
+    "lon": 28.25043,
+    "osm": "node/296945474",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Liesl Meintjies",
+    "category": "museum",
+    "lat": -25.7408512,
+    "lon": 28.1976517,
+    "osm": "node/307692695",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Paul Kruger's Grave",
+    "category": "monument / memorial",
+    "lat": -25.7468393,
+    "lon": 28.1759046,
+    "osm": "node/307693578",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The Trekmonument",
+    "category": "monument / memorial",
+    "lat": -25.7772137,
+    "lon": 28.1840365,
+    "osm": "node/345703008",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "PJ Joubert",
+    "category": "artwork",
+    "lat": -25.7770648,
+    "lon": 28.1841265,
+    "osm": "node/345703012",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Danie Theron-beeld",
+    "category": "artwork",
+    "lat": -25.7774459,
+    "lon": 28.1841337,
+    "osm": "node/345703017",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Vrou en kinders",
+    "category": "artwork",
+    "lat": -25.7761554,
+    "lon": 28.1757998,
+    "osm": "node/345703060",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Piet Retief",
+    "category": "artwork",
+    "lat": -25.7762104,
+    "lon": 28.1759877,
+    "osm": "node/345703070",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Voortrekker",
+    "category": "artwork",
+    "lat": -25.7765403,
+    "lon": 28.1759835,
+    "osm": "node/345703080",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Andries Pretorius",
+    "category": "artwork",
+    "lat": -25.776213,
+    "lon": 28.1756235,
+    "osm": "node/345703090",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hendrik Potgieter",
+    "category": "artwork",
+    "lat": -25.7765366,
+    "lon": 28.1756187,
+    "osm": "node/345703099",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Garden of Remembrance",
+    "category": "monument / memorial",
+    "lat": -25.775714,
+    "lon": 28.1740282,
+    "osm": "node/345704151",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Air Force Museum",
+    "category": "museum",
+    "lat": -25.8017293,
+    "lon": 28.1633459,
+    "osm": "node/600829437",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pretoria Visual Arts Soceity",
+    "category": "monument / memorial",
+    "lat": -25.7681025,
+    "lon": 28.2223949,
+    "osm": "node/611569765",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Claude Malan",
+    "category": "museum",
+    "lat": -25.7584125,
+    "lon": 28.2391559,
+    "osm": "node/661206878",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Wonder Steam Trains",
+    "category": "attraction",
+    "lat": -25.7199384,
+    "lon": 28.1631718,
+    "osm": "node/1784173203",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Rovos Rail",
+    "category": "attraction",
+    "lat": -25.7181647,
+    "lon": 28.1898698,
+    "osm": "node/1794926840",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "old arts",
+    "category": "museum",
+    "lat": -25.7541161,
+    "lon": 28.2302738,
+    "osm": "node/2514823539",
+    "wikidata": "Q13035703",
+    "wikipedia": "en:Old Arts Building (University of Pretoria)",
+    "description": null
+   },
+   {
+    "name": "Voortrekker Monument Museum",
+    "category": "museum",
+    "lat": -25.7764564,
+    "lon": 28.1757997,
+    "osm": "node/4322840393",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "South African Defence Force (SADF) Monument",
+    "category": "monument / memorial",
+    "lat": -25.7794952,
+    "lon": 28.2100881,
+    "osm": "node/4322840394",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Dutch people who died for the South African Republic (ZAR)",
+    "category": "monument / memorial",
+    "lat": -25.7606919,
+    "lon": 28.2182312,
+    "osm": "node/4322840724",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The One Brother and the Dark Cloud",
+    "category": "artwork",
+    "lat": -25.750345,
+    "lon": 28.2219407,
+    "osm": "node/4322840735",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pretoria Rosarium",
+    "category": "park / garden",
+    "lat": -25.7461953,
+    "lon": 28.2205423,
+    "osm": "node/4322840736",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sammy Marks Fountain",
+    "category": "monument / memorial",
+    "lat": -25.7377779,
+    "lon": 28.1878021,
+    "osm": "node/4322840750",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Andries Pretorius Statue",
+    "category": "monument / memorial",
+    "lat": -25.7530879,
+    "lon": 28.1882787,
+    "osm": "node/4322840905",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Bird Hide",
+    "category": "viewpoint / peak",
+    "lat": -25.7703588,
+    "lon": 28.2276224,
+    "osm": "node/4323139992",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blockhouse",
+    "category": "historic site",
+    "lat": -25.7389165,
+    "lon": 28.2133181,
+    "osm": "node/4323140195",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "J.C. Smuts Memorial",
+    "category": "monument / memorial",
+    "lat": -25.7401136,
+    "lon": 28.2096235,
+    "osm": "node/4323183867",
+    "wikidata": "Q124322683",
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lion Bridge",
+    "category": "monument / memorial",
+    "lat": -25.7455266,
+    "lon": 28.2015328,
+    "osm": "node/4323183868",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Tree of Knowledge",
+    "category": "artwork",
+    "lat": -25.7420769,
+    "lon": 28.189961,
+    "osm": "node/4323280806",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sundial",
+    "category": "artwork",
+    "lat": -25.7340857,
+    "lon": 28.1916719,
+    "osm": "node/4323842058",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "2010 FIFA Host City",
+    "category": "monument / memorial",
+    "lat": -25.7727528,
+    "lon": 28.2044017,
+    "osm": "node/4335618166",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Wendy",
+    "category": "artwork",
+    "lat": -25.7614573,
+    "lon": 28.2198305,
+    "osm": "node/4335877791",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Delville Wood Memorial",
+    "category": "monument / memorial",
+    "lat": -25.7413546,
+    "lon": 28.2116824,
+    "osm": "node/4642385519",
+    "wikidata": "Q124322765",
+    "wikipedia": "fr:Delville Monument",
+    "description": null
+   },
+   {
+    "name": "American alligators",
+    "category": "attraction",
+    "lat": -25.7386993,
+    "lon": 28.1881595,
+    "osm": "node/4843778518",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lizards and terrapins",
+    "category": "attraction",
+    "lat": -25.7384459,
+    "lon": 28.1881256,
+    "osm": "node/4843779995",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blue Crane",
+    "category": "attraction",
+    "lat": -25.7382306,
+    "lon": 28.190043,
+    "osm": "node/4843796892",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Wattled Crane",
+    "category": "attraction",
+    "lat": -25.7382327,
+    "lon": 28.1899776,
+    "osm": "node/4843796893",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Grey crowned crane",
+    "category": "attraction",
+    "lat": -25.7382327,
+    "lon": 28.1899053,
+    "osm": "node/4843796894",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Seals",
+    "category": "attraction",
+    "lat": -25.7373105,
+    "lon": 28.1902908,
+    "osm": "node/4845241692",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Scarlet ibis",
+    "category": "attraction",
+    "lat": -25.7379613,
+    "lon": 28.1880607,
+    "osm": "node/4845241693",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Scimtar horned oryx",
+    "category": "attraction",
+    "lat": -25.7375683,
+    "lon": 28.1881615,
+    "osm": "node/4845241694",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Mhorr gazelle",
+    "category": "attraction",
+    "lat": -25.7375481,
+    "lon": 28.1885152,
+    "osm": "node/4845241695",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Greater and lesser Flamingos",
+    "category": "attraction",
+    "lat": -25.7374127,
+    "lon": 28.189587,
+    "osm": "node/4845241696",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "American Flamingos",
+    "category": "attraction",
+    "lat": -25.7376323,
+    "lon": 28.189249,
+    "osm": "node/4845241697",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Axis deer",
+    "category": "attraction",
+    "lat": -25.7375261,
+    "lon": 28.1887753,
+    "osm": "node/4845241698",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Chimpanzees",
+    "category": "attraction",
+    "lat": -25.7379052,
+    "lon": 28.1902674,
+    "osm": "node/4845241700",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ringtailed lemurs",
+    "category": "attraction",
+    "lat": -25.7380846,
+    "lon": 28.1887591,
+    "osm": "node/4845241701",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sonnerat's jungle fowl",
+    "category": "attraction",
+    "lat": -25.7382384,
+    "lon": 28.1898303,
+    "osm": "node/4845241702",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blue duiker",
+    "category": "attraction",
+    "lat": -25.7382604,
+    "lon": 28.1898039,
+    "osm": "node/4845241703",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Superb starling",
+    "category": "attraction",
+    "lat": -25.7382586,
+    "lon": 28.1896982,
+    "osm": "node/4845241704",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Southern bald ibis",
+    "category": "attraction",
+    "lat": -25.7382549,
+    "lon": 28.1897531,
+    "osm": "node/4845241705",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Primates",
+    "category": "attraction",
+    "lat": -25.7366838,
+    "lon": 28.1908914,
+    "osm": "node/4845241707",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Grey headed parrot",
+    "category": "attraction",
+    "lat": -25.7380162,
+    "lon": 28.18805,
+    "osm": "node/4845241708",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Scarlet macaw",
+    "category": "attraction",
+    "lat": -25.7379119,
+    "lon": 28.1875383,
+    "osm": "node/4845241709",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Elephants",
+    "category": "attraction",
+    "lat": -25.7365565,
+    "lon": 28.1893909,
+    "osm": "node/4845453190",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Leopard",
+    "category": "attraction",
+    "lat": -25.7370986,
+    "lon": 28.1875801,
+    "osm": "node/4845453191",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lion-tailed macaque",
+    "category": "attraction",
+    "lat": -25.7368958,
+    "lon": 28.187567,
+    "osm": "node/4845453192",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Little Corella",
+    "category": "attraction",
+    "lat": -25.7380419,
+    "lon": 28.187997,
+    "osm": "node/4847581733",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Citron crested cockatoo",
+    "category": "attraction",
+    "lat": -25.7380546,
+    "lon": 28.187905,
+    "osm": "node/4847581734",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "African grey parrot",
+    "category": "attraction",
+    "lat": -25.7380554,
+    "lon": 28.1878236,
+    "osm": "node/4847581735",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lesser sulpher crested cockatoo",
+    "category": "attraction",
+    "lat": -25.7380562,
+    "lon": 28.1877378,
+    "osm": "node/4847581736",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Green winged macaw",
+    "category": "attraction",
+    "lat": -25.7380594,
+    "lon": 28.1876643,
+    "osm": "node/4847581737",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Southern ground hornbill",
+    "category": "attraction",
+    "lat": -25.7380515,
+    "lon": 28.1875661,
+    "osm": "node/4847581738",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blue and yellow macaw",
+    "category": "attraction",
+    "lat": -25.7379876,
+    "lon": 28.1875436,
+    "osm": "node/4847581739",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Major Mitchell's cockatoo",
+    "category": "attraction",
+    "lat": -25.7378403,
+    "lon": 28.1875325,
+    "osm": "node/4847581740",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blue fronted amazon",
+    "category": "attraction",
+    "lat": -25.7377757,
+    "lon": 28.1875272,
+    "osm": "node/4847581741",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "White fronted amazon",
+    "category": "attraction",
+    "lat": -25.7376434,
+    "lon": 28.187513,
+    "osm": "node/4847581743",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Illiger's macaw",
+    "category": "attraction",
+    "lat": -25.737578,
+    "lon": 28.1875077,
+    "osm": "node/4847581744",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Black necked swan",
+    "category": "attraction",
+    "lat": -25.7375063,
+    "lon": 28.1875051,
+    "osm": "node/4847581745",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Northern bald ibis",
+    "category": "attraction",
+    "lat": -25.7374776,
+    "lon": 28.1875024,
+    "osm": "node/4847581746",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Drill",
+    "category": "attraction",
+    "lat": -25.7367771,
+    "lon": 28.1875554,
+    "osm": "node/4849157778",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Patas monkey",
+    "category": "attraction",
+    "lat": -25.7366656,
+    "lon": 28.1875566,
+    "osm": "node/4849157779",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hamadrys Baboon",
+    "category": "attraction",
+    "lat": -25.7365573,
+    "lon": 28.1875846,
+    "osm": "node/4849157780",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blackbuck",
+    "category": "attraction",
+    "lat": -25.7360848,
+    "lon": 28.1877171,
+    "osm": "node/4849218479",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hog Deer",
+    "category": "attraction",
+    "lat": -25.7360424,
+    "lon": 28.1878385,
+    "osm": "node/4849218480",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cape buffalo",
+    "category": "attraction",
+    "lat": -25.7358217,
+    "lon": 28.1884157,
+    "osm": "node/4849234571",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Eastern Black and White Colobus",
+    "category": "attraction",
+    "lat": -25.7358239,
+    "lon": 28.189103,
+    "osm": "node/4849238983",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Birds",
+    "category": "attraction",
+    "lat": -25.736135,
+    "lon": 28.1880362,
+    "osm": "node/4849277962",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Glossy ibis",
+    "category": "attraction",
+    "lat": -25.7361265,
+    "lon": 28.188185,
+    "osm": "node/4849277963",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Black and white ruffed lemur",
+    "category": "attraction",
+    "lat": -25.7361056,
+    "lon": 28.1887822,
+    "osm": "node/4849285570",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kolbroek Pig",
+    "category": "attraction",
+    "lat": -25.7355092,
+    "lon": 28.1880862,
+    "osm": "node/4849292562",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nguni Cattle",
+    "category": "attraction",
+    "lat": -25.735215,
+    "lon": 28.1877611,
+    "osm": "node/4849292563",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Donkey",
+    "category": "attraction",
+    "lat": -25.7350623,
+    "lon": 28.1881971,
+    "osm": "node/4849292564",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kalahari Red Goat",
+    "category": "attraction",
+    "lat": -25.7352913,
+    "lon": 28.1884528,
+    "osm": "node/4849300535",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Rabbits",
+    "category": "attraction",
+    "lat": -25.7352885,
+    "lon": 28.1886808,
+    "osm": "node/4849300536",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ducks and Geese",
+    "category": "attraction",
+    "lat": -25.7350346,
+    "lon": 28.1885761,
+    "osm": "node/4849452999",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cape Vultures",
+    "category": "attraction",
+    "lat": -25.737991,
+    "lon": 28.1899854,
+    "osm": "node/4849453000",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Southern Lechwe",
+    "category": "attraction",
+    "lat": -25.7367865,
+    "lon": 28.1903,
+    "osm": "node/4923599175",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Giraffe",
+    "category": "attraction",
+    "lat": -25.7360975,
+    "lon": 28.1903514,
+    "osm": "node/4923599176",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ringtailed Lemur",
+    "category": "attraction",
+    "lat": -25.73576,
+    "lon": 28.1898297,
+    "osm": "node/4923602415",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Black Rhino",
+    "category": "attraction",
+    "lat": -25.7353239,
+    "lon": 28.1900671,
+    "osm": "node/4923620933",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Primates 2",
+    "category": "attraction",
+    "lat": -25.7363187,
+    "lon": 28.1911119,
+    "osm": "node/4923620934",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Owls",
+    "category": "attraction",
+    "lat": -25.736062,
+    "lon": 28.190792,
+    "osm": "node/4923624409",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Serval",
+    "category": "attraction",
+    "lat": -25.7359971,
+    "lon": 28.1912681,
+    "osm": "node/4923901836",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Giant Anteater",
+    "category": "attraction",
+    "lat": -25.7360321,
+    "lon": 28.1916396,
+    "osm": "node/4923901837",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Buzzards",
+    "category": "attraction",
+    "lat": -25.736258,
+    "lon": 28.1921666,
+    "osm": "node/4923901838",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Raptors",
+    "category": "attraction",
+    "lat": -25.7362423,
+    "lon": 28.1916879,
+    "osm": "node/4923901839",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lar Gibbon",
+    "category": "attraction",
+    "lat": -25.735711,
+    "lon": 28.1915887,
+    "osm": "node/4924035996",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Black backed jackal",
+    "category": "attraction",
+    "lat": -25.7357046,
+    "lon": 28.1919902,
+    "osm": "node/4924039150",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cheetah",
+    "category": "attraction",
+    "lat": -25.7353979,
+    "lon": 28.1919526,
+    "osm": "node/4924042204",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Striped Hyena",
+    "category": "attraction",
+    "lat": -25.7350848,
+    "lon": 28.1919597,
+    "osm": "node/4924051143",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Spotted Hyena",
+    "category": "attraction",
+    "lat": -25.7351361,
+    "lon": 28.1915409,
+    "osm": "node/4924051144",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Maned Wolf",
+    "category": "attraction",
+    "lat": -25.7351965,
+    "lon": 28.1912563,
+    "osm": "node/4924076567",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Common Brown Lemur",
+    "category": "attraction",
+    "lat": -25.7355133,
+    "lon": 28.1913549,
+    "osm": "node/4924076568",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ring Tailed Lemur",
+    "category": "attraction",
+    "lat": -25.7354702,
+    "lon": 28.1914129,
+    "osm": "node/4924076569",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Bactrian Camel",
+    "category": "attraction",
+    "lat": -25.7353559,
+    "lon": 28.1905374,
+    "osm": "node/4924079816",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Leopard Tortoise",
+    "category": "attraction",
+    "lat": -25.7352949,
+    "lon": 28.1905129,
+    "osm": "node/4924079817",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Antelope",
+    "category": "attraction",
+    "lat": -25.7354661,
+    "lon": 28.1929116,
+    "osm": "node/4926130469",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "African Wild Dog",
+    "category": "attraction",
+    "lat": -25.7343499,
+    "lon": 28.1903898,
+    "osm": "node/4926130470",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hippos",
+    "category": "attraction",
+    "lat": -25.7343447,
+    "lon": 28.1893623,
+    "osm": "node/4926130471",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pygmy Hippos",
+    "category": "attraction",
+    "lat": -25.7341204,
+    "lon": 28.1885807,
+    "osm": "node/4926130472",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Red Kangaroos",
+    "category": "attraction",
+    "lat": -25.7334725,
+    "lon": 28.1895027,
+    "osm": "node/4926209071",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Emus",
+    "category": "attraction",
+    "lat": -25.7332141,
+    "lon": 28.1892529,
+    "osm": "node/4926211454",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Koala",
+    "category": "attraction",
+    "lat": -25.7334444,
+    "lon": 28.1892261,
+    "osm": "node/4926211455",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Arabian Oryx",
+    "category": "attraction",
+    "lat": -25.7338756,
+    "lon": 28.1904344,
+    "osm": "node/4926248373",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Red Forest Buffalo",
+    "category": "attraction",
+    "lat": -25.7334539,
+    "lon": 28.1903772,
+    "osm": "node/4926248374",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Meerkat",
+    "category": "attraction",
+    "lat": -25.7333024,
+    "lon": 28.1897234,
+    "osm": "node/4926248375",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Gorilla",
+    "category": "attraction",
+    "lat": -25.7330846,
+    "lon": 28.189988,
+    "osm": "node/4926261875",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Australian birds",
+    "category": "attraction",
+    "lat": -25.733067,
+    "lon": 28.1894952,
+    "osm": "node/4926263645",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sable Antelope",
+    "category": "attraction",
+    "lat": -25.7326732,
+    "lon": 28.1901331,
+    "osm": "node/4926270563",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sichuan Takin",
+    "category": "attraction",
+    "lat": -25.7322888,
+    "lon": 28.190402,
+    "osm": "node/4926274045",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kodiak Bear",
+    "category": "attraction",
+    "lat": -25.7320182,
+    "lon": 28.1900446,
+    "osm": "node/4926276794",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Bengal Tigers",
+    "category": "attraction",
+    "lat": -25.7318239,
+    "lon": 28.1905961,
+    "osm": "node/4926397370",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Addax",
+    "category": "attraction",
+    "lat": -25.7324831,
+    "lon": 28.1910105,
+    "osm": "node/4926397372",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lions",
+    "category": "attraction",
+    "lat": -25.7319391,
+    "lon": 28.1915097,
+    "osm": "node/4926397373",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Urial Sheep",
+    "category": "attraction",
+    "lat": -25.7319328,
+    "lon": 28.192006,
+    "osm": "node/4926416344",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nubian Ibex",
+    "category": "attraction",
+    "lat": -25.7318248,
+    "lon": 28.1923435,
+    "osm": "node/4926416345",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nyala",
+    "category": "attraction",
+    "lat": -25.7325444,
+    "lon": 28.1917906,
+    "osm": "node/4926416346",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Okapi",
+    "category": "attraction",
+    "lat": -25.7331624,
+    "lon": 28.191396,
+    "osm": "node/4926418662",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Red River Hog",
+    "category": "attraction",
+    "lat": -25.7336878,
+    "lon": 28.191509,
+    "osm": "node/4926428998",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Rock Hyrax",
+    "category": "attraction",
+    "lat": -25.7335668,
+    "lon": 28.1919923,
+    "osm": "node/4926438187",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "White Rhino",
+    "category": "attraction",
+    "lat": -25.7337725,
+    "lon": 28.1935189,
+    "osm": "node/4926447272",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Peacock",
+    "category": "attraction",
+    "lat": -25.732921,
+    "lon": 28.1933357,
+    "osm": "node/4926467801",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Guineafowl",
+    "category": "attraction",
+    "lat": -25.7327737,
+    "lon": 28.1929878,
+    "osm": "node/4926467802",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lechwe",
+    "category": "attraction",
+    "lat": -25.7320909,
+    "lon": 28.1930074,
+    "osm": "node/4926477565",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Eland",
+    "category": "attraction",
+    "lat": -25.7320944,
+    "lon": 28.19411,
+    "osm": "node/4926477566",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Egret",
+    "category": "attraction",
+    "lat": -25.7327271,
+    "lon": 28.1935124,
+    "osm": "node/4926489479",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Stork",
+    "category": "attraction",
+    "lat": -25.7326264,
+    "lon": 28.1926769,
+    "osm": "node/4926489480",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Springbok",
+    "category": "attraction",
+    "lat": -25.7323879,
+    "lon": 28.1943803,
+    "osm": "node/4928696147",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Blesbok",
+    "category": "attraction",
+    "lat": -25.7320375,
+    "lon": 28.1938412,
+    "osm": "node/4928696148",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Helmeted guineafowl",
+    "category": "attraction",
+    "lat": -25.7326126,
+    "lon": 28.1944876,
+    "osm": "node/4928696149",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Spotted thick-knee",
+    "category": "attraction",
+    "lat": -25.7328011,
+    "lon": 28.1945439,
+    "osm": "node/4928696150",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "African sacred ibis",
+    "category": "attraction",
+    "lat": -25.7322622,
+    "lon": 28.1941657,
+    "osm": "node/4928696151",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Impala",
+    "category": "attraction",
+    "lat": -25.7330504,
+    "lon": 28.1930534,
+    "osm": "node/4928710179",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sacred ibis",
+    "category": "attraction",
+    "lat": -25.7375649,
+    "lon": 28.1896789,
+    "osm": "node/4928711570",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Wall Art Muscle Cars",
+    "category": "artwork",
+    "lat": -25.7014098,
+    "lon": 28.1860759,
+    "osm": "node/5334720425",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Random Head Statue",
+    "category": "artwork",
+    "lat": -25.7289138,
+    "lon": 28.2041087,
+    "osm": "node/5334850969",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Intiem Love Bridge",
+    "category": "attraction",
+    "lat": -25.7631633,
+    "lon": 28.2206454,
+    "osm": "node/5965970575",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "pop up",
+    "category": "attraction",
+    "lat": -25.7580376,
+    "lon": 28.1851385,
+    "osm": "node/6251054685",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hertzog Statue",
+    "category": "artwork",
+    "lat": -25.7425811,
+    "lon": 28.2123984,
+    "osm": "node/6670662020",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "African Art Wall Mural",
+    "category": "artwork",
+    "lat": -25.7484422,
+    "lon": 28.2434824,
+    "osm": "node/7551576463",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Jacaranda Blooming Mural;Landscape Graffiti on Wall",
+    "category": "artwork",
+    "lat": -25.7469251,
+    "lon": 28.2467618,
+    "osm": "node/7717068214",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Trio of Pots @ Ivy League",
+    "category": "artwork",
+    "lat": -25.7494183,
+    "lon": 28.2418571,
+    "osm": "node/7717074549",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hatfield Park Playground",
+    "category": "park / garden",
+    "lat": -25.7496629,
+    "lon": 28.2452794,
+    "osm": "node/7784402498",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Duncan Court Urban Park",
+    "category": "park / garden",
+    "lat": -25.7482961,
+    "lon": 28.2410358,
+    "osm": "node/7784402500",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Roof top garden",
+    "category": "park / garden",
+    "lat": -25.7551351,
+    "lon": 28.2354224,
+    "osm": "node/8004617900",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": "Roof top garden under glass roof used to grow for experimental use."
+   },
+   {
+    "name": "Historical Garden",
+    "category": "historic building / site",
+    "lat": -25.776426,
+    "lon": 28.1739739,
+    "osm": "node/8151543436",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Zulu Hut",
+    "category": "historic building / site",
+    "lat": -25.7756935,
+    "lon": 28.1767134,
+    "osm": "node/8151543442",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Rovos Rail Museum",
+    "category": "museum",
+    "lat": -25.7184342,
+    "lon": 28.1866599,
+    "osm": "node/8198639618",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "statue",
+    "category": "artwork",
+    "lat": -25.7705253,
+    "lon": 28.2072095,
+    "osm": "node/9316467935",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": "statue next to the library"
+   },
+   {
+    "name": "Wonderboom Cave",
+    "category": "nature feature",
+    "lat": -25.6899101,
+    "lon": 28.188612,
+    "osm": "node/9863496360",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Picnic Area",
+    "category": "picnic site",
+    "lat": -25.6875199,
+    "lon": 28.1884409,
+    "osm": "node/9863602357",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lookout Point",
+    "category": "viewpoint / peak",
+    "lat": -25.6935167,
+    "lon": 28.1920525,
+    "osm": "node/9863615123",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Meriting",
+    "category": "picnic site",
+    "lat": -25.7881976,
+    "lon": 28.1987512,
+    "osm": "node/10175697301",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Mashupeng",
+    "category": "picnic site",
+    "lat": -25.7844041,
+    "lon": 28.1968205,
+    "osm": "node/10175741028",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kerkstraatbomgedenksteen",
+    "category": "monument / memorial",
+    "lat": -25.7467567,
+    "lon": 28.184152,
+    "osm": "node/12941650279",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kudu",
+    "category": "artwork",
+    "lat": -25.7756498,
+    "lon": 28.1745584,
+    "osm": "node/13171202586",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "32 Bataljon erestomp",
+    "category": "monument / memorial",
+    "lat": -25.7755737,
+    "lon": 28.1744604,
+    "osm": "node/13171521802",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The vow",
+    "category": "monument / memorial",
+    "lat": -25.7757868,
+    "lon": 28.1757576,
+    "osm": "node/13171618352",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Gelofte",
+    "category": "monument / memorial",
+    "lat": -25.7758077,
+    "lon": 28.1757575,
+    "osm": "node/13171618353",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Voortrekkers trap nuwespore",
+    "category": "artwork",
+    "lat": -25.7757276,
+    "lon": 28.1785628,
+    "osm": "node/13172247840",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "PJ Joubert1",
+    "category": "artwork",
+    "lat": -25.7756977,
+    "lon": 28.17803,
+    "osm": "node/13173806259",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Louw Wepener",
+    "category": "artwork",
+    "lat": -25.7757698,
+    "lon": 28.1783163,
+    "osm": "node/13173806260",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Susanna",
+    "category": "historic building / site",
+    "lat": -25.7773571,
+    "lon": 28.1846465,
+    "osm": "node/13174026600",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kruger",
+    "category": "gallery",
+    "lat": -25.7748433,
+    "lon": 28.1760613,
+    "osm": "node/13174026617",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Viscount",
+    "category": "monument / memorial",
+    "lat": -25.7766613,
+    "lon": 28.1740957,
+    "osm": "node/13174106283",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Petrus Johannes Joubert",
+    "category": "monument / memorial",
+    "lat": -25.7770513,
+    "lon": 28.1841159,
+    "osm": "node/13176086934",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Niemeyer Square",
+    "category": "park / garden",
+    "lat": -25.7695054,
+    "lon": 28.2403995,
+    "osm": "way/4251350",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Union Buildings Gardens",
+    "category": "park / garden",
+    "lat": -25.7428627,
+    "lon": 28.2110681,
+    "osm": "way/4253244",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Fountains Valley",
+    "category": "park / garden",
+    "lat": -25.7814323,
+    "lon": 28.1962891,
+    "osm": "way/4253248",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Groenkloof Nature Reserve",
+    "category": "nature reserve",
+    "lat": -25.7928105,
+    "lon": 28.2091914,
+    "osm": "way/4253249",
+    "wikidata": "Q5610098",
+    "wikipedia": "en:Groenkloof Nature Reserve",
+    "description": null
+   },
+   {
+    "name": "Niew Muckleneuk Trim Park",
+    "category": "park / garden",
+    "lat": -25.7691441,
+    "lon": 28.2250014,
+    "osm": "way/4318403",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Venning Park",
+    "category": "park / garden",
+    "lat": -25.746419,
+    "lon": 28.2211638,
+    "osm": "way/53128409",
+    "wikidata": "Q5224396",
+    "wikipedia": "en:Venning Park",
+    "description": null
+   },
+   {
+    "name": "Freedom Park",
+    "category": "park / garden",
+    "lat": -25.7672578,
+    "lon": 28.1883848,
+    "osm": "way/58364045",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "National Museum of Natural History",
+    "category": "museum",
+    "lat": -25.7530402,
+    "lon": 28.1893944,
+    "osm": "way/59708287",
+    "wikidata": "Q2583379",
+    "wikipedia": "en:Ditsong National Museum of Natural History",
+    "description": null
+   },
+   {
+    "name": "Franzina Park",
+    "category": "park / garden",
+    "lat": -25.712012,
+    "lon": 28.1854455,
+    "osm": "way/77204113",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pieter Human",
+    "category": "park / garden",
+    "lat": -25.6992784,
+    "lon": 28.2398193,
+    "osm": "way/93105317",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Totiusdal Parkie",
+    "category": "park / garden",
+    "lat": -25.7007606,
+    "lon": 28.2465931,
+    "osm": "way/228720421",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Tom Frates Park",
+    "category": "park / garden",
+    "lat": -25.7005829,
+    "lon": 28.2246762,
+    "osm": "way/228730319",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Trim Park",
+    "category": "park / garden",
+    "lat": -25.7080853,
+    "lon": 28.2035952,
+    "osm": "way/235510628",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Moregloed Park",
+    "category": "park / garden",
+    "lat": -25.7089956,
+    "lon": 28.2466135,
+    "osm": "way/235526517",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "South African Air Force Memorial",
+    "category": "monument / memorial",
+    "lat": -25.7993502,
+    "lon": 28.1693671,
+    "osm": "way/239221018",
+    "wikidata": "Q7565421",
+    "wikipedia": "en:South African Air Force Memorial",
+    "description": null
+   },
+   {
+    "name": "Voortrekker Monument",
+    "category": "monument / memorial",
+    "lat": -25.7763631,
+    "lon": 28.175796,
+    "osm": "way/239878491",
+    "wikidata": "Q963472",
+    "wikipedia": "en:Voortrekker Monument",
+    "description": null
+   },
+   {
+    "name": "Burgers Park",
+    "category": "park / garden",
+    "lat": -25.7539396,
+    "lon": 28.1923512,
+    "osm": "way/242419116",
+    "wikidata": "Q4998566",
+    "wikipedia": "en:Burgers Park",
+    "description": null
+   },
+   {
+    "name": "Rietondale Park",
+    "category": "park / garden",
+    "lat": -25.7324532,
+    "lon": 28.2231937,
+    "osm": "way/282070391",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cooper Park",
+    "category": "park / garden",
+    "lat": -25.7150455,
+    "lon": 28.2171111,
+    "osm": "way/316505541",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "National Cultural History Museum",
+    "category": "museum",
+    "lat": -25.7534136,
+    "lon": 28.1844857,
+    "osm": "way/368862283",
+    "wikidata": "Q1020664",
+    "wikipedia": "en:Ditsong National Museum of Cultural History",
+    "description": null
+   },
+   {
+    "name": "West Park",
+    "category": "park / garden",
+    "lat": -25.7266007,
+    "lon": 28.1832078,
+    "osm": "way/375612973",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Vader Kestel Park",
+    "category": "park / garden",
+    "lat": -25.6802307,
+    "lon": 28.1720774,
+    "osm": "way/380237483",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Soccer Field",
+    "category": "park / garden",
+    "lat": -25.7570602,
+    "lon": 28.2438966,
+    "osm": "way/384455215",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Fort Wonderboompoort",
+    "category": "monument / memorial",
+    "lat": -25.6922688,
+    "lon": 28.194242,
+    "osm": "way/391450804",
+    "wikidata": "Q97858659",
+    "wikipedia": "en:Fort Wonderboompoort",
+    "description": null
+   },
+   {
+    "name": "Springbok Park",
+    "category": "park / garden",
+    "lat": -25.7454132,
+    "lon": 28.2359579,
+    "osm": "way/395954510",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Jan Cilliers",
+    "category": "park / garden",
+    "lat": -25.7784488,
+    "lon": 28.2243018,
+    "osm": "way/396681049",
+    "wikidata": "Q19623329",
+    "wikipedia": "en:Jan Cilliers Park",
+    "description": null
+   },
+   {
+    "name": "Sinoville Park",
+    "category": "park / garden",
+    "lat": -25.683434,
+    "lon": 28.2212424,
+    "osm": "way/413072136",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Cronje Park",
+    "category": "park / garden",
+    "lat": -25.7223962,
+    "lon": 28.1467229,
+    "osm": "way/413370508",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Japie le Roux Park",
+    "category": "park / garden",
+    "lat": -25.7247482,
+    "lon": 28.1537512,
+    "osm": "way/430549964",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hapo Museum",
+    "category": "museum",
+    "lat": -25.7642182,
+    "lon": 28.1886274,
+    "osm": "way/433789262",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Voortrekker Monument Nature Reserve",
+    "category": "nature reserve",
+    "lat": -25.7759328,
+    "lon": 28.180374,
+    "osm": "way/433789263",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Fort Klapperkop Museum",
+    "category": "museum",
+    "lat": -25.7802374,
+    "lon": 28.2101496,
+    "osm": "way/433789264",
+    "wikidata": "Q15110844",
+    "wikipedia": null,
+    "description": "Guided tours available on request. Fort Klapperkop was the third fort erected before the outbreak of the Anglo-Boer War to protect Pretoria. It has been restored with historical accuracy, with permanent exhibitions of Anglo-Boer War objects and furniture."
+   },
+   {
+    "name": "Fort Schanskop",
+    "category": "museum",
+    "lat": -25.7771306,
+    "lon": 28.1845861,
+    "osm": "way/433789265",
+    "wikidata": "Q97855482",
+    "wikipedia": "af:Fort Schanskop",
+    "description": null
+   },
+   {
+    "name": "Fountains Interchange",
+    "category": "park / garden",
+    "lat": -25.7736356,
+    "lon": 28.1989905,
+    "osm": "way/433789266",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Magnolia Dal",
+    "category": "park / garden",
+    "lat": -25.7625217,
+    "lon": 28.2204263,
+    "osm": "way/433789267",
+    "wikidata": "Q13035381",
+    "wikipedia": "en:Magnolia Dell Park",
+    "description": null
+   },
+   {
+    "name": "Kruger House",
+    "category": "museum",
+    "lat": -25.7464954,
+    "lon": 28.1814001,
+    "osm": "way/433789307",
+    "wikidata": "Q1541745",
+    "wikipedia": "en:Kruger House, Pretoria",
+    "description": null
+   },
+   {
+    "name": "Bantu Commissioner’s Office Building",
+    "category": "museum",
+    "lat": -25.7465041,
+    "lon": 28.181942,
+    "osm": "way/433789308",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Church Square",
+    "category": "park / garden",
+    "lat": -25.746435,
+    "lon": 28.1880567,
+    "osm": "way/433789309",
+    "wikidata": "Q2749491",
+    "wikipedia": "en:Church Square, Pretoria",
+    "description": null
+   },
+   {
+    "name": "Pretoria Art Museum",
+    "category": "museum",
+    "lat": -25.7480823,
+    "lon": 28.2136315,
+    "osm": "way/433789316",
+    "wikidata": "Q3643223",
+    "wikipedia": "en:Pretoria Art Museum",
+    "description": null
+   },
+   {
+    "name": "pretoria art museum park",
+    "category": "park / garden",
+    "lat": -25.7486719,
+    "lon": 28.2135862,
+    "osm": "way/433789317",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Belgrave square",
+    "category": "park / garden",
+    "lat": -25.7510898,
+    "lon": 28.2388643,
+    "osm": "way/433789320",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pretorius Square",
+    "category": "park / garden",
+    "lat": -25.7531197,
+    "lon": 28.1879314,
+    "osm": "way/433789325",
+    "wikidata": "Q27924641",
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Carter Avenue Park",
+    "category": "park / garden",
+    "lat": -25.7266754,
+    "lon": 28.247108,
+    "osm": "way/433801423",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The Rotunda",
+    "category": "park / garden",
+    "lat": -25.7398973,
+    "lon": 28.2268696,
+    "osm": "way/433801424",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Melrose House Museum",
+    "category": "museum",
+    "lat": -25.7557628,
+    "lon": 28.1925348,
+    "osm": "way/433801450",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Prince's Park",
+    "category": "park / garden",
+    "lat": -25.748832,
+    "lon": 28.177639,
+    "osm": "way/433801461",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pretoria Showgrounds",
+    "category": "park / garden",
+    "lat": -25.750226,
+    "lon": 28.1680926,
+    "osm": "way/433801472",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Wonderboom Nature Reserve",
+    "category": "nature reserve",
+    "lat": -25.6921455,
+    "lon": 28.1927025,
+    "osm": "way/433820428",
+    "wikidata": "Q1445685",
+    "wikipedia": "en:Wonderboom Nature Reserve",
+    "description": null
+   },
+   {
+    "name": "Colbyn Nature Reserve",
+    "category": "nature reserve",
+    "lat": -25.7373482,
+    "lon": 28.257882,
+    "osm": "way/433820429",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Frank Struben Bird Sanctuary",
+    "category": "park / garden",
+    "lat": -25.7595127,
+    "lon": 28.250571,
+    "osm": "way/433820480",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "NZASM",
+    "category": "historic building / site",
+    "lat": -25.7575448,
+    "lon": 28.1901126,
+    "osm": "way/435662215",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Chamberlain's Bird Sanctuary",
+    "category": "nature reserve",
+    "lat": -25.7301587,
+    "lon": 28.2171318,
+    "osm": "way/435682914",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Wilroux Street park",
+    "category": "park / garden",
+    "lat": -25.6751198,
+    "lon": 28.2094806,
+    "osm": "way/440483940",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kruin Park",
+    "category": "park / garden",
+    "lat": -25.7651916,
+    "lon": 28.2104982,
+    "osm": "way/461696693",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sport ground",
+    "category": "park / garden",
+    "lat": -25.7893961,
+    "lon": 28.1578529,
+    "osm": "way/467474899",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "19th Avenue Park",
+    "category": "park / garden",
+    "lat": -25.7000224,
+    "lon": 28.2166864,
+    "osm": "way/469221875",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Danville",
+    "category": "park / garden",
+    "lat": -25.7433234,
+    "lon": 28.1324624,
+    "osm": "way/469514164",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Jan Ellis Park",
+    "category": "park / garden",
+    "lat": -25.7444387,
+    "lon": 28.1311502,
+    "osm": "way/469514165",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kwaggasrand Ice Park",
+    "category": "park / garden",
+    "lat": -25.7576766,
+    "lon": 28.1100061,
+    "osm": "way/469773212",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "East Park",
+    "category": "park / garden",
+    "lat": -25.7255165,
+    "lon": 28.19355,
+    "osm": "way/473347639",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Queenswood Park",
+    "category": "park / garden",
+    "lat": -25.7295047,
+    "lon": 28.2473315,
+    "osm": "way/473529768",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Aula Lawn",
+    "category": "park / garden",
+    "lat": -25.7536376,
+    "lon": 28.2294024,
+    "osm": "way/484957272",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Zen Garden",
+    "category": "park / garden",
+    "lat": -25.7530603,
+    "lon": 28.2294274,
+    "osm": "way/484964059",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "De Volkstem Building",
+    "category": "museum",
+    "lat": -25.7484098,
+    "lon": 28.1864221,
+    "osm": "way/488598972",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": "SAPS Transport Museum"
+   },
+   {
+    "name": "African Penguins",
+    "category": "attraction",
+    "lat": -25.7385791,
+    "lon": 28.1882601,
+    "osm": "way/492350519",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Natural and Agricultural Sciences Lawn",
+    "category": "park / garden",
+    "lat": -25.7560079,
+    "lon": 28.2346314,
+    "osm": "way/513646857",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Pretoria Zoo",
+    "category": "attraction",
+    "lat": -25.7350323,
+    "lon": 28.1916475,
+    "osm": "way/539016837",
+    "wikidata": "Q1139958",
+    "wikipedia": "en:Pretoria Zoo",
+    "description": null
+   },
+   {
+    "name": "Eugene Maraispark",
+    "category": "park / garden",
+    "lat": -25.778533,
+    "lon": 28.2202857,
+    "osm": "way/544487101",
+    "wikidata": "Q105395798",
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Magnolia Park",
+    "category": "park / garden",
+    "lat": -25.7644738,
+    "lon": 28.2211338,
+    "osm": "way/544506753",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "GardenGrass",
+    "category": "park / garden",
+    "lat": -25.769541,
+    "lon": 28.2321462,
+    "osm": "way/545183858",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Garden Grass",
+    "category": "park / garden",
+    "lat": -25.7693942,
+    "lon": 28.2321005,
+    "osm": "way/552095546",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Sannie street park",
+    "category": "park / garden",
+    "lat": -25.7196793,
+    "lon": 28.1528075,
+    "osm": "way/552811953",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Van Riebeeck Park",
+    "category": "park / garden",
+    "lat": -25.6735517,
+    "lon": 28.1781694,
+    "osm": "way/568103454",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Women's Living Heritage Museum",
+    "category": "museum",
+    "lat": -25.7465919,
+    "lon": 28.1936129,
+    "osm": "way/579723768",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Mahube House",
+    "category": "historic building / site",
+    "lat": -25.750799,
+    "lon": 28.1990745,
+    "osm": "way/628259262",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Annlin Park",
+    "category": "park / garden",
+    "lat": -25.679495,
+    "lon": 28.1970713,
+    "osm": "way/638198057",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Irvine Park",
+    "category": "park / garden",
+    "lat": -25.6986299,
+    "lon": 28.1601399,
+    "osm": "way/669108679",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Claremont Square",
+    "category": "park / garden",
+    "lat": -25.7132816,
+    "lon": 28.1353971,
+    "osm": "way/683640784",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "sunnysied green park",
+    "category": "park / garden",
+    "lat": -25.7563205,
+    "lon": 28.2087181,
+    "osm": "way/691861266",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Zambezi Akwarium & Voëlpark",
+    "category": "attraction",
+    "lat": -25.6763558,
+    "lon": 28.1940504,
+    "osm": "way/697515556",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Zoo picnic spot",
+    "category": "park / garden",
+    "lat": -25.7352,
+    "lon": 28.1894509,
+    "osm": "way/725162523",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Roseville Park",
+    "category": "park / garden",
+    "lat": -25.7159568,
+    "lon": 28.1687631,
+    "osm": "way/746901965",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "The Javett Art Centre",
+    "category": "gallery",
+    "lat": -25.7565541,
+    "lon": 28.2287415,
+    "osm": "way/776974434",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hatfield Playpark",
+    "category": "park / garden",
+    "lat": -25.7495905,
+    "lon": 28.2453566,
+    "osm": "way/826527692",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Westview 2 Park 2",
+    "category": "park / garden",
+    "lat": -25.7122526,
+    "lon": 28.1165412,
+    "osm": "way/837521896",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Monocotyledon Garden",
+    "category": "park / garden",
+    "lat": -25.7525836,
+    "lon": 28.2305575,
+    "osm": "way/865795901",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Brooks House",
+    "category": "historic building / site",
+    "lat": -25.759929,
+    "lon": 28.2361392,
+    "osm": "way/927051140",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Mertle",
+    "category": "park / garden",
+    "lat": -25.7530666,
+    "lon": 28.2169324,
+    "osm": "way/931310345",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "tennis court",
+    "category": "park / garden",
+    "lat": -25.7475187,
+    "lon": 28.2456996,
+    "osm": "way/932444898",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Frik Eloff Park",
+    "category": "park / garden",
+    "lat": -25.7598573,
+    "lon": 28.26081,
+    "osm": "way/1001152955",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hofmeyer Park Tennis Court",
+    "category": "park / garden",
+    "lat": -25.7588502,
+    "lon": 28.2534637,
+    "osm": "way/1003797324",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Hofmeyer Park",
+    "category": "park / garden",
+    "lat": -25.7597826,
+    "lon": 28.254084,
+    "osm": "way/1003799174",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "running track",
+    "category": "park / garden",
+    "lat": -25.7505497,
+    "lon": 28.2138478,
+    "osm": "way/1010501596",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Formal gardens",
+    "category": "park / garden",
+    "lat": -25.7507807,
+    "lon": 28.2266703,
+    "osm": "way/1010739034",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Kilnerton Memorial Wall",
+    "category": "monument / memorial",
+    "lat": -25.7279306,
+    "lon": 28.2624318,
+    "osm": "way/1046448135",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Gedenktuin",
+    "category": "park / garden",
+    "lat": -25.7347031,
+    "lon": 28.152611,
+    "osm": "way/1127928461",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Palm Park",
+    "category": "park / garden",
+    "lat": -25.7507522,
+    "lon": 28.1311257,
+    "osm": "way/1155867179",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Magaliesberg Biosphere Reserve",
+    "category": "nature reserve",
+    "lat": -25.8513928,
+    "lon": 27.6643444,
+    "osm": "way/1166055069",
+    "wikidata": "Q22771856",
+    "wikipedia": "en:Magaliesberg Biosphere Reserve",
+    "description": null
+   },
+   {
+    "name": "Tennis park",
+    "category": "park / garden",
+    "lat": -25.7861627,
+    "lon": 28.2524943,
+    "osm": "way/1218781192",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Klapperkop Nature Reserve",
+    "category": "nature reserve",
+    "lat": -25.7856064,
+    "lon": 28.2178032,
+    "osm": "way/1269277342",
+    "wikidata": "Q55886155",
+    "wikipedia": "en:Klapperkop Nature Reserve",
+    "description": null
+   },
+   {
+    "name": "Espace de jeux",
+    "category": "park / garden",
+    "lat": -25.7409005,
+    "lon": 28.2207695,
+    "osm": "way/1286183652",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Eland Park",
+    "category": "park / garden",
+    "lat": -25.7403369,
+    "lon": 28.1076917,
+    "osm": "way/1361738752",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Phillip Nel Park",
+    "category": "park / garden",
+    "lat": -25.731918,
+    "lon": 28.1446653,
+    "osm": "way/1394207046",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Transvaal Voortrekker Museum",
+    "category": "museum",
+    "lat": -25.7758735,
+    "lon": 28.1781833,
+    "osm": "way/1433032713",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": "The exhibition focuses on the history of the Transvaal Voortrekkers, the people who built this area into one of the largest in the movement, camps and the stories told over the years by every Penkop, Drawwertjie, Verkenner, Staatmaker, heemraad and office"
+   },
+   {
+    "name": "SADF Niche Wall",
+    "category": "monument / memorial",
+    "lat": -25.7754735,
+    "lon": 28.1742863,
+    "osm": "way/1433076850",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ox wagon garden",
+    "category": "park / garden",
+    "lat": -25.7752493,
+    "lon": 28.1752308,
+    "osm": "way/1433400500",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Austin Roberts Bird Sancutary",
+    "category": "nature reserve",
+    "lat": -25.7708657,
+    "lon": 28.2280285,
+    "osm": "relation/7677362",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Ditsong Museums of South Africa",
+    "category": "museum",
+    "lat": -25.7466124,
+    "lon": 28.1818738,
+    "osm": "relation/9730447",
+    "wikidata": "Q24233878",
+    "wikipedia": "en:Ditsong Museums of South Africa",
+    "description": null
+   },
+   {
+    "name": "Magaliesberg Protected Natural Environment",
+    "category": "nature reserve",
+    "lat": -25.7531342,
+    "lon": 27.659034,
+    "osm": "relation/15772852",
+    "wikidata": "Q112316773",
+    "wikipedia": "en:Magaliesberg Protected Natural Environment",
+    "description": null
+   },
+   {
+    "name": "Jubilee Square",
+    "category": "park / garden",
+    "lat": -25.7541844,
+    "lon": 28.2040749,
+    "osm": "relation/21584553",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": null,
+  "wikivoyage": {
+   "title": "Pretoria",
+   "see": 16,
+   "do": 8,
+   "status": "usable",
+   "url": "https://en.wikivoyage.org/wiki/Pretoria"
+  }
+ },
+ {
+  "town": "Komani",
+  "what": "regional town (renamed)",
+  "population": 118599,
+  "radius_m": 5000,
+  "osm": [
+   {
+    "name": "Lawrence De Lange Nature Reserve",
+    "category": "nature reserve",
+    "lat": -31.8719444,
+    "lon": 26.8461111,
+    "osm": "node/345457283",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Steam Train",
+    "category": "attraction",
+    "lat": -31.8983237,
+    "lon": 26.8812885,
+    "osm": "node/707580518",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Bowker's Kop",
+    "category": "viewpoint / peak",
+    "lat": -31.8907425,
+    "lon": 26.8905397,
+    "osm": "node/3741616922",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lawrance de Lange Nature Reserve",
+    "category": "nature reserve",
+    "lat": -31.8689223,
+    "lon": 26.8746482,
+    "osm": "way/1322702080",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Memorial Park",
+    "category": "park / garden",
+    "lat": -31.8938402,
+    "lon": 26.8732308,
+    "osm": "way/1436163326",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Queenstown and Frontier Museum",
+    "category": "museum",
+    "lat": -31.8946141,
+    "lon": 26.8737997,
+    "osm": "way/1532036358",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "Lukhanji Local Municipality",
+    "class": "local municipality of South Africa",
+    "item": "Q123716",
+    "article": "https://en.wikipedia.org/wiki/Lukhanji_Local_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Chris Hani District Municipality",
+    "class": "district municipality",
+    "item": "Q1077283",
+    "article": "https://en.wikipedia.org/wiki/Chris_Hani_District_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Queenstown, Afrika Selatan Airport",
+    "class": "aerodrome",
+    "item": "Q12694589",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Long Hill",
+    "class": "hill",
+    "item": "Q31405866",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Tranquil House B&B @ 121 Berry St",
+    "class": "hotel",
+    "item": "Q111860123",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "The Gallery",
+    "class": "hotel",
+    "item": "Q111860121",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Cathedral of Christ the King",
+    "class": "cathedral",
+    "item": "Q123035610",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Gardens Clinic",
+    "class": "clinic",
+    "item": "Q140529315",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lizo Ngcana Clinic",
+    "class": "clinic",
+    "item": "Q140626424",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "New Rest Clinic",
+    "class": "clinic",
+    "item": "Q140982762",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Parkvale Clinic",
+    "class": "clinic",
+    "item": "Q141015245",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Philani Clinic Queenstown",
+    "class": "clinic",
+    "item": "Q141039789",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": null
+ },
+ {
+  "town": "Mthatha",
+  "what": "rural Eastern Cape city (renamed)",
+  "population": 164848,
+  "radius_m": 7000,
+  "osm": [
+   {
+    "name": "Nduli Nature Reserve",
+    "category": "nature reserve",
+    "lat": -31.5865852,
+    "lon": 28.7521465,
+    "osm": "way/104789698",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Nelson Mandela Museum",
+    "category": "museum",
+    "lat": -31.592244,
+    "lon": 28.7873632,
+    "osm": "way/221260628",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Grosvenor Hotel",
+    "category": "historic site",
+    "lat": -31.5887182,
+    "lon": 28.7895983,
+    "osm": "way/1110806443",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": [
+   {
+    "name": "University of Transkei",
+    "class": "university",
+    "item": "Q263265",
+    "article": "https://en.wikipedia.org/wiki/University_of_Transkei",
+    "heritage": null
+   },
+   {
+    "name": "OR Tambo District Municipality",
+    "class": "district municipality",
+    "item": "Q2007299",
+    "article": "https://en.wikipedia.org/wiki/OR_Tambo_District_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "King Sabata Dalindyebo Local Municipality",
+    "class": "local municipality of South Africa",
+    "item": "Q2783921",
+    "article": "https://en.wikipedia.org/wiki/King_Sabata_Dalindyebo_Local_Municipality",
+    "heritage": null
+   },
+   {
+    "name": "Nelson Mandela Academic Hospital",
+    "class": "medical organization",
+    "item": "Q6990620",
+    "article": "https://en.wikipedia.org/wiki/Nelson_Mandela_Academic_Hospital",
+    "heritage": null
+   },
+   {
+    "name": "St John's Cathedral, Mthatha",
+    "class": "Anglican or Episcopal cathedral",
+    "item": "Q16895491",
+    "article": "https://en.wikipedia.org/wiki/St_John%27s_Cathedral,_Mthatha",
+    "heritage": null
+   },
+   {
+    "name": "First Falls",
+    "class": "waterfall",
+    "item": "Q31916199",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Kangisa",
+    "class": "stream",
+    "item": "Q35301992",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Q56512404",
+    "class": "river",
+    "item": "Q56512404",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Q56516192",
+    "class": "river",
+    "item": "Q56516192",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Hotel Savoy and Conference Centre",
+    "class": "hotel",
+    "item": "Q111859429",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Mayfair Hotel",
+    "class": "hotel",
+    "item": "Q111859434",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Lodge Bellagio",
+    "class": "hotel",
+    "item": "Q112001472",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Big Five Guest House",
+    "class": "hotel",
+    "item": "Q112001480",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Cathedral of All Saints",
+    "class": "Catholic cathedral",
+    "item": "Q123035596",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Civic Centre Clinic Mthatha",
+    "class": "clinic",
+    "item": "Q140462024",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Efata Clinic",
+    "class": "clinic",
+    "item": "Q140474678",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Mthatha Immunisation Pool Clinic",
+    "class": "clinic",
+    "item": "Q140877122",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Mthatha Gateway Clinic",
+    "class": "clinic",
+    "item": "Q140877581",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Ngangelizwe CHC",
+    "class": "community health center",
+    "item": "Q140982831",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Ngqeleni Clinic",
+    "class": "clinic",
+    "item": "Q140983842",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Ntapane Clinic",
+    "class": "clinic",
+    "item": "Q140996503",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "SOS Clinic",
+    "class": "clinic",
+    "item": "Q141066485",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Stanford Terrace Clinic",
+    "class": "clinic",
+    "item": "Q141100577",
+    "article": null,
+    "heritage": null
+   },
+   {
+    "name": "Zitatele Clinic",
+    "class": "clinic",
+    "item": "Q141119517",
+    "article": null,
+    "heritage": null
+   }
+  ],
+  "wikivoyage": {
+   "title": "Mthatha",
+   "see": 1,
+   "do": 0,
+   "status": "outline",
+   "url": "https://en.wikivoyage.org/wiki/Mthatha"
+  }
+ },
+ {
+  "town": "Bela-Bela",
+  "what": "holiday town (renamed)",
+  "population": 90210,
+  "radius_m": 5000,
+  "osm": [
+   {
+    "name": "Het Bad Natuurreservaat",
+    "category": "nature reserve",
+    "lat": -24.9061111,
+    "lon": 28.2855556,
+    "osm": "node/345456232",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Yellow Bus",
+    "category": "attraction",
+    "lat": -24.9006422,
+    "lon": 28.252514,
+    "osm": "node/5237758028",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Tin Donkey Cart",
+    "category": "attraction",
+    "lat": -24.9005863,
+    "lon": 28.251983,
+    "osm": "node/5237758029",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "MOTH Memorial",
+    "category": "monument / memorial",
+    "lat": -24.8842067,
+    "lon": 28.2913151,
+    "osm": "node/5246719126",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Bela Bela Tourism",
+    "category": "tourist info",
+    "lat": -24.8930393,
+    "lon": 28.2950227,
+    "osm": "node/8265886658",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "letlhabile Park",
+    "category": "park / garden",
+    "lat": -24.886888,
+    "lon": 28.3192566,
+    "osm": "way/441762492",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "Lejwe La Metsi Private Reserve",
+    "category": "nature reserve",
+    "lat": -24.8269539,
+    "lon": 28.2843036,
+    "osm": "way/1328076783",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   },
+   {
+    "name": "ATKV Klein Kariba",
+    "category": "nature reserve",
+    "lat": -24.842002,
+    "lon": 28.3270802,
+    "osm": "way/1328077430",
+    "wikidata": null,
+    "wikipedia": null,
+    "description": null
+   }
+  ],
+  "wikidata": null,
+  "wikivoyage": {
+   "title": "Waterberg",
+   "see": 0,
+   "do": 0,
+   "status": "outline",
+   "url": "https://en.wikivoyage.org/wiki/Waterberg"
+  }
+ },
+ {
+  "town": "eMkhondo",
+  "what": "farming town (renamed)",
+  "population": 84349,
+  "radius_m": 5000,
+  "osm": [],
+  "wikidata": null,
+  "wikivoyage": null
+ }
+]
