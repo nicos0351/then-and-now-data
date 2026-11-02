@@ -20,9 +20,15 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 USER_AGENT = "then-and-now-data research (github.com/nicos0351/then-and-now-data)"
 OVERPASS = ["https://overpass-api.de/api/interpreter", "https://overpass.kumi.systems/api/interpreter"]
-QUERY = """[out:json][timeout:300];
-area["ISO3166-1"="ZA"][admin_level=2]->.za;
-nwr[amenity=charging_station](area.za);
+# A box around South Africa (with Lesotho and eSwatini, dropped later by
+# the province outline) rather than the country area, as a cross-check.
+QUERY = """[out:json][timeout:300][bbox:-35.2,16.3,-22.0,33.1];
+(nwr[amenity=charging_station];
+ nwr["charging_station"];
+ nwr["socket:type2"];
+ nwr["socket:type2_combo"];
+ nwr["socket:chademo"];
+ nwr["brand"~"GridCars|Rubicon|Chargify|Zero Carbon|CHARGE",i]["amenity"!="fuel"];);
 out center tags;"""
 
 outline = json.load(open(os.path.join(HERE, "..", "places", "provinces.json"), encoding="utf-8"))
@@ -91,6 +97,8 @@ def main():
         c = e.get("center") or {"lat": e.get("lat"), "lon": e.get("lon")}
         if c.get("lat") is None:
             continue
+        if province(c["lat"], c["lon"]) == "(outside outline)":
+            continue
         sockets = {k[len("socket:"):]: v for k, v in t.items()
                    if k.startswith("socket:") and k.count(":") == 1}
         outputs = [kw(v) for k, v in t.items() if k.startswith("socket:") and k.endswith(":output")]
@@ -100,6 +108,7 @@ def main():
             "lat": c["lat"], "lon": c["lon"],
             "province": province(c["lat"], c["lon"]),
             "name": t.get("name"),
+            "amenity": t.get("amenity"),
             "operator": t.get("operator"),
             "network": t.get("network"),
             "brand": t.get("brand"),
