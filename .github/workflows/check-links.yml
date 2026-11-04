@@ -1,0 +1,40 @@
+name: "Check: store description links from abroad"
+
+# Manual only: opens every link in tools/links/urls.txt from a GitHub
+# server (in the USA, like many Google Play reviewers) and saves the HTTP
+# status of each to the "research-links" branch.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Open each link
+        run: |
+          mkdir -p /tmp/out
+          while read -r url; do
+            [ -z "$url" ] && continue
+            code=$(curl -s -o /tmp/page -w '%{http_code} %{time_total}s' -L --max-time 60 \
+              -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36' "$url" || echo "failed")
+            title=$(grep -o -i '<title>[^<]*' /tmp/page 2>/dev/null | head -1 | sed 's/<title>//I' | tr -s ' \n' ' ')
+            echo "| $url | $code | $title |" >> /tmp/out/links.md
+          done < tools/links/urls.txt
+          cat /tmp/out/links.md
+      - name: Save to the research-links branch
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan research-links
+          git rm -rq --cached . && git clean -fdq
+          mkdir -p research && cp /tmp/out/links.md research/ || true
+          git add research
+          git commit -qm "Link check ($(date -u +%F))"
+          git push -f origin research-links
