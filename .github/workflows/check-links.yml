@@ -16,15 +16,20 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - name: Open each link
+      - name: Open each link (as a browser, as plain curl, as Googlebot)
         run: |
           mkdir -p /tmp/out
+          echo "| URL | browser | plain | Googlebot | title |" > /tmp/out/links.md
+          echo "|---|---|---|---|---|" >> /tmp/out/links.md
           while read -r url; do
             [ -z "$url" ] && continue
-            code=$(curl -s -o /tmp/page -w '%{http_code} %{time_total}s' -L --max-time 60 \
-              -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36' "$url" || echo "failed")
+            row="| $url"
+            for ua in 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36' 'curl/8' 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'; do
+              code=$(curl -s -o /tmp/page -w '%{http_code} %{time_total}s' -L --max-time 60 -A "$ua" "$url" || echo "failed")
+              row="$row | $code"
+            done
             title=$(grep -o -i '<title>[^<]*' /tmp/page 2>/dev/null | head -1 | sed 's/<title>//I' | tr -s ' \n' ' ')
-            echo "| $url | $code | $title |" >> /tmp/out/links.md
+            echo "$row | $title |" >> /tmp/out/links.md
           done < tools/links/urls.txt
           cat /tmp/out/links.md
       - name: Save to the research-links branch
